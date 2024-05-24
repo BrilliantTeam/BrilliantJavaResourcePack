@@ -23,7 +23,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         tag_name: ${{ github.run_number }}
-        release_name: Version. ${{ github.run_number }} | ${{ github.event_name }}
+        release_name: Version. ${{ github.run_number }} | ${{ github.workflow }}
         draft: false
         prerelease: false
         body: |

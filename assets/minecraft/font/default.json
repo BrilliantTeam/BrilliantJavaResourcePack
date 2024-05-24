@@ -1459,8 +1459,8 @@
 		{
 			"type": "bitmap",
 			"file": "logo/sbt.png",
-			"height": 32,
-			"ascent": 32,
+			"height": 128,
+			"ascent": 112,
 			"chars": [
 				"ꆞ"
 			]

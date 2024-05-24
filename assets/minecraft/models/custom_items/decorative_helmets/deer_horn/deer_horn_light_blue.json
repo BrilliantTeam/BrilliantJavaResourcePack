@@ -1,0 +1,8 @@
+{
+    "credit": "xuancat0208",
+    "parent": "custom_items/decorative_helmets/deer_horn/deer_horn",
+    "textures": {
+        "0": "item/custom/decorative_helmets/deer_horn/deer_horn_light_blue",
+        "particle": "item/custom/decorative_helmets/deer_horn/deer_horn_light_blue"
+    }
+}

@@ -1,0 +1,84 @@
+{
+	"credit": "恐龍",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/custom/childrensday/paperplane",
+		"particle": "item/custom/childrensday/paperplane"
+	},
+	"elements": [
+		{
+			"from": [8, 2, 3],
+			"to": [8, 3.9, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3, 8.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 1], "texture": "#0"},
+				"east": {"uv": [5, 1, 10.5, 2], "texture": "#0"},
+				"south": {"uv": [0, 0, 0, 1], "texture": "#0"},
+				"west": {"uv": [5, 0, 10.5, 1], "texture": "#0"},
+				"up": {"uv": [0, 0, 0, 5.5], "texture": "#0"},
+				"down": {"uv": [0, 5.5, 0, 0], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.4, 5, 3],
+			"to": [14.4, 5, 14.1],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [10.5, 6, 8.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 2.5, 0], "texture": "#0"},
+				"east": {"uv": [0, 0, 5.5, 0], "texture": "#0"},
+				"south": {"uv": [0, 0, 2.5, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 5.5, 0], "texture": "#0"},
+				"up": {"uv": [2.5, 5.5, 0, 0], "texture": "#0"},
+				"down": {"uv": [2.5, 0, 0, 5.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1.6, 5, 3],
+			"to": [8.6, 5, 14.1],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [5.5, 6, 8.5]},
+			"faces": {
+				"north": {"uv": [2.5, 0, 0, 0], "texture": "#0"},
+				"east": {"uv": [5.5, 0, 0, 0], "texture": "#0"},
+				"south": {"uv": [2.5, 0, 0, 0], "texture": "#0"},
+				"west": {"uv": [5.5, 0, 0, 0], "texture": "#0"},
+				"up": {"uv": [0, 5.5, 2.5, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 2.5, 5.5], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [28.25, 0, 0],
+			"translation": [0, 5.25, -0.5],
+			"scale": [0.73828, 0.79688, 0.85352]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [28.25, 0, 0],
+			"translation": [0, 5.25, -0.5],
+			"scale": [0.73828, 0.79688, 0.85352]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 5.75, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 5.75, 0]
+		},
+		"ground": {
+			"translation": [0, 1.75, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"gui": {
+			"rotation": [-141.64, 31.26, 178.26],
+			"translation": [-2, 1, -4],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"head": {
+			"translation": [1, 11.5, 0]
+		},
+		"fixed": {
+			"rotation": [92.73, 68.98, -160.3],
+			"translation": [0, 1.5, -4]
+		}
+	}
+}

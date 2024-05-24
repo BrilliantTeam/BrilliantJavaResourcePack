@@ -1,0 +1,12 @@
+{
+    "sounds.countdown.start": {"subtitle": "§a伺服器已開放！", "sounds": ["countdown/start"]},
+    "sounds.countdown.end": {"subtitle": "§c伺服器已關閉", "sounds": ["countdown/end"]},
+    "sounds.countdown.remaining_5_second": {"subtitle": "§6距離伺服器重啟，剩餘§c 5 秒§6！", "sounds": ["countdown/remaining_5_second"]},
+    "sounds.countdown.remaining_10_second": {"subtitle": "§6距離伺服器重啟，剩餘§c 10 秒§6！", "sounds": ["countdown/remaining_10_second"]},
+    "sounds.countdown.remaining_20_second": {"subtitle": "§6距離伺服器重啟，剩餘§c 20 秒§6！", "sounds": ["countdown/remaining_20_second"]},
+    "sounds.countdown.remaining_30_second": {"subtitle": "§6距離伺服器重啟，剩餘§c 30 秒§6！", "sounds": ["countdown/remaining_30_second"]},
+    "sounds.countdown.remaining_40_second": {"subtitle": "§6距離伺服器重啟，剩餘§c 40 秒§6！", "sounds": ["countdown/remaining_40_second"]},
+    "sounds.countdown.remaining_50_second": {"subtitle": "§6距離伺服器重啟，剩餘§c 50 秒§6！", "sounds": ["countdown/remaining_50_second"]},
+    "sounds.countdown.remaining_60_second": {"subtitle": "§6距離伺服器重啟，剩餘§c 60 秒§6！", "sounds": ["countdown/remaining_60_second"]},
+    "sounds.mill.rice": {"subtitle": "§6ㄟ幹，他會轉ㄝ", "sounds": ["mill/rice"]}
+}

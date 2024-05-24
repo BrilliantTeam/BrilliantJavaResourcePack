@@ -1455,15 +1455,6 @@
 			"chars": [
 				"ꆝ"
 			]
-		},
-		{
-			"type": "bitmap",
-			"file": "logo/sbt.png",
-			"height": 128,
-			"ascent": 112,
-			"chars": [
-				"ꆞ"
-			]
 		}
 	]
 }

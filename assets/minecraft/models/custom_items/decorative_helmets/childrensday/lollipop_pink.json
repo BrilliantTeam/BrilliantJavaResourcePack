@@ -1,8 +1,0 @@
-{
-	"credit": "書碼",
-	"parent": "custom_items/decorative_helmets/childrensday/lollipop",
-	"textures": {
-		"0": "item/custom/childrensday/lollipop_pink",
-		"particle": "item/custom/childrensday/lollipop_pink"
-	}
-}

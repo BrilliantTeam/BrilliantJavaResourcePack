@@ -1,8 +1,0 @@
-{
-	"parent": "custom_items/decorative_helmets/doll/a",
-	"texture_size": [64, 64],
-	"textures": {
-		"0": "item/custom/doll/cookiedinosaur",
-		"particle": "item/custom/doll/cookiedinosaur"
-	}
-}

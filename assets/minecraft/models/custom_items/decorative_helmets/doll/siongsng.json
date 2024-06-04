@@ -1,8 +1,0 @@
-{
-	"parent": "custom_items/decorative_helmets/doll/b",
-	"texture_size": [64, 64],
-	"textures": {
-		"0": "item/custom/doll/siongsng",
-		"particle": "item/custom/doll/siongsng"
-	}
-}

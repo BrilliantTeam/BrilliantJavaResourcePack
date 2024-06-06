@@ -293,6 +293,16 @@
         { "predicate": { "custom_model_data": 19963 }, "model": "blockentities:item/luminous_crystal_block6" },
         { "predicate": { "custom_model_data": 19971 }, "model": "blockentities:item/aether_block7" },
         { "predicate": { "custom_model_data": 19972 }, "model": "blockentities:item/paradise_powder_block7" },
-        { "predicate": { "custom_model_data": 19973 }, "model": "blockentities:item/luminous_crystal_block7" }
+        { "predicate": { "custom_model_data": 19973 }, "model": "blockentities:item/luminous_crystal_block7" },
+
+        { "predicate": { "custom_model_data": 20000 }, "model": "blockentities:item/winecup" },
+        { "predicate": { "custom_model_data": 20001 }, "model": "blockentities:item/gaywine" },
+        { "predicate": { "custom_model_data": 20002 }, "model": "blockentities:item/drum" },
+        { "predicate": { "custom_model_data": 20003 }, "model": "blockentities:item/dragonboatdrum_1" },
+        { "predicate": { "custom_model_data": 20004 }, "model": "blockentities:item/dragonboatdrum_2" },
+        { "predicate": { "custom_model_data": 20005 }, "model": "blockentities:item/dragonboatdrum_3" },
+        { "predicate": { "custom_model_data": 20006 }, "model": "blockentities:item/dragonboat_1" },
+        { "predicate": { "custom_model_data": 20007 }, "model": "blockentities:item/dragonboat_2" },
+        { "predicate": { "custom_model_data": 20008 }, "model": "blockentities:item/dragonboat_3" }
     ]
 }

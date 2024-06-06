@@ -2,8 +2,8 @@
 	"credit": "書碼",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/custom/doll/rainforg",
-		"particle": "item/custom/doll/rainforg"
+		"0": "item/custom/doll/rainfrog",
+		"particle": "item/custom/doll/rainfrog"
 	},
 	"elements": [
 		{

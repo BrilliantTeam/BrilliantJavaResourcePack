@@ -57,6 +57,8 @@
         {"predicate": {"custom_model_data": 50040}, "model": "custom_items/dessert/mouldy_bread"},
         {"predicate": {"custom_model_data": 50041}, "model": "custom_items/dessert/gingerbreadman_santa"},
         {"predicate": {"custom_model_data": 50042}, "model": "custom_items/dessert/gingerbreadman_santa_beard"},
-        {"predicate": {"custom_model_data": 50043}, "model": "custom_items/dessert/gingerbreadman"}
+        {"predicate": {"custom_model_data": 50043}, "model": "custom_items/dessert/gingerbreadman"},
+
+        {"predicate": {"custom_model_data": 50100}, "model":"custom_items/dragonboatfestival/realgar_wine"}
     ]
 }

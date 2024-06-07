@@ -99,6 +99,10 @@
         {"predicate": {"custom_model_data": 30513}, "model": "custom_items/dessert/candy_13"},
         {"predicate": {"custom_model_data": 30514}, "model": "custom_items/dessert/candy_14"},
         {"predicate": {"custom_model_data": 30515}, "model": "custom_items/dessert/candy_15"},
-        {"predicate": {"custom_model_data": 30516}, "model": "custom_items/dessert/candy_16"}
+        {"predicate": {"custom_model_data": 30516}, "model": "custom_items/dessert/candy_16"},
+
+        {"predicate": {"custom_model_data": 30601}, "model": "custom_items/dessert/cake_roll_honey"},
+        {"predicate": {"custom_model_data": 30602}, "model": "custom_items/dessert/cake_roll_berry"},
+        {"predicate": {"custom_model_data": 30603}, "model": "custom_items/dessert/cake_roll_glow"}
     ]
 }

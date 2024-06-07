@@ -13,6 +13,8 @@
         {"predicate": {"custom_model_data": 30006}, "model": "custom_items/dessert/flour_wheat"},
         {"predicate": {"custom_model_data": 30007}, "model": "custom_items/dessert/dough"},
         {"predicate": {"custom_model_data": 30008}, "model": "custom_items/dessert/batter"},
+        {"predicate": {"custom_model_data": 30009}, "model": "custom_items/dessert/cheese"},
+        {"predicate": {"custom_model_data": 30010}, "model": "custom_items/dessert/sponge_cake"},
 
         {"predicate": {"custom_model_data": 30101}, "model": "custom_items/dessert/color_jam_1"},
         {"predicate": {"custom_model_data": 30102}, "model": "custom_items/dessert/color_jam_2"},
@@ -63,6 +65,23 @@
         {"predicate": {"custom_model_data": 30313}, "model": "custom_items/dessert/colored_jelly_13"},
         {"predicate": {"custom_model_data": 30314}, "model": "custom_items/dessert/colored_jelly_14"},
         {"predicate": {"custom_model_data": 30315}, "model": "custom_items/dessert/colored_jelly_15"},
-        {"predicate": {"custom_model_data": 30316}, "model": "custom_items/dessert/colored_jelly_16"}
+        {"predicate": {"custom_model_data": 30316}, "model": "custom_items/dessert/colored_jelly_16"},
+
+        {"predicate": {"custom_model_data": 30401}, "model": "custom_items/dessert/donut_1"},
+        {"predicate": {"custom_model_data": 30402}, "model": "custom_items/dessert/donut_2"},
+        {"predicate": {"custom_model_data": 30403}, "model": "custom_items/dessert/donut_3"},
+        {"predicate": {"custom_model_data": 30404}, "model": "custom_items/dessert/donut_4"},
+        {"predicate": {"custom_model_data": 30405}, "model": "custom_items/dessert/donut_5"},
+        {"predicate": {"custom_model_data": 30406}, "model": "custom_items/dessert/donut_6"},
+        {"predicate": {"custom_model_data": 30407}, "model": "custom_items/dessert/donut_7"},
+        {"predicate": {"custom_model_data": 30408}, "model": "custom_items/dessert/donut_8"},
+        {"predicate": {"custom_model_data": 30409}, "model": "custom_items/dessert/donut_9"},
+        {"predicate": {"custom_model_data": 30410}, "model": "custom_items/dessert/donut_10"},
+        {"predicate": {"custom_model_data": 30411}, "model": "custom_items/dessert/donut_11"},
+        {"predicate": {"custom_model_data": 30412}, "model": "custom_items/dessert/donut_12"},
+        {"predicate": {"custom_model_data": 30413}, "model": "custom_items/dessert/donut_13"},
+        {"predicate": {"custom_model_data": 30414}, "model": "custom_items/dessert/donut_14"},
+        {"predicate": {"custom_model_data": 30415}, "model": "custom_items/dessert/donut_15"},
+        {"predicate": {"custom_model_data": 30416}, "model": "custom_items/dessert/donut_16"}
     ]
 }

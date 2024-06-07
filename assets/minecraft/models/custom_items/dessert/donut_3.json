@@ -2,6 +2,6 @@
     "credit": "RiceChen_、酥瑪",
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/custom/dessert/cheese"
+        "layer0": "item/custom/dessert/donut_3"
     }
 }

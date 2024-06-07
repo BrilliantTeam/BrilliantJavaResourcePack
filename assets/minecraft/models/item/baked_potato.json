@@ -152,8 +152,8 @@
         {"predicate": {"custom_model_data": 30815}, "model": "custom_items/dessert/macaron_15"},
         {"predicate": {"custom_model_data": 30816}, "model": "custom_items/dessert/macaron_16"},
 
-        {"predicate": {"custom_model_data": 30601}, "model": "custom_items/dessert/cake_roll_honey"},
-        {"predicate": {"custom_model_data": 30602}, "model": "custom_items/dessert/cake_roll_berry"},
-        {"predicate": {"custom_model_data": 30603}, "model": "custom_items/dessert/cake_roll_glow"}
+        {"predicate": {"custom_model_data": 30901}, "model": "custom_items/dessert/cake_roll_honey"},
+        {"predicate": {"custom_model_data": 30902}, "model": "custom_items/dessert/cake_roll_berry"},
+        {"predicate": {"custom_model_data": 30903}, "model": "custom_items/dessert/cake_roll_glow"}
     ]
 }

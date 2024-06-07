@@ -82,6 +82,23 @@
         {"predicate": {"custom_model_data": 30413}, "model": "custom_items/dessert/donut_13"},
         {"predicate": {"custom_model_data": 30414}, "model": "custom_items/dessert/donut_14"},
         {"predicate": {"custom_model_data": 30415}, "model": "custom_items/dessert/donut_15"},
-        {"predicate": {"custom_model_data": 30416}, "model": "custom_items/dessert/donut_16"}
+        {"predicate": {"custom_model_data": 30416}, "model": "custom_items/dessert/donut_16"},
+
+        {"predicate": {"custom_model_data": 30501}, "model": "custom_items/dessert/candy_1"},
+        {"predicate": {"custom_model_data": 30502}, "model": "custom_items/dessert/candy_2"},
+        {"predicate": {"custom_model_data": 30503}, "model": "custom_items/dessert/candy_3"},
+        {"predicate": {"custom_model_data": 30504}, "model": "custom_items/dessert/candy_4"},
+        {"predicate": {"custom_model_data": 30505}, "model": "custom_items/dessert/candy_5"},
+        {"predicate": {"custom_model_data": 30506}, "model": "custom_items/dessert/candy_6"},
+        {"predicate": {"custom_model_data": 30507}, "model": "custom_items/dessert/candy_7"},
+        {"predicate": {"custom_model_data": 30508}, "model": "custom_items/dessert/candy_8"},
+        {"predicate": {"custom_model_data": 30509}, "model": "custom_items/dessert/candy_9"},
+        {"predicate": {"custom_model_data": 30510}, "model": "custom_items/dessert/candy_10"},
+        {"predicate": {"custom_model_data": 30511}, "model": "custom_items/dessert/candy_11"},
+        {"predicate": {"custom_model_data": 30512}, "model": "custom_items/dessert/candy_12"},
+        {"predicate": {"custom_model_data": 30513}, "model": "custom_items/dessert/candy_13"},
+        {"predicate": {"custom_model_data": 30514}, "model": "custom_items/dessert/candy_14"},
+        {"predicate": {"custom_model_data": 30515}, "model": "custom_items/dessert/candy_15"},
+        {"predicate": {"custom_model_data": 30516}, "model": "custom_items/dessert/candy_16"}
     ]
 }

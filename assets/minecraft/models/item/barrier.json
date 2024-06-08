@@ -303,6 +303,7 @@
         { "predicate": { "custom_model_data": 20005 }, "model": "blockentities:item/dragonboatdrum_3" },
         { "predicate": { "custom_model_data": 20006 }, "model": "blockentities:item/dragonboat_1" },
         { "predicate": { "custom_model_data": 20007 }, "model": "blockentities:item/dragonboat_2" },
-        { "predicate": { "custom_model_data": 20008 }, "model": "blockentities:item/dragonboat_3" }
+        { "predicate": { "custom_model_data": 20008 }, "model": "blockentities:item/dragonboat_3" },
+        { "predicate": { "custom_model_data": 20009 }, "model": "blockentities:item/gaywinepromax" }
     ]
 }

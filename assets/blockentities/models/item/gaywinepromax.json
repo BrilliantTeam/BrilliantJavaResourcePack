@@ -2,7 +2,7 @@
 	"credit": "恐龍",
 	"texture_size": [128, 128],
 	"textures": {
-		"2": "blockentities:block/gaywinepromax",
+		"1": "blockentities:block/gaywinepromax",
 		"particle": "blockentities:block/gaywinepromax"
 	},
 	"elements": [

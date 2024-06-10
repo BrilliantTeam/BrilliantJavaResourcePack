@@ -1455,6 +1455,231 @@
 			"chars": [
 				"ꆝ"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "logo/agar.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆞ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "logo/apple_candy_gold.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆡ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "logo/apple_candy.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆟ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "logo/batter.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆢ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "logo/beef_cheese_sandwich.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆣ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "logo/butter.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆤ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "logo/cake_roll_berry.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆥ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "logo/cake_roll_glow.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆦ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "logo/cake_roll_honey.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆧ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "logo/cheese.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆨ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "logo/chocolate.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆩ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "logo/chocolate_bread.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆪ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "logo/chocolate_cake.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆫ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "logo/chocolate_ice_cream_cone.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆬ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "logo/cream.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆭ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "logo/croissant.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆮ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "logo/dough.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆯ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "logo/flour_seed.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆰ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "logo/flour_wheat.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆱ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "logo/ice_cream_cone.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆲ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "logo/palmier.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆳ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "logo/pancake_or_honey.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆴ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "logo/puddin.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆵ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "logo/sponge_cake.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆶ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "logo/sweet_berries_ice_cream_cone.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆷ"
+			]
 		}
 	]
 }

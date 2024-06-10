@@ -168,9 +168,10 @@
         {"predicate": {"custom_model_data": 20046}, "model":"custom_items/shopgui/gui8"},
         {"predicate": {"custom_model_data": 20047}, "model":"custom_items/shopgui/gui9"},
         {"predicate": {"custom_model_data": 20048}, "model":"custom_items/shopgui/guiarrow2"},
-        {"predicate": {"custom_model_data": 20049}, "model":"custom_items/shopgui/server"},
-        {"predicate": {"custom_model_data": 20050}, "model":"custom_items/shopgui/server_redstone"},
-        {"predicate": {"custom_model_data": 20051}, "model":"custom_items/shopgui/camera"},
+        {"predicate": {"custom_model_data": 20049}, "model":"custom_items/shopgui/server1"},
+        {"predicate": {"custom_model_data": 20050}, "model":"custom_items/shopgui/server2"},
+        {"predicate": {"custom_model_data": 20051}, "model":"custom_items/shopgui/server_redstone"},
+        {"predicate": {"custom_model_data": 20052}, "model":"custom_items/shopgui/camera"},
 
         {"predicate": {"custom_model_data": 30001}, "model":"custom_items/brilliant/purifier"},
         {"predicate": {"custom_model_data": 30002}, "model":"custom_items/brilliant/teleport_scroll"},

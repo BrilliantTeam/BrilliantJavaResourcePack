@@ -2,6 +2,6 @@
     "credit": "酥瑪",
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/custom/shopgui/phome_list"
+        "layer0": "item/custom/shopgui/home"
     }
 }

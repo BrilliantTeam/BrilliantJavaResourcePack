@@ -178,6 +178,9 @@
         {"predicate": {"custom_model_data": 20056}, "model":"custom_items/shopgui/home"},
         {"predicate": {"custom_model_data": 20057}, "model":"custom_items/shopgui/home_list"},
         {"predicate": {"custom_model_data": 20058}, "model":"custom_items/shopgui/home_edit"},
+        {"predicate": {"custom_model_data": 20059}, "model":"custom_items/shopgui/lay"},
+        {"predicate": {"custom_model_data": 20060}, "model":"custom_items/shopgui/sit"},
+        {"predicate": {"custom_model_data": 20061}, "model":"custom_items/shopgui/stand"},
 
         {"predicate": {"custom_model_data": 30001}, "model":"custom_items/brilliant/purifier"},
         {"predicate": {"custom_model_data": 30002}, "model":"custom_items/brilliant/teleport_scroll"},

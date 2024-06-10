@@ -1458,7 +1458,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "logo/agar.png",
+			"file": "emojis/agar.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [
@@ -1467,7 +1467,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "logo/apple_candy_gold.png",
+			"file": "emojis/apple_candy_gold.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [
@@ -1476,7 +1476,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "logo/apple_candy.png",
+			"file": "emojis/apple_candy.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [
@@ -1485,7 +1485,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "logo/batter.png",
+			"file": "emojis/batter.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [
@@ -1494,7 +1494,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "logo/beef_cheese_sandwich.png",
+			"file": "emojis/beef_cheese_sandwich.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [
@@ -1503,7 +1503,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "logo/butter.png",
+			"file": "emojis/butter.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [
@@ -1512,7 +1512,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "logo/cake_roll_berry.png",
+			"file": "emojis/cake_roll_berry.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [
@@ -1521,7 +1521,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "logo/cake_roll_glow.png",
+			"file": "emojis/cake_roll_glow.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [
@@ -1530,7 +1530,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "logo/cake_roll_honey.png",
+			"file": "emojis/cake_roll_honey.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [
@@ -1539,7 +1539,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "logo/cheese.png",
+			"file": "emojis/cheese.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [
@@ -1548,7 +1548,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "logo/chocolate.png",
+			"file": "emojis/chocolate.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [
@@ -1557,7 +1557,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "logo/chocolate_bread.png",
+			"file": "emojis/chocolate_bread.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [
@@ -1566,7 +1566,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "logo/chocolate_cake.png",
+			"file": "emojis/chocolate_cake.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [
@@ -1575,7 +1575,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "logo/chocolate_ice_cream_cone.png",
+			"file": "emojis/chocolate_ice_cream_cone.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [
@@ -1584,7 +1584,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "logo/cream.png",
+			"file": "emojis/cream.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [
@@ -1593,7 +1593,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "logo/croissant.png",
+			"file": "emojis/croissant.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [
@@ -1602,7 +1602,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "logo/dough.png",
+			"file": "emojis/dough.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [
@@ -1611,7 +1611,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "logo/flour_seed.png",
+			"file": "emojis/flour_seed.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [
@@ -1620,7 +1620,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "logo/flour_wheat.png",
+			"file": "emojis/flour_wheat.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [
@@ -1629,7 +1629,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "logo/ice_cream_cone.png",
+			"file": "emojis/ice_cream_cone.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [
@@ -1638,7 +1638,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "logo/palmier.png",
+			"file": "emojis/palmier.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [
@@ -1647,7 +1647,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "logo/pancake_or_honey.png",
+			"file": "emojis/pancake_or_honey.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [
@@ -1656,7 +1656,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "logo/puddin.png",
+			"file": "emojis/puddin.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [
@@ -1665,7 +1665,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "logo/sponge_cake.png",
+			"file": "emojis/sponge_cake.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [
@@ -1674,7 +1674,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "logo/sweet_berries_ice_cream_cone.png",
+			"file": "emojis/sweet_berries_ice_cream_cone.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [

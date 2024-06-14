@@ -210,6 +210,7 @@
         {"predicate": {"custom_model_data": 31020}, "model":"custom_items/doll/one"},
         {"predicate": {"custom_model_data": 31021}, "model":"custom_items/doll/l1an"},
         {"predicate": {"custom_model_data": 31022}, "model":"custom_items/doll/seahorseee"},
+        {"predicate": {"custom_model_data": 31023}, "model":"custom_items/doll/yoku0206"},
         
         {"predicate": {"custom_model_data": 31998}, "model":"custom_items/doll/rainfrog"},
         {"predicate": {"custom_model_data": 31999}, "model":"custom_items/doll/coco"},

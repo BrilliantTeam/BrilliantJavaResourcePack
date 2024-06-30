@@ -211,6 +211,11 @@
         {"predicate": {"custom_model_data": 31021}, "model":"custom_items/doll/l1an"},
         {"predicate": {"custom_model_data": 31022}, "model":"custom_items/doll/seahorseee"},
         {"predicate": {"custom_model_data": 31023}, "model":"custom_items/doll/yoku0206"},
+        {"predicate": {"custom_model_data": 31024}, "model":"custom_items/doll/mistelnrice3"},
+        {"predicate": {"custom_model_data": 31025}, "model":"custom_items/doll/mistelnrice4"},
+        {"predicate": {"custom_model_data": 31026}, "model":"custom_items/doll/rice_sailor"},
+        {"predicate": {"custom_model_data": 31027}, "model":"custom_items/doll/isbn_kimino"},
+        {"predicate": {"custom_model_data": 31028}, "model":"custom_items/doll/isbn_sailor"},
         
         {"predicate": {"custom_model_data": 31100}, "model":"custom_items/doll/dialga0417"},
         

@@ -1680,6 +1680,204 @@
 			"chars": [
 				"ꆷ"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/toilet_a1.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆸ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/toilet_a2.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆹ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/toilet_b1.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆺ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/toilet_b2.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆻ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/wood_cabinet_a.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆼ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/wood_cabinet_b.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆽ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/wood_cabinet_c.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꆿ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/wood_cabinet_d.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꇀ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/wood_chair_a.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꇁ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/wood_chair_b.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꇂ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/wood_table_a.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꇃ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/wood_table_b.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꇄ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/wooden_sofa_a0.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꇅ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/wooden_sofa_a1.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꇆ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/wooden_sofa_a2.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꇇ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/wooden_sofa_a3.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꇈ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/wooden_sofa_a4.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꇉ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/wooden_sofa_b0.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꇊ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/wooden_sofa_b1.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꇋ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/wooden_sofa_b2.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꇌ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/wooden_sofa_b3.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꇍ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/wooden_sofa_b4.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꇎ"
+			]
 		}
 	]
 }

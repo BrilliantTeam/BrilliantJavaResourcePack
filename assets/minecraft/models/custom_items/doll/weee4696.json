@@ -1,5 +1,5 @@
 {
-	"parent": "custom_items/doll/b",
+	"parent": "custom_items/doll/a",
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "item/custom/doll/weee4696",

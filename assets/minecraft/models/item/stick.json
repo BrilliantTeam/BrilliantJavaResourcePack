@@ -222,6 +222,7 @@
         {"predicate": {"custom_model_data": 31102}, "model":"custom_items/doll/eatingwu2"},
         {"predicate": {"custom_model_data": 31103}, "model":"custom_items/doll/3cha"},
         
+        {"predicate": {"custom_model_data": 31997}, "model":"custom_items/doll/mg"},
         {"predicate": {"custom_model_data": 31998}, "model":"custom_items/doll/rainfrog"},
         {"predicate": {"custom_model_data": 31999}, "model":"custom_items/doll/coco"},
 

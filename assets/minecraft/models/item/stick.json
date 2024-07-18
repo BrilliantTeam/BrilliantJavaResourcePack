@@ -300,6 +300,28 @@
         {"predicate": {"custom_model_data": 36020}, "model":"custom_items/dragonboatfestival/grass_1"},
         {"predicate": {"custom_model_data": 36021}, "model":"custom_items/dragonboatfestival/grass_2"},
         {"predicate": {"custom_model_data": 36022}, "model":"custom_items/dragonboatfestival/grass_3"},
-        {"predicate": {"custom_model_data": 36023}, "model":"custom_items/dragonboatfestival/grass_4"}
+        {"predicate": {"custom_model_data": 36023}, "model":"custom_items/dragonboatfestival/grass_4"},
+        
+        {"predicate": {"custom_model_data": 40000}, "model":"custom_items/axolotl_hat/axolotl_lucy"},
+        {"predicate": {"custom_model_data": 40001}, "model":"custom_items/axolotl_hat/axolotl_wild"},
+        {"predicate": {"custom_model_data": 40002}, "model":"custom_items/axolotl_hat/axolotl_gold"},
+        {"predicate": {"custom_model_data": 40003}, "model":"custom_items/axolotl_hat/axolotl_cyan"},
+        {"predicate": {"custom_model_data": 40004}, "model":"custom_items/axolotl_hat/axolotl_blue"},
+
+        {"predicate": {"custom_model_data": 41000}, "model":"custom_items/dog_hat/wolf"},
+        {"predicate": {"custom_model_data": 41001}, "model":"custom_items/dog_hat/wolf_ashen"},
+        {"predicate": {"custom_model_data": 41002}, "model":"custom_items/dog_hat/wolf_ashen_tame"},
+        {"predicate": {"custom_model_data": 41003}, "model":"custom_items/dog_hat/wolf_black_tame"},
+        {"predicate": {"custom_model_data": 41004}, "model":"custom_items/dog_hat/wolf_rusty_tame"},
+        {"predicate": {"custom_model_data": 41005}, "model":"custom_items/dog_hat/wolf_snowy_tame"},
+        {"predicate": {"custom_model_data": 41006}, "model":"custom_items/dog_hat/wolf_spotted_tame"},
+        {"predicate": {"custom_model_data": 41007}, "model":"custom_items/dog_hat/wolf_striped_tame"},
+        {"predicate": {"custom_model_data": 41008}, "model":"custom_items/dog_hat/wolf_woods_tame"},
+
+        {"predicate": {"custom_model_data": 42000}, "model":"custom_items/fox_hat/fox"},
+        {"predicate": {"custom_model_data": 42001}, "model":"custom_items/fox_hat/snow_fox"},
+
+        {"predicate": {"custom_model_data": 42000}, "model":"custom_items/fox_sleep_hat/fox_sleep"},
+        {"predicate": {"custom_model_data": 42001}, "model":"custom_items/fox_sleep_hat/snow_fox_sleep"}
     ]
 }

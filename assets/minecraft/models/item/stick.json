@@ -321,7 +321,7 @@
         {"predicate": {"custom_model_data": 42000}, "model":"custom_items/fox_hat/fox"},
         {"predicate": {"custom_model_data": 42001}, "model":"custom_items/fox_hat/snow_fox"},
 
-        {"predicate": {"custom_model_data": 42000}, "model":"custom_items/fox_sleep_hat/fox_sleep"},
-        {"predicate": {"custom_model_data": 42001}, "model":"custom_items/fox_sleep_hat/snow_fox_sleep"}
+        {"predicate": {"custom_model_data": 43000}, "model":"custom_items/fox_sleep_hat/fox_sleep"},
+        {"predicate": {"custom_model_data": 43001}, "model":"custom_items/fox_sleep_hat/snow_fox_sleep"}
     ]
 }

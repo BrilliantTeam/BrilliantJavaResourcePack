@@ -8,5 +8,9 @@
     "sounds.countdown.remaining_40_second": {"subtitle": "§6距離伺服器重啟，剩餘§c 40 秒§6！", "sounds": ["countdown/remaining_40_second"]},
     "sounds.countdown.remaining_50_second": {"subtitle": "§6距離伺服器重啟，剩餘§c 50 秒§6！", "sounds": ["countdown/remaining_50_second"]},
     "sounds.countdown.remaining_60_second": {"subtitle": "§6距離伺服器重啟，剩餘§c 60 秒§6！", "sounds": ["countdown/remaining_60_second"]},
-    "sounds.mill.rice": {"subtitle": "§6ㄟ幹，他會轉ㄝ", "sounds": ["mill/rice"]}
+    "sounds.mill.rice": {"subtitle": "§6ㄟ幹，他會轉ㄝ", "sounds": ["mill/rice"]},
+    "sounds.brt.spl_ars_cen": {"subtitle": "§7途經 §6亞馬遜平原站 §7與 §6中樞站 §7...", "sounds": ["brt/spl_ars_cen"]},
+    "sounds.brt.spl_ars_oce": {"subtitle": "§7途經 §6亞馬遜平原站 §7與 §6餅乾共產大洋站 §7...", "sounds": ["brt/spl_ars_oce"]},
+    "sounds.brt.spl_cen": {"subtitle": "§7即將前往 §6中樞站 §7...", "sounds": ["brt/spl_cen"]},
+    "sounds.brt.spl_oce": {"subtitle": "§7即將前往 §6餅乾共產大洋站 §7...", "sounds": ["brt/spl_oce"]}
 }

@@ -346,6 +346,11 @@
         {"predicate": {"custom_model_data": 44001}, "model":"custom_items/ghast_hat/ghast_shooting"},
 
         {"predicate": {"custom_model_data": 45000}, "model":"custom_items/phantom_hat/phantom"},
-        {"predicate": {"custom_model_data": 45001}, "model":"custom_items/phantom_hat/phantom_animated_4"}
+        {"predicate": {"custom_model_data": 45001}, "model":"custom_items/phantom_hat/phantom_animated_4"},
+
+        {"predicate": {"custom_model_data": 46000}, "model":"custom_items/frog_hat/frog_animated"},
+        {"predicate": {"custom_model_data": 46001}, "model":"custom_items/frog_hat/frog_cold_animated"},
+        {"predicate": {"custom_model_data": 46002}, "model":"custom_items/frog_hat/frog_warm_animated"},
+        {"predicate": {"custom_model_data": 46003}, "model":"custom_items/frog_hat/frog_rgb_animated"}
     ]
 }

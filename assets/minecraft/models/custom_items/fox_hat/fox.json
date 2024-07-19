@@ -1,7 +1,6 @@
 {
     "credit": "書碼",
     "parent": "custom_items/fox_hat/fox_hat",
-    "texture_size": [34, 34],
     "textures": {
         "0": "item/custom/decorative_helmets/fox_hat/fox",
         "particle": "item/custom/decorative_helmets/fox_hat/fox"

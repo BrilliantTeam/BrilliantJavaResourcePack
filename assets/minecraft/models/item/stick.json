@@ -340,6 +340,12 @@
         {"predicate": {"custom_model_data": 42001}, "model":"custom_items/fox_hat/snow_fox"},
 
         {"predicate": {"custom_model_data": 43000}, "model":"custom_items/fox_sleep_hat/fox_sleep"},
-        {"predicate": {"custom_model_data": 43001}, "model":"custom_items/fox_sleep_hat/snow_fox_sleep"}
+        {"predicate": {"custom_model_data": 43001}, "model":"custom_items/fox_sleep_hat/snow_fox_sleep"},
+
+        {"predicate": {"custom_model_data": 44000}, "model":"custom_items/ghast_hat/ghast"},
+        {"predicate": {"custom_model_data": 44001}, "model":"custom_items/ghast_hat/ghast_shooting"},
+
+        {"predicate": {"custom_model_data": 45000}, "model":"custom_items/phantom_hat/phantom"},
+        {"predicate": {"custom_model_data": 45001}, "model":"custom_items/phantom_hat/phantom_animated_4"}
     ]
 }

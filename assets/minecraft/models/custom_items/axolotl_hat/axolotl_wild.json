@@ -1,7 +1,6 @@
 {
     "credit": "書碼",
     "parent": "custom_items/axolotl_hat/axolotl_hat",
-    "texture_size": [34, 34],
     "textures": {
         "0": "item/custom/decorative_helmets/axolotl_hat/axolotl_wild",
         "particle": "item/custom/decorative_helmets/axolotl_hat/axolotl_wild"

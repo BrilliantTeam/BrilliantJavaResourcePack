@@ -1,7 +1,6 @@
 {
     "credit": "書碼",
     "parent": "custom_items/dog_hat/dog_hat",
-    "texture_size": [34, 34],
     "textures": {
         "0": "item/custom/decorative_helmets/dog_hat/wolf_rusty_tame",
         "particle": "item/custom/decorative_helmets/dog_hat/wolf_rusty_tame"

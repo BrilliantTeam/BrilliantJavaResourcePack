@@ -1882,8 +1882,8 @@
 		{
 			"type": "bitmap",
 			"file": "logo/logo_1.png",
-			"height": 64,
-			"ascent": -32,
+			"height": 16,
+			"ascent": -64,
 			"chars": [
 				"ꇏ"
 			]
@@ -1891,8 +1891,8 @@
 		{
 			"type": "bitmap",
 			"file": "logo/logo_2.png",
-			"height": 64,
-			"ascent": -32,
+			"height": 16,
+			"ascent": -64,
 			"chars": [
 				"ꇐ"
 			]
@@ -1900,8 +1900,8 @@
 		{
 			"type": "bitmap",
 			"file": "logo/logo_3.png",
-			"height": 64,
-			"ascent": -32,
+			"height": 16,
+			"ascent": -64,
 			"chars": [
 				"ꇑ"
 			]

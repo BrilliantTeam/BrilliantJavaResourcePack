@@ -1881,27 +1881,27 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "logo/logo_m1.png",
-			"height": 64,
-			"ascent": 64,
+			"file": "logo/logo_1.png",
+			"height": 96,
+			"ascent": 103,
 			"chars": [
 				"ꇏ"
 			]
 		},
 		{
 			"type": "bitmap",
-			"file": "logo/logo_m2.png",
-			"height": 64,
-			"ascent": 64,
+			"file": "logo/logo_2.png",
+			"height": 96,
+			"ascent": 103,
 			"chars": [
 				"ꇐ"
 			]
 		},
 		{
 			"type": "bitmap",
-			"file": "logo/logo_m3.png",
-			"height": 64,
-			"ascent": 64,
+			"file": "logo/logo_3.png",
+			"height": 96,
+			"ascent": 103,
 			"chars": [
 				"ꇑ"
 			]

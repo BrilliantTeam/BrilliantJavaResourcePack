@@ -1883,7 +1883,7 @@
 			"type": "bitmap",
 			"file": "logo/logo_1.png",
 			"height": 96,
-			"ascent": -240,
+			"ascent": -224,
 			"chars": [
 				"ꇏ"
 			]
@@ -1892,7 +1892,7 @@
 			"type": "bitmap",
 			"file": "logo/logo_2.png",
 			"height": 96,
-			"ascent": -240,
+			"ascent": -224,
 			"chars": [
 				"ꇐ"
 			]
@@ -1901,7 +1901,7 @@
 			"type": "bitmap",
 			"file": "logo/logo_3.png",
 			"height": 96,
-			"ascent": -240,
+			"ascent": -224,
 			"chars": [
 				"ꇑ"
 			]

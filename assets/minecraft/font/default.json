@@ -1878,6 +1878,33 @@
 			"chars": [
 				"ꇎ"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "logo/logo_1.png",
+			"height": 32,
+			"ascent": 32,
+			"chars": [
+				"ꇏ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "logo/logo_2.png",
+			"height": 32,
+			"ascent": 32,
+			"chars": [
+				"ꇐ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "logo/logo_3.png",
+			"height": 32,
+			"ascent": 32,
+			"chars": [
+				"ꇑ"
+			]
 		}
 	]
 }

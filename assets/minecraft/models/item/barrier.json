@@ -304,6 +304,20 @@
         { "predicate": { "custom_model_data": 20006 }, "model": "blockentities:item/dragonboat_1" },
         { "predicate": { "custom_model_data": 20007 }, "model": "blockentities:item/dragonboat_2" },
         { "predicate": { "custom_model_data": 20008 }, "model": "blockentities:item/dragonboat_3" },
-        { "predicate": { "custom_model_data": 20009 }, "model": "blockentities:item/gaywinepromax" }
+        { "predicate": { "custom_model_data": 20009 }, "model": "blockentities:item/gaywinepromax" },
+
+        { "predicate": { "custom_model_data": 21000 }, "model": "blockentities:item/wind_chime_ani_blue" },
+        { "predicate": { "custom_model_data": 21001 }, "model": "blockentities:item/wind_chime_ani_pink" },
+        { "predicate": { "custom_model_data": 21002 }, "model": "blockentities:item/wind_chime_ani_green" },
+        { "predicate": { "custom_model_data": 21003 }, "model": "blockentities:item/wind_chime_ani_yellow" },
+        { "predicate": { "custom_model_data": 21004 }, "model": "blockentities:item/wind_chime_ani_purple" },
+
+        { "predicate": { "custom_model_data": 22000 }, "model": "blockentities:item/ring_blue" },
+        { "predicate": { "custom_model_data": 22001 }, "model": "blockentities:item/ring_pink" },
+        { "predicate": { "custom_model_data": 22002 }, "model": "blockentities:item/ring_green" },
+        { "predicate": { "custom_model_data": 22003 }, "model": "blockentities:item/ring_yellow" },
+        { "predicate": { "custom_model_data": 22004 }, "model": "blockentities:item/ring_purple" },
+
+        { "predicate": { "custom_model_data": 23000 }, "model": "blockentities:item/unicorn" }
     ]
 }

@@ -59,6 +59,10 @@
         {"predicate": {"custom_model_data": 50042}, "model": "custom_items/dessert/gingerbreadman_santa_beard"},
         {"predicate": {"custom_model_data": 50043}, "model": "custom_items/dessert/gingerbreadman"},
 
-        {"predicate": {"custom_model_data": 50100}, "model":"custom_items/dragonboatfestival/realgar_wine"}
+        {"predicate": {"custom_model_data": 50100}, "model":"custom_items/dragonboatfestival/realgar_wine"},
+
+        {"predicate": {"custom_model_data": 51000}, "model": "custom_items/summer/waterballoon"},
+        {"predicate": {"custom_model_data": 51001}, "model": "custom_items/summer/squid_stick"},
+        {"predicate": {"custom_model_data": 51002}, "model": "custom_items/summer/waterballoon"}
     ]
 }

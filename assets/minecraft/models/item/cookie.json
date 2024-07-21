@@ -63,6 +63,6 @@
 
         {"predicate": {"custom_model_data": 51000}, "model": "custom_items/summer/waterballoon"},
         {"predicate": {"custom_model_data": 51001}, "model": "custom_items/summer/squid_stick"},
-        {"predicate": {"custom_model_data": 51002}, "model": "custom_items/summer/waterballoon"}
+        {"predicate": {"custom_model_data": 51002}, "model": "custom_items/summer/choco_banana_stick"}
     ]
 }

@@ -318,6 +318,14 @@
         { "predicate": { "custom_model_data": 22003 }, "model": "blockentities:item/ring_yellow" },
         { "predicate": { "custom_model_data": 22004 }, "model": "blockentities:item/ring_purple" },
 
-        { "predicate": { "custom_model_data": 23000 }, "model": "blockentities:item/unicorn" }
+        { "predicate": { "custom_model_data": 23000 }, "model": "blockentities:item/unicorn" },
+
+        { "predicate": { "custom_model_data": 24000 }, "model": "blockentities:item/sand_castle_1" },
+        { "predicate": { "custom_model_data": 24001 }, "model": "blockentities:item/sand_castle_2" },
+        { "predicate": { "custom_model_data": 24002 }, "model": "blockentities:item/sand_castle_3" },
+        { "predicate": { "custom_model_data": 24003 }, "model": "blockentities:item/sand_castle_4" },
+        { "predicate": { "custom_model_data": 24004 }, "model": "blockentities:item/sand_castle_5" },
+        { "predicate": { "custom_model_data": 24005 }, "model": "blockentities:item/sand_castle_6" },
+        { "predicate": { "custom_model_data": 24006 }, "model": "blockentities:item/sand_castle_7" }
     ]
 }

@@ -182,6 +182,7 @@
         {"predicate": {"custom_model_data": 20060}, "model":"custom_items/shopgui/sit"},
         {"predicate": {"custom_model_data": 20061}, "model":"custom_items/shopgui/stand"},
         {"predicate": {"custom_model_data": 20062}, "model":"custom_items/shopgui/kitty"},
+        {"predicate": {"custom_model_data": 20063}, "model":"custom_items/shopgui/bfly"},
 
         {"predicate": {"custom_model_data": 30001}, "model":"custom_items/brilliant/purifier"},
         {"predicate": {"custom_model_data": 30002}, "model":"custom_items/brilliant/teleport_scroll"},

@@ -311,12 +311,14 @@
         { "predicate": { "custom_model_data": 21002 }, "model": "blockentities:item/wind_chime_ani_green" },
         { "predicate": { "custom_model_data": 21003 }, "model": "blockentities:item/wind_chime_ani_yellow" },
         { "predicate": { "custom_model_data": 21004 }, "model": "blockentities:item/wind_chime_ani_purple" },
+        { "predicate": { "custom_model_data": 21005 }, "model": "blockentities:item/wind_chime_ani_rgb" },
 
         { "predicate": { "custom_model_data": 22000 }, "model": "blockentities:item/ring_blue" },
         { "predicate": { "custom_model_data": 22001 }, "model": "blockentities:item/ring_pink" },
         { "predicate": { "custom_model_data": 22002 }, "model": "blockentities:item/ring_green" },
         { "predicate": { "custom_model_data": 22003 }, "model": "blockentities:item/ring_yellow" },
         { "predicate": { "custom_model_data": 22004 }, "model": "blockentities:item/ring_purple" },
+        { "predicate": { "custom_model_data": 22005 }, "model": "blockentities:item/ring_rgb" },
 
         { "predicate": { "custom_model_data": 23000 }, "model": "blockentities:item/unicorn" },
 

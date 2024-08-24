@@ -1,0 +1,9 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/clock"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 10000}, "model":"custom_items/brilliant/menu"}
+    ]
+}

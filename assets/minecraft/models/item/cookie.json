@@ -62,6 +62,18 @@
         {"predicate": {"custom_model_data": 50100}, "model":"custom_items/dragonboatfestival/realgar_wine"},
 
         {"predicate": {"custom_model_data": 51000}, "model": "custom_items/summer/squid_stick"},
-        {"predicate": {"custom_model_data": 51001}, "model": "custom_items/summer/choco_banana_stick"}
+        {"predicate": {"custom_model_data": 51001}, "model": "custom_items/summer/choco_banana_stick"},
+
+        {"predicate": {"custom_model_data": 70000}, "model": "custom_items/shopgui/c0"},
+        {"predicate": {"custom_model_data": 70001}, "model": "custom_items/shopgui/c1"},
+        {"predicate": {"custom_model_data": 70002}, "model": "custom_items/shopgui/c2"},
+        {"predicate": {"custom_model_data": 70003}, "model": "custom_items/shopgui/c3"},
+        {"predicate": {"custom_model_data": 70004}, "model": "custom_items/shopgui/c4"},
+        {"predicate": {"custom_model_data": 70005}, "model": "custom_items/shopgui/c5"},
+        {"predicate": {"custom_model_data": 70006}, "model": "custom_items/shopgui/c6"},
+        {"predicate": {"custom_model_data": 70007}, "model": "custom_items/shopgui/c7"},
+        {"predicate": {"custom_model_data": 70008}, "model": "custom_items/shopgui/c8"},
+        {"predicate": {"custom_model_data": 70009}, "model": "custom_items/shopgui/c9"},
+        {"predicate": {"custom_model_data": 70010}, "model": "custom_items/shopgui/c10"}
     ]
 }

@@ -1,0 +1,8 @@
+{
+	"credit": "RiceChen_",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/custom/shopgui/c10"
+	},
+	"display": {}
+}

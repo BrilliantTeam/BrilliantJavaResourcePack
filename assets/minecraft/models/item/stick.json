@@ -305,7 +305,17 @@
         {"predicate": {"custom_model_data": 36021}, "model":"custom_items/dragonboatfestival/grass_2"},
         {"predicate": {"custom_model_data": 36022}, "model":"custom_items/dragonboatfestival/grass_3"},
         {"predicate": {"custom_model_data": 36023}, "model":"custom_items/dragonboatfestival/grass_4"},
-        
+
+        {"predicate": {"custom_model_data": 37000}, "model":"custom_items/mid_autumn/rabbit_mooncake"},
+        {"predicate": {"custom_model_data": 37001}, "model":"custom_items/mid_autumn/rabbit_mooncake_1"},
+        {"predicate": {"custom_model_data": 37002}, "model":"custom_items/mid_autumn/rabbit_mooncake_2"},
+        {"predicate": {"custom_model_data": 37003}, "model":"custom_items/mid_autumn/rabbit_mooncake_3"},
+        {"predicate": {"custom_model_data": 37004}, "model":"custom_items/mid_autumn/rabbit_mooncake_4"},
+        {"predicate": {"custom_model_data": 37005}, "model":"custom_items/mid_autumn/rabbit_mooncake_5"},
+        {"predicate": {"custom_model_data": 37006}, "model":"custom_items/mid_autumn/rabbit_mooncake_6"},
+        {"predicate": {"custom_model_data": 37007}, "model":"custom_items/mid_autumn/rabbit_mooncake_7"},
+        {"predicate": {"custom_model_data": 37008}, "model":"custom_items/mid_autumn/rabbit_mooncake_8"},
+
         {"predicate": {"custom_model_data": 40000}, "model":"custom_items/axolotl_hat/axolotl_lucy"},
         {"predicate": {"custom_model_data": 40001}, "model":"custom_items/axolotl_hat/axolotl_wild"},
         {"predicate": {"custom_model_data": 40002}, "model":"custom_items/axolotl_hat/axolotl_gold"},

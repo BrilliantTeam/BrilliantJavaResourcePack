@@ -73,7 +73,6 @@
         {"predicate": {"custom_model_data": 70006}, "model": "custom_items/shopgui/c6"},
         {"predicate": {"custom_model_data": 70007}, "model": "custom_items/shopgui/c7"},
         {"predicate": {"custom_model_data": 70008}, "model": "custom_items/shopgui/c8"},
-        {"predicate": {"custom_model_data": 70009}, "model": "custom_items/shopgui/c9"},
-        {"predicate": {"custom_model_data": 70010}, "model": "custom_items/shopgui/c10"}
+        {"predicate": {"custom_model_data": 70009}, "model": "custom_items/shopgui/c9"}
     ]
 }

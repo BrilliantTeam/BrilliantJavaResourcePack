@@ -273,6 +273,18 @@
 
         { "predicate": { "custom_model_data": 8200 }, "model": "blockentities:item/toilet_ice2" },
 
+        { "predicate": { "custom_model_data": 9000 }, "model": "blockentities:item/blinder_a1_oak" },
+        { "predicate": { "custom_model_data": 9001 }, "model": "blockentities:item/blinder_a1_mangrove" },
+        { "predicate": { "custom_model_data": 9002 }, "model": "blockentities:item/blinder_a1_jungle" },
+        { "predicate": { "custom_model_data": 9003 }, "model": "blockentities:item/blinder_a1_warped" },
+        { "predicate": { "custom_model_data": 9004 }, "model": "blockentities:item/blinder_a1_spruce" },
+        { "predicate": { "custom_model_data": 9005 }, "model": "blockentities:item/blinder_a1_birch" },
+        { "predicate": { "custom_model_data": 9006 }, "model": "blockentities:item/blinder_a1_bamboo" },
+        { "predicate": { "custom_model_data": 9007 }, "model": "blockentities:item/blinder_a1_acacia" },
+        { "predicate": { "custom_model_data": 9008 }, "model": "blockentities:item/blinder_a1_dark_oak" },
+        { "predicate": { "custom_model_data": 9009 }, "model": "blockentities:item/blinder_a1_crimson" },
+        { "predicate": { "custom_model_data": 9010 }, "model": "blockentities:item/blinder_a1_cherry" },
+
         { "predicate": { "custom_model_data": 19911 }, "model": "blockentities:item/aether_block" },
         { "predicate": { "custom_model_data": 19912 }, "model": "blockentities:item/paradise_powder_block" },
         { "predicate": { "custom_model_data": 19913 }, "model": "blockentities:item/luminous_crystal_block" },

@@ -1905,6 +1905,15 @@
 			"chars": [
 				"ꇑ"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/blinder_a1.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꇒ"
+			]
 		}
 	]
 }

@@ -1,0 +1,8 @@
+{
+    "credit": "書碼",
+    "parent": "blockentities:item/halloween/potion_1",
+    "textures": {
+        "1": "blockentities:block/potion_red",
+        "particle": "blockentities:block/potion_red"
+    }
+}

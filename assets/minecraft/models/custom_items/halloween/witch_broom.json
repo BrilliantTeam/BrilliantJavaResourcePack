@@ -2,7 +2,7 @@
 	"credit": "書碼",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "item/custom/halloween/witch_broom_2",
+		"1": "item/custom/halloween/witch_broom_2",
 		"particle": "item/custom/halloween/witch_broom_2"
 	},
 	"elements": [

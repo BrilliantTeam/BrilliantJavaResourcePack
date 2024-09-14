@@ -373,7 +373,7 @@
         { "predicate": { "custom_model_data": 48001 }, "model": "custom_items/halloween/witch_hat_1_green" },
         { "predicate": { "custom_model_data": 48002 }, "model": "custom_items/halloween/witch_hat_1_purple" },
         { "predicate": { "custom_model_data": 48003 }, "model": "custom_items/halloween/witch_hat_1_red" },
-        { "predicate": { "custom_model_data": 48004 }, "model": "custom_items/halloween//witch_hat_1_yellow" },
+        { "predicate": { "custom_model_data": 48004 }, "model": "custom_items/halloween/witch_hat_1_yellow" },
 
         { "predicate": { "custom_model_data": 49000 }, "model": "custom_items/halloween/follower_ticket_corn" },
         { "predicate": { "custom_model_data": 49001 }, "model": "custom_items/halloween/follower_ticket_pumpkin" },

@@ -14,6 +14,10 @@
         {"predicate": {"custom_model_data": 36000}, "model": "custom_items/dragonboatfestival/zongzi_1"},
         {"predicate": {"custom_model_data": 36001}, "model": "custom_items/dragonboatfestival/zongzi_2"},
 
+        {"predicate": {"custom_model_data": 37000}, "model": "custom_items/halloween/corn_candy"},
+        {"predicate": {"custom_model_data": 37001}, "model": "custom_items/halloween/pumpkin_candy"},
+        {"predicate": {"custom_model_data": 37002}, "model": "custom_items/halloween/ghost_candy"},
+
         {"predicate": {"custom_model_data": 50001}, "model": "custom_items/dessert/cake_roll_bear"},
         {"predicate": {"custom_model_data": 50002}, "model": "custom_items/dessert/cake_roll_straberry"},
         {"predicate": {"custom_model_data": 50003}, "model": "custom_items/dessert/donut_matcha"},

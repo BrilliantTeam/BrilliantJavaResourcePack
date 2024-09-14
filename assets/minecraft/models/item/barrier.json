@@ -340,6 +340,13 @@
         { "predicate": { "custom_model_data": 24003 }, "model": "blockentities:item/sand_castle_4" },
         { "predicate": { "custom_model_data": 24004 }, "model": "blockentities:item/sand_castle_5" },
         { "predicate": { "custom_model_data": 24005 }, "model": "blockentities:item/sand_castle_6" },
-        { "predicate": { "custom_model_data": 24006 }, "model": "blockentities:item/sand_castle_7" }
+        { "predicate": { "custom_model_data": 24006 }, "model": "blockentities:item/sand_castle_7" },
+
+        { "predicate": { "custom_model_data": 25000 }, "model": "blockentities:item/potion_blue" },
+        { "predicate": { "custom_model_data": 25001 }, "model": "blockentities:item/potion_green" },
+        { "predicate": { "custom_model_data": 25002 }, "model": "blockentities:item/potion_purple" },
+        { "predicate": { "custom_model_data": 25003 }, "model": "blockentities:item/potion_red" },
+        { "predicate": { "custom_model_data": 25004 }, "model": "blockentities:item/potion_yellow" },
+        { "predicate": { "custom_model_data": 25005 }, "model": "blockentities:item/potion_1_rgb" }
     ]
 }

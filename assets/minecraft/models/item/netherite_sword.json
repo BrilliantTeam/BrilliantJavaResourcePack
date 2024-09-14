@@ -4,6 +4,8 @@
         "layer0": "item/netherite_sword"
     },
     "overrides": [
+        {"predicate": {"custom_model_data": 10000}, "model": "custom_items/halloween/cat_sword"},
+
         {"predicate": {"custom_model_data": 16300}, "model": "custom_items/cat_palms/cat_palm_stick_black_advanced"},
         {"predicate": {"custom_model_data": 16301}, "model": "custom_items/cat_palms/cat_palm_stick_blue_advanced"},
         {"predicate": {"custom_model_data": 16302}, "model": "custom_items/cat_palms/cat_palm_stick_brown_advanced"},

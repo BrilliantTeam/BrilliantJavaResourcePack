@@ -5,6 +5,6 @@
     },
     "overrides":[
         {"predicate":{"custom_model_data": 10000 }, "model":"custom_items/test"},
-        {"predicate":{"custom_model_data": 20000 }, "model":"custom_items/halloween/witch_hat_2"}
+        {"predicate":{"custom_model_data": 20000 }, "model":"custom_items/halloween/witch_broom"}
     ]
 }

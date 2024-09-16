@@ -1,6 +1,7 @@
 {
 	"providers": [
-	
+{"file":"fallback_font/black.png","chars":["\uf821"],"height":-3,"ascent":-2000,"type":"bitmap"},
+
 {"file":"fallback_font/black.png","chars":["\uf822"],"height":1,"ascent":-5000,"type":"bitmap"},
 {"file":"fallback_font/black.png","chars":["\uf823"],"height":2,"ascent":-5000,"type":"bitmap"},
 {"file":"fallback_font/black.png","chars":["\uf824"],"height":3,"ascent":-5000,"type":"bitmap"},
@@ -1913,6 +1914,15 @@
 			"ascent": 8,
 			"chars": [
 				"ꇒ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/ricemenu.png",
+			"height": 139,
+			"ascent": 13,
+			"chars": [
+				"ꇓ"
 			]
 		}
 	]

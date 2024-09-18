@@ -20,8 +20,8 @@
         {"predicate": {"custom_model_data": 19015}, "model":"custom_items/cat_hat/cat_hat_cherry"},
         {"predicate": {"custom_model_data": 19016}, "model":"custom_items/cat_hat/cat_hat_firecracker"},
         {"predicate": {"custom_model_data": 19017}, "model":"custom_items/cat_hat/cat_hat_rainbow"},
-        {"predicate": {"custom_model_data": 19100}, "model":"custom_items/cat_ear/cat_ear_black"},
 
+        {"predicate": {"custom_model_data": 19100}, "model":"custom_items/cat_ear/cat_ear_black"},
         {"predicate": {"custom_model_data": 19101}, "model":"custom_items/cat_ear/cat_ear_blue"},
         {"predicate": {"custom_model_data": 19102}, "model":"custom_items/cat_ear/cat_ear_brown"},
         {"predicate": {"custom_model_data": 19103}, "model":"custom_items/cat_ear/cat_ear_cyan"},

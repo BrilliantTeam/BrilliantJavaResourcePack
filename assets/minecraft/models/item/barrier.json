@@ -5,6 +5,10 @@
     },
     "overrides": [
 
+        { "predicate": { "custom_model_data": 1000 }, "model": "blockentities:item/test_block" },
+        { "predicate": { "custom_model_data": 1001 }, "model": "blockentities:item/test_slabs" },
+        { "predicate": { "custom_model_data": 1002 }, "model": "blockentities:item/test_stairs" },
+
         { "predicate": { "custom_model_data": 2000 }, "model": "blockentities:item/wood_chair_a_oak" },
         { "predicate": { "custom_model_data": 2001 }, "model": "blockentities:item/wood_chair_a_mangrove" },
         { "predicate": { "custom_model_data": 2002 }, "model": "blockentities:item/wood_chair_a_jungle" },

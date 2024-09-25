@@ -1933,6 +1933,60 @@
 			"chars": [
 				"ꇔ"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/a0_081rice.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꇕ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/a0_082rice.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꇖ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/a0_083rice.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꇗ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/a0_084rice.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꇘ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/a0_085rice.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꇙ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/a0_08rice.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"ꇚ"
+			]
 		}
 	]
 }

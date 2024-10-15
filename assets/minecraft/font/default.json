@@ -1415,8 +1415,8 @@
 		{
 			"type": "bitmap",
 			"file": "logo/aether.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆙ"
 			]
@@ -1424,8 +1424,8 @@
 		{
 			"type": "bitmap",
 			"file": "logo/luminous_crystal.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆜ"
 			]
@@ -1433,8 +1433,8 @@
 		{
 			"type": "bitmap",
 			"file": "logo/paradise_powder.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆛ"
 			]
@@ -1442,8 +1442,8 @@
 		{
 			"type": "bitmap",
 			"file": "logo/watercress.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆚ"
 			]
@@ -1451,8 +1451,8 @@
 		{
 			"type": "bitmap",
 			"file": "logo/purifier.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆝ"
 			]
@@ -1460,8 +1460,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/agar.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆞ"
 			]
@@ -1469,8 +1469,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/apple_candy_gold.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆡ"
 			]
@@ -1478,8 +1478,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/apple_candy.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆟ"
 			]
@@ -1487,8 +1487,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/batter.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆢ"
 			]
@@ -1496,8 +1496,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/beef_cheese_sandwich.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆣ"
 			]
@@ -1505,8 +1505,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/butter.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆤ"
 			]
@@ -1514,8 +1514,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/cake_roll_berry.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆥ"
 			]
@@ -1523,8 +1523,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/cake_roll_glow.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆦ"
 			]
@@ -1532,8 +1532,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/cake_roll_honey.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆧ"
 			]
@@ -1541,8 +1541,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/cheese.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆨ"
 			]
@@ -1550,8 +1550,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/chocolate.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆩ"
 			]
@@ -1559,8 +1559,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/chocolate_bread.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆪ"
 			]
@@ -1568,8 +1568,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/chocolate_cake.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆫ"
 			]
@@ -1577,8 +1577,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/chocolate_ice_cream_cone.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆬ"
 			]
@@ -1586,8 +1586,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/cream.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆭ"
 			]
@@ -1595,8 +1595,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/croissant.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆮ"
 			]
@@ -1604,8 +1604,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/dough.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆯ"
 			]
@@ -1613,8 +1613,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/flour_seed.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆰ"
 			]
@@ -1622,8 +1622,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/flour_wheat.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆱ"
 			]
@@ -1631,8 +1631,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/ice_cream_cone.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆲ"
 			]
@@ -1640,8 +1640,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/palmier.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆳ"
 			]
@@ -1649,8 +1649,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/pancake_or_honey.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆴ"
 			]
@@ -1658,8 +1658,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/puddin.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆵ"
 			]
@@ -1667,8 +1667,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/sponge_cake.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆶ"
 			]
@@ -1676,8 +1676,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/sweet_berries_ice_cream_cone.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆷ"
 			]
@@ -1685,8 +1685,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/toilet_a1.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆸ"
 			]
@@ -1694,8 +1694,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/toilet_a2.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆹ"
 			]
@@ -1703,8 +1703,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/toilet_b1.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆺ"
 			]
@@ -1712,8 +1712,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/toilet_b2.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆻ"
 			]
@@ -1721,8 +1721,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/wood_cabinet_a.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆼ"
 			]
@@ -1730,8 +1730,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/wood_cabinet_b.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆽ"
 			]
@@ -1739,8 +1739,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/wood_cabinet_c.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꆿ"
 			]
@@ -1748,8 +1748,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/wood_cabinet_d.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꇀ"
 			]
@@ -1757,8 +1757,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/wood_chair_a.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꇁ"
 			]
@@ -1766,8 +1766,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/wood_chair_b.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꇂ"
 			]
@@ -1775,8 +1775,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/wood_table_a.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꇃ"
 			]
@@ -1784,8 +1784,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/wood_table_b.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꇄ"
 			]
@@ -1793,8 +1793,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/wooden_sofa_a0.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꇅ"
 			]
@@ -1802,8 +1802,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/wooden_sofa_a1.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꇆ"
 			]
@@ -1811,8 +1811,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/wooden_sofa_a2.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꇇ"
 			]
@@ -1820,8 +1820,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/wooden_sofa_a3.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꇈ"
 			]
@@ -1829,8 +1829,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/wooden_sofa_a4.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꇉ"
 			]
@@ -1838,8 +1838,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/wooden_sofa_b0.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꇊ"
 			]
@@ -1847,8 +1847,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/wooden_sofa_b1.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꇋ"
 			]
@@ -1856,8 +1856,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/wooden_sofa_b2.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꇌ"
 			]
@@ -1865,8 +1865,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/wooden_sofa_b3.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꇍ"
 			]
@@ -1874,8 +1874,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/wooden_sofa_b4.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꇎ"
 			]
@@ -1910,8 +1910,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/blinder_a1.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꇒ"
 			]
@@ -1928,8 +1928,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/a0_07rice.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꇔ"
 			]
@@ -1937,8 +1937,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/a0_081rice.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꇕ"
 			]
@@ -1946,8 +1946,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/a0_082rice.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꇖ"
 			]
@@ -1955,8 +1955,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/a0_083rice.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꇗ"
 			]
@@ -1964,8 +1964,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/a0_084rice.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꇘ"
 			]
@@ -1973,8 +1973,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/a0_085rice.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꇙ"
 			]
@@ -1982,8 +1982,8 @@
 		{
 			"type": "bitmap",
 			"file": "emojis/a0_08rice.png",
-			"height": 8,
-			"ascent": 8,
+			"height": 7,
+			"ascent": 7,
 			"chars": [
 				"ꇚ"
 			]

@@ -2,7 +2,7 @@
 	"credit": "書碼",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "item/custom/halloween/corn_monster_animated",
+		"2": "item/custom/halloween/corn_monster_animated",
 		"particle": "item/custom/halloween/corn_monster_animated"
 	},
 	"elements": [

@@ -136,7 +136,7 @@
 			"name": "brows",
 			"from": [16, 8.5, 4.68629],
 			"to": [16, 11.5, 10.31371],
-			"rotation": {"angle": 45, "axis": "y", "origin": [8, 13.5, 8]},
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 13.5, 7.9]},
 			"faces": {
 				"north": {"uv": [2, 1, 2.25, 2.75], "rotation": 90, "texture": "#1"},
 				"east": {"uv": [3, 11, 4.75, 12.25], "texture": "#1"},

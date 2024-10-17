@@ -379,6 +379,10 @@
         { "predicate": { "custom_model_data": 49001 }, "model": "custom_items/halloween/follower_ticket_pumpkin" },
         { "predicate": { "custom_model_data": 49002 }, "model": "custom_items/halloween/follower_ticket_ghost" },
 
+        { "predicate": { "custom_model_data": 49003 }, "model": "custom_items/halloween/ghost" },
+        { "predicate": { "custom_model_data": 49004 }, "model": "custom_items/halloween/pumpkin_monster" },
+        { "predicate": { "custom_model_data": 49005 }, "model": "custom_items/halloween/corn_monster" },
+
         { "predicate": { "custom_model_data": 50000 }, "model": "custom_items/gacha/gacha_green" },
         { "predicate": { "custom_model_data": 50001 }, "model": "custom_items/gacha/gacha_green2" },
         { "predicate": { "custom_model_data": 50002 }, "model": "custom_items/gacha/gacha_blue" },

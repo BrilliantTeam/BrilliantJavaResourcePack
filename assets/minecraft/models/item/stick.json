@@ -227,6 +227,7 @@
         {"predicate": {"custom_model_data": 31105}, "model":"custom_items/doll/playera"},
         {"predicate": {"custom_model_data": 31106}, "model":"custom_items/doll/zomin0123"},
         {"predicate": {"custom_model_data": 31107}, "model":"custom_items/doll/shanxiao"},
+        {"predicate": {"custom_model_data": 31108}, "model":"custom_items/doll/cyyxvi"},
         
         {"predicate": {"custom_model_data": 31997}, "model":"custom_items/doll/mg"},
         {"predicate": {"custom_model_data": 31998}, "model":"custom_items/doll/rainfrog"},

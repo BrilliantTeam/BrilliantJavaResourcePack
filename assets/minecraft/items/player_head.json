@@ -1,7 +1,0 @@
-{
-	"model": {
-		"type": "minecraft:special",
-		"base": "minecraft:item/template_skull",
-		"model": "custom_items/player_head"
-	}
-}

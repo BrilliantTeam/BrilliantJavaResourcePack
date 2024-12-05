@@ -1,0 +1,26 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/leather_horse_armor"
+        },
+        "entries": [
+            {
+                "threshold": 10000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/test"
+                }
+            },
+            {
+                "threshold": 20000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/halloween/witch_hat_2"
+                }
+            }
+        ]
+    }
+}

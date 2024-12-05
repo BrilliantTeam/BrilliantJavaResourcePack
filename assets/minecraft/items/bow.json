@@ -1,0 +1,40 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/bow"
+        },
+        "entries": [
+            {
+                "threshold": 2000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/chinesevalentinesday/bow0"
+                }
+            },
+            {
+                "threshold": 2000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/chinesevalentinesday/bow0"
+                }
+            },
+            {
+                "threshold": 2000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/chinesevalentinesday/bow1"
+                }
+            },
+            {
+                "threshold": 2000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/chinesevalentinesday/bow2"
+                }
+            }
+        ]
+    }
+}

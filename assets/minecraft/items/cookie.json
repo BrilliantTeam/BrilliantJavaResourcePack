@@ -1,0 +1,481 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/cookie"
+        },
+        "entries": [
+            {
+                "threshold": 34012,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/childrensday/lollipop_yellow"
+                }
+            },
+            {
+                "threshold": 34013,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/childrensday/lollipop_orange"
+                }
+            },
+            {
+                "threshold": 34014,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/childrensday/lollipop_blue"
+                }
+            },
+            {
+                "threshold": 34015,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/childrensday/lollipop_green"
+                }
+            },
+            {
+                "threshold": 34016,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/childrensday/lollipop_pink"
+                }
+            },
+            {
+                "threshold": 34017,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/childrensday/lollipop_purple"
+                }
+            },
+            {
+                "threshold": 36000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dragonboatfestival/zongzi_1"
+                }
+            },
+            {
+                "threshold": 36001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dragonboatfestival/zongzi_2"
+                }
+            },
+            {
+                "threshold": 37000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/halloween/corn_candy"
+                }
+            },
+            {
+                "threshold": 37001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/halloween/pumpkin_candy"
+                }
+            },
+            {
+                "threshold": 37002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/halloween/ghost_candy"
+                }
+            },
+            {
+                "threshold": 50001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/cake_roll_bear"
+                }
+            },
+            {
+                "threshold": 50002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/cake_roll_straberry"
+                }
+            },
+            {
+                "threshold": 50003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/donut_matcha"
+                }
+            },
+            {
+                "threshold": 50004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/donut_sprinkles"
+                }
+            },
+            {
+                "threshold": 50005,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/donut_strawberry"
+                }
+            },
+            {
+                "threshold": 50006,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/donut_yogurt"
+                }
+            },
+            {
+                "threshold": 50007,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/macaron_orange"
+                }
+            },
+            {
+                "threshold": 50008,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/macaron_pink"
+                }
+            },
+            {
+                "threshold": 50009,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/macaron_turquiose"
+                }
+            },
+            {
+                "threshold": 50010,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/macaron_violet"
+                }
+            },
+            {
+                "threshold": 50011,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/macaron_yellow"
+                }
+            },
+            {
+                "threshold": 50012,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/pancake_or_honey"
+                }
+            },
+            {
+                "threshold": 50013,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/puddin"
+                }
+            },
+            {
+                "threshold": 50014,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/swiss_roll_choco_sauce"
+                }
+            },
+            {
+                "threshold": 50015,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/swiss_roll_macha"
+                }
+            },
+            {
+                "threshold": 50016,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/toast_choco"
+                }
+            },
+            {
+                "threshold": 50017,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/toast_choco_cream"
+                }
+            },
+            {
+                "threshold": 50018,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/toast_grape"
+                }
+            },
+            {
+                "threshold": 50019,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/toast_grape_cream"
+                }
+            },
+            {
+                "threshold": 50020,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/toast_matcha"
+                }
+            },
+            {
+                "threshold": 50021,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/toast_matcha_cream"
+                }
+            },
+            {
+                "threshold": 50022,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/candy_cane_blue"
+                }
+            },
+            {
+                "threshold": 50023,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/candy_cane_green"
+                }
+            },
+            {
+                "threshold": 50024,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/candy_cane_orange"
+                }
+            },
+            {
+                "threshold": 50025,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/candy_cane_pink"
+                }
+            },
+            {
+                "threshold": 50026,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/candy_cane_purple"
+                }
+            },
+            {
+                "threshold": 50027,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/candy_cane_red"
+                }
+            },
+            {
+                "threshold": 50028,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/candy_cane_yellow"
+                }
+            },
+            {
+                "threshold": 50029,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/cheese"
+                }
+            },
+            {
+                "threshold": 50030,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/cheese_puff"
+                }
+            },
+            {
+                "threshold": 50031,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/chocolate"
+                }
+            },
+            {
+                "threshold": 50032,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/chocolate_bone"
+                }
+            },
+            {
+                "threshold": 50033,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/chocolate_bread"
+                }
+            },
+            {
+                "threshold": 50034,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/chocolate_cake"
+                }
+            },
+            {
+                "threshold": 50035,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/chocolate_cookie"
+                }
+            },
+            {
+                "threshold": 50036,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/chocolate_ice_cream_cone"
+                }
+            },
+            {
+                "threshold": 50037,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/ice_cream_cone"
+                }
+            },
+            {
+                "threshold": 50038,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/sweet_berries_ice_cream_cone"
+                }
+            },
+            {
+                "threshold": 50039,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/beef_cheese_sandwich"
+                }
+            },
+            {
+                "threshold": 50040,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/mouldy_bread"
+                }
+            },
+            {
+                "threshold": 50041,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/gingerbreadman_santa"
+                }
+            },
+            {
+                "threshold": 50042,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/gingerbreadman_santa_beard"
+                }
+            },
+            {
+                "threshold": 50043,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/gingerbreadman"
+                }
+            },
+            {
+                "threshold": 50100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dragonboatfestival/realgar_wine"
+                }
+            },
+            {
+                "threshold": 51000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/summer/squid_stick"
+                }
+            },
+            {
+                "threshold": 51001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/summer/choco_banana_stick"
+                }
+            },
+            {
+                "threshold": 70000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/shopgui/c0"
+                }
+            },
+            {
+                "threshold": 70001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/shopgui/c1"
+                }
+            },
+            {
+                "threshold": 70002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/shopgui/c2"
+                }
+            },
+            {
+                "threshold": 70003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/shopgui/c3"
+                }
+            },
+            {
+                "threshold": 70004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/shopgui/c4"
+                }
+            },
+            {
+                "threshold": 70005,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/shopgui/c5"
+                }
+            },
+            {
+                "threshold": 70006,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/shopgui/c6"
+                }
+            },
+            {
+                "threshold": 70007,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/shopgui/c7"
+                }
+            },
+            {
+                "threshold": 70008,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/shopgui/c8"
+                }
+            },
+            {
+                "threshold": 70009,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/shopgui/c9"
+                }
+            }
+        ]
+    }
+}

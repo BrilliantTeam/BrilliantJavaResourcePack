@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/netherite_shovel"
+        },
+        "entries": [
+            {
+                "threshold": 10000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/halloween/cat_shovel"
+                }
+            }
+        ]
+    }
+}

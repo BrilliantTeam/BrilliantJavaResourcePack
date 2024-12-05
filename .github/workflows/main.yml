@@ -2,7 +2,7 @@ name: 壓縮 zip、計算 SHA-1 並發佈到 Tag
 on:
   push:
     branches:
-    - main
+    - 1.21.4
 permissions:
   contents: write
 jobs:

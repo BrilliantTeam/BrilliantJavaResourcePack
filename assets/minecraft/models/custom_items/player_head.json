@@ -1,6 +1,4 @@
 {
-	"credit": "Made with Blockbench",
-	"parent": "builtin/entity",
 	"textures": {
 		"particle": "block/soul_sand"
 	},

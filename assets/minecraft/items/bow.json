@@ -9,8 +9,6 @@
         "entries": [
             {
                 "threshold": 2000,
-                "model": {
-                    "type": "model",
                     "model": {
                         "type": "minecraft:condition",
                         "on_false": {
@@ -44,7 +42,6 @@
                             },
                             "property": "minecraft:using_item"
                     }
-                }
             }
         ]
     }

@@ -394,6 +394,18 @@
         { "predicate": { "custom_model_data": 50001 }, "model": "custom_items/gacha/gacha_green2" },
         { "predicate": { "custom_model_data": 50002 }, "model": "custom_items/gacha/gacha_blue" },
         { "predicate": { "custom_model_data": 50003 }, "model": "custom_items/gacha/gacha_purple" },
-        { "predicate": { "custom_model_data": 50004 }, "model": "custom_items/gacha/gacha_orange" }
+        { "predicate": { "custom_model_data": 50004 }, "model": "custom_items/gacha/gacha_orange" },
+        
+        { "predicate": { "custom_model_data": 51000 }, "model": "custom_items/christmas/mistelnchristmas" },
+        { "predicate": { "custom_model_data": 51001 }, "model": "custom_items/christmas/deer" },
+        { "predicate": { "custom_model_data": 51002 }, "model": "custom_items/christmas/snowman" },
+
+        { "predicate": { "custom_model_data": 51003 }, "model": "custom_items/halloween/follower_ticket_mistelnchristmas" },
+        { "predicate": { "custom_model_data": 51004 }, "model": "custom_items/halloween/follower_ticket_deer" },
+        { "predicate": { "custom_model_data": 51005 }, "model": "custom_items/halloween/follower_ticket_snowman" },
+        
+        { "predicate": { "custom_model_data": 51010 }, "model": "custom_items/christmas/hatl" },
+        { "predicate": { "custom_model_data": 51011 }, "model": "custom_items/christmas/globe" },
+        { "predicate": { "custom_model_data": 51012 }, "model": "custom_items/christmas/scarf_xmas" }
     ]
 }

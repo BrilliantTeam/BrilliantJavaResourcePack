@@ -2533,6 +2533,69 @@
                     "type": "model",
                     "model": "custom_items/gacha/gacha_orange"
                 }
+            },
+            {
+                "threshold": 51000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/christmas/mistelnchristmas"
+                }
+            },
+            {
+                "threshold": 51001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/christmas/deer"
+                }
+            },
+            {
+                "threshold": 51002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/christmas/snowman"
+                }
+            },
+            {
+                "threshold": 51003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/christmas/follower_ticket_mistelnchristmas"
+                }
+            },
+            {
+                "threshold": 51004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/christmas/follower_ticket_deer"
+                }
+            },
+            {
+                "threshold": 51005,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/christmas/follower_ticket_snowman"
+                }
+            },
+            {
+                "threshold": 51010,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/christmas/hatl"
+                }
+            },
+            {
+                "threshold": 51011,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/christmas/globe"
+                }
+            },
+            {
+                "threshold": 51012,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/christmas/scarf_xmas"
+                }
             }
         ]
     }

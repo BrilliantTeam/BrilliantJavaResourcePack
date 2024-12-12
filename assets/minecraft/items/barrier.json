@@ -2190,6 +2190,111 @@
                     "type": "model",
                     "model": "blockentities:item/potion_1_rgb"
                 }
+            },
+            {
+                "threshold": 26000,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/bauble_white"
+                }
+            },
+            {
+                "threshold": 26001,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/bauble_yellow"
+                }
+            },
+            {
+                "threshold": 26002,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/bauble_green"
+                }
+            },
+            {
+                "threshold": 26003,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/bauble_blue"
+                }
+            },
+            {
+                "threshold": 26004,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/bauble_red"
+                }
+            },
+            {
+                "threshold": 26010,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chair"
+                }
+            },
+            {
+                "threshold": 26011,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/sledgeblade"
+                }
+            },
+            {
+                "threshold": 26012,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/christmassledge"
+                }
+            },
+            {
+                "threshold": 26013,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/plank"
+                }
+            },
+            {
+                "threshold": 26014,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/wreath"
+                }
+            },
+            {
+                "threshold": 26020,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/gift_green"
+                }
+            },
+            {
+                "threshold": 26021,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/gift_blue"
+                }
+            },
+            {
+                "threshold": 26022,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/gift_yellow"
+                }
+            },
+            {
+                "threshold": 26023,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/gift_white"
+                }
+            },
+            {
+                "threshold": 26024,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/gift_lyme"
+                }
             }
         ]
     }

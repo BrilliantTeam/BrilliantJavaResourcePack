@@ -400,9 +400,9 @@
         { "predicate": { "custom_model_data": 51001 }, "model": "custom_items/christmas/deer" },
         { "predicate": { "custom_model_data": 51002 }, "model": "custom_items/christmas/snowman" },
 
-        { "predicate": { "custom_model_data": 51003 }, "model": "custom_items/halloween/follower_ticket_mistelnchristmas" },
-        { "predicate": { "custom_model_data": 51004 }, "model": "custom_items/halloween/follower_ticket_deer" },
-        { "predicate": { "custom_model_data": 51005 }, "model": "custom_items/halloween/follower_ticket_snowman" },
+        { "predicate": { "custom_model_data": 51003 }, "model": "custom_items/christmas/follower_ticket_mistelnchristmas" },
+        { "predicate": { "custom_model_data": 51004 }, "model": "custom_items/christmas/follower_ticket_deer" },
+        { "predicate": { "custom_model_data": 51005 }, "model": "custom_items/christmas/follower_ticket_snowman" },
         
         { "predicate": { "custom_model_data": 51010 }, "model": "custom_items/christmas/hatl" },
         { "predicate": { "custom_model_data": 51011 }, "model": "custom_items/christmas/globe" },

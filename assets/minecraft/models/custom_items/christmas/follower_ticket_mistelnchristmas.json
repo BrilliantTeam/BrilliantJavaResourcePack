@@ -2,6 +2,6 @@
     "credit": "書碼",
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/custom/halloween/follower_ticket_mistelnchristmas"
+        "layer0": "item/custom/christmas/follower_ticket_mistelnchristmas"
     }
 }

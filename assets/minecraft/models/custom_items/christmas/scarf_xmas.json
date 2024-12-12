@@ -1,8 +1,8 @@
 {
 	"credit": "恐龍",
 	"textures": {
-		"0": "item/custom/christmas/scarf",
-		"particle": "item/custom/christmas/scarf"
+		"0": "item/custom/christmas/scarf_xmas",
+		"particle": "item/custom/christmas/scarf_xmas"
 	},
 	"elements": [
 		{

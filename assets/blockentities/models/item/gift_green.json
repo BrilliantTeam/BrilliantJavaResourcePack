@@ -1,5 +1,6 @@
 {
 	"credit": "恐龍",
+	"parent": "blockentities:item/gift",
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "blockentities:block/gift_green",

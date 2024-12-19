@@ -1436,6 +1436,13 @@
                 }
             },
             {
+                "threshold": 31029,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/doll/omango"
+                }
+            },
+            {
                 "threshold": 31100,
                 "model": {
                     "type": "model",

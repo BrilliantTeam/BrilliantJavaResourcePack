@@ -1987,6 +1987,51 @@
 			"chars": [
 				"ꇚ"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/a0_81gacha_paradise_powder.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"ꇛ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/a0_82gacha_a0_luminous_crystal.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"ꇜ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/a0_83gacha_aether.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"ꇝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/a0_84gacha_watercress.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"ꇞ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/a0_85gacha_idk.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"ꇟ"
+			]
 		}
 	]
 }

@@ -13,5 +13,6 @@
     "sounds.brt.spl_ars_oce": {"subtitle": "§7途經 §6亞馬遜平原站 §7與 §6餅乾共產大洋站 §7...", "sounds": ["brt/spl_ars_oce"]},
     "sounds.brt.spl_cen": {"subtitle": "§7即將前往 §6中樞站 §7...", "sounds": ["brt/spl_cen"]},
     "sounds.brt.spl_oce": {"subtitle": "§7即將前往 §6餅乾共產大洋站 §7...", "sounds": ["brt/spl_oce"]},
-    "sounds.frog.frog": {"subtitle": "§6This is the sonorous war cry of a very VERY angry frog.", "sounds": ["frog/frog"]}
+    "sounds.frog.frog": {"subtitle": "§6This is the sonorous war cry of a very VERY angry frog.", "sounds": ["frog/frog"]},
+    "sounds.gacha.open": {"subtitle": "§e扭蛋！開啟！", "sounds": ["gacha/open"]}
 }

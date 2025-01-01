@@ -2862,6 +2862,13 @@
                     "type": "model",
                     "model": "custom_items/2025hat/plt_ticket_2025"
                 }
+            },
+            {
+                "threshold": 52121,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025hat/rainfrog_2025"
+                }
             }
         ]
     }

@@ -447,6 +447,7 @@
         { "predicate": { "custom_model_data": 52117 }, "model": "custom_items/2025hat/2025countdownglasses17" },
         { "predicate": { "custom_model_data": 52118 }, "model": "custom_items/2025hat/2025countdownglasses18" },
 
-        { "predicate": { "custom_model_data": 52120 }, "model": "custom_items/2025hat/plt_ticket_2025" }
+        { "predicate": { "custom_model_data": 52120 }, "model": "custom_items/2025hat/plt_ticket_2025" },
+        { "predicate": { "custom_model_data": 52121 }, "model": "custom_items/2025hat/rainfrog_2025" }
     ]
 }

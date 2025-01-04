@@ -1,0 +1,9 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/oak_button"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 20036}, "model":"custom_items/shopgui/guiair"}
+    ]
+}

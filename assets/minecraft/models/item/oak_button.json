@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/oak_button"
+        "layer0": "block/oak_button_inventory"
     },
     "overrides": [
         {"predicate": {"custom_model_data": 1000}, "model":"custom_items/shopgui/cosair"}

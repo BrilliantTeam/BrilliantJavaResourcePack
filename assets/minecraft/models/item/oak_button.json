@@ -4,6 +4,6 @@
         "layer0": "item/oak_button"
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 1000}, "model":"custom_items/shopgui/guiair"}
+        {"predicate": {"custom_model_data": 1000}, "model":"custom_items/shopgui/cosair"}
     ]
 }

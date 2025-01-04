@@ -1,5 +1,5 @@
 {
-    "parent": "item/handheld",
+    "parent": "block/oak_button_inventory",
     "textures": {
         "layer0": "block/oak_button_inventory"
     },

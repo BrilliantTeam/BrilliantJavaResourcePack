@@ -11,7 +11,7 @@
                 "threshold": 1000,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/guiair"
+                    "model": "custom_items/shopgui/cosair"
                 }
             }
         ]

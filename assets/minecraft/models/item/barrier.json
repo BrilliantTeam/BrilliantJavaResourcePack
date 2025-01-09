@@ -93,6 +93,7 @@
         { "predicate": { "custom_model_data": 4207 }, "model": "blockentities:item/wooden_sofa_b2_acacia" },
         { "predicate": { "custom_model_data": 4208 }, "model": "blockentities:item/wooden_sofa_b2_dark_oak" },
         { "predicate": { "custom_model_data": 4209 }, "model": "blockentities:item/wooden_sofa_b2_crimson" },
+        { "predicate": { "custom_model_data": 4210 }, "model": "blockentities:item/wooden_sofa_b2_cherry" },
         { "predicate": { "custom_model_data": 4210 }, "model": "blockentities:item/wooden_sofa_b2_pale_oak" },
 
         { "predicate": { "custom_model_data": 4300 }, "model": "blockentities:item/wooden_sofa_b3_oak" },

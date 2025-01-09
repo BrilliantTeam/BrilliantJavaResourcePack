@@ -16,6 +16,7 @@
         { "predicate": { "custom_model_data": 2008 }, "model": "blockentities:item/wood_chair_a_dark_oak" },
         { "predicate": { "custom_model_data": 2009 }, "model": "blockentities:item/wood_chair_a_crimson" },
         { "predicate": { "custom_model_data": 2010 }, "model": "blockentities:item/wood_chair_a_cherry" },
+        { "predicate": { "custom_model_data": 2011 }, "model": "blockentities:item/wood_chair_a_pale_oak" },
 
         { "predicate": { "custom_model_data": 2100 }, "model": "blockentities:item/wood_chair_b_oak" },
         { "predicate": { "custom_model_data": 2101 }, "model": "blockentities:item/wood_chair_b_mangrove" },
@@ -28,6 +29,7 @@
         { "predicate": { "custom_model_data": 2108 }, "model": "blockentities:item/wood_chair_b_dark_oak" },
         { "predicate": { "custom_model_data": 2109 }, "model": "blockentities:item/wood_chair_b_crimson" },
         { "predicate": { "custom_model_data": 2110 }, "model": "blockentities:item/wood_chair_b_cherry" },
+        { "predicate": { "custom_model_data": 2111 }, "model": "blockentities:item/wood_chair_b_pale_oak" },
 
         { "predicate": { "custom_model_data": 3000 }, "model": "blockentities:item/wood_table_a_oak" },
         { "predicate": { "custom_model_data": 3001 }, "model": "blockentities:item/wood_table_a_mangrove" },
@@ -40,6 +42,7 @@
         { "predicate": { "custom_model_data": 3008 }, "model": "blockentities:item/wood_table_a_dark_oak" },
         { "predicate": { "custom_model_data": 3009 }, "model": "blockentities:item/wood_table_a_crimson" },
         { "predicate": { "custom_model_data": 3010 }, "model": "blockentities:item/wood_table_a_cherry" },
+        { "predicate": { "custom_model_data": 3011 }, "model": "blockentities:item/wood_table_a_pale_oak" },
 
         { "predicate": { "custom_model_data": 3100 }, "model": "blockentities:item/wood_table_b_oak" },
         { "predicate": { "custom_model_data": 3101 }, "model": "blockentities:item/wood_table_b_mangrove" },
@@ -52,6 +55,7 @@
         { "predicate": { "custom_model_data": 3108 }, "model": "blockentities:item/wood_table_b_dark_oak" },
         { "predicate": { "custom_model_data": 3109 }, "model": "blockentities:item/wood_table_b_crimson" },
         { "predicate": { "custom_model_data": 3110 }, "model": "blockentities:item/wood_table_b_cherry" },
+        { "predicate": { "custom_model_data": 3111 }, "model": "blockentities:item/wood_table_b_pale_oak" },
 
         { "predicate": { "custom_model_data": 4000 }, "model": "blockentities:item/wooden_sofa_b0_oak" },
         { "predicate": { "custom_model_data": 4001 }, "model": "blockentities:item/wooden_sofa_b0_mangrove" },
@@ -64,6 +68,7 @@
         { "predicate": { "custom_model_data": 4008 }, "model": "blockentities:item/wooden_sofa_b0_dark_oak" },
         { "predicate": { "custom_model_data": 4009 }, "model": "blockentities:item/wooden_sofa_b0_crimson" },
         { "predicate": { "custom_model_data": 4010 }, "model": "blockentities:item/wooden_sofa_b0_cherry" },
+        { "predicate": { "custom_model_data": 4011 }, "model": "blockentities:item/wooden_sofa_b0_pale_oak" },
 
         { "predicate": { "custom_model_data": 4100 }, "model": "blockentities:item/wooden_sofa_b1_oak" },
         { "predicate": { "custom_model_data": 4101 }, "model": "blockentities:item/wooden_sofa_b1_mangrove" },
@@ -76,6 +81,7 @@
         { "predicate": { "custom_model_data": 4108 }, "model": "blockentities:item/wooden_sofa_b1_dark_oak" },
         { "predicate": { "custom_model_data": 4109 }, "model": "blockentities:item/wooden_sofa_b1_crimson" },
         { "predicate": { "custom_model_data": 4110 }, "model": "blockentities:item/wooden_sofa_b1_cherry" },
+        { "predicate": { "custom_model_data": 4111 }, "model": "blockentities:item/wooden_sofa_b1_pale_oak" },
 
         { "predicate": { "custom_model_data": 4200 }, "model": "blockentities:item/wooden_sofa_b2_oak" },
         { "predicate": { "custom_model_data": 4201 }, "model": "blockentities:item/wooden_sofa_b2_mangrove" },
@@ -87,7 +93,7 @@
         { "predicate": { "custom_model_data": 4207 }, "model": "blockentities:item/wooden_sofa_b2_acacia" },
         { "predicate": { "custom_model_data": 4208 }, "model": "blockentities:item/wooden_sofa_b2_dark_oak" },
         { "predicate": { "custom_model_data": 4209 }, "model": "blockentities:item/wooden_sofa_b2_crimson" },
-        { "predicate": { "custom_model_data": 4210 }, "model": "blockentities:item/wooden_sofa_b2_cherry" },
+        { "predicate": { "custom_model_data": 4210 }, "model": "blockentities:item/wooden_sofa_b2_pale_oak" },
 
         { "predicate": { "custom_model_data": 4300 }, "model": "blockentities:item/wooden_sofa_b3_oak" },
         { "predicate": { "custom_model_data": 4301 }, "model": "blockentities:item/wooden_sofa_b3_mangrove" },
@@ -100,6 +106,7 @@
         { "predicate": { "custom_model_data": 4308 }, "model": "blockentities:item/wooden_sofa_b3_dark_oak" },
         { "predicate": { "custom_model_data": 4309 }, "model": "blockentities:item/wooden_sofa_b3_crimson" },
         { "predicate": { "custom_model_data": 4310 }, "model": "blockentities:item/wooden_sofa_b3_cherry" },
+        { "predicate": { "custom_model_data": 4311 }, "model": "blockentities:item/wooden_sofa_b3_pale_oak" },
 
         { "predicate": { "custom_model_data": 4400 }, "model": "blockentities:item/wooden_sofa_b4_oak" },
         { "predicate": { "custom_model_data": 4401 }, "model": "blockentities:item/wooden_sofa_b4_mangrove" },
@@ -112,6 +119,7 @@
         { "predicate": { "custom_model_data": 4408 }, "model": "blockentities:item/wooden_sofa_b4_dark_oak" },
         { "predicate": { "custom_model_data": 4409 }, "model": "blockentities:item/wooden_sofa_b4_crimson" },
         { "predicate": { "custom_model_data": 4410 }, "model": "blockentities:item/wooden_sofa_b4_cherry" },
+        { "predicate": { "custom_model_data": 4411 }, "model": "blockentities:item/wooden_sofa_b4_pale_oak" },
 
         { "predicate": { "custom_model_data": 5000 }, "model": "blockentities:item/wooden_sofa_a0_oak" },
         { "predicate": { "custom_model_data": 5001 }, "model": "blockentities:item/wooden_sofa_a0_mangrove" },
@@ -124,6 +132,7 @@
         { "predicate": { "custom_model_data": 5008 }, "model": "blockentities:item/wooden_sofa_a0_dark_oak" },
         { "predicate": { "custom_model_data": 5009 }, "model": "blockentities:item/wooden_sofa_a0_crimson" },
         { "predicate": { "custom_model_data": 5010 }, "model": "blockentities:item/wooden_sofa_a0_cherry" },
+        { "predicate": { "custom_model_data": 5011 }, "model": "blockentities:item/wooden_sofa_a0_pale_oak" },
 
         { "predicate": { "custom_model_data": 5100 }, "model": "blockentities:item/wooden_sofa_a1_oak" },
         { "predicate": { "custom_model_data": 5101 }, "model": "blockentities:item/wooden_sofa_a1_mangrove" },
@@ -136,6 +145,7 @@
         { "predicate": { "custom_model_data": 5108 }, "model": "blockentities:item/wooden_sofa_a1_dark_oak" },
         { "predicate": { "custom_model_data": 5109 }, "model": "blockentities:item/wooden_sofa_a1_crimson" },
         { "predicate": { "custom_model_data": 5110 }, "model": "blockentities:item/wooden_sofa_a1_cherry" },
+        { "predicate": { "custom_model_data": 5111 }, "model": "blockentities:item/wooden_sofa_a1_pale_oak" },
 
         { "predicate": { "custom_model_data": 5200 }, "model": "blockentities:item/wooden_sofa_a2_oak" },
         { "predicate": { "custom_model_data": 5201 }, "model": "blockentities:item/wooden_sofa_a2_mangrove" },
@@ -148,6 +158,7 @@
         { "predicate": { "custom_model_data": 5208 }, "model": "blockentities:item/wooden_sofa_a2_dark_oak" },
         { "predicate": { "custom_model_data": 5209 }, "model": "blockentities:item/wooden_sofa_a2_crimson" },
         { "predicate": { "custom_model_data": 5210 }, "model": "blockentities:item/wooden_sofa_a2_cherry" },
+        { "predicate": { "custom_model_data": 5211 }, "model": "blockentities:item/wooden_sofa_a2_pale_oak" },
 
         { "predicate": { "custom_model_data": 5300 }, "model": "blockentities:item/wooden_sofa_a3_oak" },
         { "predicate": { "custom_model_data": 5301 }, "model": "blockentities:item/wooden_sofa_a3_mangrove" },
@@ -160,6 +171,7 @@
         { "predicate": { "custom_model_data": 5308 }, "model": "blockentities:item/wooden_sofa_a3_dark_oak" },
         { "predicate": { "custom_model_data": 5309 }, "model": "blockentities:item/wooden_sofa_a3_crimson" },
         { "predicate": { "custom_model_data": 5310 }, "model": "blockentities:item/wooden_sofa_a3_cherry" },
+        { "predicate": { "custom_model_data": 5311 }, "model": "blockentities:item/wooden_sofa_a3_pale_oak" },
 
         { "predicate": { "custom_model_data": 5400 }, "model": "blockentities:item/wooden_sofa_a4_oak" },
         { "predicate": { "custom_model_data": 5401 }, "model": "blockentities:item/wooden_sofa_a4_mangrove" },
@@ -172,6 +184,7 @@
         { "predicate": { "custom_model_data": 5408 }, "model": "blockentities:item/wooden_sofa_a4_dark_oak" },
         { "predicate": { "custom_model_data": 5409 }, "model": "blockentities:item/wooden_sofa_a4_crimson" },
         { "predicate": { "custom_model_data": 5410 }, "model": "blockentities:item/wooden_sofa_a4_cherry" },
+        { "predicate": { "custom_model_data": 5411 }, "model": "blockentities:item/wooden_sofa_a4_pale_oak" },
 
         { "predicate": { "custom_model_data": 6000 }, "model": "blockentities:item/wood_cabinet_a_oak" },
         { "predicate": { "custom_model_data": 6001 }, "model": "blockentities:item/wood_cabinet_a_mangrove" },
@@ -184,6 +197,7 @@
         { "predicate": { "custom_model_data": 6008 }, "model": "blockentities:item/wood_cabinet_a_dark_oak" },
         { "predicate": { "custom_model_data": 6009 }, "model": "blockentities:item/wood_cabinet_a_crimson" },
         { "predicate": { "custom_model_data": 6010 }, "model": "blockentities:item/wood_cabinet_a_cherry" },
+        { "predicate": { "custom_model_data": 6011 }, "model": "blockentities:item/wood_cabinet_a_pale_oak" },
 
         { "predicate": { "custom_model_data": 6100 }, "model": "blockentities:item/wood_cabinet_b_oak" },
         { "predicate": { "custom_model_data": 6101 }, "model": "blockentities:item/wood_cabinet_b_mangrove" },
@@ -196,6 +210,7 @@
         { "predicate": { "custom_model_data": 6108 }, "model": "blockentities:item/wood_cabinet_b_dark_oak" },
         { "predicate": { "custom_model_data": 6109 }, "model": "blockentities:item/wood_cabinet_b_crimson" },
         { "predicate": { "custom_model_data": 6110 }, "model": "blockentities:item/wood_cabinet_b_cherry" },
+        { "predicate": { "custom_model_data": 6111 }, "model": "blockentities:item/wood_cabinet_b_pale_oak" },
 
         { "predicate": { "custom_model_data": 6200 }, "model": "blockentities:item/wood_cabinet_c_oak" },
         { "predicate": { "custom_model_data": 6201 }, "model": "blockentities:item/wood_cabinet_c_mangrove" },
@@ -208,6 +223,7 @@
         { "predicate": { "custom_model_data": 6208 }, "model": "blockentities:item/wood_cabinet_c_dark_oak" },
         { "predicate": { "custom_model_data": 6209 }, "model": "blockentities:item/wood_cabinet_c_crimson" },
         { "predicate": { "custom_model_data": 6210 }, "model": "blockentities:item/wood_cabinet_c_cherry" },
+        { "predicate": { "custom_model_data": 6211 }, "model": "blockentities:item/wood_cabinet_c_pale_oak" },
 
         { "predicate": { "custom_model_data": 6300 }, "model": "blockentities:item/wood_cabinet_d_oak" },
         { "predicate": { "custom_model_data": 6301 }, "model": "blockentities:item/wood_cabinet_d_mangrove" },
@@ -220,6 +236,7 @@
         { "predicate": { "custom_model_data": 6308 }, "model": "blockentities:item/wood_cabinet_d_dark_oak" },
         { "predicate": { "custom_model_data": 6309 }, "model": "blockentities:item/wood_cabinet_d_crimson" },
         { "predicate": { "custom_model_data": 6310 }, "model": "blockentities:item/wood_cabinet_d_cherry" },
+        { "predicate": { "custom_model_data": 6311 }, "model": "blockentities:item/wood_cabinet_d_pale_oak" },
 
         { "predicate": { "custom_model_data": 7000 }, "model": "blockentities:item/toilet_a1_oak" },
         { "predicate": { "custom_model_data": 7001 }, "model": "blockentities:item/toilet_a1_mangrove" },
@@ -232,6 +249,7 @@
         { "predicate": { "custom_model_data": 7008 }, "model": "blockentities:item/toilet_a1_dark_oak" },
         { "predicate": { "custom_model_data": 7009 }, "model": "blockentities:item/toilet_a1_crimson" },
         { "predicate": { "custom_model_data": 7010 }, "model": "blockentities:item/toilet_a1_cherry" },
+        { "predicate": { "custom_model_data": 7011 }, "model": "blockentities:item/toilet_a1_pale_oak" },
 
         { "predicate": { "custom_model_data": 7100 }, "model": "blockentities:item/toilet_a2_oak" },
         { "predicate": { "custom_model_data": 7101 }, "model": "blockentities:item/toilet_a2_mangrove" },
@@ -244,6 +262,7 @@
         { "predicate": { "custom_model_data": 7108 }, "model": "blockentities:item/toilet_a2_dark_oak" },
         { "predicate": { "custom_model_data": 7109 }, "model": "blockentities:item/toilet_a2_crimson" },
         { "predicate": { "custom_model_data": 7110 }, "model": "blockentities:item/toilet_a2_cherry" },
+        { "predicate": { "custom_model_data": 7111 }, "model": "blockentities:item/toilet_a2_pale_oak" },
 
         { "predicate": { "custom_model_data": 7200 }, "model": "blockentities:item/toilet_ice1" },
 
@@ -258,6 +277,7 @@
         { "predicate": { "custom_model_data": 8008 }, "model": "blockentities:item/toilet_b1_dark_oak" },
         { "predicate": { "custom_model_data": 8009 }, "model": "blockentities:item/toilet_b1_crimson" },
         { "predicate": { "custom_model_data": 8010 }, "model": "blockentities:item/toilet_b1_cherry" },
+        { "predicate": { "custom_model_data": 8011 }, "model": "blockentities:item/toilet_b1_pale_oak" },
 
         { "predicate": { "custom_model_data": 8100 }, "model": "blockentities:item/toilet_b2_oak" },
         { "predicate": { "custom_model_data": 8101 }, "model": "blockentities:item/toilet_b2_mangrove" },
@@ -270,6 +290,7 @@
         { "predicate": { "custom_model_data": 8108 }, "model": "blockentities:item/toilet_b2_dark_oak" },
         { "predicate": { "custom_model_data": 8109 }, "model": "blockentities:item/toilet_b2_crimson" },
         { "predicate": { "custom_model_data": 8110 }, "model": "blockentities:item/toilet_b2_cherry" },
+        { "predicate": { "custom_model_data": 8111 }, "model": "blockentities:item/toilet_b2_pale_oak" },
 
         { "predicate": { "custom_model_data": 8200 }, "model": "blockentities:item/toilet_ice2" },
 
@@ -284,6 +305,7 @@
         { "predicate": { "custom_model_data": 9008 }, "model": "blockentities:item/blinder_a1_dark_oak" },
         { "predicate": { "custom_model_data": 9009 }, "model": "blockentities:item/blinder_a1_crimson" },
         { "predicate": { "custom_model_data": 9010 }, "model": "blockentities:item/blinder_a1_cherry" },
+        { "predicate": { "custom_model_data": 9011 }, "model": "blockentities:item/blinder_a1_pale_oak" },
 
         { "predicate": { "custom_model_data": 19911 }, "model": "blockentities:item/aether_block" },
         { "predicate": { "custom_model_data": 19912 }, "model": "blockentities:item/paradise_powder_block" },

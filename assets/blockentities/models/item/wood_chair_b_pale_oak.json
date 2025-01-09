@@ -4,7 +4,7 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "blockentities:block/pale_oak",
-		"1": "blockentities:block/light_gary",
+		"1": "blockentities:block/light_gray",
 		"particle": "blockentities:block/pale_oak"
 	}
 }

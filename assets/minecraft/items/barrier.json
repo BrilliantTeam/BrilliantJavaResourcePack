@@ -85,6 +85,13 @@
                 }
             },
             {
+                "threshold": 2011,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/wood_chair_a_pale_oak"
+                }
+            },
+            {
                 "threshold": 2100,
                 "model": {
                     "type": "model",
@@ -159,6 +166,13 @@
                 "model": {
                     "type": "model",
                     "model": "blockentities:item/wood_chair_b_cherry"
+                }
+            },
+            {
+                "threshold": 2111,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/wood_chair_b_pale_oak"
                 }
             },
             {
@@ -239,6 +253,13 @@
                 }
             },
             {
+                "threshold": 3011,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/wood_table_a_pale_oak"
+                }
+            },
+            {
                 "threshold": 3100,
                 "model": {
                     "type": "model",
@@ -313,6 +334,13 @@
                 "model": {
                     "type": "model",
                     "model": "blockentities:item/wood_table_b_cherry"
+                }
+            },
+            {
+                "threshold": 3111,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/wood_table_b_pale_oak"
                 }
             },
             {
@@ -393,6 +421,13 @@
                 }
             },
             {
+                "threshold": 4011,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/wooden_sofa_b0_pale_oak"
+                }
+            },
+            {
                 "threshold": 4100,
                 "model": {
                     "type": "model",
@@ -470,6 +505,13 @@
                 }
             },
             {
+                "threshold": 4111,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/wooden_sofa_b1_pale_oak"
+                }
+            },
+            {
                 "threshold": 4200,
                 "model": {
                     "type": "model",
@@ -543,7 +585,7 @@
                 "threshold": 4210,
                 "model": {
                     "type": "model",
-                    "model": "blockentities:item/wooden_sofa_b2_cherry"
+                    "model": "blockentities:item/wooden_sofa_b2_pale_oak"
                 }
             },
             {
@@ -624,6 +666,13 @@
                 }
             },
             {
+                "threshold": 4311,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/wooden_sofa_b3_pale_oak"
+                }
+            },
+            {
                 "threshold": 4400,
                 "model": {
                     "type": "model",
@@ -698,6 +747,13 @@
                 "model": {
                     "type": "model",
                     "model": "blockentities:item/wooden_sofa_b4_cherry"
+                }
+            },
+            {
+                "threshold": 4411,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/wooden_sofa_b4_pale_oak"
                 }
             },
             {
@@ -778,6 +834,13 @@
                 }
             },
             {
+                "threshold": 5011,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/wooden_sofa_a0_pale_oak"
+                }
+            },
+            {
                 "threshold": 5100,
                 "model": {
                     "type": "model",
@@ -852,6 +915,13 @@
                 "model": {
                     "type": "model",
                     "model": "blockentities:item/wooden_sofa_a1_cherry"
+                }
+            },
+            {
+                "threshold": 5111,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/wooden_sofa_a1_pale_oak"
                 }
             },
             {
@@ -932,6 +1002,13 @@
                 }
             },
             {
+                "threshold": 5211,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/wooden_sofa_a2_pale_oak"
+                }
+            },
+            {
                 "threshold": 5300,
                 "model": {
                     "type": "model",
@@ -1006,6 +1083,13 @@
                 "model": {
                     "type": "model",
                     "model": "blockentities:item/wooden_sofa_a3_cherry"
+                }
+            },
+            {
+                "threshold": 5311,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/wooden_sofa_a3_pale_oak"
                 }
             },
             {
@@ -1086,6 +1170,13 @@
                 }
             },
             {
+                "threshold": 5411,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/wooden_sofa_a4_pale_oak"
+                }
+            },
+            {
                 "threshold": 6000,
                 "model": {
                     "type": "model",
@@ -1160,6 +1251,13 @@
                 "model": {
                     "type": "model",
                     "model": "blockentities:item/wood_cabinet_a_cherry"
+                }
+            },
+            {
+                "threshold": 6011,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/wood_cabinet_a_pale_oak"
                 }
             },
             {
@@ -1240,6 +1338,13 @@
                 }
             },
             {
+                "threshold": 6111,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/wood_cabinet_b_pale_oak"
+                }
+            },
+            {
                 "threshold": 6200,
                 "model": {
                     "type": "model",
@@ -1314,6 +1419,13 @@
                 "model": {
                     "type": "model",
                     "model": "blockentities:item/wood_cabinet_c_cherry"
+                }
+            },
+            {
+                "threshold": 6211,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/wood_cabinet_c_pale_oak"
                 }
             },
             {
@@ -1394,6 +1506,13 @@
                 }
             },
             {
+                "threshold": 6311,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/wood_cabinet_d_pale_oak"
+                }
+            },
+            {
                 "threshold": 7000,
                 "model": {
                     "type": "model",
@@ -1471,6 +1590,13 @@
                 }
             },
             {
+                "threshold": 7011,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/toilet_a1_pale_oak"
+                }
+            },
+            {
                 "threshold": 7100,
                 "model": {
                     "type": "model",
@@ -1545,6 +1671,13 @@
                 "model": {
                     "type": "model",
                     "model": "blockentities:item/toilet_a2_cherry"
+                }
+            },
+            {
+                "threshold": 7111,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/toilet_a2_pale_oak"
                 }
             },
             {
@@ -1632,6 +1765,13 @@
                 }
             },
             {
+                "threshold": 8011,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/toilet_b1_pale_oak"
+                }
+            },
+            {
                 "threshold": 8100,
                 "model": {
                     "type": "model",
@@ -1706,6 +1846,13 @@
                 "model": {
                     "type": "model",
                     "model": "blockentities:item/toilet_b2_cherry"
+                }
+            },
+            {
+                "threshold": 8111,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/toilet_b2_pale_oak"
                 }
             },
             {
@@ -1790,6 +1937,13 @@
                 "model": {
                     "type": "model",
                     "model": "blockentities:item/blinder_a1_cherry"
+                }
+            },
+            {
+                "threshold": 9011,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/blinder_a1_pale_oak"
                 }
             },
             {

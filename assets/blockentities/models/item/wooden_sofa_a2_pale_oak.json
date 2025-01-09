@@ -3,8 +3,8 @@
 	"parent": "blockentities:item/wooden_sofa_a2",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "blockentities:block/light_gary",
+		"0": "blockentities:block/light_gray",
 		"1": "blockentities:block/pale_oak",
-		"particle": "blockentities:block/light_gary"
+		"particle": "blockentities:block/light_gray"
 	}
 }

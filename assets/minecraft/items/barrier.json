@@ -585,6 +585,13 @@
                 "threshold": 4210,
                 "model": {
                     "type": "model",
+                    "model": "blockentities:item/wooden_sofa_b2_cherry"
+                }
+            },
+            {
+                "threshold": 4211,
+                "model": {
+                    "type": "model",
                     "model": "blockentities:item/wooden_sofa_b2_pale_oak"
                 }
             },

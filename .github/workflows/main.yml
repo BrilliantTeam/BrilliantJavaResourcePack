@@ -56,7 +56,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         tag_name: ${{ github.run_number }}-v${{ steps.set_var.outputs.TAG_PREFIX }}
-        release_name: Version ${{ steps.set_var.outputs.TAG_PREFIX }} | ${{ github.event.head_commit.message }}
+        release_name: Version. ${{ github.run_number }} | ${{ steps.set_var.outputs.TAG_PREFIX }} | ${{ github.event.head_commit.message }}
         draft: false
         prerelease: false
         body: |

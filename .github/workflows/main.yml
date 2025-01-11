@@ -37,6 +37,15 @@ jobs:
         echo "Set TAG_PREFIX to: ${{ steps.set_var.outputs.TAG_PREFIX }}"
         echo "Set ASSET_NAME to: ${{ steps.set_var.outputs.ASSET_NAME }}"
     
+    - name: 執行 PackSquash
+      uses: ComunidadAylas/PackSquash-action@v4
+      with:
+        options: file.toml
+        packsquash_version: 'v0.4.0'
+        artifact_name: 'bsje-n'
+        show_emoji_in_packsquash_logs: true
+        enable_color_in_packsquash_logs: true
+    
     - name: 壓縮成 zip
       run: |
         echo "Creating zip file: ${{ steps.set_var.outputs.ZIP_NAME }}"

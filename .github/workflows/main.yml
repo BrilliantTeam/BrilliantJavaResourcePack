@@ -22,17 +22,33 @@ jobs:
         if [[ "$BRANCH_NAME" == "main" ]]; then
           echo "ZIP_NAME=bsje-1.20.2.zip" >> $GITHUB_OUTPUT
           echo "TAG_PREFIX=1.20.2" >> $GITHUB_OUTPUT
-        elif [[ "$BRANCH_NAME" == "tree/1.21.4" ]]; then
+          echo "ASSET_NAME=bsje-1.20.2.zip" >> $GITHUB_OUTPUT
+        elif [[ "$BRANCH_NAME" == "1.21.4" ]]; then
           echo "ZIP_NAME=bsje-1.21.4.zip" >> $GITHUB_OUTPUT
           echo "TAG_PREFIX=1.21.4" >> $GITHUB_OUTPUT
+          echo "ASSET_NAME=bsje-1.21.4.zip" >> $GITHUB_OUTPUT
+        else
+          echo "ZIP_NAME=bsje-unknown.zip" >> $GITHUB_OUTPUT
+          echo "TAG_PREFIX=unknown" >> $GITHUB_OUTPUT
+          echo "ASSET_NAME=bsje-unknown.zip" >> $GITHUB_OUTPUT
         fi
+        
+        # 调试输出
+        echo "Set ZIP_NAME to: ${{ steps.set_var.outputs.ZIP_NAME }}"
+        echo "Set TAG_PREFIX to: ${{ steps.set_var.outputs.TAG_PREFIX }}"
+        echo "Set ASSET_NAME to: ${{ steps.set_var.outputs.ASSET_NAME }}"
     
     - name: 壓縮成 zip
-      run: zip -r ${{ steps.set_var.outputs.ZIP_NAME }} assets/* license.md pack.mcmeta pack.png
+      run: |
+        echo "Creating zip file: ${{ steps.set_var.outputs.ZIP_NAME }}"
+        zip -r "${{ steps.set_var.outputs.ZIP_NAME }}" assets/* license.md pack.mcmeta pack.png
+        ls -la "${{ steps.set_var.outputs.ZIP_NAME }}"  # 验证文件是否创建
     
     - name: 計算 SHA1
       id: calculate_sha1
-      run: echo "RESOURCE_SHA1=$(sha1sum ${{ steps.set_var.outputs.ZIP_NAME }} | awk '{print $1}')" >> $GITHUB_OUTPUT
+      run: |
+        echo "Calculating SHA1 for: ${{ steps.set_var.outputs.ZIP_NAME }}"
+        echo "RESOURCE_SHA1=$(sha1sum ${{ steps.set_var.outputs.ZIP_NAME }} | awk '{print $1}')" >> $GITHUB_OUTPUT
     
     - name: 創建發佈
       id: create_release
@@ -47,7 +63,7 @@ jobs:
         body: |
           SHA1：${{ steps.calculate_sha1.outputs.RESOURCE_SHA1 }}
 
-          玩家可於 Assets 條目中，點選 ${{ steps.set_var.outputs.ZIP_NAME }} 來下載此版本的材質包
+          玩家可於 Assets 條目中，點選 ${{ steps.set_var.outputs.ASSET_NAME }} 來下載此版本的材質包
           建議玩家下載 Version 標題旁有綠色 Latest 字樣版本的材質包來登入輝煌伺服器，
           以取得最完善的遊戲體驗。
 
@@ -61,5 +77,5 @@ jobs:
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
         asset_path: ./${{ steps.set_var.outputs.ZIP_NAME }}
-        asset_name: ${{ steps.set_var.outputs.ZIP_NAME }}
+        asset_name: ${{ steps.set_var.outputs.ASSET_NAME }}
         asset_content_type: application/zip

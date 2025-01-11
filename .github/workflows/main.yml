@@ -20,13 +20,13 @@ jobs:
         echo "Branch name is: $BRANCH_NAME"
         
         if [[ "$BRANCH_NAME" == "main" ]]; then
-          echo "ZIP_NAME=bsje-1.20.2.zip" >> $GITHUB_OUTPUT
+          echo "ZIP_NAME=bsje.zip" >> $GITHUB_OUTPUT
           echo "TAG_PREFIX=1.20.2" >> $GITHUB_OUTPUT
-          echo "ASSET_NAME=bsje-1.20.2.zip" >> $GITHUB_OUTPUT
+          echo "ASSET_NAME=bsje.zip" >> $GITHUB_OUTPUT
         elif [[ "$BRANCH_NAME" == "1.21.4" ]]; then
-          echo "ZIP_NAME=bsje-1.21.4.zip" >> $GITHUB_OUTPUT
+          echo "ZIP_NAME=bsje.zip" >> $GITHUB_OUTPUT
           echo "TAG_PREFIX=1.21.4" >> $GITHUB_OUTPUT
-          echo "ASSET_NAME=bsje-1.21.4.zip" >> $GITHUB_OUTPUT
+          echo "ASSET_NAME=bsje.zip" >> $GITHUB_OUTPUT
         else
           echo "ZIP_NAME=bsje-unknown.zip" >> $GITHUB_OUTPUT
           echo "TAG_PREFIX=unknown" >> $GITHUB_OUTPUT

@@ -56,7 +56,7 @@ jobs:
         body: |
           SHA1：${{ steps.calculate_sha1.outputs.RESOURCE_SHA1 }}
 
-          玩家可於 Assets 條目中，點選 bsje-n.zip 來下載此版本的材質包
+          玩家可於 Assets 條目中，點選 bsje-${{ steps.set_var.outputs.VERSION }}.zip 來下載此版本的材質包
           建議玩家下載 Version 標題旁有綠色 Latest 字樣版本的材質包來登入輝煌伺服器，
           以取得最完善的遊戲體驗。
 

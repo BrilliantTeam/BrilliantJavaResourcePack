@@ -45,7 +45,7 @@ delete_bloat_keys = false
 
 # Compress textures losslessly no matter what. Keep them small
 ['**/*.png']
-image_data_compression_iterations = 15
+image_data_compression_iterations = 5
 color_quantization_target = 'none'
 maximum_width_and_height = 20480
 skip_alpha_optimizations = true

@@ -3,8 +3,8 @@
 # spans until the end of the line
 
 # Global options
-pack_directory = 'C:\Users\skril\Desktop\Spartan Survival 1.0.0 FULL'
-output_file_path = 'C:\Users\skril\Desktop\Spartan Survival 1.0.0 FULL.zip'
+pack_directory = '.'
+output_file_path = './bsje-n.zip'
 recompress_compressed_files = true
 zip_compression_iterations = 5
 automatic_minecraft_quirks_detection = true

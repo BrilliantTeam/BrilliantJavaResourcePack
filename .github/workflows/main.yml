@@ -20,7 +20,10 @@ jobs:
       uses: ComunidadAylas/PackSquash-action@v4
       with:
         options: file.toml
-        packsquash_version: '0.4.0'
+        packsquash_version: 'v0.4.0'
+        artifact_name: 'bsje-n'
+        show_emoji_in_packsquash_logs: true
+        enable_color_in_packsquash_logs: true
     - name: 創建發佈
       id: create_release
       uses: actions/create-release@v1

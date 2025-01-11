@@ -2,11 +2,6 @@
 # You can also start a comment in the middle of a line with #, that
 # spans until the end of the line
 
-ignore_path_patterns = [
-    '.git/**/*',  # Ignores all files in .git directory
-    '.github/**/*' # Also ignore GitHub-specific files if you have any
-]
-
 # Global options
 pack_directory = '.'
 output_file_path = './bsje-n.zip'

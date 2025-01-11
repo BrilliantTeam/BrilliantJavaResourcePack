@@ -16,6 +16,10 @@ jobs:
     - name: 計算 SHA1
       id: calculate_sha1
       run: echo "RESOURCE_SHA1=$(sha1sum bsje-n.zip | awk '{print $1}')" >> $GITHUB_OUTPUT
+    - name: 執行 PackSquash
+      uses: ComunidadAylas/PackSquash-action@v4
+      with:
+        config: file.toml
     - name: 創建發佈
       id: create_release
       uses: actions/create-release@v1

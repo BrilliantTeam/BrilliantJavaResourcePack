@@ -38,7 +38,7 @@ sampling_frequency = 44100
 target_pitch = 1.5
 target_bitrate_control_metric = 96000
 
-# JSON files with comments get prettified and nothing is removed from them
+# JSON files with comments get prettified and nothing is removed from them 
 ['**/*.jsonc']
 minify_json = false
 delete_bloat_keys = false

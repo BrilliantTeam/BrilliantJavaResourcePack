@@ -1513,6 +1513,13 @@
                 }
             },
             {
+                "threshold": 31500,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/doll/mistelnrice5"
+                }
+            },
+            {
                 "threshold": 31994,
                 "model": {
                     "type": "model",

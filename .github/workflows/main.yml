@@ -3,7 +3,7 @@ on:
   push:
     branches:
     - main
-    - 1.21.4
+    - tree/1.21.4
 permissions:
   contents: write
 jobs:

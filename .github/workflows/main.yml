@@ -19,7 +19,8 @@ jobs:
     - name: 執行 PackSquash
       uses: ComunidadAylas/PackSquash-action@v4
       with:
-        config: file.toml
+        options: file.toml
+        packsquash_version: '0.4.0'
     - name: 創建發佈
       id: create_release
       uses: actions/create-release@v1

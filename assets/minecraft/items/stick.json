@@ -2876,6 +2876,13 @@
                     "type": "model",
                     "model": "custom_items/2025hat/rainfrog_2025"
                 }
+            },
+            {
+                "threshold": 53000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/squidgame/squidgameinvitecard"
+                }
             }
         ]
     }

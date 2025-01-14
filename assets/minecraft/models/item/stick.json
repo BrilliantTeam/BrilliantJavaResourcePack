@@ -473,13 +473,14 @@
         { "predicate": { "custom_model_data": 54033 }, "model": "custom_items/2025newyear/2025_scroll_3" },
         { "predicate": { "custom_model_data": 54034 }, "model": "custom_items/2025newyear/2025_scroll_4" },
         { "predicate": { "custom_model_data": 54035 }, "model": "custom_items/2025newyear/2025_scroll_5" },
+        { "predicate": { "custom_model_data": 54036 }, "model": "custom_items/2025newyear/2025_scroll_6" },
 
-        { "predicate": { "custom_model_data": 54036 }, "model": "custom_items/2025newyear/2025_lscroll_0" },
-        { "predicate": { "custom_model_data": 54037 }, "model": "custom_items/2025newyear/2025_lscroll_1" },
-        { "predicate": { "custom_model_data": 54038 }, "model": "custom_items/2025newyear/2025_lscroll_2" },
-        { "predicate": { "custom_model_data": 54039 }, "model": "custom_items/2025newyear/2025_lscroll_3" },
-        { "predicate": { "custom_model_data": 54040 }, "model": "custom_items/2025newyear/2025_lscroll_4" },
-        { "predicate": { "custom_model_data": 54041 }, "model": "custom_items/2025newyear/2025_lscroll_5" },
+        { "predicate": { "custom_model_data": 54037 }, "model": "custom_items/2025newyear/2025_lscroll_0" },
+        { "predicate": { "custom_model_data": 54038 }, "model": "custom_items/2025newyear/2025_lscroll_1" },
+        { "predicate": { "custom_model_data": 54039 }, "model": "custom_items/2025newyear/2025_lscroll_2" },
+        { "predicate": { "custom_model_data": 54040 }, "model": "custom_items/2025newyear/2025_lscroll_3" },
+        { "predicate": { "custom_model_data": 54041 }, "model": "custom_items/2025newyear/2025_lscroll_4" },
+        { "predicate": { "custom_model_data": 54042 }, "model": "custom_items/2025newyear/2025_lscroll_5" },
 
         { "predicate": { "custom_model_data": 54050 }, "model": "custom_items/2025newyear/chinese_knot_1" },
         { "predicate": { "custom_model_data": 54051 }, "model": "custom_items/2025newyear/chinese_knot_2" }

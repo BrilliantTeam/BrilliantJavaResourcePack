@@ -1,0 +1,10 @@
+{
+    "credit": "書碼",
+    "parent": "custom_items/2025newyear/newyearhat",
+	"texture_size": [64, 64],
+    "textures": {
+		"1": "item/custom/newyear/circular_coin_with_a_square_hole_1",
+        "2": "item/custom/2025newyear/newyearhat_3",
+        "particle": "item/custom/2025newyear/newyearhat_3"
+    }
+}

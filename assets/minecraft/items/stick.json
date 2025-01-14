@@ -2883,6 +2883,181 @@
                     "type": "model",
                     "model": "custom_items/squidgame/squidgameinvitecard"
                 }
+            },
+            {
+                "threshold": 54000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/wealthgodhat_01"
+                }
+            },
+            {
+                "threshold": 54010,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/tiger_1"
+                }
+            },
+            {
+                "threshold": 54011,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/tiger_2"
+                }
+            },
+            {
+                "threshold": 54012,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/tiger_3"
+                }
+            },
+            {
+                "threshold": 54013,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/tiger_4"
+                }
+            },
+            {
+                "threshold": 54014,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/tiger_5"
+                }
+            },
+            {
+                "threshold": 54015,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/tiger_rgb"
+                }
+            },
+            {
+                "threshold": 54020,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/newyearhat_1"
+                }
+            },
+            {
+                "threshold": 54021,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/newyearhat_2"
+                }
+            },
+            {
+                "threshold": 54022,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/newyearhat_3"
+                }
+            },
+            {
+                "threshold": 54030,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/2025_scroll_0"
+                }
+            },
+            {
+                "threshold": 54031,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/2025_scroll_1"
+                }
+            },
+            {
+                "threshold": 54032,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/2025_scroll_2"
+                }
+            },
+            {
+                "threshold": 54033,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/2025_scroll_3"
+                }
+            },
+            {
+                "threshold": 54034,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/2025_scroll_4"
+                }
+            },
+            {
+                "threshold": 54035,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/2025_scroll_5"
+                }
+            },
+            {
+                "threshold": 54036,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/2025_scroll_6"
+                }
+            },
+            {
+                "threshold": 54037,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/2025_lscroll_0"
+                }
+            },
+            {
+                "threshold": 54038,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/2025_lscroll_1"
+                }
+            },
+            {
+                "threshold": 54039,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/2025_lscroll_2"
+                }
+            },
+            {
+                "threshold": 54040,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/2025_lscroll_3"
+                }
+            },
+            {
+                "threshold": 54041,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/2025_lscroll_4"
+                }
+            },
+            {
+                "threshold": 54042,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/2025_lscroll_5"
+                }
+            },
+            {
+                "threshold": 54050,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/chinese_knot_1"
+                }
+            },
+            {
+                "threshold": 54051,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/chinese_knot_2"
+                }
             }
         ]
     }

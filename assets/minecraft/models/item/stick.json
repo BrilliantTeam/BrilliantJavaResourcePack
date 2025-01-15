@@ -455,6 +455,9 @@
         { "predicate": { "custom_model_data": 53000 }, "model": "custom_items/squidgame/squidgameinvitecard" },
         
         { "predicate": { "custom_model_data": 54000 }, "model": "custom_items/2025newyear/wealthgodhat_01" },
+        { "predicate": { "custom_model_data": 54001 }, "model": "custom_items/2025newyear/wealthgodhat_02" },
+        { "predicate": { "custom_model_data": 54002 }, "model": "custom_items/2025newyear/lantern_snake_1" },
+        { "predicate": { "custom_model_data": 54003 }, "model": "custom_items/2025newyear/lantern_snake_2" },
 
         { "predicate": { "custom_model_data": 54010 }, "model": "custom_items/2025newyear/tiger_1" },
         { "predicate": { "custom_model_data": 54011 }, "model": "custom_items/2025newyear/tiger_2" },

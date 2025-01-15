@@ -1,0 +1,9 @@
+{
+    "credit": "書碼",
+    "parent": "custom_items/2025newyear/lantern_snake",
+	"texture_size": [64, 64],
+    "textures": {
+        "1": "item/custom/2025newyear/snake_lantern_animated_1",
+        "particle": "item/custom/2025newyear/snake_lantern_animated_1"
+    }
+}

@@ -2,7 +2,7 @@
 	"credit": "書碼",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "item/custom/2025newyear/snake_scale_1"
+		"layer0": "item/custom/2025newyear/snake_scale_2"
 	},
 	"gui_light": "front",
 	"display": {}

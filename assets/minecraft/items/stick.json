@@ -3058,6 +3058,34 @@
                     "type": "model",
                     "model": "custom_items/2025newyear/chinese_knot_2"
                 }
+            },
+            {
+                "threshold": 54060,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/snake_scale_1"
+                }
+            },
+            {
+                "threshold": 54061,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/snake_scale_2"
+                }
+            },
+            {
+                "threshold": 54062,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/red_envelope_c"
+                }
+            },
+            {
+                "threshold": 54063,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/snake_teeth"
+                }
             }
         ]
     }

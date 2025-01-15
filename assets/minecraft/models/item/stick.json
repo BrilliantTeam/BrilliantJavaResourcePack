@@ -483,6 +483,11 @@
         { "predicate": { "custom_model_data": 54042 }, "model": "custom_items/2025newyear/2025_lscroll_5" },
 
         { "predicate": { "custom_model_data": 54050 }, "model": "custom_items/2025newyear/chinese_knot_1" },
-        { "predicate": { "custom_model_data": 54051 }, "model": "custom_items/2025newyear/chinese_knot_2" }
+        { "predicate": { "custom_model_data": 54051 }, "model": "custom_items/2025newyear/chinese_knot_2" },
+
+        { "predicate": { "custom_model_data": 54060 }, "model": "custom_items/2025newyear/snake_scale_1" },
+        { "predicate": { "custom_model_data": 54061 }, "model": "custom_items/2025newyear/snake_scale_2" },
+        { "predicate": { "custom_model_data": 54062 }, "model": "custom_items/2025newyear/red_envelope_c" },
+        { "predicate": { "custom_model_data": 54063 }, "model": "custom_items/2025newyear/snake_teeth" }
     ]
 }

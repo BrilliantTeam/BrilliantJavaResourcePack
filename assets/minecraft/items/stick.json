@@ -2892,6 +2892,27 @@
                 }
             },
             {
+                "threshold": 54001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/wealthgodhat_02"
+                }
+            },
+            {
+                "threshold": 54002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/lantern_snake_1"
+                }
+            },
+            {
+                "threshold": 54003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/lantern_snake_2"
+                }
+            },
+            {
                 "threshold": 54010,
                 "model": {
                     "type": "model",

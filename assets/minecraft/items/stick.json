@@ -1513,6 +1513,13 @@
                 }
             },
             {
+                "threshold": 31110,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/doll/kaizzz"
+                }
+            },
+            {
                 "threshold": 31500,
                 "model": {
                     "type": "model",

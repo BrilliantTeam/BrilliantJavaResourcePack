@@ -2920,6 +2920,20 @@
                 }
             },
             {
+                "threshold": 54004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/snake_scarf"
+                }
+            },
+            {
+                "threshold": 54005,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/cherrybombox"
+                }
+            },
+            {
                 "threshold": 54010,
                 "model": {
                     "type": "model",
@@ -3113,6 +3127,97 @@
                 "model": {
                     "type": "model",
                     "model": "custom_items/2025newyear/snake_teeth"
+                }
+            },
+            {
+                "threshold": 54070,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/cherrybombom1"
+                }
+            },
+            {
+                "threshold": 54071,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/cherrybombom2"
+                }
+            },
+            {
+                "threshold": 54072,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/cherrybombom3"
+                }
+            },
+            {
+                "threshold": 54073,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/cherrybombom4"
+                }
+            },
+            {
+                "threshold": 54074,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/cherrybombom5"
+                }
+            },
+            {
+                "threshold": 54075,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/cherrybombom6"
+                }
+            },
+            {
+                "threshold": 54076,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/cherrybombom7"
+                }
+            },
+            {
+                "threshold": 54077,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/cherrybombom8"
+                }
+            },
+            {
+                "threshold": 54078,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/cherrybombom9"
+                }
+            },
+            {
+                "threshold": 54079,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/cherrybombom10"
+                }
+            },
+            {
+                "threshold": 54080,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/cherrybombom11"
+                }
+            },
+            {
+                "threshold": 54081,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/cherrybombom12"
+                }
+            },
+            {
+                "threshold": 54082,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/cherrybombom13"
                 }
             }
         ]

@@ -1,0 +1,7 @@
+{
+    "parent": "custom_items/2025newyear/cherrybombom",
+	"textures": {
+		"0": "item/custom/2025newyear/cherrybombom12",
+		"particle": "item/custom/2025newyear/cherrybombom12"
+	}
+}

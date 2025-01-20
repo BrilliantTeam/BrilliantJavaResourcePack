@@ -459,6 +459,8 @@
         { "predicate": { "custom_model_data": 54001 }, "model": "custom_items/2025newyear/wealthgodhat_02" },
         { "predicate": { "custom_model_data": 54002 }, "model": "custom_items/2025newyear/lantern_snake_1" },
         { "predicate": { "custom_model_data": 54003 }, "model": "custom_items/2025newyear/lantern_snake_2" },
+        { "predicate": { "custom_model_data": 54004 }, "model": "custom_items/2025newyear/snake_scarf" },
+        { "predicate": { "custom_model_data": 54005 }, "model": "custom_items/2025newyear/cherrybombox" },
 
         { "predicate": { "custom_model_data": 54010 }, "model": "custom_items/2025newyear/tiger_1" },
         { "predicate": { "custom_model_data": 54011 }, "model": "custom_items/2025newyear/tiger_2" },
@@ -492,6 +494,21 @@
         { "predicate": { "custom_model_data": 54060 }, "model": "custom_items/2025newyear/snake_scale_1" },
         { "predicate": { "custom_model_data": 54061 }, "model": "custom_items/2025newyear/snake_scale_2" },
         { "predicate": { "custom_model_data": 54062 }, "model": "custom_items/2025newyear/red_envelope_c" },
-        { "predicate": { "custom_model_data": 54063 }, "model": "custom_items/2025newyear/snake_teeth" }
+        { "predicate": { "custom_model_data": 54063 }, "model": "custom_items/2025newyear/snake_teeth" },
+        
+        { "predicate": { "custom_model_data": 54070 }, "model": "custom_items/2025newyear/cherrybombom1" },
+        { "predicate": { "custom_model_data": 54071 }, "model": "custom_items/2025newyear/cherrybombom2" },
+        { "predicate": { "custom_model_data": 54072 }, "model": "custom_items/2025newyear/cherrybombom3" },
+        { "predicate": { "custom_model_data": 54073 }, "model": "custom_items/2025newyear/cherrybombom4" },
+        { "predicate": { "custom_model_data": 54074 }, "model": "custom_items/2025newyear/cherrybombom5" },
+        { "predicate": { "custom_model_data": 54075 }, "model": "custom_items/2025newyear/cherrybombom6" },
+        { "predicate": { "custom_model_data": 54076 }, "model": "custom_items/2025newyear/cherrybombom7" },
+        { "predicate": { "custom_model_data": 54077 }, "model": "custom_items/2025newyear/cherrybombom8" },
+        { "predicate": { "custom_model_data": 54078 }, "model": "custom_items/2025newyear/cherrybombom9" },
+        { "predicate": { "custom_model_data": 54079 }, "model": "custom_items/2025newyear/cherrybombom10" },
+        { "predicate": { "custom_model_data": 54080 }, "model": "custom_items/2025newyear/cherrybombom11" },
+        { "predicate": { "custom_model_data": 54081 }, "model": "custom_items/2025newyear/cherrybombom12" },
+        { "predicate": { "custom_model_data": 54082 }, "model": "custom_items/2025newyear/cherrybombom13" },
+        { "predicate": { "custom_model_data": 54083 }, "model": "custom_items/2025newyear/cherrybombom14" }
     ]
 }

@@ -254,20 +254,6 @@
 			}
 		},
 		{
-			"from": [4, 3, 4],
-			"to": [12, 11, 12],
-			"rotation": {"angle": 0, "axis": "y", "origin": [-4, -5, -4]},
-			"color": 8,
-			"faces": {
-				"north": {"uv": [0, 0, 2, 2], "texture": "#missing"},
-				"east": {"uv": [0, 0, 2, 2], "texture": "#missing"},
-				"south": {"uv": [0, 0, 2, 2], "texture": "#missing"},
-				"west": {"uv": [0, 0, 2, 2], "texture": "#missing"},
-				"up": {"uv": [0, 0, 2, 2], "texture": "#missing"},
-				"down": {"uv": [0, 0, 2, 2], "texture": "#missing"}
-			}
-		},
-		{
 			"from": [4.79, 5.01, 3.89],
 			"to": [10.99, 1.01, 12.09],
 			"rotation": {"angle": 0, "axis": "y", "origin": [6.89, 10.01, 6.99]},
@@ -327,7 +313,6 @@
 			"color": 0,
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
 		},
-		19,
-		20
+		19
 	]
 }

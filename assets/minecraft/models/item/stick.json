@@ -508,7 +508,6 @@
         { "predicate": { "custom_model_data": 54079 }, "model": "custom_items/2025newyear/cherrybombom10" },
         { "predicate": { "custom_model_data": 54080 }, "model": "custom_items/2025newyear/cherrybombom11" },
         { "predicate": { "custom_model_data": 54081 }, "model": "custom_items/2025newyear/cherrybombom12" },
-        { "predicate": { "custom_model_data": 54082 }, "model": "custom_items/2025newyear/cherrybombom13" },
-        { "predicate": { "custom_model_data": 54083 }, "model": "custom_items/2025newyear/cherrybombom14" }
+        { "predicate": { "custom_model_data": 54082 }, "model": "custom_items/2025newyear/cherrybombom13" }
     ]
 }

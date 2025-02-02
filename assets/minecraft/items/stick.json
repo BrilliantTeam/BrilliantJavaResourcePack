@@ -2920,6 +2920,20 @@
                 }
             },
             {
+                "threshold": 53005,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/squidgame/honeycomb_toffee"
+                }
+            },
+            {
+                "threshold": 53006,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/squidgame/piggybank"
+                }
+            },
+            {
                 "threshold": 54000,
                 "model": {
                     "type": "model",

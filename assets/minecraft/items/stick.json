@@ -2892,6 +2892,34 @@
                 }
             },
             {
+                "threshold": 53001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/squidgame/mask_blackman"
+                }
+            },
+            {
+                "threshold": 53002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/squidgame/mask_shape1"
+                }
+            },
+            {
+                "threshold": 53003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/squidgame/mask_shape2"
+                }
+            },
+            {
+                "threshold": 53004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/squidgame/mask_shape3"
+                }
+            },
+            {
                 "threshold": 54000,
                 "model": {
                     "type": "model",

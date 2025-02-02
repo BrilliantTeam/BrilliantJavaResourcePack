@@ -454,6 +454,10 @@
         { "predicate": { "custom_model_data": 52121 }, "model": "custom_items/2025hat/rainfrog_2025" },
         
         { "predicate": { "custom_model_data": 53000 }, "model": "custom_items/squidgame/squidgameinvitecard" },
+        { "predicate": { "custom_model_data": 53001 }, "model": "custom_items/squidgame/mask_blackman" },
+        { "predicate": { "custom_model_data": 53002 }, "model": "custom_items/squidgame/mask_shape1" },
+        { "predicate": { "custom_model_data": 53003 }, "model": "custom_items/squidgame/mask_shape2" },
+        { "predicate": { "custom_model_data": 53004 }, "model": "custom_items/squidgame/mask_shape3" },
         
         { "predicate": { "custom_model_data": 54000 }, "model": "custom_items/2025newyear/wealthgodhat_01" },
         { "predicate": { "custom_model_data": 54001 }, "model": "custom_items/2025newyear/wealthgodhat_02" },

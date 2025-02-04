@@ -1520,6 +1520,13 @@
                 }
             },
             {
+                "threshold": 31111,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/doll/8an4na"
+                }
+            },
+            {
                 "threshold": 31500,
                 "model": {
                     "type": "model",

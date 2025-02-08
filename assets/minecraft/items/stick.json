@@ -2941,6 +2941,13 @@
                 }
             },
             {
+                "threshold": 53007,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/squidgame/ntd"
+                }
+            },
+            {
                 "threshold": 54000,
                 "model": {
                     "type": "model",

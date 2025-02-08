@@ -461,6 +461,7 @@
         { "predicate": { "custom_model_data": 53004 }, "model": "custom_items/squidgame/mask_shape3" },
         { "predicate": { "custom_model_data": 53005 }, "model": "custom_items/squidgame/honeycomb_toffee" },
         { "predicate": { "custom_model_data": 53006 }, "model": "custom_items/squidgame/piggybank" },
+        { "predicate": { "custom_model_data": 53007 }, "model": "custom_items/squidgame/ntd" },
         
         { "predicate": { "custom_model_data": 54000 }, "model": "custom_items/2025newyear/wealthgodhat_01" },
         { "predicate": { "custom_model_data": 54001 }, "model": "custom_items/2025newyear/wealthgodhat_02" },

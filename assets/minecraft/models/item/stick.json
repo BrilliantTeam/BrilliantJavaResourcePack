@@ -519,6 +519,8 @@
         { "predicate": { "custom_model_data": 54082 }, "model": "custom_items/2025newyear/cherrybombom13" },
 
         { "predicate": { "custom_model_data": 55000 }, "model": "custom_items/2025valentinesday/strawberry" },
-        { "predicate": { "custom_model_data": 55001 }, "model": "custom_items/2025valentinesday/cupid" }
+        { "predicate": { "custom_model_data": 55001 }, "model": "custom_items/2025valentinesday/cupid" },
+        { "predicate": { "custom_model_data": 55002 }, "model": "custom_items/2025valentinesday/wings01" },
+        { "predicate": { "custom_model_data": 55003 }, "model": "custom_items/2025valentinesday/eye_ring01" }
     ]
 }

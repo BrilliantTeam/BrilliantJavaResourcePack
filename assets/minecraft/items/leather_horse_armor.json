@@ -20,6 +20,55 @@
                     "type": "model",
                     "model": "custom_items/halloween/witch_hat_2"
                 }
+            },
+            {
+                "threshold": 20010,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025valentinesday/teddy_a01"
+                }
+            },
+            {
+                "threshold": 20011,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025valentinesday/teddy_a02"
+                }
+            },
+            {
+                "threshold": 20012,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025valentinesday/teddy_a03"
+                }
+            },
+            {
+                "threshold": 20013,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025valentinesday/teddy_a04"
+                }
+            },
+            {
+                "threshold": 20014,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025valentinesday/teddy_b"
+                }
+            },
+            {
+                "threshold": 20015,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025valentinesday/teddy_c"
+                }
+            },
+            {
+                "threshold": 20016,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025valentinesday/teddy_d"
+                }
             }
         ]
     }

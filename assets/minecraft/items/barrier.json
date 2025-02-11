@@ -2456,6 +2456,48 @@
                     "type": "model",
                     "model": "blockentities:item/gift_lyme"
                 }
+            },
+            {
+                "threshold": 27000,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/flower_arch_0"
+                }
+            },
+            {
+                "threshold": 27001,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/flower_arch_1"
+                }
+            },
+            {
+                "threshold": 27002,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/flower_arch_2"
+                }
+            },
+            {
+                "threshold": 27003,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/flower_bonquet_0"
+                }
+            },
+            {
+                "threshold": 27004,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/flower_bonquet_1"
+                }
+            },
+            {
+                "threshold": 27005,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/flower_bonquet_2"
+                }
             }
         ]
     }

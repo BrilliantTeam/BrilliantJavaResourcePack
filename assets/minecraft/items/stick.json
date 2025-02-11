@@ -3275,6 +3275,34 @@
                     "type": "model",
                     "model": "custom_items/2025newyear/cherrybombom13"
                 }
+            },
+            {
+                "threshold": 55000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025valentinesday/strawberry"
+                }
+            },
+            {
+                "threshold": 55001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025valentinesday/cupid"
+                }
+            },
+            {
+                "threshold": 55002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025valentinesday/wings01"
+                }
+            },
+            {
+                "threshold": 55003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025valentinesday/eye_ring01"
+                }
             }
         ]
     }

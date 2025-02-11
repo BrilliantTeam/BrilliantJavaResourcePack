@@ -15,6 +15,13 @@
                 }
             },
             {
+                "threshold": 10100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025valentinesday/wing_axe"
+                }
+            },
+            {
                 "threshold": 16100,
                 "model": {
                     "type": "model",

@@ -13,6 +13,13 @@
                     "type": "model",
                     "model": "custom_items/halloween/cat_shovel"
                 }
+            },
+            {
+                "threshold": 10100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025valentinesday/wing_shovel"
+                }
             }
         ]
     }

@@ -4,21 +4,21 @@
         "property": "custom_model_data",
         "fallback": {
             "type": "model",
-            "model": "item/netherite_pickaxe"
+            "model": "item/diamond_shovel"
         },
         "entries": [
             {
                 "threshold": 10000,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/halloween/cat_pickaxe"
+                    "model": "custom_items/halloween/cat_shovel"
                 }
             },
             {
                 "threshold": 10100,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/2025valentinesday/wing_pickaxe"
+                    "model": "custom_items/2025valentinesday/wing_shovel"
                 }
             }
         ]

@@ -9,6 +9,8 @@
         {"predicate": {"custom_model_data": 11000}, "model": "custom_items/2025newyear/snake_sword_1" },
         {"predicate": {"custom_model_data": 11001}, "model": "custom_items/2025newyear/snake_sword_2" },
 
+        {"predicate": {"custom_model_data": 11100}, "model": "custom_items/2025valentinesday/strawberry_fork" },
+
         {"predicate": {"custom_model_data": 16300}, "model": "custom_items/cat_palms/cat_palm_stick_black_advanced"},
         {"predicate": {"custom_model_data": 16301}, "model": "custom_items/cat_palms/cat_palm_stick_blue_advanced"},
         {"predicate": {"custom_model_data": 16302}, "model": "custom_items/cat_palms/cat_palm_stick_brown_advanced"},

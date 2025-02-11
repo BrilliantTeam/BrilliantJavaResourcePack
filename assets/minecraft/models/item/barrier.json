@@ -388,6 +388,13 @@
         { "predicate": { "custom_model_data": 26021 }, "model": "blockentities:item/gift_blue" },
         { "predicate": { "custom_model_data": 26022 }, "model": "blockentities:item/gift_yellow" },
         { "predicate": { "custom_model_data": 26023 }, "model": "blockentities:item/gift_white" },
-        { "predicate": { "custom_model_data": 26024 }, "model": "blockentities:item/gift_lyme" }
+        { "predicate": { "custom_model_data": 26024 }, "model": "blockentities:item/gift_lyme" },
+
+        { "predicate": { "custom_model_data": 27000 }, "model": "blockentities:item/flower_arch_0" },
+        { "predicate": { "custom_model_data": 27001 }, "model": "blockentities:item/flower_arch_1" },
+        { "predicate": { "custom_model_data": 27002 }, "model": "blockentities:item/flower_arch_2" },
+        { "predicate": { "custom_model_data": 27003 }, "model": "blockentities:item/flower_bonquet_0" },
+        { "predicate": { "custom_model_data": 27004 }, "model": "blockentities:item/flower_bonquet_1" },
+        { "predicate": { "custom_model_data": 27005 }, "model": "blockentities:item/flower_bonquet_2" }
     ]
 }

@@ -2,20 +2,6 @@
 	"credit": "書碼",
 	"elements": [
 		{
-			"name": "16",
-			"from": [0, 0, 0],
-			"to": [16, 16, 16],
-			"color": 5,
-			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#missing"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#missing"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#missing"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#missing"},
-				"up": {"uv": [0, 0, 16, 16], "texture": "#missing"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#missing"}
-			}
-		},
-		{
 			"from": [4, 0, 4],
 			"to": [12, 2, 12],
 			"rotation": {"angle": 0, "axis": "y", "origin": [4, 0, 4]},

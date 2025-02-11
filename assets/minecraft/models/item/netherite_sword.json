@@ -5,6 +5,7 @@
     },
     "overrides": [
         {"predicate": {"custom_model_data": 10000}, "model": "custom_items/halloween/cat_sword"},
+        {"predicate": {"custom_model_data": 10100}, "model": "custom_items/2025valentinesday/wing_sword"},
 
         {"predicate": {"custom_model_data": 11000}, "model": "custom_items/2025newyear/snake_sword_1" },
         {"predicate": {"custom_model_data": 11001}, "model": "custom_items/2025newyear/snake_sword_2" },

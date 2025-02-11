@@ -4,6 +4,8 @@
         "layer0": "minecraft:item/diamond_axe"
     },
     "overrides": [
+        {"predicate": {"custom_model_data": 10100}, "model": "custom_items/2025valentinesday/wing_axe"},
+        
         {"predicate": {"custom_model_data": 16100}, "model": "custom_items/cat_palms/cat_palm_glove_black"},
         {"predicate": {"custom_model_data": 16101}, "model": "custom_items/cat_palms/cat_palm_glove_blue"},
         {"predicate": {"custom_model_data": 16102}, "model": "custom_items/cat_palms/cat_palm_glove_brown"},

@@ -1,8 +1,8 @@
 {
 	"credit": "書碼",
 	"textures": {
-		"0": "blockentities:block/flower_1",
-		"particle": "blockentities:block/flower_1"
+		"0": "blockentities:block/flower_0",
+		"particle": "blockentities:block/flower_0"
 	},
 	"elements": [
 		{

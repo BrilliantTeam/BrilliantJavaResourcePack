@@ -395,6 +395,12 @@
         { "predicate": { "custom_model_data": 27002 }, "model": "blockentities:item/flower_arch_2" },
         { "predicate": { "custom_model_data": 27003 }, "model": "blockentities:item/flower_bonquet_0" },
         { "predicate": { "custom_model_data": 27004 }, "model": "blockentities:item/flower_bonquet_1" },
-        { "predicate": { "custom_model_data": 27005 }, "model": "blockentities:item/flower_bonquet_2" }
+        { "predicate": { "custom_model_data": 27005 }, "model": "blockentities:item/flower_bonquet_2" },
+        { "predicate": { "custom_model_data": 27006 }, "model": "blockentities:item/flower_arch_3" },
+        { "predicate": { "custom_model_data": 27007 }, "model": "blockentities:item/flower_arch_4" },
+        { "predicate": { "custom_model_data": 27008 }, "model": "blockentities:item/flower_arch_5" },
+        { "predicate": { "custom_model_data": 27009 }, "model": "blockentities:item/flower_arch_6" },
+        { "predicate": { "custom_model_data": 27010 }, "model": "blockentities:item/flower_arch_7" },
+        { "predicate": { "custom_model_data": 27011 }, "model": "blockentities:item/flower_arch_8" }
     ]
 }

@@ -2498,6 +2498,48 @@
                     "type": "model",
                     "model": "blockentities:item/flower_bonquet_2"
                 }
+            },
+            {
+                "threshold": 27006,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/flower_arch_3"
+                }
+            },
+            {
+                "threshold": 27007,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/flower_arch_4"
+                }
+            },
+            {
+                "threshold": 27008,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/flower_arch_5"
+                }
+            },
+            {
+                "threshold": 27009,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/flower_arch_6"
+                }
+            },
+            {
+                "threshold": 27010,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/flower_arch_7"
+                }
+            },
+            {
+                "threshold": 27011,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/flower_arch_8"
+                }
             }
         ]
     }

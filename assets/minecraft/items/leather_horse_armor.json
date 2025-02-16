@@ -4,7 +4,13 @@
         "property": "custom_model_data",
         "fallback": {
             "type": "model",
-            "model": "item/leather_horse_armor"
+            "model": "item/leather_horse_armor",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
         },
         "entries": [
             {

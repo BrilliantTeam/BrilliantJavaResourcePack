@@ -1527,6 +1527,13 @@
                 }
             },
             {
+                "threshold": 31112,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/doll/kzn_fjaliraven"
+                }
+            },
+            {
                 "threshold": 31500,
                 "model": {
                     "type": "model",

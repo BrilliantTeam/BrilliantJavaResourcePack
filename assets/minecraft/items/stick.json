@@ -1541,6 +1541,13 @@
                 }
             },
             {
+                "threshold": 31114,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/doll/ramxdb"
+                }
+            },
+            {
                 "threshold": 31500,
                 "model": {
                     "type": "model",

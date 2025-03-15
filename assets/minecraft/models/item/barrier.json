@@ -411,7 +411,7 @@
         { "predicate": { "custom_model_data": 28005 }, "model": "custom_items/2025childrensday/xiangqi_black_6" },
         { "predicate": { "custom_model_data": 28006 }, "model": "custom_items/2025childrensday/xiangqi_black_7" },
         { "predicate": { "custom_model_data": 28007 }, "model": "custom_items/2025childrensday/xiangqi_red_1" },
-        { "predicate": { "custom_model_data": 28808 }, "model": "custom_items/2025childrensday/xiangqi_red_2" },
+        { "predicate": { "custom_model_data": 28008 }, "model": "custom_items/2025childrensday/xiangqi_red_2" },
         { "predicate": { "custom_model_data": 28009 }, "model": "custom_items/2025childrensday/xiangqi_red_3" },
         { "predicate": { "custom_model_data": 28010 }, "model": "custom_items/2025childrensday/xiangqi_red_4" },
         { "predicate": { "custom_model_data": 28011 }, "model": "custom_items/2025childrensday/xiangqi_red_5" },

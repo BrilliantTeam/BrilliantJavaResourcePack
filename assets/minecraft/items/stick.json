@@ -3702,6 +3702,13 @@
                     "type": "model",
                     "model": "custom_items/2025childrensday/uno_wilddraw4"
                 }
+            },
+            {
+                "threshold": 56054,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_card_shooter"
+                }
             }
         ]
     }

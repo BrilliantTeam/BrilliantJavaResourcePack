@@ -1,0 +1,10 @@
+{
+	"credit": "書碼",
+	"parent": "custom_items/2025childrensday/uno",
+	"texture_size": [16, 24],
+	"textures": {
+		"0": "custom_items/2025childrensday/uno_cover",
+		"1": "custom_items/2025childrensday/uno_red_1",
+		"particle": "custom_items/2025childrensday/uno_cover"
+	}
+}

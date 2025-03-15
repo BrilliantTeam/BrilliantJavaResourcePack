@@ -1,0 +1,10 @@
+{
+	"credit": "書碼",
+	"parent": "custom_items/2025childrensday/xianqi",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/custom/2025childrensday/xiangqi_red_4",
+		"1": "item/custom/2025childrensday/xiangqi_0",
+		"particle": "item/custom/2025childrensday/xiangqi_red_4"
+	}
+}

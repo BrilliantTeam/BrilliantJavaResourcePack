@@ -527,7 +527,6 @@
         { "predicate": { "custom_model_data": 55003 }, "model": "custom_items/2025valentinesday/eye_ring01" },
 
         { "predicate": { "custom_model_data": 56000 }, "model": "custom_items/2025childrensday/uno_blue_0" },
-        { "predicate": { "custom_model_data": 56000 }, "model": "custom_items/2025childrensday/uno_blue_0" },
         { "predicate": { "custom_model_data": 56001 }, "model": "custom_items/2025childrensday/uno_blue_1" },
         { "predicate": { "custom_model_data": 56002 }, "model": "custom_items/2025childrensday/uno_blue_2" },
         { "predicate": { "custom_model_data": 56003 }, "model": "custom_items/2025childrensday/uno_blue_3" },

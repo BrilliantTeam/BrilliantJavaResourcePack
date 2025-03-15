@@ -1,0 +1,54 @@
+{
+	"credit": "書碼",
+	"elements": [
+		{
+			"from": [4, 0, 7.875],
+			"to": [12, 12, 7.875],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 0, 7.875]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 0.25, 8], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.25, 8], "texture": "#0"},
+				"up": {"uv": [0, 0, 8, 0.16667], "texture": "#0"},
+				"down": {"uv": [0, 0, 8, 0.16667], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 7.5, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 7.5, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 135, 0],
+			"translation": [1.75, 5.5, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 135, 0],
+			"translation": [1.75, 5.5, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"ground": {
+			"translation": [0, 8, 0]
+		},
+		"gui": {
+			"rotation": [180, 20.25, -160.25],
+			"translation": [1, 1.75, 0],
+			"scale": [1.1, 1.1, 1.1]
+		},
+		"head": {
+			"translation": [0, 9.25, -7.25]
+		},
+		"fixed": {
+			"translation": [0, 2.25, 0],
+			"scale": [1.4, 1.4, 1.4]
+		}
+	}
+}

@@ -3324,6 +3324,384 @@
                     "type": "model",
                     "model": "custom_items/2025valentinesday/eye_ring01"
                 }
+            },
+            {
+                "threshold": 56000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_blue_0"
+                }
+            },
+            {
+                "threshold": 56001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_blue_1"
+                }
+            },
+            {
+                "threshold": 56002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_blue_2"
+                }
+            },
+            {
+                "threshold": 56003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_blue_3"
+                }
+            },
+            {
+                "threshold": 56004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_blue_4"
+                }
+            },
+            {
+                "threshold": 56005,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_blue_5"
+                }
+            },
+            {
+                "threshold": 56006,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_blue_6"
+                }
+            },
+            {
+                "threshold": 56007,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_blue_7"
+                }
+            },
+            {
+                "threshold": 56008,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_blue_8"
+                }
+            },
+            {
+                "threshold": 56009,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_blue_9"
+                }
+            },
+            {
+                "threshold": 56010,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_blue_skip"
+                }
+            },
+            {
+                "threshold": 56011,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_blue_reverse"
+                }
+            },
+            {
+                "threshold": 56012,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_blue_draw2"
+                }
+            },
+            {
+                "threshold": 56013,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_green_0"
+                }
+            },
+            {
+                "threshold": 56014,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_green_1"
+                }
+            },
+            {
+                "threshold": 56015,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_green_2"
+                }
+            },
+            {
+                "threshold": 56016,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_green_3"
+                }
+            },
+            {
+                "threshold": 56017,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_green_4"
+                }
+            },
+            {
+                "threshold": 56018,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_green_5"
+                }
+            },
+            {
+                "threshold": 56019,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_green_6"
+                }
+            },
+            {
+                "threshold": 56020,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_green_7"
+                }
+            },
+            {
+                "threshold": 56021,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_green_8"
+                }
+            },
+            {
+                "threshold": 56022,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_green_9"
+                }
+            },
+            {
+                "threshold": 56023,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_green_skip"
+                }
+            },
+            {
+                "threshold": 56024,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_green_reverse"
+                }
+            },
+            {
+                "threshold": 56025,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_green_draw2"
+                }
+            },
+            {
+                "threshold": 56026,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_red_0"
+                }
+            },
+            {
+                "threshold": 56027,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_red_1"
+                }
+            },
+            {
+                "threshold": 56028,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_red_2"
+                }
+            },
+            {
+                "threshold": 56029,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_red_3"
+                }
+            },
+            {
+                "threshold": 56030,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_red_4"
+                }
+            },
+            {
+                "threshold": 56031,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_red_5"
+                }
+            },
+            {
+                "threshold": 56032,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_red_6"
+                }
+            },
+            {
+                "threshold": 56033,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_red_7"
+                }
+            },
+            {
+                "threshold": 56034,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_red_8"
+                }
+            },
+            {
+                "threshold": 56035,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_red_9"
+                }
+            },
+            {
+                "threshold": 56036,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_red_skip"
+                }
+            },
+            {
+                "threshold": 56037,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_red_reverse"
+                }
+            },
+            {
+                "threshold": 56038,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_red_draw2"
+                }
+            },
+            {
+                "threshold": 56039,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_yellow_0"
+                }
+            },
+            {
+                "threshold": 56040,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_yellow_1"
+                }
+            },
+            {
+                "threshold": 56041,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_yellow_2"
+                }
+            },
+            {
+                "threshold": 56042,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_yellow_3"
+                }
+            },
+            {
+                "threshold": 56043,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_yellow_4"
+                }
+            },
+            {
+                "threshold": 56044,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_yellow_5"
+                }
+            },
+            {
+                "threshold": 56045,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_yellow_6"
+                }
+            },
+            {
+                "threshold": 56046,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_yellow_7"
+                }
+            },
+            {
+                "threshold": 56047,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_yellow_8"
+                }
+            },
+            {
+                "threshold": 56048,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_yellow_9"
+                }
+            },
+            {
+                "threshold": 56049,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_yellow_skip"
+                }
+            },
+            {
+                "threshold": 56050,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_yellow_reverse"
+                }
+            },
+            {
+                "threshold": 56051,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_yellow_draw2"
+                }
+            },
+            {
+                "threshold": 56052,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_wild"
+                }
+            },
+            {
+                "threshold": 56053,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_wilddraw4"
+                }
             }
         ]
     }

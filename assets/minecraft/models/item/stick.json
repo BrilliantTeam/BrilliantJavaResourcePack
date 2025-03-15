@@ -583,6 +583,7 @@
         { "predicate": { "custom_model_data": 56051 }, "model": "custom_items/2025childrensday/uno_yellow_draw2" },
 
         { "predicate": { "custom_model_data": 56052 }, "model": "custom_items/2025childrensday/uno_wild" },
-        { "predicate": { "custom_model_data": 56053 }, "model": "custom_items/2025childrensday/uno_wilddraw4" }
+        { "predicate": { "custom_model_data": 56053 }, "model": "custom_items/2025childrensday/uno_wilddraw4" },
+        { "predicate": { "custom_model_data": 56054 }, "model": "custom_items/2025childrensday/uno_card_shooter" }
     ]
 }

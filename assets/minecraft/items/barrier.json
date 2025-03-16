@@ -2638,6 +2638,90 @@
                     "type": "model",
                     "model": "blockentities:item/xiangqi_red_7"
                 }
+            },
+            {
+                "threshold": 28100,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chess_black_1"
+                }
+            },
+            {
+                "threshold": 28101,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chess_black_2"
+                }
+            },
+            {
+                "threshold": 28102,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chess_black_3"
+                }
+            },
+            {
+                "threshold": 28103,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chess_black_4"
+                }
+            },
+            {
+                "threshold": 28104,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chess_black_5"
+                }
+            },
+            {
+                "threshold": 28105,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chess_black_5"
+                }
+            },
+            {
+                "threshold": 28106,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chess_white_1"
+                }
+            },
+            {
+                "threshold": 28107,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chess_white_2"
+                }
+            },
+            {
+                "threshold": 28108,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chess_white_3"
+                }
+            },
+            {
+                "threshold": 28109,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chess_white_4"
+                }
+            },
+            {
+                "threshold": 28110,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chess_white_5"
+                }
+            },
+            {
+                "threshold": 28111,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chess_white_6"
+                }
             }
         ]
     }

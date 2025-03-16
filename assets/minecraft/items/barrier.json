@@ -2722,6 +2722,41 @@
                     "type": "model",
                     "model": "blockentities:item/chess_white_6"
                 }
+            },
+            {
+                "threshold": 28112,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/checker_blue"
+                }
+            },
+            {
+                "threshold": 28113,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/checker_green"
+                }
+            },
+            {
+                "threshold": 28114,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/checker_magenta"
+                }
+            },
+            {
+                "threshold": 28115,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/checker_red"
+                }
+            },
+            {
+                "threshold": 28116,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/checker_yellow"
+                }
             }
         ]
     }

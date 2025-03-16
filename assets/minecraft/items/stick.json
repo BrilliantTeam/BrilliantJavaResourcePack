@@ -3714,7 +3714,7 @@
                 "threshold": 56100,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/2025childrensday/chance_ani"
+                    "model": "custom_items/2025childrensday/chance"
                 }
             },
             {
@@ -3728,7 +3728,7 @@
                 "threshold": 56102,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/2025childrensday/fortune_ani"
+                    "model": "custom_items/2025childrensday/fortune"
                 }
             },
             {

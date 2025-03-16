@@ -1,0 +1,10 @@
+{
+	"credit": "書碼",
+	"parent": "blockentities:item/xianqi",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "blockentities:block/xiangqi_black_3",
+		"1": "blockentities:block/xiangqi_0",
+		"particle": "blockentities:block/xiangqi_black_3"
+	}
+}

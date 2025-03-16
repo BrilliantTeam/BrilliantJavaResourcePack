@@ -3709,6 +3709,34 @@
                     "type": "model",
                     "model": "custom_items/2025childrensday/uno_card_shooter"
                 }
+            },
+            {
+                "threshold": 56100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/chance_ani"
+                }
+            },
+            {
+                "threshold": 56101,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/chance_rgb"
+                }
+            },
+            {
+                "threshold": 56102,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/fortune_ani"
+                }
+            },
+            {
+                "threshold": 56103,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/fortune_rgb"
+                }
             }
         ]
     }

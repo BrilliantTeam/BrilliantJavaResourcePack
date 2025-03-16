@@ -429,6 +429,12 @@
         { "predicate": { "custom_model_data": 28108 }, "model": "blockentities:item/chess_white_3" },
         { "predicate": { "custom_model_data": 28109 }, "model": "blockentities:item/chess_white_4" },
         { "predicate": { "custom_model_data": 28110 }, "model": "blockentities:item/chess_white_5" },
-        { "predicate": { "custom_model_data": 28111 }, "model": "blockentities:item/chess_white_6" }
+        { "predicate": { "custom_model_data": 28111 }, "model": "blockentities:item/chess_white_6" },
+
+        { "predicate": { "custom_model_data": 28112 }, "model": "blockentities:item/checker_blue" },
+        { "predicate": { "custom_model_data": 28113 }, "model": "blockentities:item/checker_green" },
+        { "predicate": { "custom_model_data": 28114 }, "model": "blockentities:item/checker_magenta" },
+        { "predicate": { "custom_model_data": 28115 }, "model": "blockentities:item/checker_red" },
+        { "predicate": { "custom_model_data": 28116 }, "model": "blockentities:item/checker_yellow" }
     ]
 }

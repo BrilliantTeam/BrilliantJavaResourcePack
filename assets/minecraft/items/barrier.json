@@ -2678,7 +2678,7 @@
                 "threshold": 28105,
                 "model": {
                     "type": "model",
-                    "model": "blockentities:item/chess_black_5"
+                    "model": "blockentities:item/chess_black_6"
                 }
             },
             {

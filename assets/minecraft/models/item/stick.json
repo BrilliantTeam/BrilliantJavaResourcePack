@@ -584,6 +584,11 @@
 
         { "predicate": { "custom_model_data": 56052 }, "model": "custom_items/2025childrensday/uno_wild" },
         { "predicate": { "custom_model_data": 56053 }, "model": "custom_items/2025childrensday/uno_wilddraw4" },
-        { "predicate": { "custom_model_data": 56054 }, "model": "custom_items/2025childrensday/uno_card_shooter" }
+        { "predicate": { "custom_model_data": 56054 }, "model": "custom_items/2025childrensday/uno_card_shooter" },
+
+        { "predicate": { "custom_model_data": 56100 }, "model": "custom_items/2025childrensday/chance" },
+        { "predicate": { "custom_model_data": 56101 }, "model": "custom_items/2025childrensday/chance_rgb" },
+        { "predicate": { "custom_model_data": 56102 }, "model": "custom_items/2025childrensday/fortune" },
+        { "predicate": { "custom_model_data": 56103 }, "model": "custom_items/2025childrensday/fortune_rgb" }
     ]
 }

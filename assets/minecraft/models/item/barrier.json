@@ -419,16 +419,16 @@
         { "predicate": { "custom_model_data": 28013 }, "model": "blockentities:item/xiangqi_red_7" },
         
         { "predicate": { "custom_model_data": 28100 }, "model": "blockentities:item/chess_black_1" },
-        { "predicate": { "custom_model_data": 28102 }, "model": "blockentities:item/chess_black_2" },
-        { "predicate": { "custom_model_data": 28103 }, "model": "blockentities:item/chess_black_3" },
-        { "predicate": { "custom_model_data": 28104 }, "model": "blockentities:item/chess_black_4" },
-        { "predicate": { "custom_model_data": 28105 }, "model": "blockentities:item/chess_black_5" },
-        { "predicate": { "custom_model_data": 28106 }, "model": "blockentities:item/chess_black_6" },
-        { "predicate": { "custom_model_data": 28107 }, "model": "blockentities:item/chess_white_1" },
-        { "predicate": { "custom_model_data": 28108 }, "model": "blockentities:item/chess_white_2" },
-        { "predicate": { "custom_model_data": 28109 }, "model": "blockentities:item/chess_white_3" },
-        { "predicate": { "custom_model_data": 28110 }, "model": "blockentities:item/chess_white_4" },
-        { "predicate": { "custom_model_data": 28111 }, "model": "blockentities:item/chess_white_5" },
-        { "predicate": { "custom_model_data": 28112 }, "model": "blockentities:item/chess_white_6" }
+        { "predicate": { "custom_model_data": 28101 }, "model": "blockentities:item/chess_black_2" },
+        { "predicate": { "custom_model_data": 28102 }, "model": "blockentities:item/chess_black_3" },
+        { "predicate": { "custom_model_data": 28103 }, "model": "blockentities:item/chess_black_4" },
+        { "predicate": { "custom_model_data": 28104 }, "model": "blockentities:item/chess_black_5" },
+        { "predicate": { "custom_model_data": 28105 }, "model": "blockentities:item/chess_black_6" },
+        { "predicate": { "custom_model_data": 28106 }, "model": "blockentities:item/chess_white_1" },
+        { "predicate": { "custom_model_data": 28107 }, "model": "blockentities:item/chess_white_2" },
+        { "predicate": { "custom_model_data": 28108 }, "model": "blockentities:item/chess_white_3" },
+        { "predicate": { "custom_model_data": 28109 }, "model": "blockentities:item/chess_white_4" },
+        { "predicate": { "custom_model_data": 28110 }, "model": "blockentities:item/chess_white_5" },
+        { "predicate": { "custom_model_data": 28111 }, "model": "blockentities:item/chess_white_6" }
     ]
 }

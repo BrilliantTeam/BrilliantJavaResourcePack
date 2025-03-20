@@ -435,6 +435,9 @@
         { "predicate": { "custom_model_data": 28113 }, "model": "blockentities:item/checker_green" },
         { "predicate": { "custom_model_data": 28114 }, "model": "blockentities:item/checker_magenta" },
         { "predicate": { "custom_model_data": 28115 }, "model": "blockentities:item/checker_red" },
-        { "predicate": { "custom_model_data": 28116 }, "model": "blockentities:item/checker_yellow" }
+        { "predicate": { "custom_model_data": 28116 }, "model": "blockentities:item/checker_yellow" },
+        
+        { "predicate": { "custom_model_data": 28117 }, "model": "blockentities:item/house_red" },
+        { "predicate": { "custom_model_data": 28118 }, "model": "blockentities:item/house_green" }
     ]
 }

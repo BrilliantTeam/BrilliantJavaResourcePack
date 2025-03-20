@@ -2757,6 +2757,20 @@
                     "type": "model",
                     "model": "blockentities:item/checker_yellow"
                 }
+            },
+            {
+                "threshold": 28117,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/house_red"
+                }
+            },
+            {
+                "threshold": 28118,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/house_green"
+                }
             }
         ]
     }

@@ -3718,6 +3718,13 @@
                 }
             },
             {
+                "threshold": 56055,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/uno_reverse_big"
+                }
+            },
+            {
                 "threshold": 56100,
                 "model": {
                     "type": "model",

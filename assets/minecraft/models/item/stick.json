@@ -591,6 +591,8 @@
         { "predicate": { "custom_model_data": 56100 }, "model": "custom_items/2025childrensday/chance" },
         { "predicate": { "custom_model_data": 56101 }, "model": "custom_items/2025childrensday/chance_rgb" },
         { "predicate": { "custom_model_data": 56102 }, "model": "custom_items/2025childrensday/fortune" },
-        { "predicate": { "custom_model_data": 56103 }, "model": "custom_items/2025childrensday/fortune_rgb" }
+        { "predicate": { "custom_model_data": 56103 }, "model": "custom_items/2025childrensday/fortune_rgb" },
+        { "predicate": { "custom_model_data": 56104 }, "model": "custom_items/2025childrensday/crown" },
+        { "predicate": { "custom_model_data": 56105 }, "model": "custom_items/2025childrensday/rabbit_mask" }
     ]
 }

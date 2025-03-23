@@ -407,6 +407,41 @@
                 }
             },
             {
+                "threshold": 51100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/easteregg_blue"
+                }
+            },
+            {
+                "threshold": 51101,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/easteregg_green"
+                }
+            },
+            {
+                "threshold": 51102,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/easteregg_pink"
+                }
+            },
+            {
+                "threshold": 51103,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/easteregg_purple"
+                }
+            },
+            {
+                "threshold": 51104,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/easteregg_yellow"
+                }
+            },
+            {
                 "threshold": 70000,
                 "model": {
                     "type": "model",

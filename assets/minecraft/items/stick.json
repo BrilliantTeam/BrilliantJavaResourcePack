@@ -3765,6 +3765,13 @@
                     "type": "model",
                     "model": "custom_items/2025childrensday/rabbit_mask"
                 }
+            },
+            {
+                "threshold": 56106,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025childrensday/mz_toy"
+                }
             }
         ]
     }

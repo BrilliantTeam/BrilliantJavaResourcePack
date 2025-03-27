@@ -2771,6 +2771,62 @@
                     "type": "model",
                     "model": "blockentities:item/house_green"
                 }
+            },
+            {
+                "threshold": 28119,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/eggblock_blue"
+                }
+            },
+            {
+                "threshold": 28120,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/eggblock_purple"
+                }
+            },
+            {
+                "threshold": 28121,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/eggblock_red"
+                }
+            },
+            {
+                "threshold": 28122,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/eggblock_yellow"
+                }
+            },
+            {
+                "threshold": 28123,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/eggblock_empty"
+                }
+            },
+            {
+                "threshold": 28124,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/basket"
+                }
+            },
+            {
+                "threshold": 28125,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/basket_fullofegg2"
+                }
+            },
+            {
+                "threshold": 28126,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/basket_fullofegg1"
+                }
             }
         ]
     }

@@ -438,6 +438,15 @@
         { "predicate": { "custom_model_data": 28116 }, "model": "blockentities:item/checker_yellow" },
         
         { "predicate": { "custom_model_data": 28117 }, "model": "blockentities:item/house_red" },
-        { "predicate": { "custom_model_data": 28118 }, "model": "blockentities:item/house_green" }
+        { "predicate": { "custom_model_data": 28118 }, "model": "blockentities:item/house_green" },
+
+        { "predicate": { "custom_model_data": 28119 }, "model": "blockentities:item/eggblock_blue" },
+        { "predicate": { "custom_model_data": 28120 }, "model": "blockentities:item/eggblock_purple" },
+        { "predicate": { "custom_model_data": 28121 }, "model": "blockentities:item/eggblock_red" },
+        { "predicate": { "custom_model_data": 28122 }, "model": "blockentities:item/eggblock_yellow" },
+        { "predicate": { "custom_model_data": 28123 }, "model": "blockentities:item/eggblock_empty" },
+        { "predicate": { "custom_model_data": 28124 }, "model": "blockentities:item/basket" },
+        { "predicate": { "custom_model_data": 28125 }, "model": "blockentities:item/basket_fullofegg2" },
+        { "predicate": { "custom_model_data": 28126 }, "model": "blockentities:item/basket_fullofegg1" }
     ]
 }

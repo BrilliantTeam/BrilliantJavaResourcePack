@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "blockentities:block/basket",
 		"1": "item/custom/2025valentinesday/strawberry_1",
-		"2": "blockentities:block/egg_smol_green",
+		"2": "blockentities:block/eggs",
 		"particle": "blockentities:block/basket"
 	},
 	"elements": [

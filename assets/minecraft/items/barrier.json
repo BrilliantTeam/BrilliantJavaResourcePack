@@ -2827,6 +2827,27 @@
                     "type": "model",
                     "model": "blockentities:item/basket_fullofegg1"
                 }
+            },
+            {
+                "threshold": 29001,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/mcutrophy_1"
+                }
+            },
+            {
+                "threshold": 29002,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/mcutrophy_2"
+                }
+            },
+            {
+                "threshold": 29003,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/mcutrophy_3"
+                }
             }
         ]
     }

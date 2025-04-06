@@ -447,6 +447,10 @@
         { "predicate": { "custom_model_data": 28123 }, "model": "blockentities:item/eggblock_empty" },
         { "predicate": { "custom_model_data": 28124 }, "model": "blockentities:item/basket" },
         { "predicate": { "custom_model_data": 28125 }, "model": "blockentities:item/basket_fullofegg2" },
-        { "predicate": { "custom_model_data": 28126 }, "model": "blockentities:item/basket_fullofegg1" }
+        { "predicate": { "custom_model_data": 28126 }, "model": "blockentities:item/basket_fullofegg1" },
+
+        { "predicate": { "custom_model_data": 29001 }, "model": "blockentities:item/mcutrophy_1" },
+        { "predicate": { "custom_model_data": 29002 }, "model": "blockentities:item/mcutrophy_2" },
+        { "predicate": { "custom_model_data": 29003 }, "model": "blockentities:item/mcutrophy_3" }
     ]
 }

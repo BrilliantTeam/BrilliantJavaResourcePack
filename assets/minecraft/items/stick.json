@@ -2010,6 +2010,13 @@
                 }
             },
             {
+                "threshold": 35003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/misteln_rice_scunfm"
+                }
+            },
+            {
                 "threshold": 36010,
                 "model": {
                     "type": "model",

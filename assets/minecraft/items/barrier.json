@@ -2848,6 +2848,13 @@
                     "type": "model",
                     "model": "blockentities:item/mcutrophy_3"
                 }
+            },
+            {
+                "threshold": 29004,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/mcutrophy_4"
+                }
             }
         ]
     }

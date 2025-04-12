@@ -451,6 +451,7 @@
 
         { "predicate": { "custom_model_data": 29001 }, "model": "blockentities:item/mcutrophy_1" },
         { "predicate": { "custom_model_data": 29002 }, "model": "blockentities:item/mcutrophy_2" },
-        { "predicate": { "custom_model_data": 29003 }, "model": "blockentities:item/mcutrophy_3" }
+        { "predicate": { "custom_model_data": 29003 }, "model": "blockentities:item/mcutrophy_3" },
+        { "predicate": { "custom_model_data": 29004 }, "model": "blockentities:item/mcutrophy_4" }
     ]
 }

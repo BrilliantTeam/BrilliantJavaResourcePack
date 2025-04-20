@@ -236,6 +236,7 @@
         {"predicate": {"custom_model_data": 31112}, "model":"custom_items/doll/kzn_fjaliraven"},
         {"predicate": {"custom_model_data": 31113}, "model":"custom_items/doll/puppy0120"},
         {"predicate": {"custom_model_data": 31114}, "model":"custom_items/doll/ramxdb"},
+        {"predicate": {"custom_model_data": 31115}, "model":"custom_items/doll/jwtyrant"},
 
         {"predicate": {"custom_model_data": 31500}, "model":"custom_items/doll/mistelnrice5"},
         

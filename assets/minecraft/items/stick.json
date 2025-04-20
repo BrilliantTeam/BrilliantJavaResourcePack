@@ -1555,6 +1555,13 @@
                 }
             },
             {
+                "threshold": 31115,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/doll/jwtyrant"
+                }
+            },
+            {
                 "threshold": 31500,
                 "model": {
                     "type": "model",

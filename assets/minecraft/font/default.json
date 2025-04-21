@@ -2032,6 +2032,51 @@
 			"chars": [
 				"ꇟ"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/a0_86komukumu.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"ꇠ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/a0_87hanawa.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"ꇡ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/a0_88konkon.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"ꇢ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/a0_89pikadon.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"ꇣ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/a0_860kapippi.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"ꇤ"
+			]
 		}
 	]
 }

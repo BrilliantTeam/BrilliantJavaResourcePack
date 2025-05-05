@@ -13,6 +13,9 @@
         {"predicate":{"custom_model_data": 20013 }, "model":"custom_items/2025valentinesday/teddy_a04"},
         {"predicate":{"custom_model_data": 20014 }, "model":"custom_items/2025valentinesday/teddy_b"},
         {"predicate":{"custom_model_data": 20015 }, "model":"custom_items/2025valentinesday/teddy_c"},
-        {"predicate":{"custom_model_data": 20016 }, "model":"custom_items/2025valentinesday/teddy_d"}
+        {"predicate":{"custom_model_data": 20016 }, "model":"custom_items/2025valentinesday/teddy_d"},
+
+        {"predicate":{"custom_model_data": 20100 }, "model":"custom_items/2025ratatouille/ratatouille_0"},
+        {"predicate":{"custom_model_data": 20101 }, "model":"custom_items/2025ratatouille/ratatouille_1"}
     ]
 }

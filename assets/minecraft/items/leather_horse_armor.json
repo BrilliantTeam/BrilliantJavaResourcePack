@@ -129,6 +129,32 @@
                         }
                     ]
                 }
+            },
+            {
+                "threshold": 20100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025ratatouille/ratatouille_0",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20101,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025ratatouille/ratatouille_1",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
             }
         ]
     }

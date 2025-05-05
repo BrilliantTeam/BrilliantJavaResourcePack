@@ -1,0 +1,9 @@
+{
+    "credit": "書碼",
+    "parent": "custom_items/2025ratatouille/ratatouille",
+	"texture_size": [32, 32],
+    "textures": {
+        "0": "item/custom/2025ratatouille/ratatouille_0",
+        "particle": "item/custom/2025ratatouille/ratatouille_0"
+    }
+}

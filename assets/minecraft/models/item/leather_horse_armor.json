@@ -16,6 +16,9 @@
         {"predicate":{"custom_model_data": 20016 }, "model":"custom_items/2025valentinesday/teddy_d"},
 
         {"predicate":{"custom_model_data": 20100 }, "model":"custom_items/2025ratatouille/ratatouille_0"},
-        {"predicate":{"custom_model_data": 20101 }, "model":"custom_items/2025ratatouille/ratatouille_1"}
+        {"predicate":{"custom_model_data": 20101 }, "model":"custom_items/2025ratatouille/ratatouille_1"},
+
+        {"predicate":{"custom_model_data": 20200 }, "model":"custom_items/2025dragonboat/hand_fan"},
+        {"predicate":{"custom_model_data": 20201 }, "model":"custom_items/2025dragonboat/umbrella"}
     ]
 }

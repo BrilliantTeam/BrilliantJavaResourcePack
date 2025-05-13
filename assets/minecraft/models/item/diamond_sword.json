@@ -6,6 +6,8 @@
     "overrides": [
         {"predicate": {"custom_model_data": 10100}, "model": "custom_items/2025valentinesday/wing_sword"},
 
+        {"predicate": {"custom_model_data": 10200}, "model": "custom_items/2025dragonboat/ezshovel"},
+
         {"predicate": {"custom_model_data": 16300}, "model": "custom_items/cat_palms/cat_palm_stick_black"},
         {"predicate": {"custom_model_data": 16301}, "model": "custom_items/cat_palms/cat_palm_stick_blue"},
         {"predicate": {"custom_model_data": 16302}, "model": "custom_items/cat_palms/cat_palm_stick_brown"},

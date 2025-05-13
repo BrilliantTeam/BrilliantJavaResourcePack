@@ -2855,6 +2855,160 @@
                     "type": "model",
                     "model": "blockentities:item/mcutrophy_4"
                 }
+            },
+            {
+                "threshold": 30000,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chinese_roof_outer_creeper"
+                }
+            },
+            {
+                "threshold": 30001,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chinese_roof_outer_long"
+                }
+            },
+            {
+                "threshold": 30002,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chinese_tile_roof"
+                }
+            },
+            {
+                "threshold": 30003,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chinese_tile_roof_inner"
+                }
+            },
+            {
+                "threshold": 30004,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chinese_tile_roof_outer"
+                }
+            },
+            {
+                "threshold": 30005,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chinese_tile_roof_slab_top"
+                }
+            },
+            {
+                "threshold": 30006,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chinese_tile_roof_slab_top_inner"
+                }
+            },
+            {
+                "threshold": 30007,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chinese_tile_roof_slab_top_outer"
+                }
+            },
+            {
+                "threshold": 30008,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chinese_tile_roof_slab_bot"
+                }
+            },
+            {
+                "threshold": 30009,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chinese_tile_roof_slab_bot_inner"
+                }
+            },
+            {
+                "threshold": 30010,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chinese_tile_roof_slab_bot_outer"
+                }
+            },
+            {
+                "threshold": 30100,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chinese_roof_outer_creeper_b"
+                }
+            },
+            {
+                "threshold": 30101,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chinese_roof_outer_long_b"
+                }
+            },
+            {
+                "threshold": 30102,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chinese_tile_roof_b"
+                }
+            },
+            {
+                "threshold": 30103,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chinese_tile_roof_inner_b"
+                }
+            },
+            {
+                "threshold": 30104,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chinese_tile_roof_outer_b"
+                }
+            },
+            {
+                "threshold": 30105,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chinese_tile_roof_slab_top_b"
+                }
+            },
+            {
+                "threshold": 30106,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chinese_tile_roof_slab_top_inner_b"
+                }
+            },
+            {
+                "threshold": 30107,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chinese_tile_roof_slab_top_outer_b"
+                }
+            },
+            {
+                "threshold": 30108,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chinese_tile_roof_slab_bot_b"
+                }
+            },
+            {
+                "threshold": 30109,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chinese_tile_roof_slab_bot_inner_b"
+                }
+            },
+            {
+                "threshold": 30110,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/chinese_tile_roof_slab_bot_outer_b"
+                }
             }
         ]
     }

@@ -4,7 +4,7 @@
         "property": "custom_model_data",
         "fallback": {
             "type": "model",
-            "model": "item/leather_horse_armor",
+            "model": "minecraft:item/leather_horse_armor",
             "tints": [
                 {
                     "type": "minecraft:dye",
@@ -148,6 +148,32 @@
                 "model": {
                     "type": "model",
                     "model": "custom_items/2025ratatouille/ratatouille_1",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20200,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025dragonboat/hand_fan",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20201,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025dragonboat/umbrella",
                     "tints": [
                         {
                             "type": "minecraft:dye",

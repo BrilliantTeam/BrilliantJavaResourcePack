@@ -15,6 +15,13 @@
                 }
             },
             {
+                "threshold": 10200,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025dragonboat/ezshovel"
+                }
+            },
+            {
                 "threshold": 16300,
                 "model": {
                     "type": "model",

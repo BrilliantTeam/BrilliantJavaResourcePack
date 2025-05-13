@@ -20,6 +20,13 @@
                     "type": "model",
                     "model": "custom_items/2025valentinesday/wing_pickaxe"
                 }
+            },
+            {
+                "threshold": 10200,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025dragonboat/zen_staff"
+                }
             }
         ]
     }

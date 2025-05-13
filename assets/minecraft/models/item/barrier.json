@@ -476,7 +476,12 @@
         { "predicate": { "custom_model_data": 30107 }, "model": "blockentities:item/chinese_tile_roof_slab_top_outer_b" },
         { "predicate": { "custom_model_data": 30108 }, "model": "blockentities:item/chinese_tile_roof_slab_bot_b" },
         { "predicate": { "custom_model_data": 30109 }, "model": "blockentities:item/chinese_tile_roof_slab_bot_inner_b" },
-        { "predicate": { "custom_model_data": 30110 }, "model": "blockentities:item/chinese_tile_roof_slab_bot_outer_b" }
+        { "predicate": { "custom_model_data": 30110 }, "model": "blockentities:item/chinese_tile_roof_slab_bot_outer_b" },
+
+        { "predicate": { "custom_model_data": 30200 }, "model": "blockentities:item/sachet" },
+        { "predicate": { "custom_model_data": 30201 }, "model": "blockentities:item/mugwort" },
+        { "predicate": { "custom_model_data": 30202 }, "model": "blockentities:item/ixora" },
+        { "predicate": { "custom_model_data": 30203 }, "model": "blockentities:item/calabash" }
         
     ]
 }

@@ -3009,6 +3009,34 @@
                     "type": "model",
                     "model": "blockentities:item/chinese_tile_roof_slab_bot_outer_b"
                 }
+            },
+            {
+                "threshold": 30200,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/sachet"
+                }
+            },
+            {
+                "threshold": 30201,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/mugwort"
+                }
+            },
+            {
+                "threshold": 30202,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/ixora"
+                }
+            },
+            {
+                "threshold": 30203,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/calabash"
+                }
             }
         ]
     }

@@ -466,17 +466,17 @@
         { "predicate": { "custom_model_data": 30009 }, "model": "blockentities:item/chinese_tile_roof_slab_bot_inner" },
         { "predicate": { "custom_model_data": 30010 }, "model": "blockentities:item/chinese_tile_roof_slab_bot_outer" },
 
-        { "predicate": { "custom_model_data": 30100 }, "model": "blockentities:item/chinese_roof_outer_creeper" },
-        { "predicate": { "custom_model_data": 30101 }, "model": "blockentities:item/chinese_roof_outer_long" },
-        { "predicate": { "custom_model_data": 30102 }, "model": "blockentities:item/chinese_tile_roof" },
-        { "predicate": { "custom_model_data": 30103 }, "model": "blockentities:item/chinese_tile_roof_inner" },
-        { "predicate": { "custom_model_data": 30104 }, "model": "blockentities:item/chinese_tile_roof_outer" },
-        { "predicate": { "custom_model_data": 30105 }, "model": "blockentities:item/chinese_tile_roof_slab_top" },
-        { "predicate": { "custom_model_data": 30106 }, "model": "blockentities:item/chinese_tile_roof_slab_top_inner" },
-        { "predicate": { "custom_model_data": 30107 }, "model": "blockentities:item/chinese_tile_roof_slab_top_outer" },
-        { "predicate": { "custom_model_data": 30108 }, "model": "blockentities:item/chinese_tile_roof_slab_bot" },
-        { "predicate": { "custom_model_data": 30109 }, "model": "blockentities:item/chinese_tile_roof_slab_bot_inner" },
-        { "predicate": { "custom_model_data": 30110 }, "model": "blockentities:item/chinese_tile_roof_slab_bot_outer" }
+        { "predicate": { "custom_model_data": 30100 }, "model": "blockentities:item/chinese_roof_outer_creeper_b" },
+        { "predicate": { "custom_model_data": 30101 }, "model": "blockentities:item/chinese_roof_outer_long_b" },
+        { "predicate": { "custom_model_data": 30102 }, "model": "blockentities:item/chinese_tile_roof_b" },
+        { "predicate": { "custom_model_data": 30103 }, "model": "blockentities:item/chinese_tile_roof_inner_b" },
+        { "predicate": { "custom_model_data": 30104 }, "model": "blockentities:item/chinese_tile_roof_outer_b" },
+        { "predicate": { "custom_model_data": 30105 }, "model": "blockentities:item/chinese_tile_roof_slab_top_b" },
+        { "predicate": { "custom_model_data": 30106 }, "model": "blockentities:item/chinese_tile_roof_slab_top_inner_b" },
+        { "predicate": { "custom_model_data": 30107 }, "model": "blockentities:item/chinese_tile_roof_slab_top_outer_b" },
+        { "predicate": { "custom_model_data": 30108 }, "model": "blockentities:item/chinese_tile_roof_slab_bot_b" },
+        { "predicate": { "custom_model_data": 30109 }, "model": "blockentities:item/chinese_tile_roof_slab_bot_inner_b" },
+        { "predicate": { "custom_model_data": 30110 }, "model": "blockentities:item/chinese_tile_roof_slab_bot_outer_b" }
         
     ]
 }

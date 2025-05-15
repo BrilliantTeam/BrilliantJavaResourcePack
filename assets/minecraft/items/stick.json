@@ -1569,6 +1569,13 @@
                 }
             },
             {
+                "threshold": 31992,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/doll/arashimoon"
+                }
+            },
+            {
                 "threshold": 31993,
                 "model": {
                     "type": "model",

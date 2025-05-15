@@ -1569,6 +1569,13 @@
                 }
             },
             {
+                "threshold": 31993,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/doll/redmoon"
+                }
+            },
+            {
                 "threshold": 31994,
                 "model": {
                     "type": "model",

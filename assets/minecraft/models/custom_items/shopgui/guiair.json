@@ -22,7 +22,8 @@
 	"gui_light": "front",
 	"display": {
 		"gui": {
-			"scale": [1.125, 1.125, 1.125]
+			"scale": [1.125, 1.125, 1.125],
+			"oversized_in_gui": true
 		}
 	}
 }

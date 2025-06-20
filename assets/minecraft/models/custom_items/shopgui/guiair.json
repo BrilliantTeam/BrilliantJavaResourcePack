@@ -1,5 +1,6 @@
 {
 	"credit": "RiceChen_",
+	"oversized_in_gui": true,
 	"texture_size": [32, 32],
 	"textures": {
 		"1": "item/custom/shopgui/guiair",

@@ -2,7 +2,6 @@
     "model": {
         "type": "range_dispatch",
         "property": "custom_model_data",
-        "oversized_in_gui": true,
         "fallback": {
             "type": "model",
             "model": "item/stick"

@@ -1013,7 +1013,8 @@
                 "model": {
                     "type": "model",
                     "model": "custom_items/shopgui/guiair"
-                }
+                },
+                "oversized_in_gui": true
             },
             {
                 "threshold": 20037,

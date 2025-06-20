@@ -6,6 +6,11 @@
             "type": "model",
             "model": "item/stick"
         },
+        "display": {
+            "gui": {
+                "oversized_in_gui": true
+            }
+        },
         "entries": [
             {
                 "threshold": 19002,

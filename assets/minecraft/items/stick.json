@@ -6,7 +6,6 @@
             "type": "model",
             "model": "item/stick"
         },
-        "oversized_in_gui": true,
         "entries": [
             {
                 "threshold": 19002,
@@ -1013,10 +1012,8 @@
                 "threshold": 20036,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/guiair",
-                    "oversized_in_gui": true
-                },
-                "oversized_in_gui": true
+                    "model": "custom_items/shopgui/guiair"
+                }
             },
             {
                 "threshold": 20037,

@@ -1,9 +1,0 @@
-{
-	"credit": "書碼",
-	"parent": "blockentities:item/wood_table_a",
-	"texture_size": [64, 64],
-	"textures": {
-		"0": "blockentities:block/pale_oak",
-		"particle": "blockentities:block/pale_oak"
-	}
-}

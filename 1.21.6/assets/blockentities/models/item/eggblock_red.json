@@ -1,9 +1,0 @@
-{
-	"credit": "恐龍",
-	"parent": "blockentities:item/eggblock",
-	"texture_size": [84, 84],
-	"textures": {
-		"0": "blockentities:block/eggblock_red",
-		"particle": "blockentities:block/eggblock_red"
-	}
-}

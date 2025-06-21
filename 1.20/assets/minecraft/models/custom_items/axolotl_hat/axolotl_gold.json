@@ -1,8 +1,0 @@
-{
-    "credit": "書碼",
-    "parent": "custom_items/axolotl_hat/axolotl_hat",
-    "textures": {
-        "0": "item/custom/decorative_helmets/axolotl_hat/axolotl_gold",
-        "particle": "item/custom/decorative_helmets/axolotl_hat/axolotl_gold"
-    }
-}

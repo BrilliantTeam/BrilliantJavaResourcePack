@@ -1,9 +1,0 @@
-{
-    "credit": "xuancat0208",
-    "parent": "custom_items/cat_hat/cat_hat",
-    "texture_size": [34, 34],
-    "textures": {
-        "0": "item/custom/decorative_helmets/cat_hat/cat_hat_cherry",
-        "particle": "item/custom/decorative_helmets/cat_hat/cat_hat_cherry"
-    }
-}

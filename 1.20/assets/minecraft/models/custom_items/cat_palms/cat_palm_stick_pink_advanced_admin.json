@@ -1,7 +1,0 @@
-{
-    "credit": "xuancat0208",
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "item/custom/cat_palms/cat_palm_stick_pink_advanced_admin"
-    }
-}

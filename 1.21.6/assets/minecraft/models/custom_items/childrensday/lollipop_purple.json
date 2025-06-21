@@ -1,8 +1,0 @@
-{
-	"credit": "書碼",
-	"parent": "custom_items/childrensday/lollipop",
-	"textures": {
-		"0": "item/custom/childrensday/lollipop_purple",
-		"particle": "item/custom/childrensday/lollipop_purple"
-	}
-}

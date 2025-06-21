@@ -1,8 +1,0 @@
-{
-    "credit": "書碼",
-    "parent": "custom_items/phantom_hat/phantom_hat",
-    "textures": {
-        "0": "item/custom/decorative_helmets/phantom_hat/phantom_animated_4",
-        "particle": "item/custom/decorative_helmets/phantom_hat/phantom_animated_4"
-    }
-}

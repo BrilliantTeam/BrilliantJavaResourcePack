@@ -1,8 +1,0 @@
-{
-    "credit": "書碼",
-    "parent": "custom_items/dog_hat/dog_hat",
-    "textures": {
-        "0": "item/custom/decorative_helmets/dog_hat/wolf_black_angry",
-        "particle": "item/custom/decorative_helmets/dog_hat/wolf_black_angry"
-    }
-}

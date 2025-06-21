@@ -1,9 +1,0 @@
-{
-    "credit": "書碼",
-    "parent": "custom_items/2025newyear/chinese_knot",
-	"texture_size": [64, 64],
-    "textures": {
-        "0": "item/custom/2025newyear/chinese_knot_1",
-        "particle": "item/custom/2025newyear/chinese_knot_1"
-    }
-}

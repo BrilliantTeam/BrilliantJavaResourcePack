@@ -1,8 +1,0 @@
-{
-    "credit": "書碼",
-    "parent": "custom_items/mid_autumn/rabbit_cake",
-    "textures": {
-        "2": "item/custom/mid_autumn/rabbit_mooncake_1",
-        "particle": "item/custom/mid_autumn/rabbit_mooncake_1"
-    }
-}

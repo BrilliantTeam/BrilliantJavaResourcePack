@@ -1,9 +1,0 @@
-{
-	"parent": "custom_items/gacha/gacha",
-	"texture_size": [64, 64],
-	"textures": {
-		"0": "item/custom/gacha/gacha_green",
-		"1": "blockentities:block/paradise_powder_block",
-		"particle": "item/custom/gacha/gacha_green"
-	}
-}

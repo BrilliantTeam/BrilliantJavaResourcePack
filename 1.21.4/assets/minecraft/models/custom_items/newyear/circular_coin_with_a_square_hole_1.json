@@ -1,9 +1,0 @@
-{
-	"credit": "circular_coin_with_a_square_hole_1",
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "item/custom/newyear/circular_coin_with_a_square_hole_1"
-	},
-	"gui_light": "front",
-	"display": {}
-}

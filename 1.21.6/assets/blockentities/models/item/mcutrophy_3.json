@@ -1,9 +1,0 @@
-{
-	"credit": "書碼",
-	"parent": "blockentities:item/mcu_trophy",
-	"texture_size": [64, 64],
-	"textures": {
-		"0": "blockentities:block/mcutrophy_3",
-		"particle": "blockentities:block/mcutrophy_3"
-	}
-}

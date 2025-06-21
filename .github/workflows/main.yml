@@ -45,7 +45,7 @@ jobs:
     - name: 壓縮成 zip
       run: |
         echo "Creating zip file: ${{ steps.set_var.outputs.ZIP_NAME }}"
-        zip -r "${{ steps.set_var.outputs.ZIP_NAME }}" assets/* license.md pack.mcmeta pack.png
+        zip -r "${{ steps.set_var.outputs.ZIP_NAME }}" 1.20/* 1.21.4/* 1.21.6/* license.md pack.mcmeta pack.png
         ls -la "${{ steps.set_var.outputs.ZIP_NAME }}"
     
     - name: 計算 SHA1

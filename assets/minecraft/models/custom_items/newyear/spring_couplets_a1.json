@@ -1,0 +1,8 @@
+{
+    "parent": "custom_items/newyear/spring_couplets_a",
+	"texture_size": [32, 112],
+	"textures": {
+		"0": "item/custom/newyear/spring_couplets_a1",
+		"particle": "item/custom/newyear/spring_couplets_a1"
+	}
+}

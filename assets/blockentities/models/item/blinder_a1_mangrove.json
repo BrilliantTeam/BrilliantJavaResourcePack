@@ -1,0 +1,9 @@
+{
+	"credit": "書碼",
+	"parent": "blockentities:item/blinder_a1",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "blockentities:block/mangrove",
+		"particle": "blockentities:block/mangrove"
+	}
+}

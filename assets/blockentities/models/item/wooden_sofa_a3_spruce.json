@@ -1,0 +1,10 @@
+{
+	"credit": "書碼",
+	"parent": "blockentities:item/wooden_sofa_a3",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "blockentities:block/gray",
+		"1": "blockentities:block/spruce",
+		"particle": "blockentities:block/gray"
+	}
+}

@@ -1,0 +1,7 @@
+{
+    "credit": "恐龍",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/custom/dragonboatfestival/sachet_1"
+    }
+}

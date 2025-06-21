@@ -1,0 +1,9 @@
+{
+    "credit": "xuancat0208",
+    "parent": "custom_items/angel_circle/angel_circle",
+    "texture_size": [32, 32],
+    "textures": {
+        "0": "item/custom/decorative_helmets/angel_circle/angel_circle_white",
+        "particle": "item/custom/decorative_helmets/angel_circle/angel_circle_white"
+    }
+}

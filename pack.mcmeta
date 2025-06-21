@@ -11,11 +11,11 @@
     "entries": [
       {
         "directory": "1.21.4",
-        "formats": [46, 55]
+        "formats": [46, 63]
       },
       {
         "directory": "1.21.6",
-        "formats": [46, 63]
+        "formats": [63, 63]
       }
     ]
   }

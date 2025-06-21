@@ -1,6 +1,26 @@
 {
   "pack": {
-    "pack_format": 46,
-    "description": "§7適用於 §f§l1.21.4 - .5 §r§7由 §6§l輝煌伺服器 §r§7製作"
+    "pack_format": 15,
+    "description": "§7適用於 §f§l1.20 - 1.21.6 §r§7由 §6§l輝煌伺服器 §r§7製作"
+  },
+  "supported_formats": {
+    "from": 15,
+    "to": 63
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "1.20",
+        "formats": [15, 15]
+      },
+      {
+        "directory": "1.21.4",
+        "formats": [46, 46]
+      },
+      {
+        "directory": "1.21.6",
+        "formats": [63, 63]
+      }
+    ]
   }
 }

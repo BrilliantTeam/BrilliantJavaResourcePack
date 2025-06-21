@@ -1,0 +1,8 @@
+{
+    "credit": "書碼",
+    "parent": "custom_items/halloween/witch_hat_1",
+    "textures": {
+        "2": "item/custom/halloween/witch_hat_1_red",
+        "particle": "item/custom/halloween/witch_hat_1_red"
+    }
+}

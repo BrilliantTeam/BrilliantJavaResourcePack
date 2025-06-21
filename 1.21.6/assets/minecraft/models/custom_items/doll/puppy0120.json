@@ -1,0 +1,8 @@
+{
+	"parent": "custom_items/doll/a",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "item/custom/doll/puppy0120",
+		"particle": "item/custom/doll/puppy0120"
+	}
+}

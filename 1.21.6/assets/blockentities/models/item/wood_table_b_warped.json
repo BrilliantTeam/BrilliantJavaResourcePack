@@ -1,0 +1,10 @@
+{
+	"credit": "書碼",
+	"parent": "blockentities:item/wood_table_b",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "blockentities:block/warped",
+		"18": "blockentities:block/cyan",
+		"particle": "blockentities:block/warped"
+	}
+}

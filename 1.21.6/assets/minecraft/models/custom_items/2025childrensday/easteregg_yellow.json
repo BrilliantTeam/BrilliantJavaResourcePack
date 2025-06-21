@@ -1,0 +1,7 @@
+{
+    "credit": "酥瑪",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/custom/2025childrensday/easteregg_yellow"
+    }
+}

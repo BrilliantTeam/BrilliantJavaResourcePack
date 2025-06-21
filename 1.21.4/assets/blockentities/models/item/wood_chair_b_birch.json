@@ -1,0 +1,10 @@
+{
+	"credit": "書碼",
+	"parent": "blockentities:item/wood_chair_b",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "blockentities:block/birch",
+		"1": "blockentities:block/white",
+		"particle": "blockentities:block/birch"
+	}
+}

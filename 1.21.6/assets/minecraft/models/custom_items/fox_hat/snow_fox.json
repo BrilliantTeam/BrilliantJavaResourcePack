@@ -1,0 +1,8 @@
+{
+    "credit": "書碼",
+    "parent": "custom_items/fox_hat/fox_hat",
+    "textures": {
+        "0": "item/custom/decorative_helmets/fox_hat/snow_fox",
+        "particle": "item/custom/decorative_helmets/fox_hat/snow_fox"
+    }
+}

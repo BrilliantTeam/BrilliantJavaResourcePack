@@ -1,0 +1,188 @@
+{
+    "oversized_in_gui": true,
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/leather_horse_armor",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
+        },
+        "entries": [
+            {
+                "threshold": 10000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/test",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/halloween/witch_hat_2",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20010,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025valentinesday/teddy_a01",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20011,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025valentinesday/teddy_a02",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20012,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025valentinesday/teddy_a03",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20013,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025valentinesday/teddy_a04",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20014,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025valentinesday/teddy_b",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20015,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025valentinesday/teddy_c",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20016,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025valentinesday/teddy_d",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025ratatouille/ratatouille_0",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20101,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025ratatouille/ratatouille_1",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20200,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025dragonboat/hand_fan",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20201,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025dragonboat/umbrella",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

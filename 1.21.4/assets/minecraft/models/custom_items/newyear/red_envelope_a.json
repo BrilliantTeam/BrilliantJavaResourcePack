@@ -1,0 +1,9 @@
+{
+	"credit": "red_envelope_a",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/custom/newyear/red_envelope_a"
+	},
+	"gui_light": "front",
+	"display": {}
+}

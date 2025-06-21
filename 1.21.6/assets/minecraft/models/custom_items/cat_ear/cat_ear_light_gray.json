@@ -1,0 +1,8 @@
+{
+    "credit": "xuancat0208",
+    "parent": "custom_items/cat_ear/cat_ear",
+    "textures": {
+        "0": "item/custom/decorative_helmets/cat_ear/cat_ear_light_gray",
+        "particle": "item/custom/decorative_helmets/cat_ear/cat_ear_light_gray"
+    }
+}

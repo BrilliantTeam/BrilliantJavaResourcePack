@@ -1,0 +1,293 @@
+{
+    "oversized_in_gui": true,
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/netherite_sword"
+        },
+        "entries": [
+            {
+                "threshold": 10000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/halloween/cat_sword"
+                }
+            },
+            {
+                "threshold": 10100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025valentinesday/wing_sword"
+                }
+            },
+            {
+                "threshold": 10200,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025dragonboat/ezshovel"
+                }
+            },
+            {
+                "threshold": 11000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/snake_sword_1"
+                }
+            },
+            {
+                "threshold": 11001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025newyear/snake_sword_2"
+                }
+            },
+            {
+                "threshold": 11100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025valentinesday/strawberry_fork"
+                }
+            },
+            {
+                "threshold": 16300,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_black_advanced"
+                }
+            },
+            {
+                "threshold": 16301,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_blue_advanced"
+                }
+            },
+            {
+                "threshold": 16302,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_brown_advanced"
+                }
+            },
+            {
+                "threshold": 16303,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_cyan_advanced"
+                }
+            },
+            {
+                "threshold": 16304,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_gray_advanced"
+                }
+            },
+            {
+                "threshold": 16305,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_green_advanced"
+                }
+            },
+            {
+                "threshold": 16306,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_light_blue_advanced"
+                }
+            },
+            {
+                "threshold": 16307,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_light_gray_advanced"
+                }
+            },
+            {
+                "threshold": 16308,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_lime_advanced"
+                }
+            },
+            {
+                "threshold": 16309,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_magenta_advanced"
+                }
+            },
+            {
+                "threshold": 16310,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_orange_advanced"
+                }
+            },
+            {
+                "threshold": 16311,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_pink_advanced"
+                }
+            },
+            {
+                "threshold": 16312,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_purple_advanced"
+                }
+            },
+            {
+                "threshold": 16313,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_red_advanced"
+                }
+            },
+            {
+                "threshold": 16314,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_white_advanced"
+                }
+            },
+            {
+                "threshold": 16315,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_yellow_advanced"
+                }
+            },
+            {
+                "threshold": 16316,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_rainbow_advanced"
+                }
+            },
+            {
+                "threshold": 16400,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_black_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16401,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_blue_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16402,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_brown_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16403,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_cyan_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16404,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_gray_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16405,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_green_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16406,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_light_blue_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16407,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_light_gray_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16408,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_lime_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16409,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_magenta_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16410,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_orange_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16411,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_pink_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16412,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_purple_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16413,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_red_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16414,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_white_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16415,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_yellow_advanced_admin"
+                }
+            },
+            {
+                "threshold": 17000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_stick_rainbow_advanced_admin"
+                }
+            }
+        ]
+    }
+}

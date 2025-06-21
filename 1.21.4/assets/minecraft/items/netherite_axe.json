@@ -1,0 +1,265 @@
+{
+    "oversized_in_gui": true,
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/netherite_axe"
+        },
+        "entries": [
+            {
+                "threshold": 10000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/halloween/cat_axe"
+                }
+            },
+            {
+                "threshold": 10100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025valentinesday/wing_axe"
+                }
+            },
+            {
+                "threshold": 16100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_black_advanced"
+                }
+            },
+            {
+                "threshold": 16101,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_blue_advanced"
+                }
+            },
+            {
+                "threshold": 16102,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_brown_advanced"
+                }
+            },
+            {
+                "threshold": 16103,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_cyan_advanced"
+                }
+            },
+            {
+                "threshold": 16104,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_gray_advanced"
+                }
+            },
+            {
+                "threshold": 16105,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_green_advanced"
+                }
+            },
+            {
+                "threshold": 16106,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_light_blue_advanced"
+                }
+            },
+            {
+                "threshold": 16107,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_light_gray_advanced"
+                }
+            },
+            {
+                "threshold": 16108,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_lime_advanced"
+                }
+            },
+            {
+                "threshold": 16109,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_magenta_advanced"
+                }
+            },
+            {
+                "threshold": 16110,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_orange_advanced"
+                }
+            },
+            {
+                "threshold": 16111,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_pink_advanced"
+                }
+            },
+            {
+                "threshold": 16112,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_purple_advanced"
+                }
+            },
+            {
+                "threshold": 16113,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_red_advanced"
+                }
+            },
+            {
+                "threshold": 16114,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_white_advanced"
+                }
+            },
+            {
+                "threshold": 16115,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_yellow_advanced"
+                }
+            },
+            {
+                "threshold": 16116,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_rainbow_advanced"
+                }
+            },
+            {
+                "threshold": 16200,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_black_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16201,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_blue_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16202,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_brown_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16203,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_cyan_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16204,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_gray_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16205,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_green_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16206,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_light_blue_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16207,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_light_gray_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16208,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_lime_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16209,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_magenta_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16210,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_orange_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16211,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_pink_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16212,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_purple_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16213,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_red_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16214,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_white_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16215,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_yellow_advanced_admin"
+                }
+            },
+            {
+                "threshold": 16216,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/cat_palms/cat_palm_glove_rainbow_advanced_admin"
+                }
+            }
+        ]
+    }
+}

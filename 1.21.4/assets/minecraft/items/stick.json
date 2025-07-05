@@ -3808,6 +3808,13 @@
                     "type": "model",
                     "model": "custom_items/2025childrensday/rabbit_wreath"
                 }
+            },
+            {
+                "threshold": 57000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/20256th/gacha_shooter"
+                }
             }
         ]
     }

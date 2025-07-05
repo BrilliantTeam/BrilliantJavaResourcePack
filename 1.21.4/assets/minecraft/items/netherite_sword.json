@@ -287,6 +287,13 @@
                     "type": "model",
                     "model": "custom_items/cat_palms/cat_palm_stick_rainbow_advanced_admin"
                 }
+            },
+            {
+                "threshold": 18000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/20256th/purify_syringe"
+                }
             }
         ]
     }

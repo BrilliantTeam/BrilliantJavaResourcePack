@@ -49,6 +49,8 @@
         {"predicate": {"custom_model_data": 16414}, "model": "custom_items/cat_palms/cat_palm_stick_white_advanced_admin"},
         {"predicate": {"custom_model_data": 16415}, "model": "custom_items/cat_palms/cat_palm_stick_yellow_advanced_admin"},
 
-        {"predicate": {"custom_model_data": 17000}, "model": "custom_items/cat_palms/cat_palm_stick_rainbow_advanced_admin"}
+        {"predicate": {"custom_model_data": 17000}, "model": "custom_items/cat_palms/cat_palm_stick_rainbow_advanced_admin"},
+
+        {"predicate": {"custom_model_data": 17000}, "model": "custom_items/20256th/purify_syringe"}
     ]
 }

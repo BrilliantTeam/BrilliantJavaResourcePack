@@ -1,9 +1,9 @@
 {
-	"format_version": "1.21.6",
-	"credit": "Made with Blockbench",
+	"credit": "書碼",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "kapippi_ani"
+		"1": "item/custom/20256th/kapippi_ani",
+		"particle": "item/custom/20256th/kapippi_ani"
 	},
 	"elements": [
 		{

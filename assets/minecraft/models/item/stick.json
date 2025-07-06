@@ -601,6 +601,7 @@
         { "predicate": { "custom_model_data": 56106 }, "model": "custom_items/2025childrensday/mz_toy" },
         { "predicate": { "custom_model_data": 56107 }, "model": "custom_items/2025childrensday/rabbit_wreath" },
 
-        { "predicate": { "custom_model_data": 57000 }, "model": "custom_items/20256th/gacha_shooter" }
+        { "predicate": { "custom_model_data": 57000 }, "model": "custom_items/20256th/gacha_shooter" },
+        { "predicate": { "custom_model_data": 57001 }, "model": "custom_items/20256th/kapippi" }
     ]
 }

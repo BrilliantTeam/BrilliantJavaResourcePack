@@ -1,9 +1,9 @@
 {
-	"credit": "書碼",
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "item/custom/20256th/kapippi_ani",
-		"particle": "item/custom/20256th/kapippi_ani"
+		"1": "kapippi_ani"
 	},
 	"elements": [
 		{
@@ -468,8 +468,7 @@
 			"scale": [0.6, 0.6, 0.6]
 		},
 		"head": {
-			"translation": [0, 6, -3],
-			"scale": [0.5, 0.5, 0.5]
+			"translation": [0, -6.25, -0.75]
 		},
 		"fixed": {
 			"translation": [0, -1.5, 0]

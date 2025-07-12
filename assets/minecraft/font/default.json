@@ -2077,6 +2077,15 @@
 			"chars": [
 				"ꇤ"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/a0_086rice.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"ꇥ"
+			]
 		}
 	]
 }

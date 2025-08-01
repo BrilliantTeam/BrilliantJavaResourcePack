@@ -1563,6 +1563,20 @@
                 }
             },
             {
+                "threshold": 31116,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/doll/playera2"
+                }
+            },
+            {
+                "threshold": 31117,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/doll/playera3"
+                }
+            },
+            {
                 "threshold": 31500,
                 "model": {
                     "type": "model",
@@ -3821,20 +3835,6 @@
                 "model": {
                     "type": "model",
                     "model": "custom_items/20256th/kapippi"
-                }
-            },
-            {
-                "threshold": 31116,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/doll/playera2"
-                }
-            },
-            {
-                "threshold": 31117,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/doll/playera3"
                 }
             }
         ]

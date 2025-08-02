@@ -1,7 +1,8 @@
 {
 	"credit": "書碼",
 	"textures": {
-		"3": "minecraft:block/stone_brick"
+		"3": "blockentities:block/stone_bricks",
+		"particle": "blockentities:block/stone_bricks"
 	},
 	"elements": [
 		{

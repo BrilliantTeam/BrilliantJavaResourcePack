@@ -1,7 +1,8 @@
 {
 	"credit": "書碼",
 	"textures": {
-		"3": "minecraft:block/moss_stone_brick"
+		"3": "blockentities:block/mossy_stone_bricks",
+		"particle": "blockentities:block/mossy_stone_bricks"
 	},
 	"elements": [
 		{

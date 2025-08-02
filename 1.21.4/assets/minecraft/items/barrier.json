@@ -3038,6 +3038,20 @@
                     "type": "model",
                     "model": "blockentities:item/calabash"
                 }
+            },
+            {
+                "threshold": 30300,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/ishitourou_a"
+                }
+            },
+            {
+                "threshold": 30301,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/ishitourou_b"
+                }
             }
         ]
     }

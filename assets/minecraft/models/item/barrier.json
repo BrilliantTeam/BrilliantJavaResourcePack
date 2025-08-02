@@ -481,7 +481,10 @@
         { "predicate": { "custom_model_data": 30200 }, "model": "blockentities:item/sachet" },
         { "predicate": { "custom_model_data": 30201 }, "model": "blockentities:item/mugwort" },
         { "predicate": { "custom_model_data": 30202 }, "model": "blockentities:item/ixora" },
-        { "predicate": { "custom_model_data": 30203 }, "model": "blockentities:item/calabash" }
+        { "predicate": { "custom_model_data": 30203 }, "model": "blockentities:item/calabash" },
+
+        { "predicate": { "custom_model_data": 30300 }, "model": "blockentities:item/ishitourou_a" },
+        { "predicate": { "custom_model_data": 30301 }, "model": "blockentities:item/ishitourou_b" }
         
     ]
 }

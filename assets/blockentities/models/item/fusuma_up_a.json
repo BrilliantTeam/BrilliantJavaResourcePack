@@ -1,11 +1,5 @@
 {
 	"credit": "書碼",
-	"texture_size": [64, 64],
-	"textures": {
-		"0": "blockentities:spruce",
-		"1": "blockentities:fusuma",
-		"particle": "blockentities:spruce"
-	},
 	"elements": [
 		{
 			"from": [0, 15, 6],

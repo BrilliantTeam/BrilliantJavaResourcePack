@@ -498,7 +498,5 @@
         { "predicate": { "custom_model_data": 30409 }, "model": "blockentities:item/fusuma_up_a2_oak" },
         { "predicate": { "custom_model_data": 30410 }, "model": "blockentities:item/fusuma_up_b1_oak" },
         { "predicate": { "custom_model_data": 30411 }, "model": "blockentities:item/fusuma_up_b2_oak" }
-        
-        
     ]
 }

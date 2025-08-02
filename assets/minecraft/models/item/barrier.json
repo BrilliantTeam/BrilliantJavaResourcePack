@@ -485,6 +485,8 @@
 
         { "predicate": { "custom_model_data": 30300 }, "model": "blockentities:item/ishitourou_a" },
         { "predicate": { "custom_model_data": 30301 }, "model": "blockentities:item/ishitourou_b" },
+        { "predicate": { "custom_model_data": 30302 }, "model": "blockentities:item/paperlantern" },
+        { "predicate": { "custom_model_data": 30303 }, "model": "blockentities:item/paperlantern_kagome" },
 
         { "predicate": { "custom_model_data": 30400 }, "model": "blockentities:item/fusuma_down_a1_oak" },
         { "predicate": { "custom_model_data": 30401 }, "model": "blockentities:item/fusuma_down_a2_oak" },

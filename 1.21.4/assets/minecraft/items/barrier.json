@@ -3053,6 +3053,20 @@
                 }
             },
             {
+                "threshold": 30302,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/paperlantern"
+                }
+            },
+            {
+                "threshold": 30303,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/paperlantern_kagome"
+                }
+            },
+            {
                 "threshold": 30400,
                 "model": {
                     "type": "model",

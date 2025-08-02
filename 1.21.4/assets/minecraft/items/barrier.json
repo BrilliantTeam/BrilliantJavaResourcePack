@@ -1,5 +1,4 @@
 {
-    "oversized_in_gui": true,
     "model": {
         "type": "range_dispatch",
         "property": "custom_model_data",
@@ -3051,6 +3050,342 @@
                 "model": {
                     "type": "model",
                     "model": "blockentities:item/ishitourou_b"
+                }
+            },
+            {
+                "threshold": 30400,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_a1_oak"
+                }
+            },
+            {
+                "threshold": 30401,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_a2_oak"
+                }
+            },
+            {
+                "threshold": 30402,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_b1_oak"
+                }
+            },
+            {
+                "threshold": 30403,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_b2_oak"
+                }
+            },
+            {
+                "threshold": 30404,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_wood_a1_oak"
+                }
+            },
+            {
+                "threshold": 30405,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_wood_a2_oak"
+                }
+            },
+            {
+                "threshold": 30406,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_wood_b1_oak"
+                }
+            },
+            {
+                "threshold": 30407,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_wood_b2_oak"
+                }
+            },
+            {
+                "threshold": 30408,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_up_a1_oak"
+                }
+            },
+            {
+                "threshold": 30409,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_up_a2_oak"
+                }
+            },
+            {
+                "threshold": 30410,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_up_b1_oak"
+                }
+            },
+            {
+                "threshold": 30411,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_up_b2_oak"
+                }
+            },
+            {
+                "threshold": 30500,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_a1_spruce"
+                }
+            },
+            {
+                "threshold": 30501,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_a2_spruce"
+                }
+            },
+            {
+                "threshold": 30502,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_b1_spruce"
+                }
+            },
+            {
+                "threshold": 30503,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_b2_spruce"
+                }
+            },
+            {
+                "threshold": 30504,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_wood_a1_spruce"
+                }
+            },
+            {
+                "threshold": 30505,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_wood_a2_spruce"
+                }
+            },
+            {
+                "threshold": 30506,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_wood_b1_spruce"
+                }
+            },
+            {
+                "threshold": 30507,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_wood_b2_spruce"
+                }
+            },
+            {
+                "threshold": 30508,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_up_a1_spruce"
+                }
+            },
+            {
+                "threshold": 30509,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_up_a2_spruce"
+                }
+            },
+            {
+                "threshold": 30510,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_up_b1_spruce"
+                }
+            },
+            {
+                "threshold": 30511,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_up_b2_spruce"
+                }
+            },
+            {
+                "threshold": 30600,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_a1_cherry"
+                }
+            },
+            {
+                "threshold": 30601,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_a2_cherry"
+                }
+            },
+            {
+                "threshold": 30602,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_b1_cherry"
+                }
+            },
+            {
+                "threshold": 30603,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_b2_cherry"
+                }
+            },
+            {
+                "threshold": 30604,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_wood_a1_cherry"
+                }
+            },
+            {
+                "threshold": 30605,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_wood_a2_cherry"
+                }
+            },
+            {
+                "threshold": 30606,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_wood_b1_cherry"
+                }
+            },
+            {
+                "threshold": 30607,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_wood_b2_cherry"
+                }
+            },
+            {
+                "threshold": 30608,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_up_a1_cherry"
+                }
+            },
+            {
+                "threshold": 30609,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_up_a2_cherry"
+                }
+            },
+            {
+                "threshold": 30610,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_up_b1_cherry"
+                }
+            },
+            {
+                "threshold": 30611,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_up_b2_cherry"
+                }
+            },
+            {
+                "threshold": 30700,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_a1_dark_oak"
+                }
+            },
+            {
+                "threshold": 30701,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_a2_dark_oak"
+                }
+            },
+            {
+                "threshold": 30702,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_b1_dark_oak"
+                }
+            },
+            {
+                "threshold": 30703,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_b2_dark_oak"
+                }
+            },
+            {
+                "threshold": 30704,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_wood_a1_dark_oak"
+                }
+            },
+            {
+                "threshold": 30705,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_wood_a2_dark_oak"
+                }
+            },
+            {
+                "threshold": 30706,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_wood_b1_dark_oak"
+                }
+            },
+            {
+                "threshold": 30707,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_down_wood_b2_dark_oak"
+                }
+            },
+            {
+                "threshold": 30708,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_up_a1_dark_oak"
+                }
+            },
+            {
+                "threshold": 30709,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_up_a2_dark_oak"
+                }
+            },
+            {
+                "threshold": 30710,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_up_b1_dark_oak"
+                }
+            },
+            {
+                "threshold": 30711,
+                "model": {
+                    "type": "model",
+                    "model": "blockentities:item/fusuma_up_b2_dark_oak"
                 }
             }
         ]

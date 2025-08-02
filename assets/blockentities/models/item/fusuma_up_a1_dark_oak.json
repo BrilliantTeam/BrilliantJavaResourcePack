@@ -1,0 +1,10 @@
+{
+	"credit": "恐龍",
+	"parent": "blockentities:item/fusuma_up_a",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "blockentities:block/dark_oak",
+		"1": "blockentities:block/fusuma_a1",
+		"particle": "blockentities:block/dark_oak"
+	}
+}

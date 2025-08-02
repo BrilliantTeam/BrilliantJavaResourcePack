@@ -484,7 +484,21 @@
         { "predicate": { "custom_model_data": 30203 }, "model": "blockentities:item/calabash" },
 
         { "predicate": { "custom_model_data": 30300 }, "model": "blockentities:item/ishitourou_a" },
-        { "predicate": { "custom_model_data": 30301 }, "model": "blockentities:item/ishitourou_b" }
+        { "predicate": { "custom_model_data": 30301 }, "model": "blockentities:item/ishitourou_b" },
+
+        { "predicate": { "custom_model_data": 30400 }, "model": "blockentities:item/fusuma_down_a1_oak" },
+        { "predicate": { "custom_model_data": 30401 }, "model": "blockentities:item/fusuma_down_a2_oak" },
+        { "predicate": { "custom_model_data": 30402 }, "model": "blockentities:item/fusuma_down_b1_oak" },
+        { "predicate": { "custom_model_data": 30403 }, "model": "blockentities:item/fusuma_down_b2_oak" },
+        { "predicate": { "custom_model_data": 30404 }, "model": "blockentities:item/fusuma_down_wood_a1_oak" },
+        { "predicate": { "custom_model_data": 30405 }, "model": "blockentities:item/fusuma_down_wood_a2_oak" },
+        { "predicate": { "custom_model_data": 30406 }, "model": "blockentities:item/fusuma_down_wood_b1_oak" },
+        { "predicate": { "custom_model_data": 30407 }, "model": "blockentities:item/fusuma_down_wood_b2_oak" },
+        { "predicate": { "custom_model_data": 30408 }, "model": "blockentities:item/fusuma_up_a1_oak" },
+        { "predicate": { "custom_model_data": 30409 }, "model": "blockentities:item/fusuma_up_a2_oak" },
+        { "predicate": { "custom_model_data": 30410 }, "model": "blockentities:item/fusuma_up_b1_oak" },
+        { "predicate": { "custom_model_data": 30411 }, "model": "blockentities:item/fusuma_up_b2_oak" }
+        
         
     ]
 }

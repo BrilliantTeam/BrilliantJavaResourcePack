@@ -3836,6 +3836,41 @@
                     "type": "model",
                     "model": "custom_items/20256th/kapippi"
                 }
+            },
+            {
+                "threshold": 57100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025summer/kitsuneback_a"
+                }
+            },
+            {
+                "threshold": 57101,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025summer/kitsuneback_b"
+                }
+            },
+            {
+                "threshold": 57102,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025summer/mask_hyottoko"
+                }
+            },
+            {
+                "threshold": 57103,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025summer/mask_okame"
+                }
+            },
+            {
+                "threshold": 57104,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025summer/polarbearqin"
+                }
             }
         ]
     }

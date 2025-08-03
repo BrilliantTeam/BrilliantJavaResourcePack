@@ -604,6 +604,12 @@
         { "predicate": { "custom_model_data": 56107 }, "model": "custom_items/2025childrensday/rabbit_wreath" },
 
         { "predicate": { "custom_model_data": 57000 }, "model": "custom_items/20256th/gacha_shooter" },
-        { "predicate": { "custom_model_data": 57001 }, "model": "custom_items/20256th/kapippi" }
+        { "predicate": { "custom_model_data": 57001 }, "model": "custom_items/20256th/kapippi" },
+
+        { "predicate": { "custom_model_data": 57100 }, "model": "custom_items/2025summer/kitsuneback_a" },
+        { "predicate": { "custom_model_data": 57101 }, "model": "custom_items/2025summer/kitsuneback_b" },
+        { "predicate": { "custom_model_data": 57102 }, "model": "custom_items/2025summer/mask_hyottoko" },
+        { "predicate": { "custom_model_data": 57103 }, "model": "custom_items/2025summer/mask_okame" },
+        { "predicate": { "custom_model_data": 57104 }, "model": "custom_items/2025summer/polarbearqin" }
     ]
 }

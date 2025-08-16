@@ -1,0 +1,9 @@
+{
+	"credit": "書碼",
+	"parent": "custom_items/blockentities/wood_chair_a",
+	"texture_size": [64, 64],
+	"textures": {
+		"9": "item/custom/blockentities/jungle",
+		"particle": "item/custom/blockentities/jungle"
+	}
+}

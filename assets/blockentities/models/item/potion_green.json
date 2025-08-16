@@ -1,8 +1,0 @@
-{
-    "credit": "書碼",
-    "parent": "blockentities:item/potion_1",
-    "textures": {
-        "1": "blockentities:block/potion_green",
-        "particle": "blockentities:block/potion_green"
-    }
-}

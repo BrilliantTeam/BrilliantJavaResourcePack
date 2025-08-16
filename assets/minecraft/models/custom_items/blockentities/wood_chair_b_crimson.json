@@ -1,0 +1,10 @@
+{
+	"credit": "書碼",
+	"parent": "custom_items/blockentities/wood_chair_b",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "item/custom/blockentities/crimson",
+		"1": "item/custom/blockentities/purple",
+		"particle": "item/custom/blockentities/crimson"
+	}
+}

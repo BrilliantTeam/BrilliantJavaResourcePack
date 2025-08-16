@@ -1,0 +1,9 @@
+{
+	"credit": "書碼",
+	"parent": "custom_items/blockentities/blinder_a1",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "item/custom/blockentities/spruce",
+		"particle": "item/custom/blockentities/spruce"
+	}
+}

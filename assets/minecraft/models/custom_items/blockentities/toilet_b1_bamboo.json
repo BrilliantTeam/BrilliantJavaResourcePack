@@ -1,0 +1,10 @@
+{
+	"credit": "書碼、鯉魚",
+	"parent": "custom_items/blockentities/toilet_b1",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "item/custom/blockentities/white",
+		"1": "item/custom/blockentities/bamboo",
+		"particle": "item/custom/blockentities/white"
+	}
+}

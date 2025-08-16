@@ -1,0 +1,9 @@
+{
+	"credit": "恐龍",
+	"parent": "custom_items/blockentities/gift",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/custom/blockentities/gift_lyme",
+		"particle": "item/custom/blockentities/gift_lyme"
+	}
+}

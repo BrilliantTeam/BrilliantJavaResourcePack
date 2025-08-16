@@ -1,0 +1,9 @@
+{
+	"credit": "書碼",
+	"texture_size": [32, 32],
+	"parent": "custom_items/blockentities/ring",
+	"textures": {
+		"1": "item/custom/blockentities/ring_yellow",
+		"particle": "item/custom/blockentities/ring_yellow"
+	}
+}

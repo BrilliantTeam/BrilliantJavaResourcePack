@@ -1,0 +1,8 @@
+{
+	"credit": "書碼",
+	"parent": "custom_items/blockentities/aether_block0",
+	"textures": {
+		"0": "item/custom/blockentities/aether_block6",
+		"particle": "item/custom/blockentities/aether_block6"
+	}
+}

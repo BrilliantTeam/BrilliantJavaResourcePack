@@ -1,0 +1,10 @@
+{
+	"credit": "恐龍",
+	"parent": "custom_items/blockentities/flower_bonquet",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "item/custom/blockentities/flower_2",
+		"1": "item/custom/blockentities/pale_oak",
+		"particle": "item/custom/blockentities/flower_2"
+	}
+}

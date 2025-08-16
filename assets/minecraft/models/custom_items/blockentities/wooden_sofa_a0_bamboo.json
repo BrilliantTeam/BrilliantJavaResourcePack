@@ -1,0 +1,10 @@
+{
+	"credit": "書碼",
+	"parent": "custom_items/blockentities/wooden_sofa_a0",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "item/custom/blockentities/lime",
+		"1": "item/custom/blockentities/bamboo",
+		"particle": "item/custom/blockentities/lime"
+	}
+}

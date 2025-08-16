@@ -2,8 +2,8 @@
 	"credit": "書碼",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "blockentities:block/oak",
-		"particle": "blockentities:block/oak"
+		"0": "item/custom/blockentities/oak",
+		"particle": "item/custom/blockentities/oak"
 	},
 	"elements": [
 		{

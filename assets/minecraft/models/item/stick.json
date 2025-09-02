@@ -240,6 +240,7 @@
         {"predicate": {"custom_model_data": 31116}, "model":"custom_items/doll/playera2"},
         {"predicate": {"custom_model_data": 31117}, "model":"custom_items/doll/playera3"},
         {"predicate": {"custom_model_data": 31118}, "model":"custom_items/doll/willy100031"},
+        {"predicate": {"custom_model_data": 31119}, "model":"custom_items/doll/youaresb6"},
 
         {"predicate": {"custom_model_data": 31500}, "model":"custom_items/doll/mistelnrice5"},
         

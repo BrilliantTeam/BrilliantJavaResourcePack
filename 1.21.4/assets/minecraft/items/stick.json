@@ -1584,6 +1584,13 @@
                 }
             },
             {
+                "threshold": 31119,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/doll/youaresb6"
+                }
+            },
+            {
                 "threshold": 31500,
                 "model": {
                     "type": "model",

@@ -159,6 +159,14 @@
         {"predicate": {"custom_model_data": 30902}, "model": "custom_items/dessert/cake_roll_berry"},
         {"predicate": {"custom_model_data": 30903}, "model": "custom_items/dessert/cake_roll_glow"},
 
+        {"predicate": {"custom_model_data": 31001}, "model": "custom_items/dessert/juice_sweet_berry"},
+        {"predicate": {"custom_model_data": 31002}, "model": "custom_items/dessert/juice_pumpkin"},
+        {"predicate": {"custom_model_data": 31003}, "model": "custom_items/dessert/juice_melon"},
+        {"predicate": {"custom_model_data": 31004}, "model": "custom_items/dessert/juice_glow_berry"},
+        {"predicate": {"custom_model_data": 31005}, "model": "custom_items/dessert/juice_chorus_fruit"},
+        {"predicate": {"custom_model_data": 31006}, "model": "custom_items/dessert/juice_carrot"},
+        {"predicate": {"custom_model_data": 31006}, "model": "custom_items/dessert/juice_beetroot"},
+
         {"predicate": {"custom_model_data": 50012}, "model": "custom_items/dessert/pancake_or_honey"},
         {"predicate": {"custom_model_data": 50013}, "model": "custom_items/dessert/puddin"},
         {"predicate": {"custom_model_data": 50031}, "model": "custom_items/dessert/chocolate"},

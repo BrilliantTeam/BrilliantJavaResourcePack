@@ -1024,6 +1024,55 @@
                 }
             },
             {
+                "threshold": 31001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/juice_sweet_berry"
+                }
+            },
+            {
+                "threshold": 31002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/juice_pumpkin"
+                }
+            },
+            {
+                "threshold": 31003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/juice_melon"
+                }
+            },
+            {
+                "threshold": 31004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/juice_glow_berry"
+                }
+            },
+            {
+                "threshold": 31005,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/juice_chorus_fruit"
+                }
+            },
+            {
+                "threshold": 31006,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/juice_carrot"
+                }
+            },
+            {
+                "threshold": 31007,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/juice_beetroot"
+                }
+            },
+            {
                 "threshold": 50012,
                 "model": {
                     "type": "model",

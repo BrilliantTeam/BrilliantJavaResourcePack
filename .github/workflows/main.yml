@@ -20,22 +20,19 @@ jobs:
         
         if [[ "$BRANCH_NAME" == "main" ]]; then
           echo "ZIP_NAME=bsje.zip" >> $GITHUB_OUTPUT
-          echo "TAG_PREFIX=1.20.2" >> $GITHUB_OUTPUT
           echo "ASSET_NAME=bsje.zip" >> $GITHUB_OUTPUT
         else
           echo "ZIP_NAME=bsje-unknown.zip" >> $GITHUB_OUTPUT
-          echo "TAG_PREFIX=unknown" >> $GITHUB_OUTPUT
           echo "ASSET_NAME=bsje-unknown.zip" >> $GITHUB_OUTPUT
         fi
         
         echo "Set ZIP_NAME to: ${{ steps.set_var.outputs.ZIP_NAME }}"
-        echo "Set TAG_PREFIX to: ${{ steps.set_var.outputs.TAG_PREFIX }}"
         echo "Set ASSET_NAME to: ${{ steps.set_var.outputs.ASSET_NAME }}"
     
     - name: 壓縮成 zip
       run: |
         echo "Creating zip file: ${{ steps.set_var.outputs.ZIP_NAME }}"
-        zip -r "${{ steps.set_var.outputs.ZIP_NAME }}" assets/* 1.21.4/* 1.21.6/* license.md pack.mcmeta pack.png
+        zip -r "${{ steps.set_var.outputs.ZIP_NAME }}" assets/* 1.21.4/* 1.21.6/* LICENSE.txt pack.mcmeta pack.png
         ls -la "${{ steps.set_var.outputs.ZIP_NAME }}"
     
     - name: 計算 SHA1
@@ -50,8 +47,8 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        tag_name: ${{ github.run_number }}-v${{ steps.set_var.outputs.TAG_PREFIX }}
-        release_name: Version. ${{ github.run_number }} | ${{ steps.set_var.outputs.TAG_PREFIX }} | ${{ github.event.head_commit.message }}
+        tag_name: ${{ github.run_number }}
+        release_name: Version. ${{ github.run_number }} | ${{ github.event.head_commit.message }}
         draft: false
         prerelease: false
         body: |

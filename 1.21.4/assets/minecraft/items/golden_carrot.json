@@ -100,6 +100,13 @@
                 }
             },
             {
+                "threshold": 30013,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/dessert/shulker_shell_crisps"
+                }
+            },
+            {
                 "threshold": 30101,
                 "model": {
                     "type": "model",

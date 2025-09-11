@@ -165,7 +165,7 @@
         {"predicate": {"custom_model_data": 31004}, "model": "custom_items/dessert/juice_glow_berry"},
         {"predicate": {"custom_model_data": 31005}, "model": "custom_items/dessert/juice_chorus_fruit"},
         {"predicate": {"custom_model_data": 31006}, "model": "custom_items/dessert/juice_carrot"},
-        {"predicate": {"custom_model_data": 31006}, "model": "custom_items/dessert/juice_beetroot"},
+        {"predicate": {"custom_model_data": 31007}, "model": "custom_items/dessert/juice_beetroot"},
 
         {"predicate": {"custom_model_data": 50012}, "model": "custom_items/dessert/pancake_or_honey"},
         {"predicate": {"custom_model_data": 50013}, "model": "custom_items/dessert/puddin"},

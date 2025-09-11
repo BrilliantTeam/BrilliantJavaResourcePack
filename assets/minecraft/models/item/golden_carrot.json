@@ -17,6 +17,7 @@
         {"predicate": {"custom_model_data": 30010}, "model": "custom_items/dessert/sponge_cake"},
         {"predicate": {"custom_model_data": 30011}, "model": "custom_items/dessert/croissant"},
         {"predicate": {"custom_model_data": 30012}, "model": "custom_items/dessert/palmier"},
+        {"predicate": {"custom_model_data": 30013}, "model": "custom_items/dessert/shulker_shell_crisps"},
 
         {"predicate": {"custom_model_data": 30101}, "model": "custom_items/dessert/color_jam_1"},
         {"predicate": {"custom_model_data": 30102}, "model": "custom_items/dessert/color_jam_2"},

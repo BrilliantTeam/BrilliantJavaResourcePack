@@ -119,6 +119,8 @@
         {"predicate": {"custom_model_data": 19903}, "model":"custom_items/currency/luminous_crystal"},
         {"predicate": {"custom_model_data": 19904}, "model":"custom_items/currency/watercress"},
         {"predicate": {"custom_model_data": 19911}, "model":"custom_items/currency/aether_bill"},
+        {"predicate": {"custom_model_data": 19912}, "model":"custom_items/currency/ether_beret"},
+        {"predicate": {"custom_model_data": 19913}, "model":"custom_items/currency/crystal_mapping"},
 
         {"predicate": {"custom_model_data": 20001}, "model":"custom_items/shopgui/page1"},
         {"predicate": {"custom_model_data": 20002}, "model":"custom_items/shopgui/page2"},

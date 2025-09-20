@@ -1,9 +1,10 @@
 {
-	"credit": "書碼",
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/custom/blockentities/paradise_powder_block",
-		"2": "item/custom/currency/paradise_powder",
-		"particle": "item/custom/blockentities/paradise_powder_block"
+		"1": "paradise_powder_rgb_block",
+		"2": "paradise_powder_flip",
+		"particle": "paradise_powder_rgb_block"
 	},
 	"elements": [
 		{
@@ -242,6 +243,7 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [-7, 0, 0],

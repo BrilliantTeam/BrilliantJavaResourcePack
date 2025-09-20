@@ -121,6 +121,7 @@
         {"predicate": {"custom_model_data": 19911}, "model":"custom_items/currency/aether_bill"},
         {"predicate": {"custom_model_data": 19912}, "model":"custom_items/currency/ether_beret"},
         {"predicate": {"custom_model_data": 19913}, "model":"custom_items/currency/crystal_mapping"},
+        {"predicate": {"custom_model_data": 19914}, "model":"custom_items/currency/paradise_clownhat"},
 
         {"predicate": {"custom_model_data": 20001}, "model":"custom_items/shopgui/page1"},
         {"predicate": {"custom_model_data": 20002}, "model":"custom_items/shopgui/page2"},

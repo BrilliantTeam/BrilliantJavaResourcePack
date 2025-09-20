@@ -779,6 +779,13 @@
                 }
             },
             {
+                "threshold": 19914,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/currency/paradise_clownhat"
+                }
+            },
+            {
                 "threshold": 20001,
                 "model": {
                     "type": "model",

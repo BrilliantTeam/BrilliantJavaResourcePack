@@ -2104,33 +2104,6 @@
 			"chars": [
 				"ꇧ"
 			]
-		},
-		{
-			"type": "bitmap",
-			"file": "test/angel_left.png",
-			"height": 16,
-			"ascent": 14,
-			"chars": [
-				"ꇨ"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "test/angel_middle.png",
-			"height": 16,
-			"ascent": 14,
-			"chars": [
-				"ꇩ"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "test/angel_right.png",
-			"height": 16,
-			"ascent": 14,
-			"chars": [
-				"ꇪ"
-			]
 		}
 	]
 }

@@ -1612,6 +1612,13 @@
                 }
             },
             {
+                "threshold": 31120,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/doll/jiuzhou_tw"
+                }
+            },
+            {
                 "threshold": 31500,
                 "model": {
                     "type": "model",

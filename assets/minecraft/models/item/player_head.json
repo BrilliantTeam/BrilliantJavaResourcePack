@@ -4,9 +4,6 @@
 	"textures": {
 		"particle": "block/soul_sand"
 	},
-    "overrides": [
-        {"predicate": {"custom_model_data": 31000}, "model":"custom_items/doll/isbnnnnn"}
-	],
 	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {

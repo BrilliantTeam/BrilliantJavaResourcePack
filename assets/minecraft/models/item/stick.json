@@ -616,9 +616,6 @@
         { "predicate": { "custom_model_data": 57101 }, "model": "custom_items/2025summer/kitsuneback_b" },
         { "predicate": { "custom_model_data": 57102 }, "model": "custom_items/2025summer/mask_hyottoko" },
         { "predicate": { "custom_model_data": 57103 }, "model": "custom_items/2025summer/mask_okame" },
-        { "predicate": { "custom_model_data": 57104 }, "model": "custom_items/2025summer/polarbearqin" },
-
-        
-        {"predicate": {"custom_model_data": 60000}, "model":"custom_items/cat_hat/cat_hat_black"}
+        { "predicate": { "custom_model_data": 57104 }, "model": "custom_items/2025summer/polarbearqin" }
     ]
 }

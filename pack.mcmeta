@@ -5,17 +5,17 @@
   },
   "supported_formats": {
     "from": 15,
-    "to": 68
+    "to": 69
   },
   "overlays": {
     "entries": [
       {
         "directory": "1.21.4",
-        "formats": [46, 68]
+        "formats": [46, 69]
       },
       {
         "directory": "1.21.6",
-        "formats": [63, 68]
+        "formats": [63, 69]
       }
     ]
   }

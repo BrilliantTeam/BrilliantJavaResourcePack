@@ -2,9 +2,9 @@
 	"credit": "恐龍、書碼",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "item/custom/hat/mistelnuniform_2",
+		"1": "item/custom/brilliant/misteln/mistelnuniform_2",
 		"2": "item/custom/brilliant/misteln/misteln_rice_hat",
-		"3": "item/custom/hat/mistelnuniform_1",
+		"3": "item/custom/brilliant/misteln/mistelnuniform_1",
 		"particle": "item/custom/brilliant/misteln/misteln_rice_hat"
 	},
 	"elements": [

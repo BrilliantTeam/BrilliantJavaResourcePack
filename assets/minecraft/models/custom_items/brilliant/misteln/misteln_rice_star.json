@@ -2,7 +2,7 @@
 	"credit": "恐龍",
 	"textures": {
 		"2": "item/custom/brilliant/misteln/misteln_rice_hat",
-		"3": "item/custom/hat/spyglass_star",
+		"3": "item/custom/brilliant/misteln/spyglass_star",
 		"4": "item/custom/brilliant/misteln/misteln_rice_animate",
 		"5": "item/custom/2024angel/b_7",
 		"particle": "item/custom/brilliant/misteln/misteln_rice_hat"

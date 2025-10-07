@@ -315,10 +315,10 @@
         {"predicate": {"custom_model_data": 34019}, "model":"custom_items/2024childrensday/paperplane"},
         {"predicate": {"custom_model_data": 34020}, "model":"custom_items/2024childrensday/uglyplane"},
 
-        {"predicate": {"custom_model_data": 35000}, "model":"custom_items/hat/misteln_rice"},
-        {"predicate": {"custom_model_data": 35001}, "model":"custom_items/hat/misteln_rice_hat"},
-        {"predicate": {"custom_model_data": 35002}, "model":"custom_items/hat/misteln_rice_star"},
-        {"predicate": {"custom_model_data": 35003}, "model":"custom_items/hat/misteln_rice_scunfm"},
+        {"predicate": {"custom_model_data": 35000}, "model":"custom_items/brlliant/misteln/misteln_rice"},
+        {"predicate": {"custom_model_data": 35001}, "model":"custom_items/brlliant/misteln/misteln_rice_hat"},
+        {"predicate": {"custom_model_data": 35002}, "model":"custom_items/brlliant/misteln/misteln_rice_star"},
+        {"predicate": {"custom_model_data": 35003}, "model":"custom_items/brlliant/misteln/misteln_rice_scunfm"},
 
         {"predicate": {"custom_model_data": 36010}, "model":"custom_items/2024dragonboatfestival/sachet_1"},
         {"predicate": {"custom_model_data": 36011}, "model":"custom_items/2024dragonboatfestival/sachet_2"},
@@ -470,7 +470,7 @@
         { "predicate": { "custom_model_data": 52120 }, "model": "custom_items/2025hat/plt_ticket_2025" },
         { "predicate": { "custom_model_data": 52121 }, "model": "custom_items/2025hat/rainfrog_2025" },
         
-        { "predicate": { "custom_model_data": 53000 }, "model": "custom_items/2024squidgame/2024squidgameinvitecard" },
+        { "predicate": { "custom_model_data": 53000 }, "model": "custom_items/2024squidgame/squidgameinvitecard" },
         { "predicate": { "custom_model_data": 53001 }, "model": "custom_items/2024squidgame/mask_blackman" },
         { "predicate": { "custom_model_data": 53002 }, "model": "custom_items/2024squidgame/mask_shape1" },
         { "predicate": { "custom_model_data": 53003 }, "model": "custom_items/2024squidgame/mask_shape2" },

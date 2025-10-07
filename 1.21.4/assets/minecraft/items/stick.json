@@ -3008,7 +3008,7 @@
                 "threshold": 53000,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/2024squidgame/2024squidgameinvitecard"
+                    "model": "custom_items/2024squidgame/squidgameinvitecard"
                 }
             },
             {

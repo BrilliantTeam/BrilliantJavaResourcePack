@@ -1,0 +1,8 @@
+{
+    "credit": "xuancat0208",
+    "parent": "custom_items/hat/deer_horn/deer_horn",
+    "textures": {
+        "0": "item/custom/hat/deer_horn/deer_horn_cyan",
+        "particle": "item/custom/hat/deer_horn/deer_horn_cyan"
+    }
+}

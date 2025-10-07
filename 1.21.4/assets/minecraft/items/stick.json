@@ -12,1225 +12,1225 @@
                 "threshold": 19002,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_hat/cat_hat_black"
+                    "model": "custom_items/hat/cat_hat/cat_hat_black"
                 }
             },
             {
                 "threshold": 19003,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_hat/cat_hat_british_shorthair"
+                    "model": "custom_items/hat/cat_hat/cat_hat_british_shorthair"
                 }
             },
             {
                 "threshold": 19004,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_hat/cat_hat_baby_calico"
+                    "model": "custom_items/hat/cat_hat/cat_hat_baby_calico"
                 }
             },
             {
                 "threshold": 19005,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_hat/cat_hat_jellie"
+                    "model": "custom_items/hat/cat_hat/cat_hat_jellie"
                 }
             },
             {
                 "threshold": 19006,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_hat/cat_hat_persian"
+                    "model": "custom_items/hat/cat_hat/cat_hat_persian"
                 }
             },
             {
                 "threshold": 19007,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_hat/cat_hat_ragdoll"
+                    "model": "custom_items/hat/cat_hat/cat_hat_ragdoll"
                 }
             },
             {
                 "threshold": 19008,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_hat/cat_hat_red"
+                    "model": "custom_items/hat/cat_hat/cat_hat_red"
                 }
             },
             {
                 "threshold": 19009,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_hat/cat_hat_siamese"
+                    "model": "custom_items/hat/cat_hat/cat_hat_siamese"
                 }
             },
             {
                 "threshold": 19010,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_hat/cat_hat_tabby"
+                    "model": "custom_items/hat/cat_hat/cat_hat_tabby"
                 }
             },
             {
                 "threshold": 19011,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_hat/cat_hat_tuxedo"
+                    "model": "custom_items/hat/cat_hat/cat_hat_tuxedo"
                 }
             },
             {
                 "threshold": 19012,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_hat/cat_hat_baby_white"
+                    "model": "custom_items/hat/cat_hat/cat_hat_baby_white"
                 }
             },
             {
                 "threshold": 19013,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_hat/cat_hat_strawberry"
+                    "model": "custom_items/hat/cat_hat/cat_hat_strawberry"
                 }
             },
             {
                 "threshold": 19014,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_hat/cat_hat_pudding"
+                    "model": "custom_items/hat/cat_hat/cat_hat_pudding"
                 }
             },
             {
                 "threshold": 19015,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_hat/cat_hat_cherry"
+                    "model": "custom_items/hat/cat_hat/cat_hat_cherry"
                 }
             },
             {
                 "threshold": 19016,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_hat/cat_hat_firecracker"
+                    "model": "custom_items/hat/cat_hat/cat_hat_firecracker"
                 }
             },
             {
                 "threshold": 19017,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_hat/cat_hat_rainbow"
+                    "model": "custom_items/hat/cat_hat/cat_hat_rainbow"
                 }
             },
             {
                 "threshold": 19100,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_ear/cat_ear_black"
+                    "model": "custom_items/hat/cat_ear/cat_ear_black"
                 }
             },
             {
                 "threshold": 19101,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_ear/cat_ear_blue"
+                    "model": "custom_items/hat/cat_ear/cat_ear_blue"
                 }
             },
             {
                 "threshold": 19102,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_ear/cat_ear_brown"
+                    "model": "custom_items/hat/cat_ear/cat_ear_brown"
                 }
             },
             {
                 "threshold": 19103,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_ear/cat_ear_cyan"
+                    "model": "custom_items/hat/cat_ear/cat_ear_cyan"
                 }
             },
             {
                 "threshold": 19104,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_ear/cat_ear_gray"
+                    "model": "custom_items/hat/cat_ear/cat_ear_gray"
                 }
             },
             {
                 "threshold": 19105,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_ear/cat_ear_green"
+                    "model": "custom_items/hat/cat_ear/cat_ear_green"
                 }
             },
             {
                 "threshold": 19106,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_ear/cat_ear_light_blue"
+                    "model": "custom_items/hat/cat_ear/cat_ear_light_blue"
                 }
             },
             {
                 "threshold": 19107,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_ear/cat_ear_light_gray"
+                    "model": "custom_items/hat/cat_ear/cat_ear_light_gray"
                 }
             },
             {
                 "threshold": 19108,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_ear/cat_ear_lime"
+                    "model": "custom_items/hat/cat_ear/cat_ear_lime"
                 }
             },
             {
                 "threshold": 19109,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_ear/cat_ear_magenta"
+                    "model": "custom_items/hat/cat_ear/cat_ear_magenta"
                 }
             },
             {
                 "threshold": 19110,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_ear/cat_ear_orange"
+                    "model": "custom_items/hat/cat_ear/cat_ear_orange"
                 }
             },
             {
                 "threshold": 19111,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_ear/cat_ear_pink"
+                    "model": "custom_items/hat/cat_ear/cat_ear_pink"
                 }
             },
             {
                 "threshold": 19112,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_ear/cat_ear_purple"
+                    "model": "custom_items/hat/cat_ear/cat_ear_purple"
                 }
             },
             {
                 "threshold": 19113,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_ear/cat_ear_red"
+                    "model": "custom_items/hat/cat_ear/cat_ear_red"
                 }
             },
             {
                 "threshold": 19114,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_ear/cat_ear_white"
+                    "model": "custom_items/hat/cat_ear/cat_ear_white"
                 }
             },
             {
                 "threshold": 19115,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_ear/cat_ear_yellow"
+                    "model": "custom_items/hat/cat_ear/cat_ear_yellow"
                 }
             },
             {
                 "threshold": 19116,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_ear/cat_ear_rainbow"
+                    "model": "custom_items/hat/cat_ear/cat_ear_rainbow"
                 }
             },
             {
                 "threshold": 19200,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/rabbit_ear/rabbit_ear_black"
+                    "model": "custom_items/hat/rabbit_ear/rabbit_ear_black"
                 }
             },
             {
                 "threshold": 19201,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/rabbit_ear/rabbit_ear_blue"
+                    "model": "custom_items/hat/rabbit_ear/rabbit_ear_blue"
                 }
             },
             {
                 "threshold": 19202,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/rabbit_ear/rabbit_ear_brown"
+                    "model": "custom_items/hat/rabbit_ear/rabbit_ear_brown"
                 }
             },
             {
                 "threshold": 19203,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/rabbit_ear/rabbit_ear_cyan"
+                    "model": "custom_items/hat/rabbit_ear/rabbit_ear_cyan"
                 }
             },
             {
                 "threshold": 19204,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/rabbit_ear/rabbit_ear_gray"
+                    "model": "custom_items/hat/rabbit_ear/rabbit_ear_gray"
                 }
             },
             {
                 "threshold": 19205,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/rabbit_ear/rabbit_ear_green"
+                    "model": "custom_items/hat/rabbit_ear/rabbit_ear_green"
                 }
             },
             {
                 "threshold": 19206,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/rabbit_ear/rabbit_ear_light_blue"
+                    "model": "custom_items/hat/rabbit_ear/rabbit_ear_light_blue"
                 }
             },
             {
                 "threshold": 19207,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/rabbit_ear/rabbit_ear_light_gray"
+                    "model": "custom_items/hat/rabbit_ear/rabbit_ear_light_gray"
                 }
             },
             {
                 "threshold": 19208,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/rabbit_ear/rabbit_ear_lime"
+                    "model": "custom_items/hat/rabbit_ear/rabbit_ear_lime"
                 }
             },
             {
                 "threshold": 19209,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/rabbit_ear/rabbit_ear_magenta"
+                    "model": "custom_items/hat/rabbit_ear/rabbit_ear_magenta"
                 }
             },
             {
                 "threshold": 19210,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/rabbit_ear/rabbit_ear_orange"
+                    "model": "custom_items/hat/rabbit_ear/rabbit_ear_orange"
                 }
             },
             {
                 "threshold": 19211,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/rabbit_ear/rabbit_ear_pink"
+                    "model": "custom_items/hat/rabbit_ear/rabbit_ear_pink"
                 }
             },
             {
                 "threshold": 19212,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/rabbit_ear/rabbit_ear_purple"
+                    "model": "custom_items/hat/rabbit_ear/rabbit_ear_purple"
                 }
             },
             {
                 "threshold": 19213,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/rabbit_ear/rabbit_ear_red"
+                    "model": "custom_items/hat/rabbit_ear/rabbit_ear_red"
                 }
             },
             {
                 "threshold": 19214,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/rabbit_ear/rabbit_ear_white"
+                    "model": "custom_items/hat/rabbit_ear/rabbit_ear_white"
                 }
             },
             {
                 "threshold": 19215,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/rabbit_ear/rabbit_ear_yellow"
+                    "model": "custom_items/hat/rabbit_ear/rabbit_ear_yellow"
                 }
             },
             {
                 "threshold": 19216,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/rabbit_ear/rabbit_ear_rainbow"
+                    "model": "custom_items/hat/rabbit_ear/rabbit_ear_rainbow"
                 }
             },
             {
                 "threshold": 19300,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/angel_circle/angel_circle_black"
+                    "model": "custom_items/hat/angel_circle/angel_circle_black"
                 }
             },
             {
                 "threshold": 19301,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/angel_circle/angel_circle_blue"
+                    "model": "custom_items/hat/angel_circle/angel_circle_blue"
                 }
             },
             {
                 "threshold": 19302,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/angel_circle/angel_circle_brown"
+                    "model": "custom_items/hat/angel_circle/angel_circle_brown"
                 }
             },
             {
                 "threshold": 19303,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/angel_circle/angel_circle_cyan"
+                    "model": "custom_items/hat/angel_circle/angel_circle_cyan"
                 }
             },
             {
                 "threshold": 19304,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/angel_circle/angel_circle_gray"
+                    "model": "custom_items/hat/angel_circle/angel_circle_gray"
                 }
             },
             {
                 "threshold": 19305,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/angel_circle/angel_circle_green"
+                    "model": "custom_items/hat/angel_circle/angel_circle_green"
                 }
             },
             {
                 "threshold": 19306,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/angel_circle/angel_circle_light_blue"
+                    "model": "custom_items/hat/angel_circle/angel_circle_light_blue"
                 }
             },
             {
                 "threshold": 19307,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/angel_circle/angel_circle_light_gray"
+                    "model": "custom_items/hat/angel_circle/angel_circle_light_gray"
                 }
             },
             {
                 "threshold": 19308,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/angel_circle/angel_circle_lime"
+                    "model": "custom_items/hat/angel_circle/angel_circle_lime"
                 }
             },
             {
                 "threshold": 19309,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/angel_circle/angel_circle_magenta"
+                    "model": "custom_items/hat/angel_circle/angel_circle_magenta"
                 }
             },
             {
                 "threshold": 19310,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/angel_circle/angel_circle_orange"
+                    "model": "custom_items/hat/angel_circle/angel_circle_orange"
                 }
             },
             {
                 "threshold": 19311,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/angel_circle/angel_circle_pink"
+                    "model": "custom_items/hat/angel_circle/angel_circle_pink"
                 }
             },
             {
                 "threshold": 19312,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/angel_circle/angel_circle_purple"
+                    "model": "custom_items/hat/angel_circle/angel_circle_purple"
                 }
             },
             {
                 "threshold": 19313,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/angel_circle/angel_circle_red"
+                    "model": "custom_items/hat/angel_circle/angel_circle_red"
                 }
             },
             {
                 "threshold": 19314,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/angel_circle/angel_circle_white"
+                    "model": "custom_items/hat/angel_circle/angel_circle_white"
                 }
             },
             {
                 "threshold": 19315,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/angel_circle/angel_circle_yellow"
+                    "model": "custom_items/hat/angel_circle/angel_circle_yellow"
                 }
             },
             {
                 "threshold": 19316,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/angel_circle/angel_circle_rainbow"
+                    "model": "custom_items/hat/angel_circle/angel_circle_rainbow"
                 }
             },
             {
                 "threshold": 19400,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/demon_corner/demon_corner_black"
+                    "model": "custom_items/hat/demon_corner/demon_corner_black"
                 }
             },
             {
                 "threshold": 19401,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/demon_corner/demon_corner_blue"
+                    "model": "custom_items/hat/demon_corner/demon_corner_blue"
                 }
             },
             {
                 "threshold": 19402,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/demon_corner/demon_corner_brown"
+                    "model": "custom_items/hat/demon_corner/demon_corner_brown"
                 }
             },
             {
                 "threshold": 19403,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/demon_corner/demon_corner_cyan"
+                    "model": "custom_items/hat/demon_corner/demon_corner_cyan"
                 }
             },
             {
                 "threshold": 19404,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/demon_corner/demon_corner_gray"
+                    "model": "custom_items/hat/demon_corner/demon_corner_gray"
                 }
             },
             {
                 "threshold": 19405,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/demon_corner/demon_corner_green"
+                    "model": "custom_items/hat/demon_corner/demon_corner_green"
                 }
             },
             {
                 "threshold": 19406,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/demon_corner/demon_corner_light_blue"
+                    "model": "custom_items/hat/demon_corner/demon_corner_light_blue"
                 }
             },
             {
                 "threshold": 19407,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/demon_corner/demon_corner_light_gray"
+                    "model": "custom_items/hat/demon_corner/demon_corner_light_gray"
                 }
             },
             {
                 "threshold": 19408,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/demon_corner/demon_corner_lime"
+                    "model": "custom_items/hat/demon_corner/demon_corner_lime"
                 }
             },
             {
                 "threshold": 19409,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/demon_corner/demon_corner_magenta"
+                    "model": "custom_items/hat/demon_corner/demon_corner_magenta"
                 }
             },
             {
                 "threshold": 19410,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/demon_corner/demon_corner_orange"
+                    "model": "custom_items/hat/demon_corner/demon_corner_orange"
                 }
             },
             {
                 "threshold": 19411,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/demon_corner/demon_corner_pink"
+                    "model": "custom_items/hat/demon_corner/demon_corner_pink"
                 }
             },
             {
                 "threshold": 19412,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/demon_corner/demon_corner_purple"
+                    "model": "custom_items/hat/demon_corner/demon_corner_purple"
                 }
             },
             {
                 "threshold": 19413,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/demon_corner/demon_corner_red"
+                    "model": "custom_items/hat/demon_corner/demon_corner_red"
                 }
             },
             {
                 "threshold": 19414,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/demon_corner/demon_corner_white"
+                    "model": "custom_items/hat/demon_corner/demon_corner_white"
                 }
             },
             {
                 "threshold": 19415,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/demon_corner/demon_corner_yellow"
+                    "model": "custom_items/hat/demon_corner/demon_corner_yellow"
                 }
             },
             {
                 "threshold": 19416,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/demon_corner/demon_corner_rainbow"
+                    "model": "custom_items/hat/demon_corner/demon_corner_rainbow"
                 }
             },
             {
                 "threshold": 19500,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/deer_horn/deer_horn_black"
+                    "model": "custom_items/hat/deer_horn/deer_horn_black"
                 }
             },
             {
                 "threshold": 19501,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/deer_horn/deer_horn_blue"
+                    "model": "custom_items/hat/deer_horn/deer_horn_blue"
                 }
             },
             {
                 "threshold": 19502,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/deer_horn/deer_horn_brown"
+                    "model": "custom_items/hat/deer_horn/deer_horn_brown"
                 }
             },
             {
                 "threshold": 19503,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/deer_horn/deer_horn_cyan"
+                    "model": "custom_items/hat/deer_horn/deer_horn_cyan"
                 }
             },
             {
                 "threshold": 19504,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/deer_horn/deer_horn_gray"
+                    "model": "custom_items/hat/deer_horn/deer_horn_gray"
                 }
             },
             {
                 "threshold": 19505,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/deer_horn/deer_horn_green"
+                    "model": "custom_items/hat/deer_horn/deer_horn_green"
                 }
             },
             {
                 "threshold": 19506,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/deer_horn/deer_horn_light_blue"
+                    "model": "custom_items/hat/deer_horn/deer_horn_light_blue"
                 }
             },
             {
                 "threshold": 19507,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/deer_horn/deer_horn_light_gray"
+                    "model": "custom_items/hat/deer_horn/deer_horn_light_gray"
                 }
             },
             {
                 "threshold": 19508,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/deer_horn/deer_horn_lime"
+                    "model": "custom_items/hat/deer_horn/deer_horn_lime"
                 }
             },
             {
                 "threshold": 19509,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/deer_horn/deer_horn_magenta"
+                    "model": "custom_items/hat/deer_horn/deer_horn_magenta"
                 }
             },
             {
                 "threshold": 19510,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/deer_horn/deer_horn_orange"
+                    "model": "custom_items/hat/deer_horn/deer_horn_orange"
                 }
             },
             {
                 "threshold": 19511,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/deer_horn/deer_horn_pink"
+                    "model": "custom_items/hat/deer_horn/deer_horn_pink"
                 }
             },
             {
                 "threshold": 19512,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/deer_horn/deer_horn_purple"
+                    "model": "custom_items/hat/deer_horn/deer_horn_purple"
                 }
             },
             {
                 "threshold": 19513,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/deer_horn/deer_horn_red"
+                    "model": "custom_items/hat/deer_horn/deer_horn_red"
                 }
             },
             {
                 "threshold": 19514,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/deer_horn/deer_horn_white"
+                    "model": "custom_items/hat/deer_horn/deer_horn_white"
                 }
             },
             {
                 "threshold": 19515,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/deer_horn/deer_horn_yellow"
+                    "model": "custom_items/hat/deer_horn/deer_horn_yellow"
                 }
             },
             {
                 "threshold": 19516,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/deer_horn/deer_horn_rainbow"
+                    "model": "custom_items/hat/deer_horn/deer_horn_rainbow"
                 }
             },
             {
                 "threshold": 19700,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/headband_headset"
+                    "model": "custom_items/hat/headband_headset"
                 }
             },
             {
                 "threshold": 19701,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/spyglass_rice"
+                    "model": "custom_items/brlliant/misteln/spyglass_rice"
                 }
             },
             {
                 "threshold": 19901,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/currency/aether"
+                    "model": "custom_items/brilliant/currency/aether"
                 }
             },
             {
                 "threshold": 19902,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/currency/paradise_powder"
+                    "model": "custom_items/brilliant/currency/paradise_powder"
                 }
             },
             {
                 "threshold": 19903,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/currency/luminous_crystal"
+                    "model": "custom_items/brilliant/currency/luminous_crystal"
                 }
             },
             {
                 "threshold": 19904,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/currency/watercress"
+                    "model": "custom_items/brilliant/currency/watercress"
                 }
             },
             {
                 "threshold": 19911,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/currency/aether_bill"
+                    "model": "custom_items/brilliant/currency/aether_bill"
                 }
             },
             {
                 "threshold": 19912,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/currency/ether_beret"
+                    "model": "custom_items/brilliant/currency/ether_beret"
                 }
             },
             {
                 "threshold": 19913,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/currency/crystal_mapping"
+                    "model": "custom_items/brilliant/currency/crystal_mapping"
                 }
             },
             {
                 "threshold": 19914,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/currency/paradise_clownhat"
+                    "model": "custom_items/brilliant/currency/paradise_clownhat"
                 }
             },
             {
                 "threshold": 20001,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/page1"
+                    "model": "custom_items/brilliant/shopgui/page1"
                 }
             },
             {
                 "threshold": 20002,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/page2"
+                    "model": "custom_items/brilliant/shopgui/page2"
                 }
             },
             {
                 "threshold": 20003,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/reload"
+                    "model": "custom_items/brilliant/shopgui/reload"
                 }
             },
             {
                 "threshold": 20004,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/back"
+                    "model": "custom_items/brilliant/shopgui/back"
                 }
             },
             {
                 "threshold": 20005,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/category"
+                    "model": "custom_items/brilliant/shopgui/category"
                 }
             },
             {
                 "threshold": 20006,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/close"
+                    "model": "custom_items/brilliant/shopgui/close"
                 }
             },
             {
                 "threshold": 20007,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/info"
+                    "model": "custom_items/brilliant/shopgui/info"
                 }
             },
             {
                 "threshold": 20008,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/mail"
+                    "model": "custom_items/brilliant/shopgui/mail"
                 }
             },
             {
                 "threshold": 20009,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/notice"
+                    "model": "custom_items/brilliant/shopgui/notice"
                 }
             },
             {
                 "threshold": 20010,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/shop"
+                    "model": "custom_items/brilliant/shopgui/shop"
                 }
             },
             {
                 "threshold": 20011,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/shop2"
+                    "model": "custom_items/brilliant/shopgui/shop2"
                 }
             },
             {
                 "threshold": 20012,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/confirm1"
+                    "model": "custom_items/brilliant/shopgui/confirm1"
                 }
             },
             {
                 "threshold": 20013,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/confirm2"
+                    "model": "custom_items/brilliant/shopgui/confirm2"
                 }
             },
             {
                 "threshold": 20014,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/close2"
+                    "model": "custom_items/brilliant/shopgui/close2"
                 }
             },
             {
                 "threshold": 20015,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/shop3"
+                    "model": "custom_items/brilliant/shopgui/shop3"
                 }
             },
             {
                 "threshold": 20016,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/shop4"
+                    "model": "custom_items/brilliant/shopgui/shop4"
                 }
             },
             {
                 "threshold": 20017,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/add"
+                    "model": "custom_items/brilliant/shopgui/add"
                 }
             },
             {
                 "threshold": 20018,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/remove"
+                    "model": "custom_items/brilliant/shopgui/remove"
                 }
             },
             {
                 "threshold": 20019,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/plus_10"
+                    "model": "custom_items/brilliant/shopgui/plus_10"
                 }
             },
             {
                 "threshold": 20020,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/plus_100"
+                    "model": "custom_items/brilliant/shopgui/plus_100"
                 }
             },
             {
                 "threshold": 20021,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/plus_1000"
+                    "model": "custom_items/brilliant/shopgui/plus_1000"
                 }
             },
             {
                 "threshold": 20022,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/minus_10"
+                    "model": "custom_items/brilliant/shopgui/minus_10"
                 }
             },
             {
                 "threshold": 20023,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/minus_100"
+                    "model": "custom_items/brilliant/shopgui/minus_100"
                 }
             },
             {
                 "threshold": 20024,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/minus_1000"
+                    "model": "custom_items/brilliant/shopgui/minus_1000"
                 }
             },
             {
                 "threshold": 20025,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/sell"
+                    "model": "custom_items/brilliant/shopgui/sell"
                 }
             },
             {
                 "threshold": 20026,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/buy"
+                    "model": "custom_items/brilliant/shopgui/buy"
                 }
             },
             {
                 "threshold": 20027,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/bid"
+                    "model": "custom_items/brilliant/shopgui/bid"
                 }
             },
             {
                 "threshold": 20028,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/shop5"
+                    "model": "custom_items/brilliant/shopgui/shop5"
                 }
             },
             {
                 "threshold": 20029,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/shop6"
+                    "model": "custom_items/brilliant/shopgui/shop6"
                 }
             },
             {
                 "threshold": 20030,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/shop7"
+                    "model": "custom_items/brilliant/shopgui/shop7"
                 }
             },
             {
                 "threshold": 20031,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/shop8"
+                    "model": "custom_items/brilliant/shopgui/shop8"
                 }
             },
             {
                 "threshold": 20032,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/mail2"
+                    "model": "custom_items/brilliant/shopgui/mail2"
                 }
             },
             {
                 "threshold": 20033,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/mail3"
+                    "model": "custom_items/brilliant/shopgui/mail3"
                 }
             },
             {
                 "threshold": 20034,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/epual"
+                    "model": "custom_items/brilliant/shopgui/epual"
                 }
             },
             {
                 "threshold": 20035,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/percentage_full"
+                    "model": "custom_items/brilliant/shopgui/percentage_full"
                 }
             },
             {
                 "threshold": 20036,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/guiair"
+                    "model": "custom_items/brilliant/shopgui/guiair"
                 }
             },
             {
                 "threshold": 20037,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/guiarrow"
+                    "model": "custom_items/brilliant/shopgui/guiarrow"
                 }
             },
             {
                 "threshold": 20038,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/gui0"
+                    "model": "custom_items/brilliant/shopgui/gui0"
                 }
             },
             {
                 "threshold": 20039,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/gui1"
+                    "model": "custom_items/brilliant/shopgui/gui1"
                 }
             },
             {
                 "threshold": 20040,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/gui2"
+                    "model": "custom_items/brilliant/shopgui/gui2"
                 }
             },
             {
                 "threshold": 20041,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/gui3"
+                    "model": "custom_items/brilliant/shopgui/gui3"
                 }
             },
             {
                 "threshold": 20042,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/gui4"
+                    "model": "custom_items/brilliant/shopgui/gui4"
                 }
             },
             {
                 "threshold": 20043,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/gui5"
+                    "model": "custom_items/brilliant/shopgui/gui5"
                 }
             },
             {
                 "threshold": 20044,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/gui6"
+                    "model": "custom_items/brilliant/shopgui/gui6"
                 }
             },
             {
                 "threshold": 20045,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/gui7"
+                    "model": "custom_items/brilliant/shopgui/gui7"
                 }
             },
             {
                 "threshold": 20046,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/gui8"
+                    "model": "custom_items/brilliant/shopgui/gui8"
                 }
             },
             {
                 "threshold": 20047,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/gui9"
+                    "model": "custom_items/brilliant/shopgui/gui9"
                 }
             },
             {
                 "threshold": 20048,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/guiarrow2"
+                    "model": "custom_items/brilliant/shopgui/guiarrow2"
                 }
             },
             {
                 "threshold": 20049,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/server1"
+                    "model": "custom_items/brilliant/shopgui/server1"
                 }
             },
             {
                 "threshold": 20050,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/server2"
+                    "model": "custom_items/brilliant/shopgui/server2"
                 }
             },
             {
                 "threshold": 20051,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/server_redstone"
+                    "model": "custom_items/brilliant/shopgui/server_redstone"
                 }
             },
             {
                 "threshold": 20052,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/camera"
+                    "model": "custom_items/brilliant/shopgui/camera"
                 }
             },
             {
                 "threshold": 20053,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/server0"
+                    "model": "custom_items/brilliant/shopgui/server0"
                 }
             },
             {
                 "threshold": 20054,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/phome"
+                    "model": "custom_items/brilliant/shopgui/phome"
                 }
             },
             {
                 "threshold": 20055,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/phome_list"
+                    "model": "custom_items/brilliant/shopgui/phome_list"
                 }
             },
             {
                 "threshold": 20056,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/home"
+                    "model": "custom_items/brilliant/shopgui/home"
                 }
             },
             {
                 "threshold": 20057,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/home_list"
+                    "model": "custom_items/brilliant/shopgui/home_list"
                 }
             },
             {
                 "threshold": 20058,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/home_edit"
+                    "model": "custom_items/brilliant/shopgui/home_edit"
                 }
             },
             {
                 "threshold": 20059,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/lay"
+                    "model": "custom_items/brilliant/shopgui/lay"
                 }
             },
             {
                 "threshold": 20060,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/sit"
+                    "model": "custom_items/brilliant/shopgui/sit"
                 }
             },
             {
                 "threshold": 20061,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/stand"
+                    "model": "custom_items/brilliant/shopgui/stand"
                 }
             },
             {
                 "threshold": 20062,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/kitty"
+                    "model": "custom_items/brilliant/shopgui/kitty"
                 }
             },
             {
                 "threshold": 20063,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/bfly"
+                    "model": "custom_items/brilliant/shopgui/bfly"
                 }
             },
             {
                 "threshold": 20064,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/shopgui/server4"
+                    "model": "custom_items/brilliant/shopgui/server4"
                 }
             },
             {
@@ -1685,1057 +1685,1057 @@
                 "threshold": 32000,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/newyear/spring_couplets_a1"
+                    "model": "custom_items/2024newyear/spring_couplets_a1"
                 }
             },
             {
                 "threshold": 32001,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/newyear/spring_couplets_a2"
+                    "model": "custom_items/2024newyear/spring_couplets_a2"
                 }
             },
             {
                 "threshold": 32002,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/newyear/spring_couplets_a3"
+                    "model": "custom_items/2024newyear/spring_couplets_a3"
                 }
             },
             {
                 "threshold": 32003,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/newyear/spring_couplets_a4"
+                    "model": "custom_items/2024newyear/spring_couplets_a4"
                 }
             },
             {
                 "threshold": 32004,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/newyear/spring_couplets_b1"
+                    "model": "custom_items/2024newyear/spring_couplets_b1"
                 }
             },
             {
                 "threshold": 32005,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/newyear/spring_couplets_b2"
+                    "model": "custom_items/2024newyear/spring_couplets_b2"
                 }
             },
             {
                 "threshold": 32006,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/newyear/spring_couplets_b3"
+                    "model": "custom_items/2024newyear/spring_couplets_b3"
                 }
             },
             {
                 "threshold": 32007,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/newyear/spring_couplets_b4"
+                    "model": "custom_items/2024newyear/spring_couplets_b4"
                 }
             },
             {
                 "threshold": 32008,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/newyear/spring_couplets_b5"
+                    "model": "custom_items/2024newyear/spring_couplets_b5"
                 }
             },
             {
                 "threshold": 32009,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/newyear/spring_couplets_b6"
+                    "model": "custom_items/2024newyear/spring_couplets_b6"
                 }
             },
             {
                 "threshold": 32010,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/newyear/spring_couplets_b7"
+                    "model": "custom_items/2024newyear/spring_couplets_b7"
                 }
             },
             {
                 "threshold": 32011,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/newyear/circular_coin_with_a_square_hole_1"
+                    "model": "custom_items/2024newyear/circular_coin_with_a_square_hole_1"
                 }
             },
             {
                 "threshold": 32012,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/newyear/circular_coin_with_a_square_hole_2"
+                    "model": "custom_items/2024newyear/circular_coin_with_a_square_hole_2"
                 }
             },
             {
                 "threshold": 32013,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/newyear/shoe_shaped_gold_ingot_1"
+                    "model": "custom_items/2024newyear/shoe_shaped_gold_ingot_1"
                 }
             },
             {
                 "threshold": 32014,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/newyear/shoe_shaped_gold_ingot_2"
+                    "model": "custom_items/2024newyear/shoe_shaped_gold_ingot_2"
                 }
             },
             {
                 "threshold": 32015,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/newyear/dragonband"
+                    "model": "custom_items/2024newyear/dragonband"
                 }
             },
             {
                 "threshold": 32016,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/newyear/fortunecat_a"
+                    "model": "custom_items/2024newyear/fortunecat_a"
                 }
             },
             {
                 "threshold": 32017,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/newyear/fortunecat_b"
+                    "model": "custom_items/2024newyear/fortunecat_b"
                 }
             },
             {
                 "threshold": 32018,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/newyear/shoegold_a"
+                    "model": "custom_items/2024newyear/shoegold_a"
                 }
             },
             {
                 "threshold": 32019,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/newyear/shoegold_b"
+                    "model": "custom_items/2024newyear/shoegold_b"
                 }
             },
             {
                 "threshold": 32020,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/newyear/treasure_bowl_a"
+                    "model": "custom_items/2024newyear/treasure_bowl_a"
                 }
             },
             {
                 "threshold": 32021,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/newyear/treasure_bowl_b"
+                    "model": "custom_items/2024newyear/treasure_bowl_b"
                 }
             },
             {
                 "threshold": 32022,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/newyear/lantern_a"
+                    "model": "custom_items/2024newyear/lantern_a"
                 }
             },
             {
                 "threshold": 32023,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/newyear/lantern_b"
+                    "model": "custom_items/2024newyear/lantern_b"
                 }
             },
             {
                 "threshold": 32024,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/newyear/lantern_c"
+                    "model": "custom_items/2024newyear/lantern_c"
                 }
             },
             {
                 "threshold": 32025,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/newyear/red_envelope_a"
+                    "model": "custom_items/2024newyear/red_envelope_a"
                 }
             },
             {
                 "threshold": 32026,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/newyear/red_envelope_b"
+                    "model": "custom_items/2024newyear/red_envelope_b"
                 }
             },
             {
                 "threshold": 33000,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/angel/angel_gabriel"
+                    "model": "custom_items/2024angel/angel_gabriel"
                 }
             },
             {
                 "threshold": 33001,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/angel/angel_uriel"
+                    "model": "custom_items/2024angel/angel_uriel"
                 }
             },
             {
                 "threshold": 33002,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/angel/angel_rafael"
+                    "model": "custom_items/2024angel/angel_rafael"
                 }
             },
             {
                 "threshold": 33003,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/angel/angel_michael"
+                    "model": "custom_items/2024angel/angel_michael"
                 }
             },
             {
                 "threshold": 33004,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/angel/angel_jophiel"
+                    "model": "custom_items/2024angel/angel_jophiel"
                 }
             },
             {
                 "threshold": 33005,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/angel/angel_zadkiel"
+                    "model": "custom_items/2024angel/angel_zadkiel"
                 }
             },
             {
                 "threshold": 33006,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/angel/angel_chamuel"
+                    "model": "custom_items/2024angel/angel_chamuel"
                 }
             },
             {
                 "threshold": 34000,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/childrensday/villager"
+                    "model": "custom_items/2024childrensday/villager"
                 }
             },
             {
                 "threshold": 34001,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/childrensday/cap_dragonfly"
+                    "model": "custom_items/2024childrensday/cap_dragonfly"
                 }
             },
             {
                 "threshold": 34002,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/childrensday/balloon_red"
+                    "model": "custom_items/2024childrensday/balloon_red"
                 }
             },
             {
                 "threshold": 34003,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/childrensday/balloon_teal"
+                    "model": "custom_items/2024childrensday/balloon_teal"
                 }
             },
             {
                 "threshold": 34004,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/childrensday/balloon_yellow"
+                    "model": "custom_items/2024childrensday/balloon_yellow"
                 }
             },
             {
                 "threshold": 34005,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/childrensday/balloon_blue"
+                    "model": "custom_items/2024childrensday/balloon_blue"
                 }
             },
             {
                 "threshold": 34006,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/childrensday/balloon_lime"
+                    "model": "custom_items/2024childrensday/balloon_lime"
                 }
             },
             {
                 "threshold": 34007,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/childrensday/balloon_pink"
+                    "model": "custom_items/2024childrensday/balloon_pink"
                 }
             },
             {
                 "threshold": 34008,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/childrensday/balloon_purple"
+                    "model": "custom_items/2024childrensday/balloon_purple"
                 }
             },
             {
                 "threshold": 34009,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/childrensday/banana"
+                    "model": "custom_items/2024childrensday/banana"
                 }
             },
             {
                 "threshold": 34010,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/childrensday/banana2"
+                    "model": "custom_items/2024childrensday/banana2"
                 }
             },
             {
                 "threshold": 34011,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/childrensday/banana3"
+                    "model": "custom_items/2024childrensday/banana3"
                 }
             },
             {
                 "threshold": 34012,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/childrensday/lollipop_yellow"
+                    "model": "custom_items/2024childrensday/lollipop_yellow"
                 }
             },
             {
                 "threshold": 34013,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/childrensday/lollipop_orange"
+                    "model": "custom_items/2024childrensday/lollipop_orange"
                 }
             },
             {
                 "threshold": 34014,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/childrensday/lollipop_blue"
+                    "model": "custom_items/2024childrensday/lollipop_blue"
                 }
             },
             {
                 "threshold": 34015,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/childrensday/lollipop_green"
+                    "model": "custom_items/2024childrensday/lollipop_green"
                 }
             },
             {
                 "threshold": 34016,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/childrensday/lollipop_pink"
+                    "model": "custom_items/2024childrensday/lollipop_pink"
                 }
             },
             {
                 "threshold": 34017,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/childrensday/lollipop_purple"
+                    "model": "custom_items/2024childrensday/lollipop_purple"
                 }
             },
             {
                 "threshold": 34018,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/childrensday/mill"
+                    "model": "custom_items/2024childrensday/mill"
                 }
             },
             {
                 "threshold": 34019,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/childrensday/paperplane"
+                    "model": "custom_items/2024childrensday/paperplane"
                 }
             },
             {
                 "threshold": 34020,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/childrensday/uglyplane"
+                    "model": "custom_items/2024childrensday/uglyplane"
                 }
             },
             {
                 "threshold": 35000,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/misteln_rice"
+                    "model": "custom_items/brilliant/misteln/misteln_rice"
                 }
             },
             {
                 "threshold": 35001,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/misteln_rice_hat"
+                    "model": "custom_items/brilliant/misteln/misteln_rice_hat"
                 }
             },
             {
                 "threshold": 35002,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/misteln_rice_star"
+                    "model": "custom_items/brilliant/misteln/misteln_rice_star"
                 }
             },
             {
                 "threshold": 35003,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/misteln_rice_scunfm"
+                    "model": "custom_items/brilliant/misteln/misteln_rice_scunfm"
                 }
             },
             {
                 "threshold": 36010,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dragonboatfestival/sachet_1"
+                    "model": "custom_items/2024dragonboatfestival/sachet_1"
                 }
             },
             {
                 "threshold": 36011,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dragonboatfestival/sachet_2"
+                    "model": "custom_items/2024dragonboatfestival/sachet_2"
                 }
             },
             {
                 "threshold": 36012,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dragonboatfestival/sachet_3"
+                    "model": "custom_items/2024dragonboatfestival/sachet_3"
                 }
             },
             {
                 "threshold": 36013,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dragonboatfestival/sachet_4"
+                    "model": "custom_items/2024dragonboatfestival/sachet_4"
                 }
             },
             {
                 "threshold": 36014,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dragonboatfestival/sachet_5"
+                    "model": "custom_items/2024dragonboatfestival/sachet_5"
                 }
             },
             {
                 "threshold": 36015,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dragonboatfestival/sachet_6"
+                    "model": "custom_items/2024dragonboatfestival/sachet_6"
                 }
             },
             {
                 "threshold": 36016,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dragonboatfestival/sachet_7"
+                    "model": "custom_items/2024dragonboatfestival/sachet_7"
                 }
             },
             {
                 "threshold": 36017,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dragonboatfestival/sachet_8"
+                    "model": "custom_items/2024dragonboatfestival/sachet_8"
                 }
             },
             {
                 "threshold": 36018,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dragonboatfestival/sachet_9"
+                    "model": "custom_items/2024dragonboatfestival/sachet_9"
                 }
             },
             {
                 "threshold": 36020,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dragonboatfestival/grass_1"
+                    "model": "custom_items/2024dragonboatfestival/grass_1"
                 }
             },
             {
                 "threshold": 36021,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dragonboatfestival/grass_2"
+                    "model": "custom_items/2024dragonboatfestival/grass_2"
                 }
             },
             {
                 "threshold": 36022,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dragonboatfestival/grass_3"
+                    "model": "custom_items/2024dragonboatfestival/grass_3"
                 }
             },
             {
                 "threshold": 36023,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dragonboatfestival/grass_4"
+                    "model": "custom_items/2024dragonboatfestival/grass_4"
                 }
             },
             {
                 "threshold": 37000,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/mid_autumn/rabbit_mooncake"
+                    "model": "custom_items/2024mid_autumn/rabbit_mooncake"
                 }
             },
             {
                 "threshold": 37001,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/mid_autumn/rabbit_mooncake_1"
+                    "model": "custom_items/2024mid_autumn/rabbit_mooncake_1"
                 }
             },
             {
                 "threshold": 37002,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/mid_autumn/rabbit_mooncake_2"
+                    "model": "custom_items/2024mid_autumn/rabbit_mooncake_2"
                 }
             },
             {
                 "threshold": 37003,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/mid_autumn/rabbit_mooncake_3"
+                    "model": "custom_items/2024mid_autumn/rabbit_mooncake_3"
                 }
             },
             {
                 "threshold": 37004,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/mid_autumn/rabbit_mooncake_4"
+                    "model": "custom_items/2024mid_autumn/rabbit_mooncake_4"
                 }
             },
             {
                 "threshold": 37005,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/mid_autumn/rabbit_mooncake_5"
+                    "model": "custom_items/2024mid_autumn/rabbit_mooncake_5"
                 }
             },
             {
                 "threshold": 37006,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/mid_autumn/rabbit_mooncake_6"
+                    "model": "custom_items/2024mid_autumn/rabbit_mooncake_6"
                 }
             },
             {
                 "threshold": 37007,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/mid_autumn/rabbit_mooncake_7"
+                    "model": "custom_items/2024mid_autumn/rabbit_mooncake_7"
                 }
             },
             {
                 "threshold": 37008,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/mid_autumn/rabbit_mooncake_8"
+                    "model": "custom_items/2024mid_autumn/rabbit_mooncake_8"
                 }
             },
             {
                 "threshold": 40000,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/axolotl_hat/axolotl_lucy"
+                    "model": "custom_items/hat/axolotl_hat/axolotl_lucy"
                 }
             },
             {
                 "threshold": 40001,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/axolotl_hat/axolotl_wild"
+                    "model": "custom_items/hat/axolotl_hat/axolotl_wild"
                 }
             },
             {
                 "threshold": 40002,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/axolotl_hat/axolotl_gold"
+                    "model": "custom_items/hat/axolotl_hat/axolotl_gold"
                 }
             },
             {
                 "threshold": 40003,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/axolotl_hat/axolotl_cyan"
+                    "model": "custom_items/hat/axolotl_hat/axolotl_cyan"
                 }
             },
             {
                 "threshold": 40004,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/axolotl_hat/axolotl_blue"
+                    "model": "custom_items/hat/axolotl_hat/axolotl_blue"
                 }
             },
             {
                 "threshold": 41000,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dog_hat/wolf"
+                    "model": "custom_items/hat/dog_hat/wolf"
                 }
             },
             {
                 "threshold": 41001,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dog_hat/wolf_angry"
+                    "model": "custom_items/hat/dog_hat/wolf_angry"
                 }
             },
             {
                 "threshold": 41002,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dog_hat/wolf_tame"
+                    "model": "custom_items/hat/dog_hat/wolf_tame"
                 }
             },
             {
                 "threshold": 41003,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dog_hat/wolf_ashen"
+                    "model": "custom_items/hat/dog_hat/wolf_ashen"
                 }
             },
             {
                 "threshold": 41004,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dog_hat/wolf_ashen_angry"
+                    "model": "custom_items/hat/dog_hat/wolf_ashen_angry"
                 }
             },
             {
                 "threshold": 41005,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dog_hat/wolf_ashen_tame"
+                    "model": "custom_items/hat/dog_hat/wolf_ashen_tame"
                 }
             },
             {
                 "threshold": 41006,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dog_hat/wolf_black"
+                    "model": "custom_items/hat/dog_hat/wolf_black"
                 }
             },
             {
                 "threshold": 41007,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dog_hat/wolf_black_angry"
+                    "model": "custom_items/hat/dog_hat/wolf_black_angry"
                 }
             },
             {
                 "threshold": 41008,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dog_hat/wolf_black_tame"
+                    "model": "custom_items/hat/dog_hat/wolf_black_tame"
                 }
             },
             {
                 "threshold": 41009,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dog_hat/wolf_chestnut"
+                    "model": "custom_items/hat/dog_hat/wolf_chestnut"
                 }
             },
             {
                 "threshold": 41010,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dog_hat/wolf_chestnut_angry"
+                    "model": "custom_items/hat/dog_hat/wolf_chestnut_angry"
                 }
             },
             {
                 "threshold": 41011,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dog_hat/wolf_chestnut_tame"
+                    "model": "custom_items/hat/dog_hat/wolf_chestnut_tame"
                 }
             },
             {
                 "threshold": 41012,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dog_hat/wolf_rusty"
+                    "model": "custom_items/hat/dog_hat/wolf_rusty"
                 }
             },
             {
                 "threshold": 41013,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dog_hat/wolf_rusty_angry"
+                    "model": "custom_items/hat/dog_hat/wolf_rusty_angry"
                 }
             },
             {
                 "threshold": 41014,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dog_hat/wolf_rusty_tame"
+                    "model": "custom_items/hat/dog_hat/wolf_rusty_tame"
                 }
             },
             {
                 "threshold": 41015,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dog_hat/wolf_snowy"
+                    "model": "custom_items/hat/dog_hat/wolf_snowy"
                 }
             },
             {
                 "threshold": 41016,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dog_hat/wolf_snowy_angry"
+                    "model": "custom_items/hat/dog_hat/wolf_snowy_angry"
                 }
             },
             {
                 "threshold": 41017,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dog_hat/wolf_snowy_tame"
+                    "model": "custom_items/hat/dog_hat/wolf_snowy_tame"
                 }
             },
             {
                 "threshold": 41018,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dog_hat/wolf_spotted"
+                    "model": "custom_items/hat/dog_hat/wolf_spotted"
                 }
             },
             {
                 "threshold": 41019,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dog_hat/wolf_spotted_angry"
+                    "model": "custom_items/hat/dog_hat/wolf_spotted_angry"
                 }
             },
             {
                 "threshold": 41020,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dog_hat/wolf_spotted_tame"
+                    "model": "custom_items/hat/dog_hat/wolf_spotted_tame"
                 }
             },
             {
                 "threshold": 41021,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dog_hat/wolf_striped"
+                    "model": "custom_items/hat/dog_hat/wolf_striped"
                 }
             },
             {
                 "threshold": 41022,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dog_hat/wolf_striped_angry"
+                    "model": "custom_items/hat/dog_hat/wolf_striped_angry"
                 }
             },
             {
                 "threshold": 41023,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dog_hat/wolf_striped_tame"
+                    "model": "custom_items/hat/dog_hat/wolf_striped_tame"
                 }
             },
             {
                 "threshold": 41024,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dog_hat/wolf_woods"
+                    "model": "custom_items/hat/dog_hat/wolf_woods"
                 }
             },
             {
                 "threshold": 41025,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dog_hat/wolf_woods_angry"
+                    "model": "custom_items/hat/dog_hat/wolf_woods_angry"
                 }
             },
             {
                 "threshold": 41026,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/dog_hat/wolf_woods_tame"
+                    "model": "custom_items/hat/dog_hat/wolf_woods_tame"
                 }
             },
             {
                 "threshold": 42000,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/fox_hat/fox"
+                    "model": "custom_items/hat/fox_hat/fox"
                 }
             },
             {
                 "threshold": 42001,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/fox_hat/snow_fox"
+                    "model": "custom_items/hat/fox_hat/snow_fox"
                 }
             },
             {
                 "threshold": 43000,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/fox_sleep_hat/fox_sleep"
+                    "model": "custom_items/hat/fox_hat/fox_sleep"
                 }
             },
             {
                 "threshold": 43001,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/fox_sleep_hat/snow_fox_sleep"
+                    "model": "custom_items/hat/fox_hat/snow_fox_sleep"
                 }
             },
             {
                 "threshold": 44000,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/ghast_hat/ghast"
+                    "model": "custom_items/hat/ghast_hat/ghast"
                 }
             },
             {
                 "threshold": 44001,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/ghast_hat/ghast_shooting"
+                    "model": "custom_items/hat/ghast_hat/ghast_shooting"
                 }
             },
             {
                 "threshold": 45000,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/phantom_hat/phantom"
+                    "model": "custom_items/hat/phantom_hat/phantom"
                 }
             },
             {
                 "threshold": 45001,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/phantom_hat/phantom_animated_4"
+                    "model": "custom_items/hat/phantom_hat/phantom_animated_4"
                 }
             },
             {
                 "threshold": 46000,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/frog_hat/frog_animated"
+                    "model": "custom_items/hat/frog_hat/frog_animated"
                 }
             },
             {
                 "threshold": 46001,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/frog_hat/frog_cold_animated"
+                    "model": "custom_items/hat/frog_hat/frog_cold_animated"
                 }
             },
             {
                 "threshold": 46002,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/frog_hat/frog_warm_animated"
+                    "model": "custom_items/hat/frog_hat/frog_warm_animated"
                 }
             },
             {
                 "threshold": 46003,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/frog_hat/frog_rgb_animated"
+                    "model": "custom_items/hat/frog_hat/frog_rgb_animated"
                 }
             },
             {
                 "threshold": 47000,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/summer/waterballoon"
+                    "model": "custom_items/2024summer/waterballoon"
                 }
             },
             {
                 "threshold": 48000,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/halloween/witch_hat_1_blue"
+                    "model": "custom_items/2024halloween/witch_hat_1_blue"
                 }
             },
             {
                 "threshold": 48001,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/halloween/witch_hat_1_green"
+                    "model": "custom_items/2024halloween/witch_hat_1_green"
                 }
             },
             {
                 "threshold": 48002,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/halloween/witch_hat_1_purple"
+                    "model": "custom_items/2024halloween/witch_hat_1_purple"
                 }
             },
             {
                 "threshold": 48003,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/halloween/witch_hat_1_red"
+                    "model": "custom_items/2024halloween/witch_hat_1_red"
                 }
             },
             {
                 "threshold": 48004,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/halloween/witch_hat_1_yellow"
+                    "model": "custom_items/2024halloween/witch_hat_1_yellow"
                 }
             },
             {
                 "threshold": 49000,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/halloween/follower_ticket_corn"
+                    "model": "custom_items/2024halloween/follower_ticket_corn"
                 }
             },
             {
                 "threshold": 49001,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/halloween/follower_ticket_pumpkin"
+                    "model": "custom_items/2024halloween/follower_ticket_pumpkin"
                 }
             },
             {
                 "threshold": 49002,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/halloween/follower_ticket_ghost"
+                    "model": "custom_items/2024halloween/follower_ticket_ghost"
                 }
             },
             {
                 "threshold": 49003,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/halloween/ghost"
+                    "model": "custom_items/2024halloween/ghost"
                 }
             },
             {
                 "threshold": 49004,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/halloween/pumpkin_monster"
+                    "model": "custom_items/2024halloween/pumpkin_monster"
                 }
             },
             {
                 "threshold": 49005,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/halloween/corn_monster"
+                    "model": "custom_items/2024halloween/corn_monster"
                 }
             },
             {
                 "threshold": 50000,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/gacha/gacha_green"
+                    "model": "custom_items/brilliant/gacha/gacha_green"
                 }
             },
             {
                 "threshold": 50001,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/gacha/gacha_green2"
+                    "model": "custom_items/brilliant/gacha/gacha_green2"
                 }
             },
             {
                 "threshold": 50002,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/gacha/gacha_blue"
+                    "model": "custom_items/brilliant/gacha/gacha_blue"
                 }
             },
             {
                 "threshold": 50003,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/gacha/gacha_purple"
+                    "model": "custom_items/brilliant/gacha/gacha_purple"
                 }
             },
             {
                 "threshold": 50004,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/gacha/gacha_orange"
+                    "model": "custom_items/brilliant/gacha/gacha_orange"
                 }
             },
             {
                 "threshold": 51000,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/christmas/mistelnchristmas"
+                    "model": "custom_items/2024christmas/mistelnchristmas"
                 }
             },
             {
                 "threshold": 51001,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/christmas/deer"
+                    "model": "custom_items/2024christmas/deer"
                 }
             },
             {
                 "threshold": 51002,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/christmas/snowman"
+                    "model": "custom_items/2024christmas/snowman"
                 }
             },
             {
                 "threshold": 51003,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/christmas/follower_ticket_mistelnchristmas"
+                    "model": "custom_items/2024christmas/follower_ticket_mistelnchristmas"
                 }
             },
             {
                 "threshold": 51004,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/christmas/follower_ticket_deer"
+                    "model": "custom_items/2024christmas/follower_ticket_deer"
                 }
             },
             {
                 "threshold": 51005,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/christmas/follower_ticket_snowman"
+                    "model": "custom_items/2024christmas/follower_ticket_snowman"
                 }
             },
             {
                 "threshold": 51010,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/christmas/hatl"
+                    "model": "custom_items/2024christmas/hatl"
                 }
             },
             {
                 "threshold": 51011,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/christmas/globe"
+                    "model": "custom_items/2024christmas/globe"
                 }
             },
             {
                 "threshold": 51012,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/christmas/scarf_xmas"
+                    "model": "custom_items/2024christmas/scarf_xmas"
                 }
             },
             {
@@ -3008,56 +3008,56 @@
                 "threshold": 53000,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/squidgame/squidgameinvitecard"
+                    "model": "custom_items/2024squidgame/2024squidgameinvitecard"
                 }
             },
             {
                 "threshold": 53001,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/squidgame/mask_blackman"
+                    "model": "custom_items/2024squidgame/mask_blackman"
                 }
             },
             {
                 "threshold": 53002,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/squidgame/mask_shape1"
+                    "model": "custom_items/2024squidgame/mask_shape1"
                 }
             },
             {
                 "threshold": 53003,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/squidgame/mask_shape2"
+                    "model": "custom_items/2024squidgame/mask_shape2"
                 }
             },
             {
                 "threshold": 53004,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/squidgame/mask_shape3"
+                    "model": "custom_items/2024squidgame/mask_shape3"
                 }
             },
             {
                 "threshold": 53005,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/squidgame/honeycomb_toffee"
+                    "model": "custom_items/2024squidgame/honeycomb_toffee"
                 }
             },
             {
                 "threshold": 53006,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/squidgame/piggybank"
+                    "model": "custom_items/2024squidgame/piggybank"
                 }
             },
             {
                 "threshold": 53007,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/squidgame/ntd"
+                    "model": "custom_items/2024squidgame/ntd"
                 }
             },
             {

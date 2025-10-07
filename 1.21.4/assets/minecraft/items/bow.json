@@ -44,7 +44,7 @@
                     "property": "minecraft:using_item",
                     "on_false": {
                         "type": "minecraft:model",
-                        "model": "custom_items/chinesevalentinesday/bow0"
+                        "model": "custom_items/ricechen/bow0"
                     },
                     "on_true": {
                         "type": "minecraft:range_dispatch",
@@ -52,21 +52,21 @@
                         "scale": 0.05,
                         "fallback": {
                             "type": "minecraft:model",
-                            "model": "custom_items/chinesevalentinesday/bow0"
+                            "model": "custom_items/ricechen/bow0"
                         },
                         "entries": [
                             {
                                 "threshold": 0.4,
                                 "model": {
                                     "type": "minecraft:model",
-                                    "model": "custom_items/chinesevalentinesday/bow1"
+                                    "model": "custom_items/ricechen/bow1"
                                 }
                             },
                             {
                                 "threshold": 0.9,
                                 "model": {
                                     "type": "minecraft:model",
-                                    "model": "custom_items/chinesevalentinesday/bow2"
+                                    "model": "custom_items/ricechen/bow2"
                                 }
                             }
                         ]

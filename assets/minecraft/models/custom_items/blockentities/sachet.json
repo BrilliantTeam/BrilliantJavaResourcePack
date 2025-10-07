@@ -2,9 +2,9 @@
 	"credit": "書碼",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/custom/newyear/circular_coin_with_a_square_hole_1",
+		"0": "item/custom/2024newyear/circular_coin_with_a_square_hole_1",
 		"1": "item/custom/blockentities/sachet_0",
-		"particle": "item/custom/newyear/circular_coin_with_a_square_hole_1"
+		"particle": "item/custom/2024newyear/circular_coin_with_a_square_hole_1"
 	},
 	"elements": [
 		{

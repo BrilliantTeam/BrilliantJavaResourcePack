@@ -4,7 +4,7 @@
         "layer0": "item/diamond_shovel"
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 10000}, "model": "custom_items/halloween/cat_shovel"},
+        {"predicate": {"custom_model_data": 10000}, "model": "custom_items/2024halloween/cat_shovel"},
         {"predicate": {"custom_model_data": 10100}, "model": "custom_items/2025valentinesday/wing_shovel"},
         
         {"predicate": {"custom_model_data": 10200}, "model": "custom_items/2025dragonboat/oar"}

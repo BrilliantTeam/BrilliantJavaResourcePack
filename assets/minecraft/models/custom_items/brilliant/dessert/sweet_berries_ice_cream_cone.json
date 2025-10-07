@@ -1,0 +1,7 @@
+{
+    "credit": "旋",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/custom/brilliant/dessert/sweet_berries_ice_cream_cone"
+    }
+}

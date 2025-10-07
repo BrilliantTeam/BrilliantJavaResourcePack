@@ -2,11 +2,11 @@
 	"credit": "書碼",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/custom/gacha/gacha_blue",
-		"1": "item/custom/gacha/gacha_green",
-		"2": "item/custom/gacha/gacha_orange",
+		"0": "item/custom/brilliant/gacha/gacha_blue",
+		"1": "item/custom/brilliant/gacha/gacha_green",
+		"2": "item/custom/brilliant/gacha/gacha_orange",
 		"3": "item/custom/20256th/gacha_shooter_mapping",
-		"particle": "item/custom/gacha/gacha_blue"
+		"particle": "item/custom/brilliant/gacha/gacha_blue"
 	},
 	"elements": [
 		{

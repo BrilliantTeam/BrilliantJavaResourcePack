@@ -1,9 +1,0 @@
-{
-	"credit": "書碼",
-	"parent": "custom_items/squidgame/mask_shape",
-	"texture_size": [32, 32],
-	"textures": {
-		"1": "item/custom/squidgame/mask_02",
-		"particle": "item/custom/squidgame/mask_02"
-	}
-}

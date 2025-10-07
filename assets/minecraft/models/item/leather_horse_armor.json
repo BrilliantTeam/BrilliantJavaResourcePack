@@ -4,8 +4,7 @@
         "layer0":"item/leather_horse_armor"
     },
     "overrides":[
-        {"predicate":{"custom_model_data": 10000 }, "model":"custom_items/test"},
-        {"predicate":{"custom_model_data": 20000 }, "model":"custom_items/halloween/witch_hat_2"},
+        {"predicate":{"custom_model_data": 20000 }, "model":"custom_items/2024halloween/witch_hat_2"},
 
         {"predicate":{"custom_model_data": 20010 }, "model":"custom_items/2025valentinesday/teddy_a01"},
         {"predicate":{"custom_model_data": 20011 }, "model":"custom_items/2025valentinesday/teddy_a02"},

@@ -1,0 +1,8 @@
+{
+	"credit": "RiceChen_、旋",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/custom/brilliant/shopgui/back"
+	},
+	"display": {}
+}

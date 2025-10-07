@@ -31,7 +31,7 @@
                 "threshold": 20000,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/halloween/witch_hat_2",
+                    "model": "custom_items/2024halloween/witch_hat_2",
                     "tints": [
                         {
                             "type": "minecraft:dye",

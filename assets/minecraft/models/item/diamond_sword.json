@@ -44,6 +44,6 @@
         {"predicate": {"custom_model_data": 16415}, "model": "custom_items/cat_palms/cat_palm_stick_yellow_admin"},
         {"predicate": {"custom_model_data": 16416}, "model": "custom_items/cat_palms/cat_palm_stick_rainbow_admin"},
 
-        {"predicate": {"custom_model_data": 17000}, "model": "custom_items/super_big_star_fruit"}
+        {"predicate": {"custom_model_data": 17000}, "model": "custom_items/hat/super_big_star_fruit"}
     ]
 }

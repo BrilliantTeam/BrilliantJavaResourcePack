@@ -3,7 +3,7 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "item/custom/2025newyear/wealthgodhat_01",
-		"1": "item/custom/newyear/circular_coin_with_a_square_hole_1",
+		"1": "item/custom/2024newyear/circular_coin_with_a_square_hole_1",
 		"particle": "item/custom/2025newyear/wealthgodhat_01"
 	},
 	"elements": [

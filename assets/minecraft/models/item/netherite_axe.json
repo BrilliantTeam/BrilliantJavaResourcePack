@@ -4,7 +4,7 @@
         "layer0": "minecraft:item/netherite_axe"
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 10000}, "model": "custom_items/halloween/cat_axe"},
+        {"predicate": {"custom_model_data": 10000}, "model": "custom_items/2024halloween/cat_axe"},
         {"predicate": {"custom_model_data": 10100}, "model": "custom_items/2025valentinesday/wing_axe"},
 
         {"predicate": {"custom_model_data": 16100}, "model": "custom_items/cat_palms/cat_palm_glove_black_advanced"},

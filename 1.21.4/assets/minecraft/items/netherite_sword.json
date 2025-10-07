@@ -12,7 +12,7 @@
                 "threshold": 10000,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/halloween/cat_sword"
+                    "model": "custom_items/2024halloween/cat_sword"
                 }
             },
             {

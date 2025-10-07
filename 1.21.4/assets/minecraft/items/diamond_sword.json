@@ -264,7 +264,7 @@
                 "threshold": 17000,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/super_big_star_fruit"
+                    "model": "custom_items/hat/super_big_star_fruit"
                 }
             }
         ]

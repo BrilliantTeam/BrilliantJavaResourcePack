@@ -2,7 +2,7 @@
 	"credit": "酥瑪",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "item/custom/2024squidgame/2024squidgameinvitecard"
+		"layer0": "item/custom/2024squidgame/squidgameinvitecard"
 	},
 	"gui_light": "front",
 	"display": {

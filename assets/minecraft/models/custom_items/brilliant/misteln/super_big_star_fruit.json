@@ -1,8 +1,8 @@
 {
 	"credit": "RiceChen_",
 	"textures": {
-		"0": "item/custom/brlliant/misteln/spyglass_star",
-		"particle": "item/custom/brlliant/misteln/spyglass_star"
+		"0": "item/custom/brilliant/misteln/spyglass_star",
+		"particle": "item/custom/brilliant/misteln/spyglass_star"
 	},
 	"elements": [
 		{

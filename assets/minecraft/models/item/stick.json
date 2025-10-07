@@ -112,7 +112,7 @@
         {"predicate": {"custom_model_data": 19516}, "model":"custom_items/hat/deer_horn/deer_horn_rainbow"},
         
         {"predicate": {"custom_model_data": 19700}, "model":"custom_items/hat/headband_headset"},
-        {"predicate": {"custom_model_data": 19701}, "model":"custom_items/brlliant/misteln/spyglass_rice"},
+        {"predicate": {"custom_model_data": 19701}, "model":"custom_items/brilliant/misteln/spyglass_rice"},
 
         {"predicate": {"custom_model_data": 19901}, "model":"custom_items/brilliant/currency/aether"},
         {"predicate": {"custom_model_data": 19902}, "model":"custom_items/brilliant/currency/paradise_powder"},
@@ -315,10 +315,10 @@
         {"predicate": {"custom_model_data": 34019}, "model":"custom_items/2024childrensday/paperplane"},
         {"predicate": {"custom_model_data": 34020}, "model":"custom_items/2024childrensday/uglyplane"},
 
-        {"predicate": {"custom_model_data": 35000}, "model":"custom_items/brlliant/misteln/misteln_rice"},
-        {"predicate": {"custom_model_data": 35001}, "model":"custom_items/brlliant/misteln/misteln_rice_hat"},
-        {"predicate": {"custom_model_data": 35002}, "model":"custom_items/brlliant/misteln/misteln_rice_star"},
-        {"predicate": {"custom_model_data": 35003}, "model":"custom_items/brlliant/misteln/misteln_rice_scunfm"},
+        {"predicate": {"custom_model_data": 35000}, "model":"custom_items/brilliant/misteln/misteln_rice"},
+        {"predicate": {"custom_model_data": 35001}, "model":"custom_items/brilliant/misteln/misteln_rice_hat"},
+        {"predicate": {"custom_model_data": 35002}, "model":"custom_items/brilliant/misteln/misteln_rice_star"},
+        {"predicate": {"custom_model_data": 35003}, "model":"custom_items/brilliant/misteln/misteln_rice_scunfm"},
 
         {"predicate": {"custom_model_data": 36010}, "model":"custom_items/2024dragonboatfestival/sachet_1"},
         {"predicate": {"custom_model_data": 36011}, "model":"custom_items/2024dragonboatfestival/sachet_2"},

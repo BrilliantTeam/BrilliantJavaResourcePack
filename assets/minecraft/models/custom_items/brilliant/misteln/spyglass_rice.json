@@ -2,8 +2,8 @@
 	"credit": "飯娘望遠鏡",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "item/custom/brlliant/misteln/spyglass_rice",
-		"particle": "item/custom/brlliant/misteln/spyglass_rice"
+		"1": "item/custom/brilliant/misteln/spyglass_rice",
+		"particle": "item/custom/brilliant/misteln/spyglass_rice"
 	},
 	"elements": [
 		{

@@ -48,7 +48,6 @@
         {"predicate": {"custom_model_data": 50027}, "model": "custom_items/brilliant/dessert/candy_cane_red"},
         {"predicate": {"custom_model_data": 50028}, "model": "custom_items/brilliant/dessert/candy_cane_yellow"},
         {"predicate": {"custom_model_data": 50029}, "model": "custom_items/brilliant/dessert/cheese"},
-        {"predicate": {"custom_model_data": 50030}, "model": "custom_items/brilliant/dessert/cheese_puff"},
         {"predicate": {"custom_model_data": 50031}, "model": "custom_items/brilliant/dessert/chocolate"},
         {"predicate": {"custom_model_data": 50032}, "model": "custom_items/brilliant/dessert/chocolate_bone"},
         {"predicate": {"custom_model_data": 50033}, "model": "custom_items/brilliant/dessert/chocolate_bread"},

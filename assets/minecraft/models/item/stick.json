@@ -196,6 +196,7 @@
         {"predicate": {"custom_model_data": 20071}, "model":"custom_items/brilliant/shopgui/purifier"},
         {"predicate": {"custom_model_data": 20072}, "model":"custom_items/brilliant/shopgui/teleport_scroll"},
         {"predicate": {"custom_model_data": 20073}, "model":"custom_items/brilliant/shopgui/aether_block"},
+        {"predicate": {"custom_model_data": 20074}, "model":"custom_items/brilliant/shopgui/paradise_powder_block"},
 
         {"predicate": {"custom_model_data": 21001}, "model": "custom_items/brilliant/mc/amethyst_shard"},
         {"predicate": {"custom_model_data": 21002}, "model": "custom_items/brilliant/mc/barrier"},
@@ -225,6 +226,7 @@
         {"predicate": {"custom_model_data": 21026}, "model": "custom_items/brilliant/mc/spyglass"},
         {"predicate": {"custom_model_data": 21027}, "model": "custom_items/brilliant/mc/tripwire_hook"},
         {"predicate": {"custom_model_data": 21028}, "model": "custom_items/brilliant/mc/wooden_hoe"},
+        {"predicate": {"custom_model_data": 21029}, "model": "custom_items/brilliant/mc/light_blue_wool"},
 
         {"predicate": {"custom_model_data": 30001}, "model":"custom_items/brilliant/purifier"},
         {"predicate": {"custom_model_data": 30002}, "model":"custom_items/brilliant/teleport_scroll"},

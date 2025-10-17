@@ -1297,6 +1297,13 @@
                 }
             },
             {
+                "threshold": 20074,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/shopgui/paradise_powder_block"
+                }
+            },
+            {
                 "threshold": 21001,
                 "model": {
                     "type": "model",
@@ -1490,6 +1497,13 @@
                 "model": {
                     "type": "model",
                     "model": "custom_items/brilliant/mc/wooden_hoe"
+                }
+            },
+            {
+                "threshold": 21029,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/light_blue_wool"
                 }
             },
             {

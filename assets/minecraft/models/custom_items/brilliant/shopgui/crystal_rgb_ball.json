@@ -2,8 +2,8 @@
   "credit": "RiceChen_",
   "parent": "custom_items/brilliant/shopgui/bg",
   "textures": {
-    "1": "item/custom/brilliant/shopgui/crystal_rgb_ball",
+    "1": "item/custom/brilliant/crystal_rgb_ball",
     "2": "item/custom/brilliant/shopgui/guiair",
-    "particle": "item/custom/brilliant/shopgui/crystal_rgb_ball"
+    "particle": "item/custom/brilliant/crystal_rgb_ball"
   }
 }

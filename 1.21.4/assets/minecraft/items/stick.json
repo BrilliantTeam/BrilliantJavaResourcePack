@@ -1297,13 +1297,6 @@
                 }
             },
             {
-                "threshold": 21000,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/brilliant/mc/123"
-                }
-            },
-            {
                 "threshold": 21001,
                 "model": {
                     "type": "model",
@@ -1314,158 +1307,186 @@
                 "threshold": 21002,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/brilliant/mc/bell"
+                    "model": "custom_items/brilliant/mc/barrier"
                 }
             },
             {
                 "threshold": 21003,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/brilliant/mc/birch_sign"
+                    "model": "custom_items/brilliant/mc/bell"
                 }
             },
             {
                 "threshold": 21004,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/brilliant/mc/book"
+                    "model": "custom_items/brilliant/mc/birch_sign"
                 }
             },
             {
                 "threshold": 21005,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/brilliant/mc/bookshelf"
+                    "model": "custom_items/brilliant/mc/book"
                 }
             },
             {
                 "threshold": 21006,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/brilliant/mc/calcite"
+                    "model": "custom_items/brilliant/mc/bookshelf"
                 }
             },
             {
                 "threshold": 21007,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/brilliant/mc/chest_minecart"
+                    "model": "custom_items/brilliant/mc/calcite"
                 }
             },
             {
                 "threshold": 21008,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/brilliant/mc/clay_ball"
+                    "model": "custom_items/brilliant/mc/chest_minecart"
                 }
             },
             {
                 "threshold": 21009,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/brilliant/mc/diamond_pickaxe"
+                    "model": "custom_items/brilliant/mc/clay_ball"
                 }
             },
             {
                 "threshold": 21010,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/brilliant/mc/elytra"
+                    "model": "custom_items/brilliant/mc/diamond_pickaxe"
                 }
             },
             {
                 "threshold": 21011,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/brilliant/mc/ender_eye"
+                    "model": "custom_items/brilliant/mc/elytra"
                 }
             },
             {
                 "threshold": 21012,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/brilliant/mc/ender_pearl"
+                    "model": "custom_items/brilliant/mc/ender_eye"
                 }
             },
             {
                 "threshold": 21013,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/brilliant/mc/end_stone"
+                    "model": "custom_items/brilliant/mc/ender_pearl"
                 }
             },
             {
                 "threshold": 21014,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/brilliant/mc/feather"
+                    "model": "custom_items/brilliant/mc/end_stone"
                 }
             },
             {
                 "threshold": 21015,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/brilliant/mc/grass_block"
+                    "model": "custom_items/brilliant/mc/feather"
                 }
             },
             {
                 "threshold": 21016,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/brilliant/mc/iron_hoe"
+                    "model": "custom_items/brilliant/mc/grass_block"
                 }
             },
             {
                 "threshold": 21017,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/brilliant/mc/iron_nugget"
+                    "model": "custom_items/brilliant/mc/iron_hoe"
                 }
             },
             {
                 "threshold": 21018,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/brilliant/mc/light"
+                    "model": "custom_items/brilliant/mc/iron_nugget"
                 }
             },
             {
                 "threshold": 21019,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/brilliant/mc/name_tag"
+                    "model": "custom_items/brilliant/mc/light"
                 }
             },
             {
                 "threshold": 21020,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/brilliant/mc/netherrack"
+                    "model": "custom_items/brilliant/mc/melon_seeds"
                 }
             },
             {
                 "threshold": 21021,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/brilliant/mc/paper"
+                    "model": "custom_items/brilliant/mc/name_tag"
                 }
             },
             {
                 "threshold": 21022,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/brilliant/mc/respawn_anchor"
+                    "model": "custom_items/brilliant/mc/netherrack"
                 }
             },
             {
                 "threshold": 21023,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/brilliant/mc/tripwire_hook"
+                    "model": "custom_items/brilliant/mc/paper"
                 }
             },
             {
                 "threshold": 21024,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/respawn_anchor"
+                }
+            },
+            {
+                "threshold": 21025,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/splash_potion"
+                }
+            },
+            {
+                "threshold": 21026,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/spyglass"
+                }
+            },
+            {
+                "threshold": 21027,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/tripwire_hook"
+                }
+            },
+            {
+                "threshold": 21028,
                 "model": {
                     "type": "model",
                     "model": "custom_items/brilliant/mc/wooden_hoe"

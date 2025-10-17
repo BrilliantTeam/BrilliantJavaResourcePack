@@ -192,6 +192,9 @@
         {"predicate": {"custom_model_data": 20067}, "model":"custom_items/brilliant/shopgui/luminous_crystal"},
         {"predicate": {"custom_model_data": 20068}, "model":"custom_items/brilliant/shopgui/paradise_powder"},
         {"predicate": {"custom_model_data": 20069}, "model":"custom_items/brilliant/shopgui/watercress"},
+        {"predicate": {"custom_model_data": 20070}, "model":"custom_items/brilliant/shopgui/crystal_rgb_ball"},
+        {"predicate": {"custom_model_data": 20071}, "model":"custom_items/brilliant/shopgui/purifier"},
+        {"predicate": {"custom_model_data": 20072}, "model":"custom_items/brilliant/shopgui/teleport_scroll"},
 
         {"predicate": {"custom_model_data": 30001}, "model":"custom_items/brilliant/purifier"},
         {"predicate": {"custom_model_data": 30002}, "model":"custom_items/brilliant/teleport_scroll"},

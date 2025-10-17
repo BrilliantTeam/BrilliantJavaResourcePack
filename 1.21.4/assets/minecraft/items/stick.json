@@ -1269,6 +1269,27 @@
                 }
             },
             {
+                "threshold": 20070,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/shopgui/crystal_rgb_ball"
+                }
+            },
+            {
+                "threshold": 20071,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/shopgui/purifier"
+                }
+            },
+            {
+                "threshold": 20072,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/shopgui/teleport_scroll"
+                }
+            },
+            {
                 "threshold": 30001,
                 "model": {
                     "type": "model",

@@ -289,13 +289,6 @@
                 }
             },
             {
-                "threshold": 50030,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/brilliant/dessert/cheese_puff"
-                }
-            },
-            {
                 "threshold": 50031,
                 "model": {
                     "type": "model",

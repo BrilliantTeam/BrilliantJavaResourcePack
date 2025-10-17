@@ -1290,6 +1290,188 @@
                 }
             },
             {
+                "threshold": 20073,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/shopgui/aether_block"
+                }
+            },
+            {
+                "threshold": 21000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/123"
+                }
+            },
+            {
+                "threshold": 21001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/amethyst_shard"
+                }
+            },
+            {
+                "threshold": 21002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/bell"
+                }
+            },
+            {
+                "threshold": 21003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/birch_sign"
+                }
+            },
+            {
+                "threshold": 21004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/book"
+                }
+            },
+            {
+                "threshold": 21005,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/bookshelf"
+                }
+            },
+            {
+                "threshold": 21006,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/calcite"
+                }
+            },
+            {
+                "threshold": 21007,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/chest_minecart"
+                }
+            },
+            {
+                "threshold": 21008,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/clay_ball"
+                }
+            },
+            {
+                "threshold": 21009,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/diamond_pickaxe"
+                }
+            },
+            {
+                "threshold": 21010,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/elytra"
+                }
+            },
+            {
+                "threshold": 21011,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/ender_eye"
+                }
+            },
+            {
+                "threshold": 21012,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/ender_pearl"
+                }
+            },
+            {
+                "threshold": 21013,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/end_stone"
+                }
+            },
+            {
+                "threshold": 21014,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/feather"
+                }
+            },
+            {
+                "threshold": 21015,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/grass_block"
+                }
+            },
+            {
+                "threshold": 21016,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/iron_hoe"
+                }
+            },
+            {
+                "threshold": 21017,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/iron_nugget"
+                }
+            },
+            {
+                "threshold": 21018,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/light"
+                }
+            },
+            {
+                "threshold": 21019,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/name_tag"
+                }
+            },
+            {
+                "threshold": 21020,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/netherrack"
+                }
+            },
+            {
+                "threshold": 21021,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/paper"
+                }
+            },
+            {
+                "threshold": 21022,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/respawn_anchor"
+                }
+            },
+            {
+                "threshold": 21023,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/tripwire_hook"
+                }
+            },
+            {
+                "threshold": 21024,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/wooden_hoe"
+                }
+            },
+            {
                 "threshold": 30001,
                 "model": {
                     "type": "model",

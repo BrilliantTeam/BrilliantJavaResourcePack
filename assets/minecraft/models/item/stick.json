@@ -187,6 +187,11 @@
         {"predicate": {"custom_model_data": 20062}, "model":"custom_items/brilliant/shopgui/kitty"},
         {"predicate": {"custom_model_data": 20063}, "model":"custom_items/brilliant/shopgui/bfly"},
         {"predicate": {"custom_model_data": 20064}, "model":"custom_items/brilliant/shopgui/server4"},
+        {"predicate": {"custom_model_data": 20065}, "model":"custom_items/brilliant/shopgui/aether_bill"},
+        {"predicate": {"custom_model_data": 20066}, "model":"custom_items/brilliant/shopgui/aether"},
+        {"predicate": {"custom_model_data": 20067}, "model":"custom_items/brilliant/shopgui/luminous_crystal"},
+        {"predicate": {"custom_model_data": 20068}, "model":"custom_items/brilliant/shopgui/paradise_powder"},
+        {"predicate": {"custom_model_data": 20069}, "model":"custom_items/brilliant/shopgui/watercress"},
 
         {"predicate": {"custom_model_data": 30001}, "model":"custom_items/brilliant/purifier"},
         {"predicate": {"custom_model_data": 30002}, "model":"custom_items/brilliant/teleport_scroll"},

@@ -1,31 +1,9 @@
 {
-	"credit": "RiceChen_",
-	"texture_size": [32, 32],
-	"textures": {
-		"1": "item/custom/brilliant/shopgui/shop6",
-		"particle": "item/custom/brilliant/shopgui/shop6"
-	},
-	"elements": [
-		{
-			"from": [0, 0, 0],
-			"to": [16, 16, 0],
-			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
-				"east": {"uv": [0, 0, 0, 8], "texture": "#1"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
-				"west": {"uv": [0, 0, 0, 8], "texture": "#1"},
-				"up": {"uv": [8, 0, 0, 0], "texture": "#1"},
-				"down": {"uv": [8, 0, 0, 0], "texture": "#1"}
-			}
-		}
-	],
-	"gui_light": "front",
-	"display": {
-		"gui": {
-			"scale": [1.125, 1.125, 1.125]
-		},
-		"head": {
-			"scale": [0, 0, 0]
-		}
-	}
+  "credit": "RiceChen_",
+  "parent": "custom_items/brilliant/shopgui/bg",
+  "textures": {
+    "1": "item/item/custom/brilliant/shopgui/shop6",
+    "2": "item/custom/brilliant/shopgui/guiair",
+    "particle": "item/custom/brilliant/shopgui/shop6"
+  }
 }

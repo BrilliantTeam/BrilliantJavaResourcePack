@@ -319,6 +319,8 @@
         {"predicate": {"custom_model_data": 21121}, "model": "custom_items/brilliant/mc/ender_chest"},
         {"predicate": {"custom_model_data": 21122}, "model": "custom_items/brilliant/mc/trapped_chest"},
         {"predicate": {"custom_model_data": 21123}, "model": "custom_items/brilliant/mc/chest"},
+        {"predicate": {"custom_model_data": 21124}, "model": "custom_items/brilliant/mc/oak_slab"},
+        {"predicate": {"custom_model_data": 21125}, "model": "custom_items/brilliant/mc/yellow_banner"},
 
         {"predicate": {"custom_model_data": 30001}, "model":"custom_items/brilliant/purifier"},
         {"predicate": {"custom_model_data": 30002}, "model":"custom_items/brilliant/teleport_scroll"},

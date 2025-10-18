@@ -2137,6 +2137,41 @@
                 }
             },
             {
+                "threshold": 21121,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/ender_chest"
+                }
+            },
+            {
+                "threshold": 21122,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/trapped_chest"
+                }
+            },
+            {
+                "threshold": 21123,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/chest"
+                }
+            },
+            {
+                "threshold": 21124,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/oak_slab"
+                }
+            },
+            {
+                "threshold": 21125,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/yellow_banner"
+                }
+            },
+            {
                 "threshold": 30001,
                 "model": {
                     "type": "model",

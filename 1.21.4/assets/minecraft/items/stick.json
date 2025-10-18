@@ -1304,6 +1304,13 @@
                 }
             },
             {
+                "threshold": 20075,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/shopgui/bfly2"
+                }
+            },
+            {
                 "threshold": 21001,
                 "model": {
                     "type": "model",
@@ -1504,6 +1511,615 @@
                 "model": {
                     "type": "model",
                     "model": "custom_items/brilliant/mc/light_blue_wool"
+                }
+            },
+            {
+                "threshold": 21030,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/allay_spawn_egg"
+                }
+            },
+            {
+                "threshold": 21031,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/ancient_debris"
+                }
+            },
+            {
+                "threshold": 21032,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/anvil"
+                }
+            },
+            {
+                "threshold": 21033,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/armor_stand"
+                }
+            },
+            {
+                "threshold": 21034,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/axolotl_bucket"
+                }
+            },
+            {
+                "threshold": 21036,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/barrel"
+                }
+            },
+            {
+                "threshold": 21037,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/beacon"
+                }
+            },
+            {
+                "threshold": 21038,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/bedrock"
+                }
+            },
+            {
+                "threshold": 21039,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/beehive"
+                }
+            },
+            {
+                "threshold": 21040,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/bone"
+                }
+            },
+            {
+                "threshold": 21041,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/budding_amethyst"
+                }
+            },
+            {
+                "threshold": 21042,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/cartography_table"
+                }
+            },
+            {
+                "threshold": 21043,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/cauldron"
+                }
+            },
+            {
+                "threshold": 21044,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/chain"
+                }
+            },
+            {
+                "threshold": 21045,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/chicken_spawn_egg"
+                }
+            },
+            {
+                "threshold": 21046,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/coal_ore"
+                }
+            },
+            {
+                "threshold": 21047,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/command_block_minecart"
+                }
+            },
+            {
+                "threshold": 21048,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/cookie"
+                }
+            },
+            {
+                "threshold": 21049,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/copper_block"
+                }
+            },
+            {
+                "threshold": 21050,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/copper_ore"
+                }
+            },
+            {
+                "threshold": 21051,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/cow_spawn_egg"
+                }
+            },
+            {
+                "threshold": 21052,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/crafting_table"
+                }
+            },
+            {
+                "threshold": 21053,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/crying_obsidian"
+                }
+            },
+            {
+                "threshold": 21054,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/deepslate_coal_ore"
+                }
+            },
+            {
+                "threshold": 21055,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/deepslate_copper_ore"
+                }
+            },
+            {
+                "threshold": 21056,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/deepslate_diamond_ore"
+                }
+            },
+            {
+                "threshold": 21057,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/deepslate_emerald_ore"
+                }
+            },
+            {
+                "threshold": 21058,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/deepslate_gold_ore"
+                }
+            },
+            {
+                "threshold": 21059,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/deepslate_iron_ore"
+                }
+            },
+            {
+                "threshold": 21060,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/deepslate_lapis_ore"
+                }
+            },
+            {
+                "threshold": 21061,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/deepslate_redstone_ore"
+                }
+            },
+            {
+                "threshold": 21062,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/diamond_axe"
+                }
+            },
+            {
+                "threshold": 21063,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/diamond_ore"
+                }
+            },
+            {
+                "threshold": 21064,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/diamond_sword"
+                }
+            },
+            {
+                "threshold": 21065,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/dispenser"
+                }
+            },
+            {
+                "threshold": 21066,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/dragon_egg"
+                }
+            },
+            {
+                "threshold": 21067,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/egg"
+                }
+            },
+            {
+                "threshold": 21068,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/emerald_ore"
+                }
+            },
+            {
+                "threshold": 21069,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/enchanted_book"
+                }
+            },
+            {
+                "threshold": 21070,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/experience_bottle"
+                }
+            },
+            {
+                "threshold": 21071,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/firework_rocket"
+                }
+            },
+            {
+                "threshold": 21072,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/glass"
+                }
+            },
+            {
+                "threshold": 21073,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/glow_item_frame"
+                }
+            },
+            {
+                "threshold": 21074,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/goat_horn"
+                }
+            },
+            {
+                "threshold": 21075,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/gold_ore"
+                }
+            },
+            {
+                "threshold": 21076,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/gray_dye"
+                }
+            },
+            {
+                "threshold": 21077,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/grindstone"
+                }
+            },
+            {
+                "threshold": 21078,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/gunpowder"
+                }
+            },
+            {
+                "threshold": 21079,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/hopper"
+                }
+            },
+            {
+                "threshold": 21080,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/iron_helmet"
+                }
+            },
+            {
+                "threshold": 21081,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/iron_ore"
+                }
+            },
+            {
+                "threshold": 21082,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/item_frame"
+                }
+            },
+            {
+                "threshold": 21083,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/knowledge_book"
+                }
+            },
+            {
+                "threshold": 21084,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/lapis_ore"
+                }
+            },
+            {
+                "threshold": 21085,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/lava_bucket"
+                }
+            },
+            {
+                "threshold": 21086,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/lead"
+                }
+            },
+            {
+                "threshold": 21087,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/light_blue_candle"
+                }
+            },
+            {
+                "threshold": 21088,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/light_gray_candle"
+                }
+            },
+            {
+                "threshold": 21089,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/lime_dye"
+                }
+            },
+            {
+                "threshold": 21090,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/loom"
+                }
+            },
+            {
+                "threshold": 21091,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/mangrove_propagule"
+                }
+            },
+            {
+                "threshold": 21092,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/minecart"
+                }
+            },
+            {
+                "threshold": 21094,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/music_disc_strad"
+                }
+            },
+            {
+                "threshold": 21095,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/nether_gold_ore"
+                }
+            },
+            {
+                "threshold": 21096,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/nether_quartz_ore"
+                }
+            },
+            {
+                "threshold": 21097,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/nether_wart"
+                }
+            },
+            {
+                "threshold": 21098,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/note_block"
+                }
+            },
+            {
+                "threshold": 21099,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/oak_chest_boat"
+                }
+            },
+            {
+                "threshold": 21100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/observer"
+                }
+            },
+            {
+                "threshold": 21102,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/phantom_spawn_egg"
+                }
+            },
+            {
+                "threshold": 21103,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/pink_candle"
+                }
+            },
+            {
+                "threshold": 21104,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/poisonous_potato"
+                }
+            },
+            {
+                "threshold": 21105,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/quartz_block"
+                }
+            },
+            {
+                "threshold": 21106,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/raw_iron_block"
+                }
+            },
+            {
+                "threshold": 21107,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/redstone_ore"
+                }
+            },
+            {
+                "threshold": 21108,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/saddle"
+                }
+            },
+            {
+                "threshold": 21109,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/shulker_box"
+                }
+            },
+            {
+                "threshold": 21110,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/slime_ball"
+                }
+            },
+            {
+                "threshold": 21111,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/smithing_table"
+                }
+            },
+            {
+                "threshold": 21113,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/spawner"
+                }
+            },
+            {
+                "threshold": 21114,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/stonecutter"
+                }
+            },
+            {
+                "threshold": 21115,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/stripped_oak_log"
+                }
+            },
+            {
+                "threshold": 21116,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/totem_of_undying"
+                }
+            },
+            {
+                "threshold": 21117,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/villager_spawn_egg"
+                }
+            },
+            {
+                "threshold": 21118,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/writable_book"
+                }
+            },
+            {
+                "threshold": 21119,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/yellow_candle"
+                }
+            },
+            {
+                "threshold": 21120,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/zombie_spawn_egg"
                 }
             },
             {

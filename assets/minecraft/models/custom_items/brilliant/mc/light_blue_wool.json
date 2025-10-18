@@ -2,8 +2,8 @@
   "credit": "RiceChen_",
   "parent": "custom_items/brilliant/shopgui/bg",
   "textures": {
-    "1": "minecraft:block/light_blue_wool",
+    "1": "item/custom/brilliant/shopgui/light_blue_wool",
     "2": "item/custom/brilliant/shopgui/guiair",
-    "particle": "minecraft:block/light_blue_wool"
+    "particle": "item/custom/brilliant/shopgui/light_blue_wool"
   }
 }

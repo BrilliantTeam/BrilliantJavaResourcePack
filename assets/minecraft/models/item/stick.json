@@ -198,6 +198,7 @@
         {"predicate": {"custom_model_data": 20073}, "model":"custom_items/brilliant/shopgui/aether_block"},
         {"predicate": {"custom_model_data": 20074}, "model":"custom_items/brilliant/shopgui/paradise_powder_block"},
         {"predicate": {"custom_model_data": 20075}, "model":"custom_items/brilliant/shopgui/bfly2"},
+        {"predicate": {"custom_model_data": 20076}, "model":"custom_items/brilliant/shopgui/colored_jelly_15"},
 
         {"predicate": {"custom_model_data": 21001}, "model": "custom_items/brilliant/mc/amethyst_shard"},
         {"predicate": {"custom_model_data": 21002}, "model": "custom_items/brilliant/mc/barrier"},

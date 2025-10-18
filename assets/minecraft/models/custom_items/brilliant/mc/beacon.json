@@ -2,8 +2,8 @@
   "credit": "RiceChen_",
   "parent": "custom_items/brilliant/shopgui/bg",
   "textures": {
-    "1": "minecraft:item/beacon",
+    "1": "minecraft:block/beacon",
     "2": "item/custom/brilliant/shopgui/guiair",
-    "particle": "minecraft:item/beacon"
+    "particle": "minecraft:block/beacon"
   }
 }

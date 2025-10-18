@@ -2,8 +2,8 @@
   "credit": "RiceChen_",
   "parent": "custom_items/brilliant/shopgui/bg",
   "textures": {
-    "1": "minecraft:block/dragon_egg",
+    "1": "item/custom/brilliant/shopgui/dragon_egg",
     "2": "item/custom/brilliant/shopgui/guiair",
-    "particle": "minecraft:block/dragon_egg"
+    "particle": "item/custom/brilliant/shopgui/dragon_egg"
   }
 }

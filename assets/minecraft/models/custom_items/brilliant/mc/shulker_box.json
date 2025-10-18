@@ -2,8 +2,8 @@
   "credit": "RiceChen_",
   "parent": "custom_items/brilliant/shopgui/bg",
   "textures": {
-    "1": "minecraft:block/shulker_box",
+    "1": "item/custom/brilliant/shopgui/shulker_box",
     "2": "item/custom/brilliant/shopgui/guiair",
-    "particle": "minecraft:block/shulker_box"
+    "particle": "item/custom/brilliant/shopgui/shulker_box"
   }
 }

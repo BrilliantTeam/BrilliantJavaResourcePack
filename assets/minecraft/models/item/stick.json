@@ -297,6 +297,7 @@
         {"predicate": {"custom_model_data": 21098}, "model": "custom_items/brilliant/mc/note_block"},
         {"predicate": {"custom_model_data": 21099}, "model": "custom_items/brilliant/mc/oak_chest_boat"},
         {"predicate": {"custom_model_data": 21100}, "model": "custom_items/brilliant/mc/observer"},
+        {"predicate": {"custom_model_data": 21101}, "model": "custom_items/brilliant/mc/orange_bed"},
         {"predicate": {"custom_model_data": 21102}, "model": "custom_items/brilliant/mc/phantom_spawn_egg"},
         {"predicate": {"custom_model_data": 21103}, "model": "custom_items/brilliant/mc/pink_candle"},
         {"predicate": {"custom_model_data": 21104}, "model": "custom_items/brilliant/mc/poisonous_potato"},
@@ -315,6 +316,9 @@
         {"predicate": {"custom_model_data": 21118}, "model": "custom_items/brilliant/mc/writable_book"},
         {"predicate": {"custom_model_data": 21119}, "model": "custom_items/brilliant/mc/yellow_candle"},
         {"predicate": {"custom_model_data": 21120}, "model": "custom_items/brilliant/mc/zombie_spawn_egg"},
+        {"predicate": {"custom_model_data": 21121}, "model": "custom_items/brilliant/mc/ender_chest"},
+        {"predicate": {"custom_model_data": 21122}, "model": "custom_items/brilliant/mc/trapped_chest"},
+        {"predicate": {"custom_model_data": 21123}, "model": "custom_items/brilliant/mc/chest"},
 
         {"predicate": {"custom_model_data": 30001}, "model":"custom_items/brilliant/purifier"},
         {"predicate": {"custom_model_data": 30002}, "model":"custom_items/brilliant/teleport_scroll"},

@@ -2,8 +2,8 @@
   "credit": "RiceChen_",
   "parent": "custom_items/brilliant/shopgui/bg",
   "textures": {
-    "1": "item/custom/brilliant/shopgui/smooth_quartz",
+    "1": "item/custom/brilliant/shopgui/trapped_chest",
     "2": "item/custom/brilliant/shopgui/guiair",
-    "particle": "item/custom/brilliant/shopgui/smooth_quartz"
+    "particle": "item/custom/brilliant/shopgui/trapped_chest"
   }
 }

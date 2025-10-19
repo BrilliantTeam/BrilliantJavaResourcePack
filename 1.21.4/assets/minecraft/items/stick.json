@@ -2011,6 +2011,13 @@
                 }
             },
             {
+                "threshold": 21101,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/orange_bed"
+                }
+            },
+            {
                 "threshold": 21102,
                 "model": {
                     "type": "model",
@@ -2169,6 +2176,55 @@
                 "model": {
                     "type": "model",
                     "model": "custom_items/brilliant/mc/yellow_banner"
+                }
+            },
+            {
+                "threshold": 21126,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/end_portal_frame"
+                }
+            },
+            {
+                "threshold": 21127,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/golden_chestplate"
+                }
+            },
+            {
+                "threshold": 21128,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/iron_axe"
+                }
+            },
+            {
+                "threshold": 21129,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/apple"
+                }
+            },
+            {
+                "threshold": 21130,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/potion"
+                }
+            },
+            {
+                "threshold": 21131,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/music_disc_far"
+                }
+            },
+            {
+                "threshold": 21132,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/emerald"
                 }
             },
             {

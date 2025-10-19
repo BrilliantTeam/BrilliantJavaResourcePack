@@ -323,6 +323,13 @@
         {"predicate": {"custom_model_data": 21123}, "model": "custom_items/brilliant/mc/chest"},
         {"predicate": {"custom_model_data": 21124}, "model": "custom_items/brilliant/mc/oak_slab"},
         {"predicate": {"custom_model_data": 21125}, "model": "custom_items/brilliant/mc/yellow_banner"},
+        {"predicate": {"custom_model_data": 21126}, "model": "custom_items/brilliant/mc/end_portal_frame"},
+        {"predicate": {"custom_model_data": 21127}, "model": "custom_items/brilliant/mc/golden_chestplate"},
+        {"predicate": {"custom_model_data": 21128}, "model": "custom_items/brilliant/mc/iron_axe"},
+        {"predicate": {"custom_model_data": 21129}, "model": "custom_items/brilliant/mc/apple"},
+        {"predicate": {"custom_model_data": 21130}, "model": "custom_items/brilliant/mc/potion"},
+        {"predicate": {"custom_model_data": 21131}, "model": "custom_items/brilliant/mc/music_disc_far"},
+        {"predicate": {"custom_model_data": 21132}, "model": "custom_items/brilliant/mc/emerald"},
 
         {"predicate": {"custom_model_data": 30001}, "model":"custom_items/brilliant/purifier"},
         {"predicate": {"custom_model_data": 30002}, "model":"custom_items/brilliant/teleport_scroll"},

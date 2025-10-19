@@ -2228,6 +2228,20 @@
                 }
             },
             {
+                "threshold": 21133,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/red_wool"
+                }
+            },
+            {
+                "threshold": 21134,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/lime_wool"
+                }
+            },
+            {
                 "threshold": 30001,
                 "model": {
                     "type": "model",

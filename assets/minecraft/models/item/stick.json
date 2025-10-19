@@ -330,6 +330,8 @@
         {"predicate": {"custom_model_data": 21130}, "model": "custom_items/brilliant/mc/potion"},
         {"predicate": {"custom_model_data": 21131}, "model": "custom_items/brilliant/mc/music_disc_far"},
         {"predicate": {"custom_model_data": 21132}, "model": "custom_items/brilliant/mc/emerald"},
+        {"predicate": {"custom_model_data": 21133}, "model": "custom_items/brilliant/mc/red_wool"},
+        {"predicate": {"custom_model_data": 21134}, "model": "custom_items/brilliant/mc/lime_wool"},
 
         {"predicate": {"custom_model_data": 30001}, "model":"custom_items/brilliant/purifier"},
         {"predicate": {"custom_model_data": 30002}, "model":"custom_items/brilliant/teleport_scroll"},

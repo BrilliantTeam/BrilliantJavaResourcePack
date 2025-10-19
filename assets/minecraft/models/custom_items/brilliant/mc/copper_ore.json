@@ -2,8 +2,8 @@
   "credit": "RiceChen_",
   "parent": "custom_items/brilliant/shopgui/bg",
   "textures": {
-    "1": "minecraft:block/copper_ore",
+    "1": "item/custom/brilliant/shopgui/cobblestone_copper",
     "2": "item/custom/brilliant/shopgui/guiair",
-    "particle": "minecraft:block/copper_ore"
+    "particle": "item/custom/brilliant/shopgui/cobblestone_copper"
   }
 }

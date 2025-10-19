@@ -2,8 +2,8 @@
   "credit": "RiceChen_",
   "parent": "custom_items/brilliant/shopgui/bg",
   "textures": {
-    "1": "minecraft:block/deepslate_lapis_ore",
+    "1": "item/custom/brilliant/shopgui/deep_lapis",
     "2": "item/custom/brilliant/shopgui/guiair",
-    "particle": "minecraft:block/deepslate_lapis_ore"
+    "particle": "item/custom/brilliant/shopgui/deep_lapis"
   }
 }

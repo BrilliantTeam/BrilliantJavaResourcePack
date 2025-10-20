@@ -3,7 +3,7 @@
   "parent": "custom_items/brilliant/shopgui/bg",
   "textures": {
     "1": "item/custom/brilliant/currency/paradise_powder",
-    "2": "item/custom/brilliant/shopgui/guiair_block",
+    "2": "item/custom/brilliant/shopgui/guiair",
     "particle": "item/custom/brilliant/currency/paradise_powder"
   }
 }

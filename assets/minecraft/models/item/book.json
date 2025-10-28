@@ -1,0 +1,9 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/book"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 21021}, "model": "custom_items/brilliant/mc/book"}
+    ]
+}

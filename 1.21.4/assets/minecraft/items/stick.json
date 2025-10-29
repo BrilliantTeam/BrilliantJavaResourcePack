@@ -1325,7 +1325,7 @@
                 }
             },
             {
-                "threshold": 20077,
+                "threshold": 20078,
                 "model": {
                     "type": "model",
                     "model": "custom_items/brilliant/shopgui/debugbone_gui"

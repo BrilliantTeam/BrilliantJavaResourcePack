@@ -1332,6 +1332,13 @@
                 }
             },
             {
+                "threshold": 20079,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/shopgui/supersponge_gui"
+                }
+            },
+            {
                 "threshold": 21001,
                 "model": {
                     "type": "model",
@@ -2274,6 +2281,13 @@
                 "model": {
                     "type": "model",
                     "model": "custom_items/brilliant/debugbone"
+                }
+            },
+            {
+                "threshold": 30005,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/supersponge"
                 }
             },
             {

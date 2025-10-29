@@ -1325,6 +1325,13 @@
                 }
             },
             {
+                "threshold": 20077,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/shopgui/debugbone_gui"
+                }
+            },
+            {
                 "threshold": 21001,
                 "model": {
                     "type": "model",
@@ -2260,6 +2267,13 @@
                 "model": {
                     "type": "model",
                     "model": "custom_items/brilliant/menu"
+                }
+            },
+            {
+                "threshold": 30004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/debugbone"
                 }
             },
             {

@@ -2256,6 +2256,69 @@
                 }
             },
             {
+                "threshold": 21135,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/oak_sign"
+                }
+            },
+            {
+                "threshold": 21136,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/spruce_sign"
+                }
+            },
+            {
+                "threshold": 21137,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/acacia_sign"
+                }
+            },
+            {
+                "threshold": 21138,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/dark_oak_sign"
+                }
+            },
+            {
+                "threshold": 21139,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/mangrove_sign"
+                }
+            },
+            {
+                "threshold": 21140,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/cherry_sign"
+                }
+            },
+            {
+                "threshold": 21141,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/bamboo_sign"
+                }
+            },
+            {
+                "threshold": 21142,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/crimson_sign"
+                }
+            },
+            {
+                "threshold": 21143,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/warped_sign"
+                }
+            },
+            {
                 "threshold": 30001,
                 "model": {
                     "type": "model",

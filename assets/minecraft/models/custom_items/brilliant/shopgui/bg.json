@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.6",
 	"credit": "RiceChen_",
 	"texture_size": [32, 32],
 	"elements": [
@@ -31,46 +32,30 @@
 	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [180, 180, 180],
-			"translation": [80, 80, 80],
 			"scale": [0, 0, 0]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [-180, -180, -180],
-			"translation": [80, 80, 80],
 			"scale": [0, 0, 0]
 		},
 		"firstperson_righthand": {
-			"rotation": [-180, -180, -180],
-			"translation": [80, 80, 80],
 			"scale": [0, 0, 0]
 		},
 		"firstperson_lefthand": {
-			"rotation": [-180, -180, -180],
-			"translation": [80, 80, 80],
 			"scale": [0, 0, 0]
 		},
 		"ground": {
-			"rotation": [-180, -180, -180],
-			"translation": [80, 80, 80],
 			"scale": [0, 0, 0]
 		},
 		"gui": {
 			"rotation": [0, -180, 0]
 		},
 		"head": {
-			"rotation": [-180, -180, -180],
-			"translation": [80, 80, 80],
 			"scale": [0, 0, 0]
 		},
 		"fixed": {
-			"rotation": [-180, -180, -180],
-			"translation": [80, 80, 80],
 			"scale": [0, 0, 0]
 		},
 		"on_shelf": {
-			"rotation": [-180, -180, -180],
-			"translation": [80, 80, 80],
 			"scale": [0, 0, 0]
 		}
 	}

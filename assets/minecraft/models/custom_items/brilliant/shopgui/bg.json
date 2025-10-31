@@ -32,31 +32,31 @@
 	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
-			"scale": [0, 0, 0]
+			"scale": [0.0001, 0.0001, 0.0001]
 		},
 		"thirdperson_lefthand": {
-			"scale": [0, 0, 0]
+			"scale": [0.0001, 0.0001, 0.0001]
 		},
 		"firstperson_righthand": {
-			"scale": [0, 0, 0]
+			"scale": [0.0001, 0.0001, 0.0001]
 		},
 		"firstperson_lefthand": {
-			"scale": [0, 0, 0]
+			"scale": [0.0001, 0.0001, 0.0001]
 		},
 		"ground": {
-			"scale": [0, 0, 0]
+			"scale": [0.0001, 0.0001, 0.0001]
 		},
 		"gui": {
 			"rotation": [0, -180, 0]
 		},
 		"head": {
-			"scale": [0, 0, 0]
+			"scale": [0.0001, 0.0001, 0.0001]
 		},
 		"fixed": {
-			"scale": [0, 0, 0]
+			"scale": [0.0001, 0.0001, 0.0001]
 		},
 		"on_shelf": {
-			"scale": [0, 0, 0]
+			"scale": [0.0001, 0.0001, 0.0001]
 		}
 	}
 }

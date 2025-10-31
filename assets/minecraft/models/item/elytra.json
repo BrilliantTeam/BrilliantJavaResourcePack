@@ -1,0 +1,14 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/elytra"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 1001}, "model": "custom_items/brilliant/elytra/leather_chestplate"},
+        {"predicate": {"custom_model_data": 1002}, "model": "custom_items/brilliant/elytra/golden_chestplate"},
+        {"predicate": {"custom_model_data": 1003}, "model": "custom_items/brilliant/elytra/chainmail_chestplate"},
+        {"predicate": {"custom_model_data": 1004}, "model": "custom_items/brilliant/elytra/iron_chestplate"},
+        {"predicate": {"custom_model_data": 1005}, "model": "custom_items/brilliant/elytra/diamond_chestplate"},
+        {"predicate": {"custom_model_data": 1006}, "model": "custom_items/brilliant/elytra/netherite_chestplate"}
+    ]
+}

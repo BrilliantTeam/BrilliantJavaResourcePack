@@ -202,6 +202,7 @@
         {"predicate": {"custom_model_data": 20077}, "model":"custom_items/brilliant/shopgui/cake_roll_bear"},
         {"predicate": {"custom_model_data": 20078}, "model":"custom_items/brilliant/shopgui/debugbone_gui"},
         {"predicate": {"custom_model_data": 20079}, "model":"custom_items/brilliant/shopgui/supersponge_gui"},
+        {"predicate": {"custom_model_data": 20080}, "model":"custom_items/brilliant/shopgui/netherite_chestplate_gui"},
 
         {"predicate": {"custom_model_data": 21001}, "model": "custom_items/brilliant/mc/amethyst_shard"},
         {"predicate": {"custom_model_data": 21002}, "model": "custom_items/brilliant/mc/barrier"},

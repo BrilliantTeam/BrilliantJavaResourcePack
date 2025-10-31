@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/custom/brilliant/elytra/netherite_armored_elytra"
+  }
+}

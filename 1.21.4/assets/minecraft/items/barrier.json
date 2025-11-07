@@ -1,0 +1,3408 @@
+{
+    "oversized_in_gui": true,
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/barrier"
+        },
+        "entries": [
+            {
+                "threshold": 2000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_chair_a_oak"
+                }
+            },
+            {
+                "threshold": 2001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_chair_a_mangrove"
+                }
+            },
+            {
+                "threshold": 2002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_chair_a_jungle"
+                }
+            },
+            {
+                "threshold": 2003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_chair_a_warped"
+                }
+            },
+            {
+                "threshold": 2004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_chair_a_spruce"
+                }
+            },
+            {
+                "threshold": 2005,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_chair_a_birch"
+                }
+            },
+            {
+                "threshold": 2006,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_chair_a_bamboo"
+                }
+            },
+            {
+                "threshold": 2007,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_chair_a_acacia"
+                }
+            },
+            {
+                "threshold": 2008,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_chair_a_dark_oak"
+                }
+            },
+            {
+                "threshold": 2009,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_chair_a_crimson"
+                }
+            },
+            {
+                "threshold": 2010,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_chair_a_cherry"
+                }
+            },
+            {
+                "threshold": 2011,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_chair_a_pale_oak"
+                }
+            },
+            {
+                "threshold": 2100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_chair_b_oak"
+                }
+            },
+            {
+                "threshold": 2101,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_chair_b_mangrove"
+                }
+            },
+            {
+                "threshold": 2102,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_chair_b_jungle"
+                }
+            },
+            {
+                "threshold": 2103,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_chair_b_warped"
+                }
+            },
+            {
+                "threshold": 2104,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_chair_b_spruce"
+                }
+            },
+            {
+                "threshold": 2105,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_chair_b_birch"
+                }
+            },
+            {
+                "threshold": 2106,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_chair_b_bamboo"
+                }
+            },
+            {
+                "threshold": 2107,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_chair_b_acacia"
+                }
+            },
+            {
+                "threshold": 2108,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_chair_b_dark_oak"
+                }
+            },
+            {
+                "threshold": 2109,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_chair_b_crimson"
+                }
+            },
+            {
+                "threshold": 2110,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_chair_b_cherry"
+                }
+            },
+            {
+                "threshold": 2111,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_chair_b_pale_oak"
+                }
+            },
+            {
+                "threshold": 3000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_table_a_oak"
+                }
+            },
+            {
+                "threshold": 3001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_table_a_mangrove"
+                }
+            },
+            {
+                "threshold": 3002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_table_a_jungle"
+                }
+            },
+            {
+                "threshold": 3003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_table_a_warped"
+                }
+            },
+            {
+                "threshold": 3004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_table_a_spruce"
+                }
+            },
+            {
+                "threshold": 3005,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_table_a_birch"
+                }
+            },
+            {
+                "threshold": 3006,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_table_a_bamboo"
+                }
+            },
+            {
+                "threshold": 3007,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_table_a_acacia"
+                }
+            },
+            {
+                "threshold": 3008,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_table_a_dark_oak"
+                }
+            },
+            {
+                "threshold": 3009,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_table_a_crimson"
+                }
+            },
+            {
+                "threshold": 3010,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_table_a_cherry"
+                }
+            },
+            {
+                "threshold": 3011,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_table_a_pale_oak"
+                }
+            },
+            {
+                "threshold": 3100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_table_b_oak"
+                }
+            },
+            {
+                "threshold": 3101,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_table_b_mangrove"
+                }
+            },
+            {
+                "threshold": 3102,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_table_b_jungle"
+                }
+            },
+            {
+                "threshold": 3103,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_table_b_warped"
+                }
+            },
+            {
+                "threshold": 3104,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_table_b_spruce"
+                }
+            },
+            {
+                "threshold": 3105,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_table_b_birch"
+                }
+            },
+            {
+                "threshold": 3106,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_table_b_bamboo"
+                }
+            },
+            {
+                "threshold": 3107,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_table_b_acacia"
+                }
+            },
+            {
+                "threshold": 3108,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_table_b_dark_oak"
+                }
+            },
+            {
+                "threshold": 3109,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_table_b_crimson"
+                }
+            },
+            {
+                "threshold": 3110,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_table_b_cherry"
+                }
+            },
+            {
+                "threshold": 3111,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_table_b_pale_oak"
+                }
+            },
+            {
+                "threshold": 4000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b0_oak"
+                }
+            },
+            {
+                "threshold": 4001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b0_mangrove"
+                }
+            },
+            {
+                "threshold": 4002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b0_jungle"
+                }
+            },
+            {
+                "threshold": 4003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b0_warped"
+                }
+            },
+            {
+                "threshold": 4004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b0_spruce"
+                }
+            },
+            {
+                "threshold": 4005,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b0_birch"
+                }
+            },
+            {
+                "threshold": 4006,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b0_bamboo"
+                }
+            },
+            {
+                "threshold": 4007,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b0_acacia"
+                }
+            },
+            {
+                "threshold": 4008,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b0_dark_oak"
+                }
+            },
+            {
+                "threshold": 4009,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b0_crimson"
+                }
+            },
+            {
+                "threshold": 4010,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b0_cherry"
+                }
+            },
+            {
+                "threshold": 4011,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b0_pale_oak"
+                }
+            },
+            {
+                "threshold": 4100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b1_oak"
+                }
+            },
+            {
+                "threshold": 4101,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b1_mangrove"
+                }
+            },
+            {
+                "threshold": 4102,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b1_jungle"
+                }
+            },
+            {
+                "threshold": 4103,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b1_warped"
+                }
+            },
+            {
+                "threshold": 4104,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b1_spruce"
+                }
+            },
+            {
+                "threshold": 4105,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b1_birch"
+                }
+            },
+            {
+                "threshold": 4106,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b1_bamboo"
+                }
+            },
+            {
+                "threshold": 4107,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b1_acacia"
+                }
+            },
+            {
+                "threshold": 4108,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b1_dark_oak"
+                }
+            },
+            {
+                "threshold": 4109,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b1_crimson"
+                }
+            },
+            {
+                "threshold": 4110,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b1_cherry"
+                }
+            },
+            {
+                "threshold": 4111,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b1_pale_oak"
+                }
+            },
+            {
+                "threshold": 4200,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b2_oak"
+                }
+            },
+            {
+                "threshold": 4201,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b2_mangrove"
+                }
+            },
+            {
+                "threshold": 4202,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b2_jungle"
+                }
+            },
+            {
+                "threshold": 4203,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b2_warped"
+                }
+            },
+            {
+                "threshold": 4204,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b2_spruce"
+                }
+            },
+            {
+                "threshold": 4205,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b2_birch"
+                }
+            },
+            {
+                "threshold": 4206,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b2_bamboo"
+                }
+            },
+            {
+                "threshold": 4207,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b2_acacia"
+                }
+            },
+            {
+                "threshold": 4208,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b2_dark_oak"
+                }
+            },
+            {
+                "threshold": 4209,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b2_crimson"
+                }
+            },
+            {
+                "threshold": 4210,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b2_cherry"
+                }
+            },
+            {
+                "threshold": 4211,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b2_pale_oak"
+                }
+            },
+            {
+                "threshold": 4300,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b3_oak"
+                }
+            },
+            {
+                "threshold": 4301,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b3_mangrove"
+                }
+            },
+            {
+                "threshold": 4302,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b3_jungle"
+                }
+            },
+            {
+                "threshold": 4303,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b3_warped"
+                }
+            },
+            {
+                "threshold": 4304,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b3_spruce"
+                }
+            },
+            {
+                "threshold": 4305,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b3_birch"
+                }
+            },
+            {
+                "threshold": 4306,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b3_bamboo"
+                }
+            },
+            {
+                "threshold": 4307,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b3_acacia"
+                }
+            },
+            {
+                "threshold": 4308,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b3_dark_oak"
+                }
+            },
+            {
+                "threshold": 4309,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b3_crimson"
+                }
+            },
+            {
+                "threshold": 4310,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b3_cherry"
+                }
+            },
+            {
+                "threshold": 4311,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b3_pale_oak"
+                }
+            },
+            {
+                "threshold": 4400,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b4_oak"
+                }
+            },
+            {
+                "threshold": 4401,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b4_mangrove"
+                }
+            },
+            {
+                "threshold": 4402,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b4_jungle"
+                }
+            },
+            {
+                "threshold": 4403,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b4_warped"
+                }
+            },
+            {
+                "threshold": 4404,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b4_spruce"
+                }
+            },
+            {
+                "threshold": 4405,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b4_birch"
+                }
+            },
+            {
+                "threshold": 4406,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b4_bamboo"
+                }
+            },
+            {
+                "threshold": 4407,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b4_acacia"
+                }
+            },
+            {
+                "threshold": 4408,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b4_dark_oak"
+                }
+            },
+            {
+                "threshold": 4409,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b4_crimson"
+                }
+            },
+            {
+                "threshold": 4410,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b4_cherry"
+                }
+            },
+            {
+                "threshold": 4411,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_b4_pale_oak"
+                }
+            },
+            {
+                "threshold": 5000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a0_oak"
+                }
+            },
+            {
+                "threshold": 5001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a0_mangrove"
+                }
+            },
+            {
+                "threshold": 5002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a0_jungle"
+                }
+            },
+            {
+                "threshold": 5003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a0_warped"
+                }
+            },
+            {
+                "threshold": 5004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a0_spruce"
+                }
+            },
+            {
+                "threshold": 5005,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a0_birch"
+                }
+            },
+            {
+                "threshold": 5006,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a0_bamboo"
+                }
+            },
+            {
+                "threshold": 5007,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a0_acacia"
+                }
+            },
+            {
+                "threshold": 5008,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a0_dark_oak"
+                }
+            },
+            {
+                "threshold": 5009,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a0_crimson"
+                }
+            },
+            {
+                "threshold": 5010,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a0_cherry"
+                }
+            },
+            {
+                "threshold": 5011,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a0_pale_oak"
+                }
+            },
+            {
+                "threshold": 5100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a1_oak"
+                }
+            },
+            {
+                "threshold": 5101,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a1_mangrove"
+                }
+            },
+            {
+                "threshold": 5102,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a1_jungle"
+                }
+            },
+            {
+                "threshold": 5103,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a1_warped"
+                }
+            },
+            {
+                "threshold": 5104,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a1_spruce"
+                }
+            },
+            {
+                "threshold": 5105,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a1_birch"
+                }
+            },
+            {
+                "threshold": 5106,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a1_bamboo"
+                }
+            },
+            {
+                "threshold": 5107,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a1_acacia"
+                }
+            },
+            {
+                "threshold": 5108,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a1_dark_oak"
+                }
+            },
+            {
+                "threshold": 5109,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a1_crimson"
+                }
+            },
+            {
+                "threshold": 5110,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a1_cherry"
+                }
+            },
+            {
+                "threshold": 5111,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a1_pale_oak"
+                }
+            },
+            {
+                "threshold": 5200,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a2_oak"
+                }
+            },
+            {
+                "threshold": 5201,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a2_mangrove"
+                }
+            },
+            {
+                "threshold": 5202,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a2_jungle"
+                }
+            },
+            {
+                "threshold": 5203,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a2_warped"
+                }
+            },
+            {
+                "threshold": 5204,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a2_spruce"
+                }
+            },
+            {
+                "threshold": 5205,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a2_birch"
+                }
+            },
+            {
+                "threshold": 5206,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a2_bamboo"
+                }
+            },
+            {
+                "threshold": 5207,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a2_acacia"
+                }
+            },
+            {
+                "threshold": 5208,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a2_dark_oak"
+                }
+            },
+            {
+                "threshold": 5209,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a2_crimson"
+                }
+            },
+            {
+                "threshold": 5210,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a2_cherry"
+                }
+            },
+            {
+                "threshold": 5211,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a2_pale_oak"
+                }
+            },
+            {
+                "threshold": 5300,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a3_oak"
+                }
+            },
+            {
+                "threshold": 5301,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a3_mangrove"
+                }
+            },
+            {
+                "threshold": 5302,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a3_jungle"
+                }
+            },
+            {
+                "threshold": 5303,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a3_warped"
+                }
+            },
+            {
+                "threshold": 5304,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a3_spruce"
+                }
+            },
+            {
+                "threshold": 5305,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a3_birch"
+                }
+            },
+            {
+                "threshold": 5306,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a3_bamboo"
+                }
+            },
+            {
+                "threshold": 5307,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a3_acacia"
+                }
+            },
+            {
+                "threshold": 5308,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a3_dark_oak"
+                }
+            },
+            {
+                "threshold": 5309,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a3_crimson"
+                }
+            },
+            {
+                "threshold": 5310,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a3_cherry"
+                }
+            },
+            {
+                "threshold": 5311,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a3_pale_oak"
+                }
+            },
+            {
+                "threshold": 5400,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a4_oak"
+                }
+            },
+            {
+                "threshold": 5401,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a4_mangrove"
+                }
+            },
+            {
+                "threshold": 5402,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a4_jungle"
+                }
+            },
+            {
+                "threshold": 5403,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a4_warped"
+                }
+            },
+            {
+                "threshold": 5404,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a4_spruce"
+                }
+            },
+            {
+                "threshold": 5405,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a4_birch"
+                }
+            },
+            {
+                "threshold": 5406,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a4_bamboo"
+                }
+            },
+            {
+                "threshold": 5407,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a4_acacia"
+                }
+            },
+            {
+                "threshold": 5408,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a4_dark_oak"
+                }
+            },
+            {
+                "threshold": 5409,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a4_crimson"
+                }
+            },
+            {
+                "threshold": 5410,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a4_cherry"
+                }
+            },
+            {
+                "threshold": 5411,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wooden_sofa_a4_pale_oak"
+                }
+            },
+            {
+                "threshold": 6000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_a_oak"
+                }
+            },
+            {
+                "threshold": 6001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_a_mangrove"
+                }
+            },
+            {
+                "threshold": 6002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_a_jungle"
+                }
+            },
+            {
+                "threshold": 6003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_a_warped"
+                }
+            },
+            {
+                "threshold": 6004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_a_spruce"
+                }
+            },
+            {
+                "threshold": 6005,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_a_birch"
+                }
+            },
+            {
+                "threshold": 6006,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_a_bamboo"
+                }
+            },
+            {
+                "threshold": 6007,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_a_acacia"
+                }
+            },
+            {
+                "threshold": 6008,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_a_dark_oak"
+                }
+            },
+            {
+                "threshold": 6009,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_a_crimson"
+                }
+            },
+            {
+                "threshold": 6010,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_a_cherry"
+                }
+            },
+            {
+                "threshold": 6011,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_a_pale_oak"
+                }
+            },
+            {
+                "threshold": 6100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_b_oak"
+                }
+            },
+            {
+                "threshold": 6101,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_b_mangrove"
+                }
+            },
+            {
+                "threshold": 6102,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_b_jungle"
+                }
+            },
+            {
+                "threshold": 6103,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_b_warped"
+                }
+            },
+            {
+                "threshold": 6104,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_b_spruce"
+                }
+            },
+            {
+                "threshold": 6105,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_b_birch"
+                }
+            },
+            {
+                "threshold": 6106,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_b_bamboo"
+                }
+            },
+            {
+                "threshold": 6107,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_b_acacia"
+                }
+            },
+            {
+                "threshold": 6108,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_b_dark_oak"
+                }
+            },
+            {
+                "threshold": 6109,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_b_crimson"
+                }
+            },
+            {
+                "threshold": 6110,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_b_cherry"
+                }
+            },
+            {
+                "threshold": 6111,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_b_pale_oak"
+                }
+            },
+            {
+                "threshold": 6200,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_c_oak"
+                }
+            },
+            {
+                "threshold": 6201,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_c_mangrove"
+                }
+            },
+            {
+                "threshold": 6202,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_c_jungle"
+                }
+            },
+            {
+                "threshold": 6203,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_c_warped"
+                }
+            },
+            {
+                "threshold": 6204,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_c_spruce"
+                }
+            },
+            {
+                "threshold": 6205,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_c_birch"
+                }
+            },
+            {
+                "threshold": 6206,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_c_bamboo"
+                }
+            },
+            {
+                "threshold": 6207,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_c_acacia"
+                }
+            },
+            {
+                "threshold": 6208,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_c_dark_oak"
+                }
+            },
+            {
+                "threshold": 6209,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_c_crimson"
+                }
+            },
+            {
+                "threshold": 6210,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_c_cherry"
+                }
+            },
+            {
+                "threshold": 6211,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_c_pale_oak"
+                }
+            },
+            {
+                "threshold": 6300,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_d_oak"
+                }
+            },
+            {
+                "threshold": 6301,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_d_mangrove"
+                }
+            },
+            {
+                "threshold": 6302,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_d_jungle"
+                }
+            },
+            {
+                "threshold": 6303,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_d_warped"
+                }
+            },
+            {
+                "threshold": 6304,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_d_spruce"
+                }
+            },
+            {
+                "threshold": 6305,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_d_birch"
+                }
+            },
+            {
+                "threshold": 6306,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_d_bamboo"
+                }
+            },
+            {
+                "threshold": 6307,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_d_acacia"
+                }
+            },
+            {
+                "threshold": 6308,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_d_dark_oak"
+                }
+            },
+            {
+                "threshold": 6309,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_d_crimson"
+                }
+            },
+            {
+                "threshold": 6310,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_d_cherry"
+                }
+            },
+            {
+                "threshold": 6311,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wood_cabinet_d_pale_oak"
+                }
+            },
+            {
+                "threshold": 7000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_a1_oak"
+                }
+            },
+            {
+                "threshold": 7001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_a1_mangrove"
+                }
+            },
+            {
+                "threshold": 7002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_a1_jungle"
+                }
+            },
+            {
+                "threshold": 7003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_a1_warped"
+                }
+            },
+            {
+                "threshold": 7004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_a1_spruce"
+                }
+            },
+            {
+                "threshold": 7005,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_a1_birch"
+                }
+            },
+            {
+                "threshold": 7006,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_a1_bamboo"
+                }
+            },
+            {
+                "threshold": 7007,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_a1_acacia"
+                }
+            },
+            {
+                "threshold": 7008,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_a1_dark_oak"
+                }
+            },
+            {
+                "threshold": 7009,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_a1_crimson"
+                }
+            },
+            {
+                "threshold": 7010,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_a1_cherry"
+                }
+            },
+            {
+                "threshold": 7011,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_a1_pale_oak"
+                }
+            },
+            {
+                "threshold": 7100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_a2_oak"
+                }
+            },
+            {
+                "threshold": 7101,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_a2_mangrove"
+                }
+            },
+            {
+                "threshold": 7102,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_a2_jungle"
+                }
+            },
+            {
+                "threshold": 7103,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_a2_warped"
+                }
+            },
+            {
+                "threshold": 7104,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_a2_spruce"
+                }
+            },
+            {
+                "threshold": 7105,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_a2_birch"
+                }
+            },
+            {
+                "threshold": 7106,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_a2_bamboo"
+                }
+            },
+            {
+                "threshold": 7107,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_a2_acacia"
+                }
+            },
+            {
+                "threshold": 7108,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_a2_dark_oak"
+                }
+            },
+            {
+                "threshold": 7109,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_a2_crimson"
+                }
+            },
+            {
+                "threshold": 7110,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_a2_cherry"
+                }
+            },
+            {
+                "threshold": 7111,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_a2_pale_oak"
+                }
+            },
+            {
+                "threshold": 7200,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_ice1"
+                }
+            },
+            {
+                "threshold": 8000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_b1_oak"
+                }
+            },
+            {
+                "threshold": 8001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_b1_mangrove"
+                }
+            },
+            {
+                "threshold": 8002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_b1_jungle"
+                }
+            },
+            {
+                "threshold": 8003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_b1_warped"
+                }
+            },
+            {
+                "threshold": 8004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_b1_spruce"
+                }
+            },
+            {
+                "threshold": 8005,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_b1_birch"
+                }
+            },
+            {
+                "threshold": 8006,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_b1_bamboo"
+                }
+            },
+            {
+                "threshold": 8007,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_b1_acacia"
+                }
+            },
+            {
+                "threshold": 8008,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_b1_dark_oak"
+                }
+            },
+            {
+                "threshold": 8009,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_b1_crimson"
+                }
+            },
+            {
+                "threshold": 8010,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_b1_cherry"
+                }
+            },
+            {
+                "threshold": 8011,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_b1_pale_oak"
+                }
+            },
+            {
+                "threshold": 8100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_b2_oak"
+                }
+            },
+            {
+                "threshold": 8101,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_b2_mangrove"
+                }
+            },
+            {
+                "threshold": 8102,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_b2_jungle"
+                }
+            },
+            {
+                "threshold": 8103,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_b2_warped"
+                }
+            },
+            {
+                "threshold": 8104,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_b2_spruce"
+                }
+            },
+            {
+                "threshold": 8105,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_b2_birch"
+                }
+            },
+            {
+                "threshold": 8106,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_b2_bamboo"
+                }
+            },
+            {
+                "threshold": 8107,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_b2_acacia"
+                }
+            },
+            {
+                "threshold": 8108,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_b2_dark_oak"
+                }
+            },
+            {
+                "threshold": 8109,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_b2_crimson"
+                }
+            },
+            {
+                "threshold": 8110,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_b2_cherry"
+                }
+            },
+            {
+                "threshold": 8111,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_b2_pale_oak"
+                }
+            },
+            {
+                "threshold": 8200,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/toilet_ice2"
+                }
+            },
+            {
+                "threshold": 9000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/blinder_a1_oak"
+                }
+            },
+            {
+                "threshold": 9001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/blinder_a1_mangrove"
+                }
+            },
+            {
+                "threshold": 9002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/blinder_a1_jungle"
+                }
+            },
+            {
+                "threshold": 9003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/blinder_a1_warped"
+                }
+            },
+            {
+                "threshold": 9004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/blinder_a1_spruce"
+                }
+            },
+            {
+                "threshold": 9005,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/blinder_a1_birch"
+                }
+            },
+            {
+                "threshold": 9006,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/blinder_a1_bamboo"
+                }
+            },
+            {
+                "threshold": 9007,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/blinder_a1_acacia"
+                }
+            },
+            {
+                "threshold": 9008,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/blinder_a1_dark_oak"
+                }
+            },
+            {
+                "threshold": 9009,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/blinder_a1_crimson"
+                }
+            },
+            {
+                "threshold": 9010,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/blinder_a1_cherry"
+                }
+            },
+            {
+                "threshold": 9011,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/blinder_a1_pale_oak"
+                }
+            },
+            {
+                "threshold": 19911,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/aether_block"
+                }
+            },
+            {
+                "threshold": 19912,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/paradise_powder_block"
+                }
+            },
+            {
+                "threshold": 19913,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/luminous_crystal_block"
+                }
+            },
+            {
+                "threshold": 19921,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/aether_block2"
+                }
+            },
+            {
+                "threshold": 19922,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/paradise_powder_block2"
+                }
+            },
+            {
+                "threshold": 19923,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/luminous_crystal_block2"
+                }
+            },
+            {
+                "threshold": 19931,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/aether_block3"
+                }
+            },
+            {
+                "threshold": 19932,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/paradise_powder_block3"
+                }
+            },
+            {
+                "threshold": 19933,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/luminous_crystal_block3"
+                }
+            },
+            {
+                "threshold": 19941,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/aether_block4"
+                }
+            },
+            {
+                "threshold": 19942,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/paradise_powder_block4"
+                }
+            },
+            {
+                "threshold": 19943,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/luminous_crystal_block4"
+                }
+            },
+            {
+                "threshold": 19951,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/aether_block5"
+                }
+            },
+            {
+                "threshold": 19952,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/paradise_powder_block5"
+                }
+            },
+            {
+                "threshold": 19953,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/luminous_crystal_block5"
+                }
+            },
+            {
+                "threshold": 19961,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/aether_block6"
+                }
+            },
+            {
+                "threshold": 19962,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/paradise_powder_block6"
+                }
+            },
+            {
+                "threshold": 19963,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/luminous_crystal_block6"
+                }
+            },
+            {
+                "threshold": 19971,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/aether_block7"
+                }
+            },
+            {
+                "threshold": 19972,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/paradise_powder_block7"
+                }
+            },
+            {
+                "threshold": 19973,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/luminous_crystal_block7"
+                }
+            },
+            {
+                "threshold": 20000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/winecup"
+                }
+            },
+            {
+                "threshold": 20001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/gaywine"
+                }
+            },
+            {
+                "threshold": 20002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/drum"
+                }
+            },
+            {
+                "threshold": 20003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/dragonboatdrum_1"
+                }
+            },
+            {
+                "threshold": 20004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/dragonboatdrum_2"
+                }
+            },
+            {
+                "threshold": 20005,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/dragonboatdrum_3"
+                }
+            },
+            {
+                "threshold": 20006,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/dragonboat_1"
+                }
+            },
+            {
+                "threshold": 20007,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/dragonboat_2"
+                }
+            },
+            {
+                "threshold": 20008,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/dragonboat_3"
+                }
+            },
+            {
+                "threshold": 20009,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/gaywinepromax"
+                }
+            },
+            {
+                "threshold": 21000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wind_chime_ani_blue"
+                }
+            },
+            {
+                "threshold": 21001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wind_chime_ani_pink"
+                }
+            },
+            {
+                "threshold": 21002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wind_chime_ani_green"
+                }
+            },
+            {
+                "threshold": 21003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wind_chime_ani_yellow"
+                }
+            },
+            {
+                "threshold": 21004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wind_chime_ani_purple"
+                }
+            },
+            {
+                "threshold": 21005,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wind_chime_ani_rgb"
+                }
+            },
+            {
+                "threshold": 22000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/ring_blue"
+                }
+            },
+            {
+                "threshold": 22001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/ring_pink"
+                }
+            },
+            {
+                "threshold": 22002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/ring_green"
+                }
+            },
+            {
+                "threshold": 22003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/ring_yellow"
+                }
+            },
+            {
+                "threshold": 22004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/ring_purple"
+                }
+            },
+            {
+                "threshold": 22005,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/ring_rgb"
+                }
+            },
+            {
+                "threshold": 23000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/unicorn"
+                }
+            },
+            {
+                "threshold": 24000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/sand_castle_1"
+                }
+            },
+            {
+                "threshold": 24001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/sand_castle_2"
+                }
+            },
+            {
+                "threshold": 24002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/sand_castle_3"
+                }
+            },
+            {
+                "threshold": 24003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/sand_castle_4"
+                }
+            },
+            {
+                "threshold": 24004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/sand_castle_5"
+                }
+            },
+            {
+                "threshold": 24005,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/sand_castle_6"
+                }
+            },
+            {
+                "threshold": 24006,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/sand_castle_7"
+                }
+            },
+            {
+                "threshold": 25000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/potion_blue"
+                }
+            },
+            {
+                "threshold": 25001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/potion_green"
+                }
+            },
+            {
+                "threshold": 25002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/potion_purple"
+                }
+            },
+            {
+                "threshold": 25003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/potion_red"
+                }
+            },
+            {
+                "threshold": 25004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/potion_yellow"
+                }
+            },
+            {
+                "threshold": 25005,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/potion_1_rgb"
+                }
+            },
+            {
+                "threshold": 26000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/bauble_white"
+                }
+            },
+            {
+                "threshold": 26001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/bauble_yellow"
+                }
+            },
+            {
+                "threshold": 26002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/bauble_green"
+                }
+            },
+            {
+                "threshold": 26003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/bauble_blue"
+                }
+            },
+            {
+                "threshold": 26004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/bauble_red"
+                }
+            },
+            {
+                "threshold": 26010,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chair"
+                }
+            },
+            {
+                "threshold": 26011,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/sledgeblade"
+                }
+            },
+            {
+                "threshold": 26012,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/christmassledge"
+                }
+            },
+            {
+                "threshold": 26013,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/plank"
+                }
+            },
+            {
+                "threshold": 26014,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/wreath"
+                }
+            },
+            {
+                "threshold": 26020,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/gift_green"
+                }
+            },
+            {
+                "threshold": 26021,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/gift_blue"
+                }
+            },
+            {
+                "threshold": 26022,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/gift_yellow"
+                }
+            },
+            {
+                "threshold": 26023,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/gift_white"
+                }
+            },
+            {
+                "threshold": 26024,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/gift_lyme"
+                }
+            },
+            {
+                "threshold": 27000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/flower_arch_0"
+                }
+            },
+            {
+                "threshold": 27001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/flower_arch_1"
+                }
+            },
+            {
+                "threshold": 27002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/flower_arch_2"
+                }
+            },
+            {
+                "threshold": 27003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/flower_bonquet_0"
+                }
+            },
+            {
+                "threshold": 27004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/flower_bonquet_1"
+                }
+            },
+            {
+                "threshold": 27005,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/flower_bonquet_2"
+                }
+            },
+            {
+                "threshold": 27006,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/flower_arch_3"
+                }
+            },
+            {
+                "threshold": 27007,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/flower_arch_4"
+                }
+            },
+            {
+                "threshold": 27008,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/flower_arch_5"
+                }
+            },
+            {
+                "threshold": 27009,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/flower_arch_6"
+                }
+            },
+            {
+                "threshold": 27010,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/flower_arch_7"
+                }
+            },
+            {
+                "threshold": 27011,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/flower_arch_8"
+                }
+            },
+            {
+                "threshold": 28000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/xiangqi_black_1"
+                }
+            },
+            {
+                "threshold": 28001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/xiangqi_black_2"
+                }
+            },
+            {
+                "threshold": 28002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/xiangqi_black_3"
+                }
+            },
+            {
+                "threshold": 28003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/xiangqi_black_4"
+                }
+            },
+            {
+                "threshold": 28004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/xiangqi_black_5"
+                }
+            },
+            {
+                "threshold": 28005,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/xiangqi_black_6"
+                }
+            },
+            {
+                "threshold": 28006,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/xiangqi_black_7"
+                }
+            },
+            {
+                "threshold": 28007,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/xiangqi_red_1"
+                }
+            },
+            {
+                "threshold": 28008,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/xiangqi_red_2"
+                }
+            },
+            {
+                "threshold": 28009,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/xiangqi_red_3"
+                }
+            },
+            {
+                "threshold": 28010,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/xiangqi_red_4"
+                }
+            },
+            {
+                "threshold": 28011,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/xiangqi_red_5"
+                }
+            },
+            {
+                "threshold": 28012,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/xiangqi_red_6"
+                }
+            },
+            {
+                "threshold": 28013,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/xiangqi_red_7"
+                }
+            },
+            {
+                "threshold": 28100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chess_black_1"
+                }
+            },
+            {
+                "threshold": 28101,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chess_black_2"
+                }
+            },
+            {
+                "threshold": 28102,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chess_black_3"
+                }
+            },
+            {
+                "threshold": 28103,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chess_black_4"
+                }
+            },
+            {
+                "threshold": 28104,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chess_black_5"
+                }
+            },
+            {
+                "threshold": 28105,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chess_black_6"
+                }
+            },
+            {
+                "threshold": 28106,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chess_white_1"
+                }
+            },
+            {
+                "threshold": 28107,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chess_white_2"
+                }
+            },
+            {
+                "threshold": 28108,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chess_white_3"
+                }
+            },
+            {
+                "threshold": 28109,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chess_white_4"
+                }
+            },
+            {
+                "threshold": 28110,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chess_white_5"
+                }
+            },
+            {
+                "threshold": 28111,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chess_white_6"
+                }
+            },
+            {
+                "threshold": 28112,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/checker_blue"
+                }
+            },
+            {
+                "threshold": 28113,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/checker_green"
+                }
+            },
+            {
+                "threshold": 28114,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/checker_magenta"
+                }
+            },
+            {
+                "threshold": 28115,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/checker_red"
+                }
+            },
+            {
+                "threshold": 28116,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/checker_yellow"
+                }
+            },
+            {
+                "threshold": 28117,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/house_red"
+                }
+            },
+            {
+                "threshold": 28118,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/house_green"
+                }
+            },
+            {
+                "threshold": 28119,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/eggblock_blue"
+                }
+            },
+            {
+                "threshold": 28120,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/eggblock_purple"
+                }
+            },
+            {
+                "threshold": 28121,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/eggblock_red"
+                }
+            },
+            {
+                "threshold": 28122,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/eggblock_yellow"
+                }
+            },
+            {
+                "threshold": 28123,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/eggblock_empty"
+                }
+            },
+            {
+                "threshold": 28124,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/basket"
+                }
+            },
+            {
+                "threshold": 28125,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/basket_fullofegg2"
+                }
+            },
+            {
+                "threshold": 28126,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/basket_fullofegg1"
+                }
+            },
+            {
+                "threshold": 29001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/mcutrophy_1"
+                }
+            },
+            {
+                "threshold": 29002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/mcutrophy_2"
+                }
+            },
+            {
+                "threshold": 29003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/mcutrophy_3"
+                }
+            },
+            {
+                "threshold": 29004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/mcutrophy_4"
+                }
+            },
+            {
+                "threshold": 30000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chinese_roof_outer_creeper"
+                }
+            },
+            {
+                "threshold": 30001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chinese_roof_outer_long"
+                }
+            },
+            {
+                "threshold": 30002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chinese_tile_roof"
+                }
+            },
+            {
+                "threshold": 30003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chinese_tile_roof_inner"
+                }
+            },
+            {
+                "threshold": 30004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chinese_tile_roof_outer"
+                }
+            },
+            {
+                "threshold": 30005,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chinese_tile_roof_slab_top"
+                }
+            },
+            {
+                "threshold": 30006,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chinese_tile_roof_slab_top_inner"
+                }
+            },
+            {
+                "threshold": 30007,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chinese_tile_roof_slab_top_outer"
+                }
+            },
+            {
+                "threshold": 30008,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chinese_tile_roof_slab_bot"
+                }
+            },
+            {
+                "threshold": 30009,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chinese_tile_roof_slab_bot_inner"
+                }
+            },
+            {
+                "threshold": 30010,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chinese_tile_roof_slab_bot_outer"
+                }
+            },
+            {
+                "threshold": 30100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chinese_roof_outer_creeper_b"
+                }
+            },
+            {
+                "threshold": 30101,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chinese_roof_outer_long_b"
+                }
+            },
+            {
+                "threshold": 30102,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chinese_tile_roof_b"
+                }
+            },
+            {
+                "threshold": 30103,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chinese_tile_roof_inner_b"
+                }
+            },
+            {
+                "threshold": 30104,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chinese_tile_roof_outer_b"
+                }
+            },
+            {
+                "threshold": 30105,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chinese_tile_roof_slab_top_b"
+                }
+            },
+            {
+                "threshold": 30106,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chinese_tile_roof_slab_top_inner_b"
+                }
+            },
+            {
+                "threshold": 30107,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chinese_tile_roof_slab_top_outer_b"
+                }
+            },
+            {
+                "threshold": 30108,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chinese_tile_roof_slab_bot_b"
+                }
+            },
+            {
+                "threshold": 30109,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chinese_tile_roof_slab_bot_inner_b"
+                }
+            },
+            {
+                "threshold": 30110,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/chinese_tile_roof_slab_bot_outer_b"
+                }
+            },
+            {
+                "threshold": 30200,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/sachet"
+                }
+            },
+            {
+                "threshold": 30201,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/mugwort"
+                }
+            },
+            {
+                "threshold": 30202,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/ixora"
+                }
+            },
+            {
+                "threshold": 30203,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/calabash"
+                }
+            },
+            {
+                "threshold": 30300,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/ishitourou_a"
+                }
+            },
+            {
+                "threshold": 30301,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/ishitourou_b"
+                }
+            },
+            {
+                "threshold": 30302,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/paperlantern"
+                }
+            },
+            {
+                "threshold": 30303,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/paperlantern_kagome"
+                }
+            },
+            {
+                "threshold": 30400,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_a1_oak"
+                }
+            },
+            {
+                "threshold": 30401,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_a2_oak"
+                }
+            },
+            {
+                "threshold": 30402,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_b1_oak"
+                }
+            },
+            {
+                "threshold": 30403,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_b2_oak"
+                }
+            },
+            {
+                "threshold": 30404,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_wood_a1_oak"
+                }
+            },
+            {
+                "threshold": 30405,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_wood_a2_oak"
+                }
+            },
+            {
+                "threshold": 30406,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_wood_b1_oak"
+                }
+            },
+            {
+                "threshold": 30407,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_wood_b2_oak"
+                }
+            },
+            {
+                "threshold": 30408,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_up_a1_oak"
+                }
+            },
+            {
+                "threshold": 30409,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_up_a2_oak"
+                }
+            },
+            {
+                "threshold": 30410,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_up_b1_oak"
+                }
+            },
+            {
+                "threshold": 30411,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_up_b2_oak"
+                }
+            },
+            {
+                "threshold": 30500,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_a1_spruce"
+                }
+            },
+            {
+                "threshold": 30501,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_a2_spruce"
+                }
+            },
+            {
+                "threshold": 30502,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_b1_spruce"
+                }
+            },
+            {
+                "threshold": 30503,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_b2_spruce"
+                }
+            },
+            {
+                "threshold": 30504,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_wood_a1_spruce"
+                }
+            },
+            {
+                "threshold": 30505,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_wood_a2_spruce"
+                }
+            },
+            {
+                "threshold": 30506,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_wood_b1_spruce"
+                }
+            },
+            {
+                "threshold": 30507,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_wood_b2_spruce"
+                }
+            },
+            {
+                "threshold": 30508,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_up_a1_spruce"
+                }
+            },
+            {
+                "threshold": 30509,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_up_a2_spruce"
+                }
+            },
+            {
+                "threshold": 30510,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_up_b1_spruce"
+                }
+            },
+            {
+                "threshold": 30511,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_up_b2_spruce"
+                }
+            },
+            {
+                "threshold": 30600,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_a1_cherry"
+                }
+            },
+            {
+                "threshold": 30601,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_a2_cherry"
+                }
+            },
+            {
+                "threshold": 30602,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_b1_cherry"
+                }
+            },
+            {
+                "threshold": 30603,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_b2_cherry"
+                }
+            },
+            {
+                "threshold": 30604,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_wood_a1_cherry"
+                }
+            },
+            {
+                "threshold": 30605,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_wood_a2_cherry"
+                }
+            },
+            {
+                "threshold": 30606,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_wood_b1_cherry"
+                }
+            },
+            {
+                "threshold": 30607,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_wood_b2_cherry"
+                }
+            },
+            {
+                "threshold": 30608,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_up_a1_cherry"
+                }
+            },
+            {
+                "threshold": 30609,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_up_a2_cherry"
+                }
+            },
+            {
+                "threshold": 30610,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_up_b1_cherry"
+                }
+            },
+            {
+                "threshold": 30611,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_up_b2_cherry"
+                }
+            },
+            {
+                "threshold": 30700,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_a1_dark_oak"
+                }
+            },
+            {
+                "threshold": 30701,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_a2_dark_oak"
+                }
+            },
+            {
+                "threshold": 30702,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_b1_dark_oak"
+                }
+            },
+            {
+                "threshold": 30703,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_b2_dark_oak"
+                }
+            },
+            {
+                "threshold": 30704,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_wood_a1_dark_oak"
+                }
+            },
+            {
+                "threshold": 30705,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_wood_a2_dark_oak"
+                }
+            },
+            {
+                "threshold": 30706,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_wood_b1_dark_oak"
+                }
+            },
+            {
+                "threshold": 30707,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_down_wood_b2_dark_oak"
+                }
+            },
+            {
+                "threshold": 30708,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_up_a1_dark_oak"
+                }
+            },
+            {
+                "threshold": 30709,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_up_a2_dark_oak"
+                }
+            },
+            {
+                "threshold": 30710,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_up_b1_dark_oak"
+                }
+            },
+            {
+                "threshold": 30711,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fusuma_up_b2_dark_oak"
+                }
+            }
+        ]
+    }
+}

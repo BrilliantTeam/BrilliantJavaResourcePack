@@ -1,0 +1,12 @@
+{
+	"credit": "恐龍、書碼",
+	"parent": "custom_items/2024angel/angel",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/custom/2024angel/a",
+		"1": "item/custom/2024angel/b",
+		"2": "item/custom/2024angel/c",
+		"3": "item/custom/2024angel/d",
+		"particle": "item/custom/2024angel/a"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"credit": "shoe_shaped_gold_ingot_1",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/custom/2024newyear/shoe_shaped_gold_ingot_1"
+	},
+	"gui_light": "front",
+	"display": {}
+}

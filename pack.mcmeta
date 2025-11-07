@@ -1,15 +1,25 @@
 {
   "pack": {
     "pack_format": 15,
-    "description": "§7輝煌伺服器材質 - 深色模式擴充包"
+    "min_format": 15,
+    "max_format": 69,
+    "supported_formats": [15, 64],
+    "description": "§7適用於 §f§l1.20.6 - 1.21.9 §r§7由 §6§l輝煌伺服器 §r§7製作"
   },
-  "filter": {
-    "block": [
+  "overlays": {
+    "entries": [
       {
-        "namespace": "minecraft",
-        "path": "textures/item/custom/brilliant/shopgui/guiair\\.png"
+        "directory": "1.21.4",
+        "formats": [46, 69],
+        "min_format": 46,
+        "max_format": 69
+      },
+      {
+        "directory": "1.21.6",
+        "formats": [63, 69],
+        "min_format": 63,
+        "max_format": 69
       }
     ]
   }
 }
-

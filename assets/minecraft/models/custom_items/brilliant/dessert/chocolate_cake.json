@@ -1,0 +1,7 @@
+{
+    "credit": "書碼",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/custom/brilliant/dessert/chocolate_cake"
+    }
+}

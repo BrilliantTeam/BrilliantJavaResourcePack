@@ -1,0 +1,49 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_sword"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 10100}, "model": "custom_items/2025valentinesday/wing_sword"},
+
+        {"predicate": {"custom_model_data": 10200}, "model": "custom_items/2025dragonboat/ezshovel"},
+
+        {"predicate": {"custom_model_data": 16300}, "model": "custom_items/cat_palms/cat_palm_stick_black"},
+        {"predicate": {"custom_model_data": 16301}, "model": "custom_items/cat_palms/cat_palm_stick_blue"},
+        {"predicate": {"custom_model_data": 16302}, "model": "custom_items/cat_palms/cat_palm_stick_brown"},
+        {"predicate": {"custom_model_data": 16303}, "model": "custom_items/cat_palms/cat_palm_stick_cyan"},
+        {"predicate": {"custom_model_data": 16304}, "model": "custom_items/cat_palms/cat_palm_stick_gray"},
+        {"predicate": {"custom_model_data": 16305}, "model": "custom_items/cat_palms/cat_palm_stick_green"},
+        {"predicate": {"custom_model_data": 16306}, "model": "custom_items/cat_palms/cat_palm_stick_light_blue"},
+        {"predicate": {"custom_model_data": 16307}, "model": "custom_items/cat_palms/cat_palm_stick_light_gray"},
+        {"predicate": {"custom_model_data": 16308}, "model": "custom_items/cat_palms/cat_palm_stick_lime"},
+        {"predicate": {"custom_model_data": 16309}, "model": "custom_items/cat_palms/cat_palm_stick_magenta"},
+        {"predicate": {"custom_model_data": 16310}, "model": "custom_items/cat_palms/cat_palm_stick_orange"},
+        {"predicate": {"custom_model_data": 16311}, "model": "custom_items/cat_palms/cat_palm_stick_pink"},
+        {"predicate": {"custom_model_data": 16312}, "model": "custom_items/cat_palms/cat_palm_stick_purple"},
+        {"predicate": {"custom_model_data": 16313}, "model": "custom_items/cat_palms/cat_palm_stick_red"},
+        {"predicate": {"custom_model_data": 16314}, "model": "custom_items/cat_palms/cat_palm_stick_white"},
+        {"predicate": {"custom_model_data": 16315}, "model": "custom_items/cat_palms/cat_palm_stick_yellow"},
+        {"predicate": {"custom_model_data": 16316}, "model": "custom_items/cat_palms/cat_palm_stick_rainbow"},
+
+        {"predicate": {"custom_model_data": 16400}, "model": "custom_items/cat_palms/cat_palm_stick_black_admin"},
+        {"predicate": {"custom_model_data": 16401}, "model": "custom_items/cat_palms/cat_palm_stick_blue_admin"},
+        {"predicate": {"custom_model_data": 16402}, "model": "custom_items/cat_palms/cat_palm_stick_brown_admin"},
+        {"predicate": {"custom_model_data": 16403}, "model": "custom_items/cat_palms/cat_palm_stick_gray_admin"},
+        {"predicate": {"custom_model_data": 16404}, "model": "custom_items/cat_palms/cat_palm_stick_cyan_admin"},
+        {"predicate": {"custom_model_data": 16405}, "model": "custom_items/cat_palms/cat_palm_stick_green_admin"},
+        {"predicate": {"custom_model_data": 16406}, "model": "custom_items/cat_palms/cat_palm_stick_light_blue_admin"},
+        {"predicate": {"custom_model_data": 16407}, "model": "custom_items/cat_palms/cat_palm_stick_light_gray_admin"},
+        {"predicate": {"custom_model_data": 16408}, "model": "custom_items/cat_palms/cat_palm_stick_lime_admin"},
+        {"predicate": {"custom_model_data": 16409}, "model": "custom_items/cat_palms/cat_palm_stick_magenta_admin"},
+        {"predicate": {"custom_model_data": 16410}, "model": "custom_items/cat_palms/cat_palm_stick_orange_admin"},
+        {"predicate": {"custom_model_data": 16411}, "model": "custom_items/cat_palms/cat_palm_stick_pink_admin"},
+        {"predicate": {"custom_model_data": 16412}, "model": "custom_items/cat_palms/cat_palm_stick_purple_admin"},
+        {"predicate": {"custom_model_data": 16413}, "model": "custom_items/cat_palms/cat_palm_stick_red_admin"},
+        {"predicate": {"custom_model_data": 16414}, "model": "custom_items/cat_palms/cat_palm_stick_white_admin"},
+        {"predicate": {"custom_model_data": 16415}, "model": "custom_items/cat_palms/cat_palm_stick_yellow_admin"},
+        {"predicate": {"custom_model_data": 16416}, "model": "custom_items/cat_palms/cat_palm_stick_rainbow_admin"},
+
+        {"predicate": {"custom_model_data": 17000}, "model": "custom_items/brilliant/misteln/super_big_star_fruit"}
+    ]
+}

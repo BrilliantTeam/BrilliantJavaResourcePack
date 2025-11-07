@@ -1,0 +1,9 @@
+{
+    "credit": "書碼",
+    "parent": "custom_items/2025newyear/tiger",
+	"texture_size": [64, 64],
+    "textures": {
+        "2": "item/custom/2025newyear/tiger_5",
+        "particle": "item/custom/2025newyear/tiger_5"
+    }
+}

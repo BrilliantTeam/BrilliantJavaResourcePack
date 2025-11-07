@@ -1,0 +1,8 @@
+{
+    "credit": "書碼",
+    "parent": "custom_items/hat/ghast_hat/ghast_hat",
+    "textures": {
+        "0": "item/custom/hat/ghast_hat/ghast_shooting",
+        "particle": "item/custom/hat/ghast_hat/ghast_shooting"
+    }
+}

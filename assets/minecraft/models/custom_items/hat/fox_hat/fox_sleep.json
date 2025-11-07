@@ -1,0 +1,8 @@
+{
+    "credit": "書碼",
+    "parent": "custom_items/hat/fox_hat/fox_sleep_hat",
+    "textures": {
+        "0": "item/custom/hat/fox_hat/fox_sleep",
+        "particle": "item/custom/hat/fox_hat/fox_sleep"
+    }
+}

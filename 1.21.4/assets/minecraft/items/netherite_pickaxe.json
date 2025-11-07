@@ -1,0 +1,34 @@
+{
+    "oversized_in_gui": true,
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/netherite_pickaxe"
+        },
+        "entries": [
+            {
+                "threshold": 10000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2024halloween/cat_pickaxe"
+                }
+            },
+            {
+                "threshold": 10100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025valentinesday/wing_pickaxe"
+                }
+            },
+            {
+                "threshold": 10200,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025dragonboat/zen_staff"
+                }
+            }
+        ]
+    }
+}

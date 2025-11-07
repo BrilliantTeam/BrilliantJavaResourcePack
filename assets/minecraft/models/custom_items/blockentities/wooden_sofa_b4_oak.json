@@ -1,0 +1,10 @@
+{
+	"credit": "書碼",
+	"parent": "custom_items/blockentities/wooden_sofa_b4",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "item/custom/blockentities/oak",
+		"2": "item/custom/blockentities/yellow",
+		"particle": "item/custom/blockentities/oak"
+	}
+}

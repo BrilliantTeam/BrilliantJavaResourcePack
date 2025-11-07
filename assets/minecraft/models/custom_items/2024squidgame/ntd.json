@@ -1,0 +1,56 @@
+{
+	"credit": "書碼",
+	"texture_size": [500, 500],
+	"textures": {
+		"1": "item/custom/2024squidgame/1000",
+		"particle": "item/custom/2024squidgame/1000"
+	},
+	"elements": [
+		{
+			"from": [5.3, 1.5, 1.5],
+			"to": [10.45, 1.5, 14.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5.3, 3.5, 10.5]},
+			"faces": {
+				"north": {"uv": [15.504, 6.88, 15.504, 6.9488], "rotation": 270, "texture": "#1"},
+				"east": {"uv": [15.84, 13.76, 16, 13.76], "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 0.0688], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [15.84, 13.76, 16, 13.76], "rotation": 180, "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 6.88], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [0, 6.88, 16, 13.76], "rotation": 90, "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0.25, 6.5, -5.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0.25, 6.5, -5.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 15.5, 66.25],
+			"translation": [0, 4, -1.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 15.5, 66.25],
+			"translation": [0, 4, -1.5]
+		},
+		"ground": {
+			"translation": [0, 7.25, 0]
+		},
+		"gui": {
+			"rotation": [92.46, 54.08, 10.58],
+			"translation": [-0.5, -1.5, 0],
+			"scale": [1.1, 1.1, 1.1]
+		},
+		"head": {
+			"translation": [0, 1, -6.75]
+		},
+		"fixed": {
+			"rotation": [90, -61.25, -180],
+			"translation": [0, 0, -7.5],
+			"scale": [1.2, 1.2, 1.2]
+		}
+	}
+}

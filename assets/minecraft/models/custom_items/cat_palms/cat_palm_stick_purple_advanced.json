@@ -1,0 +1,7 @@
+{
+    "credit": "書碼",
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/custom/cat_palms/cat_palm_stick_purple_advanced"
+    }
+}

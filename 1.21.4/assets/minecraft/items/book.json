@@ -1,0 +1,20 @@
+{
+    "oversized_in_gui": true,
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/book"
+        },
+        "entries": [
+            {
+                "threshold": 21021,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/book"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/netherite_axe"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 10000}, "model": "custom_items/2024halloween/cat_axe"},
+        {"predicate": {"custom_model_data": 10100}, "model": "custom_items/2025valentinesday/wing_axe"},
+
+        {"predicate": {"custom_model_data": 16100}, "model": "custom_items/cat_palms/cat_palm_glove_black_advanced"},
+        {"predicate": {"custom_model_data": 16101}, "model": "custom_items/cat_palms/cat_palm_glove_blue_advanced"},
+        {"predicate": {"custom_model_data": 16102}, "model": "custom_items/cat_palms/cat_palm_glove_brown_advanced"},
+        {"predicate": {"custom_model_data": 16103}, "model": "custom_items/cat_palms/cat_palm_glove_cyan_advanced"},
+        {"predicate": {"custom_model_data": 16104}, "model": "custom_items/cat_palms/cat_palm_glove_gray_advanced"},
+        {"predicate": {"custom_model_data": 16105}, "model": "custom_items/cat_palms/cat_palm_glove_green_advanced"},
+        {"predicate": {"custom_model_data": 16106}, "model": "custom_items/cat_palms/cat_palm_glove_light_blue_advanced"},
+        {"predicate": {"custom_model_data": 16107}, "model": "custom_items/cat_palms/cat_palm_glove_light_gray_advanced"},
+        {"predicate": {"custom_model_data": 16108}, "model": "custom_items/cat_palms/cat_palm_glove_lime_advanced"},
+        {"predicate": {"custom_model_data": 16109}, "model": "custom_items/cat_palms/cat_palm_glove_magenta_advanced"},
+        {"predicate": {"custom_model_data": 16110}, "model": "custom_items/cat_palms/cat_palm_glove_orange_advanced"},
+        {"predicate": {"custom_model_data": 16111}, "model": "custom_items/cat_palms/cat_palm_glove_pink_advanced"},
+        {"predicate": {"custom_model_data": 16112}, "model": "custom_items/cat_palms/cat_palm_glove_purple_advanced"},
+        {"predicate": {"custom_model_data": 16113}, "model": "custom_items/cat_palms/cat_palm_glove_red_advanced"},
+        {"predicate": {"custom_model_data": 16114}, "model": "custom_items/cat_palms/cat_palm_glove_white_advanced"},
+        {"predicate": {"custom_model_data": 16115}, "model": "custom_items/cat_palms/cat_palm_glove_yellow_advanced"},
+        {"predicate": {"custom_model_data": 16116}, "model": "custom_items/cat_palms/cat_palm_glove_rainbow_advanced"},
+
+        {"predicate": {"custom_model_data": 16200}, "model": "custom_items/cat_palms/cat_palm_glove_black_advanced_admin"},
+        {"predicate": {"custom_model_data": 16201}, "model": "custom_items/cat_palms/cat_palm_glove_blue_advanced_admin"},
+        {"predicate": {"custom_model_data": 16202}, "model": "custom_items/cat_palms/cat_palm_glove_brown_advanced_admin"},
+        {"predicate": {"custom_model_data": 16203}, "model": "custom_items/cat_palms/cat_palm_glove_cyan_advanced_admin"},
+        {"predicate": {"custom_model_data": 16204}, "model": "custom_items/cat_palms/cat_palm_glove_gray_advanced_admin"},
+        {"predicate": {"custom_model_data": 16205}, "model": "custom_items/cat_palms/cat_palm_glove_green_advanced_admin"},
+        {"predicate": {"custom_model_data": 16206}, "model": "custom_items/cat_palms/cat_palm_glove_light_blue_advanced_admin"},
+        {"predicate": {"custom_model_data": 16207}, "model": "custom_items/cat_palms/cat_palm_glove_light_gray_advanced_admin"},
+        {"predicate": {"custom_model_data": 16208}, "model": "custom_items/cat_palms/cat_palm_glove_lime_advanced_admin"},
+        {"predicate": {"custom_model_data": 16209}, "model": "custom_items/cat_palms/cat_palm_glove_magenta_advanced_admin"},
+        {"predicate": {"custom_model_data": 16210}, "model": "custom_items/cat_palms/cat_palm_glove_orange_advanced_admin"},
+        {"predicate": {"custom_model_data": 16211}, "model": "custom_items/cat_palms/cat_palm_glove_pink_advanced_admin"},
+        {"predicate": {"custom_model_data": 16212}, "model": "custom_items/cat_palms/cat_palm_glove_purple_advanced_admin"},
+        {"predicate": {"custom_model_data": 16213}, "model": "custom_items/cat_palms/cat_palm_glove_red_advanced_admin"},
+        {"predicate": {"custom_model_data": 16214}, "model": "custom_items/cat_palms/cat_palm_glove_white_advanced_admin"},
+        {"predicate": {"custom_model_data": 16215}, "model": "custom_items/cat_palms/cat_palm_glove_yellow_advanced_admin"},
+        {"predicate": {"custom_model_data": 16216}, "model": "custom_items/cat_palms/cat_palm_glove_rainbow_advanced_admin"}
+    ]
+}

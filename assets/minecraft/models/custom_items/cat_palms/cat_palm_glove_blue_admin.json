@@ -1,0 +1,9 @@
+{
+    "credit": "書碼",
+    "parent": "custom_items/cat_palms/cat_palm_glove",
+    "texture_size": [32, 16],
+    "textures": {
+        "0": "item/custom/cat_palms/cat_palm_glove_blue_admin",
+        "particle": "item/custom/cat_palms/cat_palm_glove_blue_admin"
+    }
+}

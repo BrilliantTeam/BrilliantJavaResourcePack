@@ -1,0 +1,9 @@
+{
+    "credit": "書碼",
+    "parent": "custom_items/hat/angel_circle/angel_circle",
+    "texture_size": [32, 32],
+    "textures": {
+        "0": "item/custom/hat/angel_circle/angel_circle_magenta",
+        "particle": "item/custom/hat/angel_circle/angel_circle_magenta"
+    }
+}

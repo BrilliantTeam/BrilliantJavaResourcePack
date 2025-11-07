@@ -1,10 +1,7 @@
 {
   "pack": {
     "pack_format": 15,
-    "min_format": 15,
-    "max_format": 69,
-    "supported_formats": [15, 64],
-    "description": "§7輝煌伺服器材質 - 暗色模式擴充包"
+    "description": "§7輝煌伺服器材質 - 深色模式擴充包"
   },
   "filter": {
     "block": [

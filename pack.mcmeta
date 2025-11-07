@@ -10,8 +10,9 @@
     "block": [
       {
         "namespace": "minecraft",
-        "path": "models/custom_items/brilliant/shopgui/guiair\\.json"
+        "path": "textures/item/custom/brilliant/shopgui/guiair\\.png"
       }
     ]
   }
 }
+

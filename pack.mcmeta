@@ -10,7 +10,7 @@
     "block": [
       {
         "namespace": "minecraft",
-        "path": "assets/minecraft/models/custom_items/brilliant/shopgui/bg\\.json"
+        "path": "assets/minecraft/models/custom_items/brilliant/shopgui/bg.json"
       }
     ]
   }

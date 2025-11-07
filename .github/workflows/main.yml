@@ -18,7 +18,7 @@ jobs:
         BRANCH_NAME="${GITHUB_REF#refs/heads/}"
         echo "Branch name is: $BRANCH_NAME"
         
-        if [[ "$BRANCH_NAME" == "main" ]]; then
+        if [[ "$BRANCH_NAME" == "Dark-Mode" ]]; then
           echo "ZIP_NAME=bsje-d.zip" >> $GITHUB_OUTPUT
           echo "ASSET_NAME=bsje-d.zip" >> $GITHUB_OUTPUT
         else

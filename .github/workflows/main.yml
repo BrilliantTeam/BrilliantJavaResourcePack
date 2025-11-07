@@ -19,8 +19,8 @@ jobs:
         echo "Branch name is: $BRANCH_NAME"
         
         if [[ "$BRANCH_NAME" == "Dark-Mode" ]]; then
-          echo "ZIP_NAME=bsje-d.zip" >> $GITHUB_OUTPUT
-          echo "ASSET_NAME=bsje-d.zip" >> $GITHUB_OUTPUT
+          echo "ZIP_NAME=bsje.zip" >> $GITHUB_OUTPUT
+          echo "ASSET_NAME=bsje.zip" >> $GITHUB_OUTPUT
         else
           echo "ZIP_NAME=bsje-unknown.zip" >> $GITHUB_OUTPUT
           echo "ASSET_NAME=bsje-unknown.zip" >> $GITHUB_OUTPUT

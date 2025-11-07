@@ -1,9 +1,0 @@
-{
-	"credit": "書碼",
-	"texture_size": [32, 32],
-	"parent": "custom_items/blockentities/wind_chime",
-	"textures": {
-		"1": "item/custom/blockentities/wind_chime_ani_blue",
-		"particle": "item/custom/blockentities/wind_chime_ani_blue"
-	}
-}

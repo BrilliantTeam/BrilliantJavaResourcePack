@@ -1,8 +1,0 @@
-{
-	"parent": "custom_items/doll/b",
-	"texture_size": [64, 64],
-	"textures": {
-		"0": "item/custom/doll/willy100031",
-		"particle": "item/custom/doll/willy100031"
-	}
-}

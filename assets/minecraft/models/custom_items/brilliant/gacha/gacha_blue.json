@@ -1,9 +1,0 @@
-{
-	"parent": "custom_items/brilliant/gacha/gacha",
-	"texture_size": [64, 64],
-	"textures": {
-		"0": "item/custom/brilliant/gacha/gacha_blue",
-		"1": "item/custom/blockentities/aether_block",
-		"particle": "item/custom/brilliant/gacha/gacha_blue"
-	}
-}

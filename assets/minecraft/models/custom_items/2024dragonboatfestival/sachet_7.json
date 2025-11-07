@@ -1,7 +1,0 @@
-{
-    "credit": "恐龍",
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/custom/2024dragonboatfestival/sachet_7"
-    }
-}

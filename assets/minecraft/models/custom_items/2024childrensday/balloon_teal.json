@@ -1,8 +1,0 @@
-{
-	"credit": "書碼",
-	"parent": "custom_items/2024childrensday/balloon",
-	"texture_size": [64, 64],
-	"textures": {
-		"1": "item/custom/2024childrensday/balloon_teal"
-	}
-}

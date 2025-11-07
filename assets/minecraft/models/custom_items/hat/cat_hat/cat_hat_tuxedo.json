@@ -1,9 +1,0 @@
-{
-    "credit": "書碼",
-    "parent": "custom_items/hat/cat_hat/cat_hat",
-    "texture_size": [34, 34],
-    "textures": {
-        "0": "item/custom/hat/cat_hat/cat_hat_tuxedo",
-        "particle": "item/custom/hat/cat_hat/cat_hat_tuxedo"
-    }
-}

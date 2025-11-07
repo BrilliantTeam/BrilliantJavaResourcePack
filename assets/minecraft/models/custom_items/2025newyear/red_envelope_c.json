@@ -1,9 +1,0 @@
-{
-	"credit": "書碼",
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "item/custom/2025newyear/red_envelope_c"
-	},
-	"gui_light": "front",
-	"display": {}
-}

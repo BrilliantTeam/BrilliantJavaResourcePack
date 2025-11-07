@@ -1,8 +1,0 @@
-{
-    "credit": "書碼",
-    "parent": "custom_items/hat/dog_hat/dog_hat",
-    "textures": {
-        "0": "item/custom/hat/dog_hat/wolf_rusty_tame",
-        "particle": "item/custom/hat/dog_hat/wolf_rusty_tame"
-    }
-}

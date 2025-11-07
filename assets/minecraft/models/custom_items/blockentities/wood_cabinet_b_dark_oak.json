@@ -1,9 +1,0 @@
-{
-	"credit": "書碼",
-	"parent": "custom_items/blockentities/wood_cabinet_b",
-	"texture_size": [64, 64],
-	"textures": {
-		"1": "item/custom/blockentities/dark_oak",
-		"particle": "item/custom/blockentities/dark_oak"
-	}
-}

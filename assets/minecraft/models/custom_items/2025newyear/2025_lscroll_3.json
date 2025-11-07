@@ -1,8 +1,0 @@
-{
-    "parent": "custom_items/2024newyear/spring_couplets_a",
-	"texture_size": [32, 112],
-	"textures": {
-		"0": "item/custom/2025newyear/2025_lscroll_3",
-		"particle": "item/custom/2025newyear/2025_lscroll_3"
-	}
-}

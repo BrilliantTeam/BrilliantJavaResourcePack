@@ -1,7 +1,0 @@
-{
-    "credit": "恐龍",
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "item/custom/2024halloween/cat_hoe"
-    }
-}

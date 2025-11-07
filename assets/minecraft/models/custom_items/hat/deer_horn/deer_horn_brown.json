@@ -1,8 +1,0 @@
-{
-    "credit": "書碼",
-    "parent": "custom_items/hat/deer_horn/deer_horn",
-    "textures": {
-        "0": "item/custom/hat/deer_horn/deer_horn_brown",
-        "particle": "item/custom/hat/deer_horn/deer_horn_brown"
-    }
-}

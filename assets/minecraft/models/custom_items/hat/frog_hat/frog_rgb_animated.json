@@ -1,8 +1,0 @@
-{
-    "credit": "書碼",
-    "parent": "custom_items/hat/frog_hat/frog_hat",
-    "textures": {
-        "0": "item/custom/hat/frog_hat/frog_rgb_animated",
-        "particle": "item/custom/hat/frog_hat/frog_rgb_animated"
-    }
-}

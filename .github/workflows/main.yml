@@ -2,7 +2,7 @@ name: 壓縮 zip、計算 SHA-1 並發佈到 Tag
 on:
   push:
     branches:
-    - main
+    - Dark-Mode
 permissions:
   contents: write
 jobs:
@@ -19,8 +19,8 @@ jobs:
         echo "Branch name is: $BRANCH_NAME"
         
         if [[ "$BRANCH_NAME" == "main" ]]; then
-          echo "ZIP_NAME=bsje.zip" >> $GITHUB_OUTPUT
-          echo "ASSET_NAME=bsje.zip" >> $GITHUB_OUTPUT
+          echo "ZIP_NAME=bsje-d.zip" >> $GITHUB_OUTPUT
+          echo "ASSET_NAME=bsje-d.zip" >> $GITHUB_OUTPUT
         else
           echo "ZIP_NAME=bsje-unknown.zip" >> $GITHUB_OUTPUT
           echo "ASSET_NAME=bsje-unknown.zip" >> $GITHUB_OUTPUT
@@ -32,7 +32,7 @@ jobs:
     - name: 壓縮成 zip
       run: |
         echo "Creating zip file: ${{ steps.set_var.outputs.ZIP_NAME }}"
-        zip -r "${{ steps.set_var.outputs.ZIP_NAME }}" assets/* 1.21.4/* 1.21.6/* LICENSE.txt pack.mcmeta pack.png
+        zip -r "${{ steps.set_var.outputs.ZIP_NAME }}" assets/* 1.21.4/* LICENSE-brillliantwserevr.txt LICENSE.txt pack.mcmeta pack.png
         ls -la "${{ steps.set_var.outputs.ZIP_NAME }}"
     
     - name: 計算 SHA1
@@ -47,16 +47,14 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        tag_name: ${{ github.run_number }}
-        release_name: Version. ${{ github.run_number }} | ${{ github.event.head_commit.message }}
+        tag_name: D-${{ github.run_number }}
+        release_name: Version. D-${{ github.run_number }} | ${{ github.event.head_commit.message }}
         draft: false
         prerelease: false
         body: |
           SHA1：${{ steps.calculate_sha1.outputs.RESOURCE_SHA1 }}
 
-          玩家可於 Assets 條目中，點選 ${{ steps.set_var.outputs.ASSET_NAME }} 來下載此版本的材質包
-          建議玩家下載 Version 標題旁有綠色 Latest 字樣版本的材質包來登入輝煌伺服器，
-          以取得最完善的遊戲體驗。
+          此為輝煌伺服器材質包的暗色模式擴充版，不可獨立使用。
 
           Copyright © 輝煌伺服器 Brilliant Minecraft Server 版權所有 All rights reserved
     

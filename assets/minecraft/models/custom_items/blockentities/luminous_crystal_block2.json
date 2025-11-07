@@ -1,8 +1,0 @@
-{
-	"credit": "書碼",
-	"parent": "custom_items/blockentities/luminous_crystal_block0",
-	"textures": {
-		"0": "item/custom/blockentities/luminous_crystal_block2",
-		"particle": "item/custom/blockentities/luminous_crystal_block2"
-	}
-}

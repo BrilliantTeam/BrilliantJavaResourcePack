@@ -32,7 +32,7 @@ jobs:
     - name: 壓縮成 zip
       run: |
         echo "Creating zip file: ${{ steps.set_var.outputs.ZIP_NAME }}"
-        zip -r "${{ steps.set_var.outputs.ZIP_NAME }}" assets/* 1.21.4/* LICENSE-brillliantwserevr.txt LICENSE.txt pack.mcmeta pack.png
+        zip -r "${{ steps.set_var.outputs.ZIP_NAME }}" assets/* LICENSE-brillliantwserevr.txt LICENSE.txt pack.mcmeta pack.png
         ls -la "${{ steps.set_var.outputs.ZIP_NAME }}"
     
     - name: 計算 SHA1

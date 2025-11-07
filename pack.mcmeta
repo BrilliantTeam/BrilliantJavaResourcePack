@@ -9,8 +9,7 @@
   "filter": {
     "block": [
       {
-        "namespace": "minecraft",
-        "path": "assets/minecraft/models/custom_items/brilliant/shopgui/bg.json"
+        "path": "models/custom_items/brilliant/shopgui/bg.json"
       }
     ]
   }

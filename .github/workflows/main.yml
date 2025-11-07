@@ -2,7 +2,7 @@ name: 壓縮 zip、計算 SHA-1 並發佈到 Tag
 on:
   push:
     branches:
-    - Dark-Mode
+    - Light-Mode
 permissions:
   contents: write
 jobs:
@@ -18,7 +18,7 @@ jobs:
         BRANCH_NAME="${GITHUB_REF#refs/heads/}"
         echo "Branch name is: $BRANCH_NAME"
         
-        if [[ "$BRANCH_NAME" == "Dark-Mode" ]]; then
+        if [[ "$BRANCH_NAME" == "Light-Mode" ]]; then
           echo "ZIP_NAME=bsje.zip" >> $GITHUB_OUTPUT
           echo "ASSET_NAME=bsje.zip" >> $GITHUB_OUTPUT
         else
@@ -47,14 +47,14 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        tag_name: D-${{ github.run_number }}
-        release_name: Version. D-${{ github.run_number }} | ${{ github.event.head_commit.message }}
+        tag_name: L-${{ github.run_number }}
+        release_name: Version. L-${{ github.run_number }} | ${{ github.event.head_commit.message }}
         draft: false
         prerelease: false
         body: |
           SHA1：${{ steps.calculate_sha1.outputs.RESOURCE_SHA1 }}
 
-          此為輝煌伺服器材質包的暗色模式擴充版，不可獨立使用。
+          此為輝煌伺服器材質包的淺色模式擴充版，不可獨立使用。
 
           Copyright © 輝煌伺服器 Brilliant Minecraft Server 版權所有 All rights reserved
     

@@ -1,2 +1,1 @@
-## 輝煌伺服器材質 - 暗色模式
-99 % 部分使用：[Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode)
+## 輝煌伺服器材質 - 淺色模式

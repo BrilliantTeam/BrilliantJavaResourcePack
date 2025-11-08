@@ -22,51 +22,90 @@ jobs:
           if [[ "$BRANCH_NAME" == "main" ]]; then
             echo "ZIP_LIGHT=bsje.zip" >> "$GITHUB_OUTPUT"
             echo "ZIP_DARK=bsje-dark.zip" >> "$GITHUB_OUTPUT"
+            echo "ZIP_VERYDARK=bsje-verydark.zip" >> "$GITHUB_OUTPUT"
+            echo "ZIP_SUPERDARK=bsje-superdark.zip" >> "$GITHUB_OUTPUT"
+            
             echo "ASSET_LIGHT=bsje.zip" >> "$GITHUB_OUTPUT"
             echo "ASSET_DARK=bsje-dark.zip" >> "$GITHUB_OUTPUT"
+            echo "ASSET_VERYDARK=bsje-verydark.zip" >> "$GITHUB_OUTPUT"
+            echo "ASSET_SUPERDARK=bsje-superdark.zip" >> "$GITHUB_OUTPUT"
           else
             echo "ZIP_LIGHT=bsje-unknown.zip" >> "$GITHUB_OUTPUT"
             echo "ZIP_DARK=bsje-unknown-dark.zip" >> "$GITHUB_OUTPUT"
+            echo "ZIP_VERYDARK=bsje-unknown-verydark.zip" >> "$GITHUB_OUTPUT"
+            echo "ZIP_SUPERDARK=bsje-unknown-superdark.zip" >> "$GITHUB_OUTPUT"
+            
             echo "ASSET_LIGHT=bsje-unknown.zip" >> "$GITHUB_OUTPUT"
             echo "ASSET_DARK=bsje-unknown-dark.zip" >> "$GITHUB_OUTPUT"
+            echo "ASSET_VERYDARK=bsje-unknown-verydark.zip" >> "$GITHUB_OUTPUT"
+            echo "ASSET_SUPERDARK=bsje-unknown-superdark.zip" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: 壓縮 Light 版 ZIP
+      - emphasises: 壓縮基礎檔案（所有版本共用）
         run: |
-          echo "Creating Light ZIP: ${{ steps.set_var.outputs.ZIP_LIGHT }}"
-          zip -r "${{ steps.set_var.outputs.ZIP_LIGHT }}" \
-            assets/ 1.21.4/ 1.21.6/ LICENSE.txt pack.mcmeta pack.png \
-            -x "darkmode/**" || exit 1
-          echo "Light ZIP created:"
-          ls -la "${{ steps.set_var.outputs.ZIP_LIGHT }}"
+          BASE_FILES="assets/ 1.21.4/ 1.21.6/ LICENSE.txt pack.mcmeta pack.png"
+          
+          echo "Creating base ZIPs..."
+          
+          zip -r "${{ steps.set_var.outputs.ZIP_LIGHT }}" $BASE_FILES -x "darkmode/**" "verydarkmode/**" "superdarkmode/**" || exit 1
+          cp "${{ steps.set_var.outputs.ZIP_LIGHT }}" "${{ steps.set_var.outputs.ZIP_DARK }}"
+          cp "${{ steps.set_var.outputs.ZIP_LIGHT }}" "${{ steps.set_var.outputs.ZIP_VERYDARK }}"
+          cp "${{ steps.set_var.outputs.ZIP_LIGHT }}" "${{ steps.set_var.outputs.ZIP_SUPERDARK }}"
+          
+          echo "Base ZIPs created."
 
-      - name: 壓縮 Dark 版 ZIP（合併 darkmode 資料夾）
+      - name: 合併 darkmode 到 Dark 版
+        if: always()
         run: |
-          echo "Creating Dark ZIP: ${{ steps.set_var.outputs.ZIP_DARK }}"
-          
-          zip -r "${{ steps.set_var.outputs.ZIP_DARK }}" \
-            assets/ 1.21.4/ 1.21.6/ LICENSE.txt pack.mcmeta pack.png \
-            -x "darkmode/**" || exit 1
-          
           if [ -d "darkmode/assets" ]; then
-            echo "Merging darkmode/assets into ZIP (overwriting conflicts)..."
+            echo "Merging darkmode/ into ${{ steps.set_var.outputs.ZIP_DARK }}..."
             cd darkmode && zip -r "../${{ steps.set_var.outputs.ZIP_DARK }}" assets/ && cd ..
+          else
+            echo "No darkmode/ folder found, skipping."
           fi
-          
-          echo "Dark ZIP created:"
-          ls -la "${{ steps.set_var.outputs.ZIP_DARK }}"
+
+      - name: 合併 verydarkmode 到 VeryDark 版
+        if: always()
+        run: |
+          if [ -d "verydarkmode/assets" ]; then
+            echo "Merging verydarkmode/ into ${{ steps.set_var.outputs.ZIP_VERYDARK }}..."
+            cd verydarkmode && zip -r "../${{ steps.set_var.outputs.ZIP_VERYDARK }}" assets/ && cd ..
+          else
+            echo "No verydarkmode/ folder found, skipping."
+          fi
+
+      - name: 合併 superdarkmode 到 SuperDark 版
+        if: always()
+        run: |
+          if [ -d "superdarkmode/assets" ]; then
+            echo "Merging superdarkmode/ into ${{ steps.set_var.outputs.ZIP_SUPERDARK }}..."
+            cd superdarkmode && zip -r "../${{ steps.set_var.outputs.ZIP_SUPERDARK }}" assets/ && cd ..
+          else
+            echo "No superdarkmode/ folder found, skipping."
+          fi
+
+      - name: 驗證 ZIP 檔案
+        run: |
+          echo "Final ZIP files:"
+          ls -la *.zip || true
 
       - name: 計算 SHA1
         id: hash
         run: |
           LIGHT_SHA1=$(sha1sum "${{ steps.set_var.outputs.ZIP_LIGHT }}" | cut -d' ' -f1)
           DARK_SHA1=$(sha1sum "${{ steps.set_var.outputs.ZIP_DARK }}" | cut -d' ' -f1)
+          VERYDARK_SHA1=$(sha1sum "${{ steps.set_var.outputs.ZIP_VERYDARK }}" | cut -d' ' -f1)
+          SUPERDARK_SHA1=$(sha1sum "${{ steps.set_var.outputs.ZIP_SUPERDARK }}" | cut -d' ' -f1)
           
           echo "RESOURCE_SHA1_LIGHT=$LIGHT_SHA1" >> "$GITHUB_OUTPUT"
           echo "RESOURCE_SHA1_DARK=$DARK_SHA1" >> "$GITHUB_OUTPUT"
+          echo "RESOURCE_SHA1_VERYDARK=$VERYDARK_SHA1" >> "$GITHUB_OUTPUT"
+          echo "RESOURCE_SHA1_SUPERDARK=$SUPERDARK_SHA1" >> "$GITHUB_OUTPUT"
           
           echo "Light SHA1: $LIGHT_SHA1"
-          echo "Dark SHA1:  $DARK_SHA1"
+          echo "Dark SHA1: $DARK_SHA1"
+          echo "VeryDark SHA1: $VERYDARK_SHA1"
+          echo "SuperDark SHA1: $SUPERDARK_SHA1"
 
       - name: 發佈並上傳 Release 
         uses: softprops/action-gh-release@v2
@@ -74,18 +113,28 @@ jobs:
           tag_name: ${{ github.run_number }}
           name: Version ${{ github.run_number }} | ${{ github.event.head_commit.message }}
           body: |
-            ### 亮色模式
+            ### 亮色模式（Light Mode）
             - **檔案**：`${{ steps.set_var.outputs.ASSET_LIGHT }}`
             - **SHA1**：`${{ steps.hash.outputs.RESOURCE_SHA1_LIGHT }}`
 
-            ### 暗色模式
+            ### 暗色模式（Dark Mode）
             - **檔案**：`${{ steps.set_var.outputs.ASSET_DARK }}`
             - **SHA1**：`${{ steps.hash.outputs.RESOURCE_SHA1_DARK }}`
 
+            ### 非常暗色模式（VeryDark Mode）
+            - **檔案**：`${{ steps.set_var.outputs.ASSET_VERYDARK }}`
+            - **SHA1**：`${{ steps.hash.outputs.RESOURCE_SHA1_VERYDARK }}`
+
+            ### 超級暗色模式（SuperDark Mode）
+            - **檔案**：`${{ steps.set_var.outputs.ASSET_SUPERDARK }}`
+            - **SHA1**：`${{ steps.hash.outputs.RESOURCE_SHA1_SUPERDARK }}`
+
             ---
             玩家可於 **Assets** 區塊中選擇下載：
-            - 亮色模式材質包：`${{ steps.set_var.outputs.ASSET_LIGHT }}`
-            - 暗色模式材質包：`${{ steps.set_var.outputs.ASSET_DARK }}`
+            - 亮色模式：`${{ steps.set_var.outputs.ASSET_LIGHT }}`
+            - 暗色模式：`${{ steps.set_var.outputs.ASSET_DARK }}`
+            - 非常暗色：`${{ steps.set_var.outputs.ASSET_VERYDARK }}`
+            - 超級暗色：`${{ steps.set_var.outputs.ASSET_SUPERDARK }}`
 
             建議下載標有 **Latest** 的版本以獲得最佳體驗。
 
@@ -96,3 +145,5 @@ jobs:
           files: |
             ${{ steps.set_var.outputs.ZIP_LIGHT }}
             ${{ steps.set_var.outputs.ZIP_DARK }}
+            ${{ steps.set_var.outputs.ZIP_VERYDARK }}
+            ${{ steps.set_var.outputs.ZIP_SUPERDARK }}

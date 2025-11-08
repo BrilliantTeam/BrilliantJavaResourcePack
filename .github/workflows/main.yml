@@ -34,8 +34,8 @@ jobs:
     - name: 壓縮 Light 版 ZIP
       run: |
         echo "Creating Light ZIP: ${{ steps.set_var.outputs.ZIP_LIGHT }}"
-        zip -r "${{ steps.set_var.outputs.ZIP_LIGHT }}" 
-          assets/* 1.21.4/* 1.21.6/* LICENSE.txt pack.mcmeta pack.png 
+        zip -r "${{ steps.set_var.outputs.ZIP_LIGHT }}" \
+          assets/* 1.21.4/* 1.21.6/* LICENSE.txt pack.mcmeta pack.png \
           -x "darkmode/**"
         ls -la "${{ steps.set_var.outputs.ZIP_LIGHT }}"
 
@@ -43,8 +43,8 @@ jobs:
       run: |
         echo "Creating Dark ZIP: ${{ steps.set_var.outputs.ZIP_DARK }}"
         
-        zip -r "${{ steps.set_var.outputs.ZIP_DARK }}" 
-          assets/* 1.21.4/* 1.21.6/* LICENSE.txt pack.mcmeta pack.png 
+        zip -r "${{ steps.set_var.outputs.ZIP_DARK }}" \
+          assets/* 1.21.4/* 1.21.6/* LICENSE.txt pack.mcmeta pack.png \
           -x "darkmode/**"
         
         if [ -d "darkmode/assets" ]; then

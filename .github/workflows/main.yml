@@ -34,21 +34,19 @@ jobs:
     - name: 壓縮 Light 版 ZIP
       run: |
         echo "Creating Light ZIP: ${{ steps.set_var.outputs.ZIP_LIGHT }}"
-        zip -r "${{ steps.set_var.outputs.ZIP_LIGHT }}" \
-          assets/* 1.21.4/* 1.21.6/* LICENSE.txt pack.mcmeta pack.png \
-          -x "darkmode/**"  # 明確排除 darkmode 資料夾
+        zip -r "${{ steps.set_var.outputs.ZIP_LIGHT }}" 
+          assets/* 1.21.4/* 1.21.6/* LICENSE.txt pack.mcmeta pack.png 
+          -x "darkmode/**"
         ls -la "${{ steps.set_var.outputs.ZIP_LIGHT }}"
 
     - name: 壓縮 Dark 版 ZIP（合併 darkmode）
       run: |
         echo "Creating Dark ZIP: ${{ steps.set_var.outputs.ZIP_DARK }}"
         
-        # 先壓縮基礎檔案（排除 darkmode）
-        zip -r "${{ steps.set_var.outputs.ZIP_DARK }}" \
-          assets/* 1.21.4/* 1.21.6/* LICENSE.txt pack.mcmeta pack.png \
+        zip -r "${{ steps.set_var.outputs.ZIP_DARK }}" 
+          assets/* 1.21.4/* 1.21.6/* LICENSE.txt pack.mcmeta pack.png 
           -x "darkmode/**"
         
-        # 再加入 darkmode/assets，會自動覆蓋同名檔案（zip 後加入 = 覆蓋）
         if [ -d "darkmode/assets" ]; then
           echo "Merging darkmode/assets (will overwrite conflicts)..."
           cd darkmode && zip -r "../${{ steps.set_var.outputs.ZIP_DARK }}" assets/* && cd ..
@@ -90,7 +88,6 @@ jobs:
 
           Copyright © 輝煌伺服器 Brilliant Minecraft Server 版權所有 All rights reserved
 
-    # === 上傳兩個 ZIP ===
     - name: 上傳 Light 版 ZIP
       uses: actions/upload-release-asset@v1
       env:

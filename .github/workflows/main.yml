@@ -41,7 +41,7 @@ jobs:
             echo "ASSET_SUPERDARK=bsje-unknown-superdark.zip" >> "$GITHUB_OUTPUT"
           fi
 
-      - emphasises: 壓縮基礎檔案（所有版本共用）
+      - name: 壓縮基礎檔案（所有版本共用）
         run: |
           BASE_FILES="assets/ 1.21.4/ 1.21.6/ LICENSE.txt pack.mcmeta pack.png"
           
@@ -147,4 +147,3 @@ jobs:
             ${{ steps.set_var.outputs.ZIP_DARK }}
             ${{ steps.set_var.outputs.ZIP_VERYDARK }}
             ${{ steps.set_var.outputs.ZIP_SUPERDARK }}
-            

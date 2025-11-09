@@ -58,30 +58,51 @@ jobs:
         if: always()
         run: |
           if [ -d "darkmode/assets" ]; then
-            echo "Merging darkmode/ into ${{ steps.set_var.outputs.ZIP_DARK }}..."
+            echo "Merging darkmode/assets/ into ${{ steps.set_var.outputs.ZIP_DARK }}..."
             cd darkmode && zip -r "../${{ steps.set_var.outputs.ZIP_DARK }}" assets/ && cd ..
           else
-            echo "No darkmode/ folder found, skipping."
+            echo "No darkmode/assets/ folder found, skipping."
+          fi
+          
+          if [ -d "darkmode/1.21.6" ]; then
+            echo "Merging darkmode/1.21.6/ into ${{ steps.set_var.outputs.ZIP_DARK }}..."
+            cd darkmode && zip -r "../${{ steps.set_var.outputs.ZIP_DARK }}" 1.21.6/ && cd ..
+          else
+            echo "No darkmode/1.21.6/ folder found, skipping."
           fi
 
       - name: 合併 verydarkmode 到 VeryDark 版
         if: always()
         run: |
           if [ -d "verydarkmode/assets" ]; then
-            echo "Merging verydarkmode/ into ${{ steps.set_var.outputs.ZIP_VERYDARK }}..."
+            echo "Merging verydarkmode/assets/ into ${{ steps.set_var.outputs.ZIP_VERYDARK }}..."
             cd verydarkmode && zip -r "../${{ steps.set_var.outputs.ZIP_VERYDARK }}" assets/ && cd ..
           else
-            echo "No verydarkmode/ folder found, skipping."
+            echo "No verydarkmode/assets/ folder found, skipping."
+          fi
+          
+          if [ -d "verydarkmode/1.21.6" ]; then
+            echo "Merging verydarkmode/1.21.6/ into ${{ steps.set_var.outputs.ZIP_VERYDARK }}..."
+            cd verydarkmode && zip -r "../${{ steps.set_var.outputs.ZIP_VERYDARK }}" 1.21.6/ && cd ..
+          else
+            echo "No verydarkmode/1.21.6/ folder found, skipping."
           fi
 
       - name: 合併 superdarkmode 到 SuperDark 版
         if: always()
         run: |
           if [ -d "superdarkmode/assets" ]; then
-            echo "Merging superdarkmode/ into ${{ steps.set_var.outputs.ZIP_SUPERDARK }}..."
+            echo "Merging superdarkmode/assets/ into ${{ steps.set_var.outputs.ZIP_SUPERDARK }}..."
             cd superdarkmode && zip -r "../${{ steps.set_var.outputs.ZIP_SUPERDARK }}" assets/ && cd ..
           else
-            echo "No superdarkmode/ folder found, skipping."
+            echo "No superdarkmode/assets/ folder found, skipping."
+          fi
+          
+          if [ -d "superdarkmode/1.21.6" ]; then
+            echo "Merging superdarkmode/1.21.6/ into ${{ steps.set_var.outputs.ZIP_SUPERDARK }}..."
+            cd superdarkmode && zip -r "../${{ steps.set_var.outputs.ZIP_SUPERDARK }}" 1.21.6/ && cd ..
+          else
+            echo "No superdarkmode/1.21.6/ folder found, skipping."
           fi
 
       - name: 驗證 ZIP 檔案

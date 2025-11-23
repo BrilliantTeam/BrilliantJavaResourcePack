@@ -4,7 +4,7 @@
         "frametime": 7,
         "frames": [
             0,
-            { "frame": 1, "time": 161 }
+            { "index": 1, "time": 161 }
         ]
     }
 }

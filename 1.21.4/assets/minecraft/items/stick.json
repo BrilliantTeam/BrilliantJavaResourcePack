@@ -3201,6 +3201,13 @@
                 }
             },
             {
+                "threshold": 35004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/misteln/misteln_rice_xmaself"
+                }
+            },
+            {
                 "threshold": 36010,
                 "model": {
                     "type": "model",

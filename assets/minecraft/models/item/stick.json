@@ -478,6 +478,7 @@
         {"predicate": {"custom_model_data": 35001}, "model":"custom_items/brilliant/misteln/misteln_rice_hat"},
         {"predicate": {"custom_model_data": 35002}, "model":"custom_items/brilliant/misteln/misteln_rice_star"},
         {"predicate": {"custom_model_data": 35003}, "model":"custom_items/brilliant/misteln/misteln_rice_scunfm"},
+        {"predicate": {"custom_model_data": 35004}, "model":"custom_items/brilliant/misteln/misteln_rice_xmaself"},
 
         {"predicate": {"custom_model_data": 36010}, "model":"custom_items/2024dragonboatfestival/sachet_1"},
         {"predicate": {"custom_model_data": 36011}, "model":"custom_items/2024dragonboatfestival/sachet_2"},

@@ -2,8 +2,8 @@
 	"credit": "書碼",
 	"texture_size": [128, 64],
 	"textures": {
-		"0": "item/custom/2025summer/polar_bear",
-        "particle": "item/custom/2025summer/polar_bear"
+		"0": "item/custom/2025christmas/polar_bear",
+        "particle": "item/custom/2025christmas/polar_bear"
 	},
 	"elements": [
 		{

@@ -3414,28 +3414,28 @@
                 "threshold": 30801,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/blockentities/fireplace_corner_a"
+                    "model": "custom_items/blockentities/fireplace_bottom_b"
                 }
             },
             {
                 "threshold": 30802,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/blockentities/fireplace_top_a"
+                    "model": "custom_items/blockentities/fireplace_corner_a"
                 }
             },
             {
                 "threshold": 30803,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/blockentities/fireplace_bottom_b"
+                    "model": "custom_items/blockentities/fireplace_corner_b"
                 }
             },
             {
                 "threshold": 30804,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/blockentities/fireplace_corner_b"
+                    "model": "custom_items/blockentities/fireplace_top_a"
                 }
             },
             {

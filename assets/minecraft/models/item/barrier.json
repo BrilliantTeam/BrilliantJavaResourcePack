@@ -541,10 +541,10 @@
       { "predicate": { "custom_model_data": 30711 }, "model": "custom_items/blockentities/fusuma_up_b2_dark_oak" },
 
       { "predicate": { "custom_model_data": 30800 }, "model": "custom_items/blockentities/fireplace_bottom_a" },
-      { "predicate": { "custom_model_data": 30801 }, "model": "custom_items/blockentities/fireplace_corner_a" },
-      { "predicate": { "custom_model_data": 30802 }, "model": "custom_items/blockentities/fireplace_top_a" },
-      { "predicate": { "custom_model_data": 30803 }, "model": "custom_items/blockentities/fireplace_bottom_b" },
-      { "predicate": { "custom_model_data": 30804 }, "model": "custom_items/blockentities/fireplace_corner_b" },
+      { "predicate": { "custom_model_data": 30801 }, "model": "custom_items/blockentities/fireplace_bottom_b" },
+      { "predicate": { "custom_model_data": 30802 }, "model": "custom_items/blockentities/fireplace_corner_a" },
+      { "predicate": { "custom_model_data": 30803 }, "model": "custom_items/blockentities/fireplace_corner_b" },
+      { "predicate": { "custom_model_data": 30804 }, "model": "custom_items/blockentities/fireplace_top_a" },
       { "predicate": { "custom_model_data": 30805 }, "model": "custom_items/blockentities/fireplace_top_b" }
   ]
 }

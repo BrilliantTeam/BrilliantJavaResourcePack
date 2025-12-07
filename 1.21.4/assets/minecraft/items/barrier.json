@@ -3458,6 +3458,20 @@
                     "type": "model",
                     "model": "custom_items/blockentities/fireplace_bottom_2_b"
                 }
+            },
+            {
+                "threshold": 30808,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fireplace_top_2_a"
+                }
+            },
+            {
+                "threshold": 30809,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fireplace_top_2_b"
+                }
             }
         ]
     }

@@ -3444,6 +3444,20 @@
                     "type": "model",
                     "model": "custom_items/blockentities/fireplace_top_b"
                 }
+            },
+            {
+                "threshold": 30806,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fireplace_bottom_2_a"
+                }
+            },
+            {
+                "threshold": 30807,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fireplace_bottom_2_b"
+                }
             }
         ]
     }

@@ -63,9 +63,9 @@
 		},
 		{
 			"name": "brick",
-			"from": [-2.75, 2.25, -1],
-			"to": [2.25, 11.25, 1],
-			"rotation": {"angle": 0, "axis": "y", "origin": [-0.15, -4.75, 0]},
+			"from": [-2.545, 2.25, -1],
+			"to": [2.455, 11.25, 1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0.05, -4.75, 0]},
 			"faces": {
 				"north": {"uv": [7, 11, 16, 16], "rotation": 270, "texture": "#0"},
 				"east": {"uv": [7, 11, 16, 13], "rotation": 90, "texture": "#0"},
@@ -77,8 +77,8 @@
 		},
 		{
 			"name": "brick",
-			"from": [-2.75, 2.25, 15],
-			"to": [2.25, 11.25, 17],
+			"from": [-2.545, 2.25, 15],
+			"to": [2.455, 11.25, 17],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-0.15, -4.75, 16]},
 			"faces": {
 				"north": {"uv": [7, 16, 16, 11], "rotation": 90, "texture": "#0"},

@@ -2104,6 +2104,33 @@
 			"chars": [
 				"ꇧ"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/a0_811peanutmilk.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"ꇨ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/a0_811coconutmilk.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"ꇩ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/a0_811sesamemilk.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"ꇪ"
+			]
 		}
 	]
 }

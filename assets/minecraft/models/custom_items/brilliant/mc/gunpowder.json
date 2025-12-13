@@ -1,8 +1,9 @@
 {
-    "credit": "RiceChen_",
-    "parent": "custom_items/brilliant/shopgui/bg",
-    "textures": {
-        "1": "minecraft:item/gunpowder",
-        "2": "item/custom/brilliant/shopgui/guiair"
-    }
+  "credit": "RiceChen_",
+  "parent": "custom_items/brilliant/shopgui/bg",
+  "textures": {
+    "1": "minecraft:item/gunpowder",
+    "2": "item/custom/brilliant/shopgui/guiair",
+    "particle": "minecraft:item/gunpowder"
+  }
 }

@@ -1,6 +1,6 @@
 {
     "credit": "恐龍",
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
         "layer0": "item/custom/2024dragonboatfestival/sachet_1"
     }

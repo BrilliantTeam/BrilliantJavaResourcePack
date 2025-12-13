@@ -1,6 +1,6 @@
 {
 	"credit": "red_envelope_a",
-	"parent": "item/generated",
+	"parent": "minecraft:item/generated",
 	"textures": {
 		"layer0": "item/custom/2024newyear/red_envelope_a"
 	},

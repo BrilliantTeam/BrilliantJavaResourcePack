@@ -1,6 +1,6 @@
 {
     "credit": "酥瑪",
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
         "layer0": "item/custom/2025childrensday/easteregg_blue"
     }

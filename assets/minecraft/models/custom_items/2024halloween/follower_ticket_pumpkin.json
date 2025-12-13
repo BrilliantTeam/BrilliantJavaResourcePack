@@ -1,6 +1,6 @@
 {
     "credit": "書碼",
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
         "layer0": "item/custom/2024halloween/follower_ticket_pumpkin"
     }

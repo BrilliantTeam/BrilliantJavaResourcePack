@@ -134,32 +134,14 @@ jobs:
           tag_name: ${{ github.run_number }}
           name: Version ${{ github.run_number }} | ${{ github.event.head_commit.message }}
           body: |
-            ### 亮色模式（Light Mode）
-            - **檔案**：`${{ steps.set_var.outputs.ASSET_LIGHT }}`
-            - **SHA1**：`${{ steps.hash.outputs.RESOURCE_SHA1_LIGHT }}`
-
-            ### 暗色模式（Dark Mode）
-            - **檔案**：`${{ steps.set_var.outputs.ASSET_DARK }}`
-            - **SHA1**：`${{ steps.hash.outputs.RESOURCE_SHA1_DARK }}`
-
-            ### 非常暗色模式（VeryDark Mode）
-            - **檔案**：`${{ steps.set_var.outputs.ASSET_VERYDARK }}`
-            - **SHA1**：`${{ steps.hash.outputs.RESOURCE_SHA1_VERYDARK }}`
-
-            ### 超級暗色模式（SuperDark Mode）
-            - **檔案**：`${{ steps.set_var.outputs.ASSET_SUPERDARK }}`
-            - **SHA1**：`${{ steps.hash.outputs.RESOURCE_SHA1_SUPERDARK }}`
-
-            ---
-            玩家可於 **Assets** 區塊中選擇下載：
+            可於 **Assets** 區塊中選擇下載：
             - 亮色模式：`${{ steps.set_var.outputs.ASSET_LIGHT }}`
             - 暗色模式：`${{ steps.set_var.outputs.ASSET_DARK }}`
             - 非常暗色：`${{ steps.set_var.outputs.ASSET_VERYDARK }}`
             - 超級暗色：`${{ steps.set_var.outputs.ASSET_SUPERDARK }}`
 
             建議下載標有 **Latest** 的版本以獲得最佳體驗。
-
-            ### Packs Configuration
+            ---
             ```yaml
             packs:
               lightmode: 

@@ -159,6 +159,31 @@ jobs:
 
             建議下載標有 **Latest** 的版本以獲得最佳體驗。
 
+            ### Packs Configuration
+            ```yaml
+            packs:
+              lightmode: 
+                url: https://github.com/BrilliantTeam/BrilliantJavaResourcePack/releases/download/${{ github.run_number }}/${{ steps.set_var.outputs.ZIP_LIGHT }}
+                hash: ${{ steps.hash.outputs.RESOURCE_SHA1_LIGHT }}
+                restricted: true
+                permission: bungeeresourcepacks.pack.lightmode
+              darkmode:
+                url: https://github.com/BrilliantTeam/BrilliantJavaResourcePack/releases/download/${{ github.run_number }}/${{ steps.set_var.outputs.ZIP_DARK }}
+                hash: ${{ steps.hash.outputs.RESOURCE_SHA1_DARK }}
+                restricted: true
+                permission: bungeeresourcepacks.pack.darkmode
+              verydarkmode:
+                url: https://github.com/BrilliantTeam/BrilliantJavaResourcePack/releases/download/${{ github.run_number }}/${{ steps.set_var.outputs.ZIP_VERYDARK }}
+                hash: ${{ steps.hash.outputs.RESOURCE_SHA1_VERYDARK }}
+                restricted: true
+                permission: bungeeresourcepacks.pack.verydarkmode
+              superdarkmode:
+                url: https://github.com/BrilliantTeam/BrilliantJavaResourcePack/releases/download/${{ github.run_number }}/${{ steps.set_var.outputs.ZIP_SUPERDARK }}
+                hash: ${{ steps.hash.outputs.RESOURCE_SHA1_SUPERDARK }}
+                restricted: true
+                permission: bungeeresourcepacks.pack.superdarkmode
+            ```
+
             Copyright © 輝煌伺服器 Brilliant Minecraft Server 版權所有 All rights reserved
           draft: false
           prerelease: false

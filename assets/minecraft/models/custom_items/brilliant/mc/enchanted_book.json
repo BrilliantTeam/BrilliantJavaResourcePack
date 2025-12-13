@@ -1,0 +1,8 @@
+{
+    "credit": "RiceChen_",
+    "parent": "custom_items/brilliant/shopgui/bg",
+    "textures": {
+        "1": "minecraft:item/enchanted_book",
+        "2": "item/custom/brilliant/shopgui/guiair"
+    }
+}

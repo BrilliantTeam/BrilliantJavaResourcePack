@@ -10,13 +10,13 @@
     "entries": [
       {
         "directory": "1.21.4",
-        "formats": [46, 75],
+        "formats": [46, 64],
         "min_format": 46,
-        "max_format": 69
+        "max_format": 75
       },
       {
         "directory": "1.21.6",
-        "formats": [63, 75],
+        "formats": [63, 64],
         "min_format": 63,
         "max_format": 75
       }

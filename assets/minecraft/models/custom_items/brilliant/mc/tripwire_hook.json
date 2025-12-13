@@ -1,9 +1,0 @@
-{
-  "credit": "RiceChen_",
-  "parent": "custom_items/brilliant/shopgui/bg",
-  "textures": {
-    "1": "minecraft:block/tripwire_hook",
-    "2": "item/custom/brilliant/shopgui/guiair",
-    "particle": "minecraft:block/tripwire_hook"
-  }
-}

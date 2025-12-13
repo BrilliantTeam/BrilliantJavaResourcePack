@@ -2,6 +2,7 @@
     "credit": "RiceChen_、酥瑪",
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/custom/2024childrensday/banana2"
+        "layer0": "item/custom/2024childrensday/banana2",
+		"particle": "item/custom/2024childrensday/banana2"
     }
 }

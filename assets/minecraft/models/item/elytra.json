@@ -1,7 +1,7 @@
 {
-    "parent": "item/handheld",
+    "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "item/elytra"
+        "layer0": "minecraft:item/elytra"
     },
     "overrides": [
         {"predicate": {"custom_model_data": 1001}, "model": "custom_items/brilliant/elytra/leather_chestplate"},

@@ -5,7 +5,7 @@
         "property": "custom_model_data",
         "fallback": {
             "type": "model",
-            "model": "item/netherite_pickaxe"
+            "model": "minecraft:item/netherite_pickaxe"
         },
         "entries": [
             {

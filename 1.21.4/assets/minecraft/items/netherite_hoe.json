@@ -5,7 +5,7 @@
         "property": "custom_model_data",
         "fallback": {
             "type": "model",
-            "model": "item/netherite_hoe"
+            "model": "minecraft:item/netherite_hoe"
         },
         "entries": [
             {

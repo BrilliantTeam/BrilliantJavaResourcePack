@@ -5,7 +5,7 @@
         "property": "custom_model_data",
         "fallback": {
             "type": "model",
-            "model": "item/diamond_shovel"
+            "model": "minecraft:item/diamond_shovel"
         },
         "entries": [
             {

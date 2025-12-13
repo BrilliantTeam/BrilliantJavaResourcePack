@@ -5,7 +5,7 @@
         "property": "custom_model_data",
         "fallback": {
             "type": "model",
-            "model": "item/diamond_sword"
+            "model": "minecraft:item/diamond_sword"
         },
         "entries": [
             {

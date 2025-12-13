@@ -1,7 +1,7 @@
 {
-    "parent": "block/oak_button_inventory",
+    "parent": "minecraft:block/oak_button_inventory",
     "textures": {
-        "layer0": "block/oak_button_inventory"
+        "layer0": "minecraft:block/oak_button_inventory"
     },
     "overrides": [
         {"predicate": {"custom_model_data": 1000}, "model":"custom_items/brilliant/shopgui/cosair"}

@@ -252,6 +252,13 @@
                     "type": "model",
                     "model": "custom_items/cat_palms/cat_palm_glove_rainbow_admin"
                 }
+            },
+            {
+                "threshold": 17100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025christmas/axe"
+                }
             }
         ]
     }

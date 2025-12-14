@@ -194,14 +194,14 @@
                 "threshold": 16403,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_palms/cat_palm_stick_cyan_advanced_admin"
+                    "model": "custom_items/cat_palms/cat_palm_stick_gray_advanced_admin"
                 }
             },
             {
                 "threshold": 16404,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/cat_palms/cat_palm_stick_gray_advanced_admin"
+                    "model": "custom_items/cat_palms/cat_palm_stick_cyan_advanced_admin"
                 }
             },
             {
@@ -293,6 +293,13 @@
                 "model": {
                     "type": "model",
                     "model": "custom_items/20256th/purify_syringe"
+                }
+            },
+            {
+                "threshold": 17100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025christmas/sword_up"
                 }
             }
         ]

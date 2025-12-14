@@ -23,7 +23,7 @@
                 }
             },
             {
-                "threshold": 10200,
+                "threshold": 17100,
                 "model": {
                     "type": "model",
                     "model": "custom_items/2025christmas/sickle"

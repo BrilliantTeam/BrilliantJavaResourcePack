@@ -51,6 +51,8 @@
 
         {"predicate": {"custom_model_data": 17000}, "model": "custom_items/cat_palms/cat_palm_stick_rainbow_advanced_admin"},
 
-        {"predicate": {"custom_model_data": 18000}, "model": "custom_items/20256th/purify_syringe"}
+        {"predicate": {"custom_model_data": 18000}, "model": "custom_items/20256th/purify_syringe"},
+
+        {"predicate": {"custom_model_data": 17100}, "model": "custom_items/2025christmas/sword_up"}
     ]
 }

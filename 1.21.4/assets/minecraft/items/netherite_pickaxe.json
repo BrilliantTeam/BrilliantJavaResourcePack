@@ -28,6 +28,13 @@
                     "type": "model",
                     "model": "custom_items/2025dragonboat/zen_staff"
                 }
+            },
+            {
+                "threshold": 17100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025christmas/pickaxe_up"
+                }
             }
         ]
     }

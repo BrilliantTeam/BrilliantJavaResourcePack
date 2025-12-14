@@ -777,6 +777,9 @@
         { "predicate": { "custom_model_data": 57102 }, "model": "custom_items/2025summer/mask_hyottoko" },
         { "predicate": { "custom_model_data": 57103 }, "model": "custom_items/2025summer/mask_okame" },
 
-        { "predicate": { "custom_model_data": 57104 }, "model": "custom_items/2025christmas/polarbearqin" }
+        { "predicate": { "custom_model_data": 57104 }, "model": "custom_items/2025christmas/polarbearqin" },
+        { "predicate": { "custom_model_data": 57105 }, "model": "custom_items/2025christmas/rudolph" },
+        { "predicate": { "custom_model_data": 57106 }, "model": "custom_items/2025christmas/winterhat_brown" },
+        { "predicate": { "custom_model_data": 57107 }, "model": "custom_items/2025christmas/winterhat_tint" }
     ]
 }

@@ -5026,6 +5026,27 @@
                     "type": "model",
                     "model": "custom_items/2025christmas/polarbearqin"
                 }
+            },
+            {
+                "threshold": 57105,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025christmas/rudolph"
+                }
+            },
+            {
+                "threshold": 57106,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025christmas/winterhat_brown"
+                }
+            },
+            {
+                "threshold": 57107,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025christmas/winterhat_tint"
+                }
             }
         ]
     }

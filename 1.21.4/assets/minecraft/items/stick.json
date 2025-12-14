@@ -5045,63 +5045,21 @@
                 "threshold": 57203,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/2025christmas/winterhat_tint"
+                    "model": "custom_items/2025christmas/fairylight"
                 }
             },
             {
                 "threshold": 57204,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/2025christmas/fairylight"
+                    "model": "custom_items/2025christmas/fairylight_snowflake"
                 }
             },
             {
                 "threshold": 57205,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/2025christmas/fairylight_tint"
-                }
-            },
-            {
-                "threshold": 57206,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2025christmas/fairylight_snowflake"
-                }
-            },
-            {
-                "threshold": 57207,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2025christmas/hangedsocks"
-                }
-            },
-            {
-                "threshold": 57208,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2025christmas/hangedsocks_leo19421"
-                }
-            },
-            {
-                "threshold": 57209,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2025christmas/hangedsocks_liho_jin"
-                }
-            },
-            {
-                "threshold": 57210,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2025christmas/hangedsocks_penguin_0404"
-                }
-            },
-            {
-                "threshold": 57211,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2025christmas/hangedsocks_penguininthesky"
+                    "model": "custom_items/2025christmas/polar_leather"
                 }
             }
         ]

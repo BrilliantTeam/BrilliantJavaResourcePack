@@ -15,19 +15,6 @@
         },
         "entries": [
             {
-                "threshold": 10000,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/test",
-                    "tints": [
-                        {
-                            "type": "minecraft:dye",
-                            "default": -6265536
-                        }
-                    ]
-                }
-            },
-            {
                 "threshold": 20000,
                 "model": {
                     "type": "model",
@@ -175,6 +162,97 @@
                 "model": {
                     "type": "model",
                     "model": "custom_items/2025dragonboat/umbrella",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20301,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025christmas/winterhat_tint",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20302,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025christmas/fairylight_tint",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20303,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025christmas/hangedsocks",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20304,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025christmas/hangedsocks_leo19421",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20305,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025christmas/hangedsocks_liho_jin",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20306,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025christmas/hangedsocks_penguin_0404",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20307,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025christmas/hangedsocks_penguininthesky",
                     "tints": [
                         {
                             "type": "minecraft:dye",

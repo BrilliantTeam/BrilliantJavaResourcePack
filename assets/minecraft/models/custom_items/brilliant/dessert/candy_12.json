@@ -1,5 +1,5 @@
 {
-    "credit": "RiceChen_、酥瑪",
+    "credit": "RiceChen_、書碼",
     "parent": "minecraft:item/generated",
     "textures": {
         "layer0": "item/custom/brilliant/dessert/candy_12"

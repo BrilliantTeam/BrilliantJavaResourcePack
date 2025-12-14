@@ -780,15 +780,8 @@
         { "predicate": { "custom_model_data": 57200 }, "model": "custom_items/2025christmas/polarbearqin" },
         { "predicate": { "custom_model_data": 57201 }, "model": "custom_items/2025christmas/rudolph" },
         { "predicate": { "custom_model_data": 57202 }, "model": "custom_items/2025christmas/winterhat_brown" },
-        { "predicate": { "custom_model_data": 57203 }, "model": "custom_items/2025christmas/winterhat_tint" },
-        { "predicate": { "custom_model_data": 57204 }, "model": "custom_items/2025christmas/fairylight" },
-        { "predicate": { "custom_model_data": 57205 }, "model": "custom_items/2025christmas/fairylight_tint" },
-        { "predicate": { "custom_model_data": 57206 }, "model": "custom_items/2025christmas/fairylight_snowflake" },
-        { "predicate": { "custom_model_data": 57207 }, "model": "custom_items/2025christmas/hangedsocks" },
-        { "predicate": { "custom_model_data": 57208 }, "model": "custom_items/2025christmas/hangedsocks_leo19421" },
-        { "predicate": { "custom_model_data": 57209 }, "model": "custom_items/2025christmas/hangedsocks_liho_jin" },
-        { "predicate": { "custom_model_data": 57210 }, "model": "custom_items/2025christmas/hangedsocks_penguin_0404" },
-        { "predicate": { "custom_model_data": 57211 }, "model": "custom_items/2025christmas/hangedsocks_penguininthesky" }
-        
+        { "predicate": { "custom_model_data": 57203 }, "model": "custom_items/2025christmas/fairylight" },
+        { "predicate": { "custom_model_data": 57204 }, "model": "custom_items/2025christmas/fairylight_snowflake" },
+        { "predicate": { "custom_model_data": 57205 }, "model": "custom_items/2025christmas/polar_leather" }
     ]
 }

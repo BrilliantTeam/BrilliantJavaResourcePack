@@ -5047,6 +5047,27 @@
                     "type": "model",
                     "model": "custom_items/2025christmas/winterhat_tint"
                 }
+            },
+            {
+                "threshold": 57204,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025christmas/fairylight"
+                }
+            },
+            {
+                "threshold": 57205,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025christmas/fairylight_tint"
+                }
+            },
+            {
+                "threshold": 57206,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025christmas/fairylight_snowflake"
+                }
             }
         ]
     }

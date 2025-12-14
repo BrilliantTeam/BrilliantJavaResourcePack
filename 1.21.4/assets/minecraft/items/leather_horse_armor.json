@@ -260,6 +260,19 @@
                         }
                     ]
                 }
+            },
+            {
+                "threshold": 20308,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025christmas/bed_frame",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
             }
         ]
     }

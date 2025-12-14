@@ -26,6 +26,7 @@
         {"predicate":{"custom_model_data": 20304 }, "model": "custom_items/2025christmas/hangedsocks_leo19421" },
         {"predicate":{"custom_model_data": 20305 }, "model": "custom_items/2025christmas/hangedsocks_liho_jin" },
         {"predicate":{"custom_model_data": 20306 }, "model": "custom_items/2025christmas/hangedsocks_penguin_0404" },
-        {"predicate":{"custom_model_data": 20307 }, "model": "custom_items/2025christmas/hangedsocks_penguininthesky" }
+        {"predicate":{"custom_model_data": 20307 }, "model": "custom_items/2025christmas/hangedsocks_penguininthesky" },
+        {"predicate":{"custom_model_data": 20308 }, "model": "custom_items/2025christmas/bed_frame" }
     ]
 }

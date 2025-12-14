@@ -3,7 +3,7 @@
 	"credit": "書碼",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/custom/2025christmas/sickle_up_up",
+		"0": "item/custom/2025christmas/sickle_up",
 		"particle": "item/custom/2025christmas/sickle_up"
 	},
 	"elements": [

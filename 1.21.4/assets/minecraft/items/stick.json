@@ -5061,6 +5061,13 @@
                     "type": "model",
                     "model": "custom_items/2025christmas/polar_leather"
                 }
+            },
+            {
+                "threshold": 57206,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025christmas/xmas_kapippi"
+                }
             }
         ]
     }

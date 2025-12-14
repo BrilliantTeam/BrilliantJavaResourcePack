@@ -782,6 +782,7 @@
         { "predicate": { "custom_model_data": 57202 }, "model": "custom_items/2025christmas/winterhat_brown" },
         { "predicate": { "custom_model_data": 57203 }, "model": "custom_items/2025christmas/fairylight" },
         { "predicate": { "custom_model_data": 57204 }, "model": "custom_items/2025christmas/fairylight_snowflake" },
-        { "predicate": { "custom_model_data": 57205 }, "model": "custom_items/2025christmas/polar_leather" }
+        { "predicate": { "custom_model_data": 57205 }, "model": "custom_items/2025christmas/polar_leather" },
+        { "predicate": { "custom_model_data": 57206 }, "model": "custom_items/2025christmas/xmas_kapippi" }
     ]
 }

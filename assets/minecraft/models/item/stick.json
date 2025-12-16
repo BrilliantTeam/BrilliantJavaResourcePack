@@ -382,6 +382,7 @@
         {"predicate": {"custom_model_data": 31028}, "model":"custom_items/doll/isbn_sailor"},
         {"predicate": {"custom_model_data": 31029}, "model":"custom_items/doll/omango"},
         {"predicate": {"custom_model_data": 31030}, "model":"custom_items/doll/zgant"},
+        {"predicate": {"custom_model_data": 31031}, "model":"custom_items/doll/doren12345"},
         
         {"predicate": {"custom_model_data": 31100}, "model":"custom_items/doll/dialga0417"},
         {"predicate": {"custom_model_data": 31101}, "model":"custom_items/doll/weee4696"},

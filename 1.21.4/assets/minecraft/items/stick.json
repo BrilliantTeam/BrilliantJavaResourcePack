@@ -2578,6 +2578,13 @@
                 }
             },
             {
+                "threshold": 31031,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/doll/doren12345"
+                }
+            },
+            {
                 "threshold": 31100,
                 "model": {
                     "type": "model",

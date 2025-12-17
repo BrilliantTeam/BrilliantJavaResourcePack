@@ -5075,6 +5075,20 @@
                     "type": "model",
                     "model": "custom_items/2025christmas/xmas_kapippi"
                 }
+            },
+            {
+                "threshold": 57207,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025christmas/mitten"
+                }
+            },
+            {
+                "threshold": 57208,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025christmas/elf_hat"
+                }
             }
         ]
     }

@@ -8,6 +8,6 @@
         {"predicate": {"custom_model_data": 10100}, "model": "custom_items/2025valentinesday/wing_hoe"},
 
         {"predicate": {"custom_model_data": 17100}, "model": "custom_items/2025christmas/sickle"},
-        {"predicate": {"custom_model_data": 17101}, "model": "custom_items/2025christmas/cane_sickle"}
+        {"predicate": {"custom_model_data": 17101}, "model": "custom_items/2025christmas/cane_hoe"}
     ]
 }

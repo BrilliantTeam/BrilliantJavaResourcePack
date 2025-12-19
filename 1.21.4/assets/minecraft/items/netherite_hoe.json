@@ -33,7 +33,7 @@
                 "threshold": 17101,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/2025christmas/cane_sickle_up"
+                    "model": "custom_items/2025christmas/cane_hoe_up"
                 }
             }
         ]

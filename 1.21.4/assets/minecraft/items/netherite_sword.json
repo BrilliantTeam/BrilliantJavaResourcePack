@@ -296,6 +296,13 @@
                 }
             },
             {
+                "threshold": 17101,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025christmas/cane_sword_up"
+                }
+            },
+            {
                 "threshold": 18000,
                 "model": {
                     "type": "model",

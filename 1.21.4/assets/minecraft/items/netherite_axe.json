@@ -266,6 +266,13 @@
                     "type": "model",
                     "model": "custom_items/2025christmas/axe_up"
                 }
+            },
+            {
+                "threshold": 17101,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025christmas/cane_axe_up"
+                }
             }
         ]
     }

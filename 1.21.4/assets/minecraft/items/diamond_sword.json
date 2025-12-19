@@ -273,6 +273,13 @@
                     "type": "model",
                     "model": "custom_items/2025christmas/sword"
                 }
+            },
+            {
+                "threshold": 17101,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025christmas/cane_sword"
+                }
             }
         ]
     }

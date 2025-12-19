@@ -549,6 +549,18 @@
       { "predicate": { "custom_model_data": 30806 }, "model": "custom_items/blockentities/fireplace_bottom_2_a" },
       { "predicate": { "custom_model_data": 30807 }, "model": "custom_items/blockentities/fireplace_bottom_2_b" },
       { "predicate": { "custom_model_data": 30808 }, "model": "custom_items/blockentities/fireplace_top_2_a" },
-      { "predicate": { "custom_model_data": 30809 }, "model": "custom_items/blockentities/fireplace_top_2_b" }
+      { "predicate": { "custom_model_data": 30809 }, "model": "custom_items/blockentities/fireplace_top_2_b" },
+
+      { "predicate": { "custom_model_data": 30810 }, "model": "custom_items/blockentities/bauble_cyan" },
+      { "predicate": { "custom_model_data": 30811 }, "model": "custom_items/blockentities/bauble_golden" },
+      { "predicate": { "custom_model_data": 30812 }, "model": "custom_items/blockentities/bauble_lavender" },
+      { "predicate": { "custom_model_data": 30813 }, "model": "custom_items/blockentities/bauble_mint" },
+      { "predicate": { "custom_model_data": 30814 }, "model": "custom_items/blockentities/bauble_pink" },
+      { "predicate": { "custom_model_data": 30815 }, "model": "custom_items/blockentities/gift_babyblue" },
+      { "predicate": { "custom_model_data": 30816 }, "model": "custom_items/blockentities/gift_beige" },
+      { "predicate": { "custom_model_data": 30817 }, "model": "custom_items/blockentities/gift_mint" },
+      { "predicate": { "custom_model_data": 30818 }, "model": "custom_items/blockentities/gift_pink" },
+      { "predicate": { "custom_model_data": 30819 }, "model": "custom_items/blockentities/gift_wine" },
+      { "predicate": { "custom_model_data": 30820 }, "model": "custom_items/blockentities/crystalball" }
   ]
 }

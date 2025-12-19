@@ -35,6 +35,13 @@
                     "type": "model",
                     "model": "custom_items/2025christmas/pickaxe_up"
                 }
+            },
+            {
+                "threshold": 17101,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025christmas/cane_pickaxe_up"
+                }
             }
         ]
     }

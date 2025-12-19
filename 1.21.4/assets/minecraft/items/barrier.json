@@ -3472,6 +3472,83 @@
                     "type": "model",
                     "model": "custom_items/blockentities/fireplace_top_2_b"
                 }
+            },
+            {
+                "threshold": 30810,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/bauble_cyan"
+                }
+            },
+            {
+                "threshold": 30811,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/bauble_golden"
+                }
+            },
+            {
+                "threshold": 30812,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/bauble_lavender"
+                }
+            },
+            {
+                "threshold": 30813,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/bauble_mint"
+                }
+            },
+            {
+                "threshold": 30814,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/bauble_pink"
+                }
+            },
+            {
+                "threshold": 30815,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/gift_babyblue"
+                }
+            },
+            {
+                "threshold": 30816,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/gift_beige"
+                }
+            },
+            {
+                "threshold": 30817,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/gift_mint"
+                }
+            },
+            {
+                "threshold": 30818,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/gift_pink"
+                }
+            },
+            {
+                "threshold": 30819,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/gift_wine"
+                }
+            },
+            {
+                "threshold": 30820,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/crystalball"
+                }
             }
         ]
     }

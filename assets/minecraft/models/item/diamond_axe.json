@@ -42,6 +42,7 @@
         {"predicate": {"custom_model_data": 16215}, "model": "custom_items/cat_palms/cat_palm_glove_yellow_admin"},
         {"predicate": {"custom_model_data": 16216}, "model": "custom_items/cat_palms/cat_palm_glove_rainbow_admin"},
 
-        {"predicate": {"custom_model_data": 17100}, "model": "custom_items/2025christmas/axe"}
+        {"predicate": {"custom_model_data": 17100}, "model": "custom_items/2025christmas/axe"},
+        {"predicate": {"custom_model_data": 17101}, "model": "custom_items/2025christmas/cane_axe"}
     ]
 }

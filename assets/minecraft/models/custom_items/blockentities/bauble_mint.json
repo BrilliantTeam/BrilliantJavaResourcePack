@@ -1,0 +1,9 @@
+{
+	"credit": "恐龍",
+	"parent": "custom_items/blockentities/bauble",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/custom/blockentities/bauble_mint",
+		"particle": "item/custom/blockentities/bauble_mint"
+	}
+}

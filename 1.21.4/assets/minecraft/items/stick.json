@@ -5089,6 +5089,13 @@
                     "type": "model",
                     "model": "custom_items/2025christmas/elf_hat"
                 }
+            },
+            {
+                "threshold": 57209,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2025christmas/crystalball"
+                }
             }
         ]
     }

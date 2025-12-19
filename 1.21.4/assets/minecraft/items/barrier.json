@@ -3542,13 +3542,6 @@
                     "type": "model",
                     "model": "custom_items/blockentities/gift_wine"
                 }
-            },
-            {
-                "threshold": 30820,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/blockentities/crystalball"
-                }
             }
         ]
     }

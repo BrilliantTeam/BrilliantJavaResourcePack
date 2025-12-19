@@ -4,8 +4,8 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"1": "item/custom/2025christmas/sickle",
-		"2": "item/custom/blockentities/snowing",
-		"3": "item/custom/blockentities/glass_figure",
+		"2": "item/custom/2025christmas/snowing",
+		"3": "item/custom/2025christmas/glass_figure",
 		"particle": "item/custom/2025christmas/sickle"
 	},
 	"elements": [

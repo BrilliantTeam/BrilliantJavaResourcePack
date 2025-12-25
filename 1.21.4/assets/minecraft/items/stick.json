@@ -4125,6 +4125,265 @@
                 }
             },
             {
+                "threshold": 52201,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownhat1"
+                }
+            },
+            {
+                "threshold": 52202,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownhat2"
+                }
+            },
+            {
+                "threshold": 52203,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownhat3"
+                }
+            },
+            {
+                "threshold": 52204,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownhat4"
+                }
+            },
+            {
+                "threshold": 52205,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownhat5"
+                }
+            },
+            {
+                "threshold": 52206,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownhat6"
+                }
+            },
+            {
+                "threshold": 52207,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownhat7"
+                }
+            },
+            {
+                "threshold": 52208,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownhat8"
+                }
+            },
+            {
+                "threshold": 52209,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownhat9"
+                }
+            },
+            {
+                "threshold": 52210,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownhat10"
+                }
+            },
+            {
+                "threshold": 52211,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownhat11"
+                }
+            },
+            {
+                "threshold": 52212,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownhat12"
+                }
+            },
+            {
+                "threshold": 52213,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownhat13"
+                }
+            },
+            {
+                "threshold": 52214,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownhat14"
+                }
+            },
+            {
+                "threshold": 52215,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownhat15"
+                }
+            },
+            {
+                "threshold": 52216,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownhat16"
+                }
+            },
+            {
+                "threshold": 52217,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownhat17"
+                }
+            },
+            {
+                "threshold": 52218,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownhat18"
+                }
+            },
+            {
+                "threshold": 52301,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownglasses1"
+                }
+            },
+            {
+                "threshold": 52302,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownglasses2"
+                }
+            },
+            {
+                "threshold": 52303,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownglasses3"
+                }
+            },
+            {
+                "threshold": 52304,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownglasses4"
+                }
+            },
+            {
+                "threshold": 52305,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownglasses5"
+                }
+            },
+            {
+                "threshold": 52306,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownglasses6"
+                }
+            },
+            {
+                "threshold": 52307,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownglasses7"
+                }
+            },
+            {
+                "threshold": 52308,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownglasses8"
+                }
+            },
+            {
+                "threshold": 52309,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownglasses9"
+                }
+            },
+            {
+                "threshold": 52310,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownglasses10"
+                }
+            },
+            {
+                "threshold": 52311,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownglasses11"
+                }
+            },
+            {
+                "threshold": 52312,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownglasses12"
+                }
+            },
+            {
+                "threshold": 52313,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownglasses13"
+                }
+            },
+            {
+                "threshold": 52314,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownglasses14"
+                }
+            },
+            {
+                "threshold": 52315,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownglasses15"
+                }
+            },
+            {
+                "threshold": 52316,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownglasses16"
+                }
+            },
+            {
+                "threshold": 52317,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownglasses17"
+                }
+            },
+            {
+                "threshold": 52318,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/2026countdownglasses18"
+                }
+            },
+            {
+                "threshold": 52320,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hat/plt_ticket_2026"
+                }
+            },
+            {
                 "threshold": 53000,
                 "model": {
                     "type": "model",

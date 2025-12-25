@@ -1,0 +1,7 @@
+{
+    "credit": "書碼",
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "item/custom/2026hat/plt_ticket_2026"
+    }
+}

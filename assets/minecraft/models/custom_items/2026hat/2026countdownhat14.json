@@ -1,0 +1,9 @@
+{
+	"credit": "書碼",
+	"parent": "custom_items/2026hat/2026countdownhat",
+
+	"textures": {
+		"2": "item/custom/2025hat/2025countdown_animated_14",
+		"particle": "item/custom/2025hat/2025countdown_animated_14"
+	}
+}

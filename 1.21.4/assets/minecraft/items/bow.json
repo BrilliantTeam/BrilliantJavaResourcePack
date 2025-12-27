@@ -166,7 +166,7 @@
                     "property": "minecraft:using_item",
                     "on_false": {
                         "type": "minecraft:model",
-                        "model": "custom_items/2025christmas/bow/sock_bow0"
+                        "model": "custom_items/2025christmas/bow/sock_bow"
                     },
                     "on_true": {
                         "type": "minecraft:range_dispatch",
@@ -174,7 +174,7 @@
                         "scale": 0.05,
                         "fallback": {
                             "type": "minecraft:model",
-                            "model": "custom_items/2025christmas/bow/sock_bow0"
+                            "model": "custom_items/2025christmas/bow/sock_bow"
                         },
                         "entries": [
                             {

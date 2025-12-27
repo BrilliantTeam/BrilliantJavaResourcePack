@@ -1,0 +1,11 @@
+{
+	"format_version": "1.9.0",
+	"credit": "書碼",
+	"parent": "custom_items/2025christmas/bow/sock_bow1",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "item/custom/2025christmas/candycane_ani",
+		"1": "item/custom/2025christmas/sock_leo19421",
+		"particle": "item/custom/2025christmas/candycane_ani"
+	}
+}

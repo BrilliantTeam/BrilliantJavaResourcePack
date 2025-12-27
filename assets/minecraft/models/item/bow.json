@@ -34,22 +34,22 @@
         {"predicate": {"custom_model_data": 2000, "pulling": 1, "pull": 0.4}, "model": "custom_items/ricechen/bow1"},
         {"predicate": {"custom_model_data": 2000, "pulling": 1, "pull": 0.9}, "model": "custom_items/ricechen/bow2"},
 
-        {"predicate": {"custom_model_data": 10000}, "model": "custom_items/2025christmas/bow/sock_bow0"},
+        {"predicate": {"custom_model_data": 10000}, "model": "custom_items/2025christmas/bow/sock_bow"},
         {"predicate": {"custom_model_data": 10000, "pulling": 1}, "model": "custom_items/2025christmas/bow/sock_bow0_leo19421"},
         {"predicate": {"custom_model_data": 10000, "pulling": 1, "pull": 0.4}, "model": "custom_items/2025christmas/bow/sock_bow1_leo19421"},
         {"predicate": {"custom_model_data": 10000, "pulling": 1, "pull": 0.9}, "model": "custom_items/2025christmas/bow/sock_bow2_leo19421"},
 
-        {"predicate": {"custom_model_data": 10001}, "model": "custom_items/2025christmas/bow/sock_bow0"},
+        {"predicate": {"custom_model_data": 10001}, "model": "custom_items/2025christmas/bow/sock_bow"},
         {"predicate": {"custom_model_data": 10001, "pulling": 1}, "model": "custom_items/2025christmas/bow/sock_bow0_liho_jin"},
         {"predicate": {"custom_model_data": 10001, "pulling": 1, "pull": 0.4}, "model": "custom_items/2025christmas/bow/sock_bow1_liho_jin"},
         {"predicate": {"custom_model_data": 10001, "pulling": 1, "pull": 0.9}, "model": "custom_items/2025christmas/bow/sock_bow2_liho_jin"},
 
-        {"predicate": {"custom_model_data": 10002}, "model": "custom_items/2025christmas/bow/sock_bow0"},
+        {"predicate": {"custom_model_data": 10002}, "model": "custom_items/2025christmas/bow/sock_bow"},
         {"predicate": {"custom_model_data": 10002, "pulling": 1}, "model": "custom_items/2025christmas/bow/sock_bow0_penguin_0404"},
         {"predicate": {"custom_model_data": 10002, "pulling": 1, "pull": 0.4}, "model": "custom_items/2025christmas/bow/sock_bow1_penguin_0404"},
         {"predicate": {"custom_model_data": 10002, "pulling": 1, "pull": 0.9}, "model": "custom_items/2025christmas/bow/sock_bow2_penguin_0404"},
 
-        {"predicate": {"custom_model_data": 10003}, "model": "custom_items/2025christmas/bow/sock_bow0"},
+        {"predicate": {"custom_model_data": 10003}, "model": "custom_items/2025christmas/bow/sock_bow"},
         {"predicate": {"custom_model_data": 10003, "pulling": 1}, "model": "custom_items/2025christmas/bow/sock_bow0_penguininthesky"},
         {"predicate": {"custom_model_data": 10003, "pulling": 1, "pull": 0.4}, "model": "custom_items/2025christmas/bow/sock_bow1_penguininthesky"},
         {"predicate": {"custom_model_data": 10003, "pulling": 1, "pull": 0.9}, "model": "custom_items/2025christmas/bow/sock_bow2_penguininthesky"}

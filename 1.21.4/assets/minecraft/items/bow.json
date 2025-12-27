@@ -72,6 +72,178 @@
                         ]
                     }
                 }
+            },
+            {
+                "threshold": 10000,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "custom_items/2025christmas/bow/sock_bow0"
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:use_duration",
+                        "scale": 0.05,
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "custom_items/2025christmas/bow/sock_bow0"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 0.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "custom_items/2025christmas/bow/sock_bow0_leo19421"
+                                }
+                            },
+                            {
+                                "threshold": 0.4,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "custom_items/2025christmas/bow/sock_bow1_leo19421"
+                                }
+                            },
+                            {
+                                "threshold": 0.9,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "custom_items/2025christmas/bow/sock_bow2_leo19421"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "threshold": 10001,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "custom_items/2025christmas/bow/sock_bow0"
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:use_duration",
+                        "scale": 0.05,
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "custom_items/2025christmas/bow/sock_bow0"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 0.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "custom_items/2025christmas/bow/sock_bow0_liho_jin"
+                                }
+                            },
+                            {
+                                "threshold": 0.4,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "custom_items/2025christmas/bow/sock_bow1_liho_jin"
+                                }
+                            },
+                            {
+                                "threshold": 0.9,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "custom_items/2025christmas/bow/sock_bow2_liho_jin"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "threshold": 10002,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "custom_items/2025christmas/bow/sock_bow0"
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:use_duration",
+                        "scale": 0.05,
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "custom_items/2025christmas/bow/sock_bow0"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 0.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "custom_items/2025christmas/bow/sock_bow0_penguin_0404"
+                                }
+                            },
+                            {
+                                "threshold": 0.4,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "custom_items/2025christmas/bow/sock_bow1_penguin_0404"
+                                }
+                            },
+                            {
+                                "threshold": 0.9,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "custom_items/2025christmas/bow/sock_bow2_penguin_0404"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "threshold": 10003,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "custom_items/2025christmas/bow/sock_bow0"
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:use_duration",
+                        "scale": 0.05,
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "custom_items/2025christmas/bow/sock_bow0"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 0.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "custom_items/2025christmas/bow/sock_bow0_penguininthesky"
+                                }
+                            },
+                            {
+                                "threshold": 0.4,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "custom_items/2025christmas/bow/sock_bow1_penguininthesky"
+                                }
+                            },
+                            {
+                                "threshold": 0.9,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "custom_items/2025christmas/bow/sock_bow2_penguininthesky"
+                                }
+                            }
+                        ]
+                    }
+                }
             }
         ]
     },

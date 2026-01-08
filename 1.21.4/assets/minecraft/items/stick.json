@@ -3215,6 +3215,13 @@
                 }
             },
             {
+                "threshold": 35005,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/misteln/misteln_rice_wig"
+                }
+            },
+            {
                 "threshold": 36010,
                 "model": {
                     "type": "model",

@@ -10,6 +10,8 @@
         {"predicate": {"custom_model_data": 10200}, "model": "custom_items/2025dragonboat/oar"},
 
         {"predicate": {"custom_model_data": 17100}, "model": "custom_items/2025christmas/shovel_up"},
-        {"predicate": {"custom_model_data": 17101}, "model": "custom_items/2025christmas/cane_shovel_up"}
+        {"predicate": {"custom_model_data": 17101}, "model": "custom_items/2025christmas/cane_shovel_up"},
+        
+        {"predicate": {"custom_model_data": 19000}, "model": "custom_items/2026aprilfool/shovel2"}
     ]
 }

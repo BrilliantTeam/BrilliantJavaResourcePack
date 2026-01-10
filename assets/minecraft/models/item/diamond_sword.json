@@ -47,6 +47,8 @@
         {"predicate": {"custom_model_data": 17000}, "model": "custom_items/brilliant/misteln/super_big_star_fruit"},
 
         {"predicate": {"custom_model_data": 17100}, "model": "custom_items/2025christmas/sword"},
-        {"predicate": {"custom_model_data": 17101}, "model": "custom_items/2025christmas/cane_sword"}
+        {"predicate": {"custom_model_data": 17101}, "model": "custom_items/2025christmas/cane_sword"},
+        
+        {"predicate": {"custom_model_data": 19000}, "model": "custom_items/2026aprilfool/sword"}
     ]
 }

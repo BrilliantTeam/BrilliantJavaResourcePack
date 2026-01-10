@@ -42,6 +42,13 @@
                     "type": "model",
                     "model": "custom_items/2025christmas/cane_pickaxe_up"
                 }
+            },
+            {
+                "threshold": 19000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026aprilfool/pickaxe2"
+                }
             }
         ]
     }

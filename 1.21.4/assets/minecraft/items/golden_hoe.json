@@ -1,0 +1,27 @@
+{
+    "oversized_in_gui": true,
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/golden_hoe"
+        },
+        "entries": [
+            {
+                "threshold": 19000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026aprilfool/hoe"
+                }
+            },
+            {
+                "threshold": 19001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026aprilfool/hoe_yg"
+                }
+            }
+        ]
+    }
+}

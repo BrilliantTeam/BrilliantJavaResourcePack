@@ -308,6 +308,13 @@
                     "type": "model",
                     "model": "custom_items/20256th/purify_syringe"
                 }
+            },
+            {
+                "threshold": 19000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026aprilfool/sword2"
+                }
             }
         ]
     }

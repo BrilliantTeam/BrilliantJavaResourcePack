@@ -56,6 +56,7 @@
 
         {"predicate": {"custom_model_data": 18000}, "model": "custom_items/20256th/purify_syringe"},
         
-        {"predicate": {"custom_model_data": 19000}, "model": "custom_items/2026aprilfool/sword2"}
+        {"predicate": {"custom_model_data": 19000}, "model": "custom_items/2026aprilfool/sword2"},
+        {"predicate": {"custom_model_data": 19001}, "model": "custom_items/2026aprilfool/huge_sword2"}
     ]
 }

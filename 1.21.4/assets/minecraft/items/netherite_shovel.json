@@ -49,6 +49,13 @@
                     "type": "model",
                     "model": "custom_items/2026aprilfool/shovel2"
                 }
+            },
+            {
+                "threshold": 19001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026aprilfool/huge_shovel2"
+                }
             }
         ]
     }

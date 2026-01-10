@@ -40,14 +40,14 @@
                 "threshold": 19000,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/2026aprilfool/hoe2"
+                    "model": "custom_items/2026aprilfool/huge_hoe6"
                 }
             },
             {
                 "threshold": 19001,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/2026aprilfool/huge_hoe2"
+                    "model": "custom_items/2026aprilfool/hoe2"
                 }
             }
         ]

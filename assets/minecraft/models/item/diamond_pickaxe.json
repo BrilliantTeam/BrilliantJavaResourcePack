@@ -11,8 +11,8 @@
 
         {"predicate": {"custom_model_data": 17100}, "model": "custom_items/2025christmas/pickaxe"},
         {"predicate": {"custom_model_data": 17101}, "model": "custom_items/2025christmas/cane_pickaxe"},
-        
-        {"predicate": {"custom_model_data": 19000}, "model": "custom_items/2026aprilfool/pickaxe"},
-        {"predicate": {"custom_model_data": 19001}, "model": "custom_items/2026aprilfool/huge_pickaxe"}
+
+        {"predicate": {"custom_model_data": 19000}, "model": "custom_items/2026aprilfool/huge_pickaxe5"},
+        {"predicate": {"custom_model_data": 19001}, "model": "custom_items/2026aprilfool/pickaxe"}
     ]
 }

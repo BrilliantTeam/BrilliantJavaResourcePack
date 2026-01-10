@@ -4,6 +4,6 @@
         "layer0": "minecraft:item/iron_axe"
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 19000}, "model": "custom_items/2026aprilfool/axe"}
+        {"predicate": {"custom_model_data": 19000}, "model": "custom_items/2026aprilfool/huge_axe3"}
     ]
 }

@@ -4,6 +4,6 @@
         "layer0": "minecraft:item/stone_pickaxe"
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 19000}, "model": "custom_items/2026aprilfool/pickaxe"}
+        {"predicate": {"custom_model_data": 19000}, "model": "custom_items/2026aprilfool/huge_pickaxe2"}
     ]
 }

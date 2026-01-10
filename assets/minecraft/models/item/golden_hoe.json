@@ -4,7 +4,7 @@
         "layer0": "minecraft:item/golden_hoe"
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 19000}, "model": "custom_items/2026aprilfool/hoe"},
-        {"predicate": {"custom_model_data": 19001}, "model": "custom_items/2026aprilfool/hoe_yg"}
+        {"predicate": {"custom_model_data": 19000}, "model": "custom_items/2026aprilfool/huge_hoe4"},
+        {"predicate": {"custom_model_data": 19002}, "model": "custom_items/2026aprilfool/hoe_yg"}
     ]
 }

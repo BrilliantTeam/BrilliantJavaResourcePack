@@ -1,0 +1,9 @@
+{
+	"format_version": "1.9.0",
+	"credit": "書碼",
+    "parent": "item/custom/2026aprilfool/huge_sword",
+	"textures": {
+		"0": "minecraft:item/diamond_sword",
+		"particle": "minecraft:item/diamond_sword"
+	}
+}

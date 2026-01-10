@@ -1,10 +1,6 @@
 {
 	"format_version": "1.9.0",
 	"credit": "書碼",
-	"textures": {
-		"0": "minecraft:item/diamond_pickaxe",
-		"particle": "minecraft:item/diamond_pickaxe"
-	},
 	"elements": [
 		{
 			"from": [7.5, 5.6434, 7.75],

@@ -46,7 +46,7 @@
         {"predicate": {"custom_model_data": 17100}, "model": "custom_items/2025christmas/axe_up"},
         {"predicate": {"custom_model_data": 17101}, "model": "custom_items/2025christmas/cane_axe_up"},
         
-        {"predicate": {"custom_model_data": 19000}, "model": "custom_items/2026aprilfool/axe2"},
-        {"predicate": {"custom_model_data": 19001}, "model": "custom_items/2026aprilfool/huge_axe2"}
+        {"predicate": {"custom_model_data": 19000}, "model": "custom_items/2026aprilfool/huge_axe6"},
+        {"predicate": {"custom_model_data": 19001}, "model": "custom_items/2026aprilfool/axe2"}
     ]
 }

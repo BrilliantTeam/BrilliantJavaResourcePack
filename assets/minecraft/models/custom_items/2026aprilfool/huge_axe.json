@@ -1,10 +1,6 @@
 {
 	"format_version": "1.9.0",
 	"credit": "書碼",
-	"textures": {
-		"0": "minecraft:item/diamond_axe",
-		"particle": "minecraft:item/diamond_axe"
-	},
 	"elements": [
 		{
 			"from": [7.5, -0.07107, 1.89645],

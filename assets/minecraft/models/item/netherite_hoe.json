@@ -9,8 +9,8 @@
 
         {"predicate": {"custom_model_data": 17100}, "model": "custom_items/2025christmas/sickle_up"},
         {"predicate": {"custom_model_data": 17101}, "model": "custom_items/2025christmas/cane_hoe_up"},
-        
-        {"predicate": {"custom_model_data": 19000}, "model": "custom_items/2026aprilfool/hoe2"},
-        {"predicate": {"custom_model_data": 19001}, "model": "custom_items/2026aprilfool/huge_hoe2"}
+
+        {"predicate": {"custom_model_data": 19000}, "model": "custom_items/2026aprilfool/huge_hoe6"},
+        {"predicate": {"custom_model_data": 19001}, "model": "custom_items/2026aprilfool/hoe2"}
     ]
 }

@@ -4,6 +4,6 @@
         "layer0": "minecraft:item/wooden_shovel"
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 19000}, "model": "custom_items/2026aprilfool/shovel"}
+        {"predicate": {"custom_model_data": 19000}, "model": "custom_items/2026aprilfool/huge_shovel1"}
     ]
 }

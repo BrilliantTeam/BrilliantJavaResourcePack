@@ -278,14 +278,14 @@
                 "threshold": 19000,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/2026aprilfool/axe2"
+                    "model": "custom_items/2026aprilfool/huge_axe6"
                 }
             },
             {
                 "threshold": 19001,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/2026aprilfool/huge_axe2"
+                    "model": "custom_items/2026aprilfool/axe2"
                 }
             }
         ]

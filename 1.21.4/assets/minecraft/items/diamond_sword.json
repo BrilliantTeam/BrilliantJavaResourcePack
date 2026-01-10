@@ -285,14 +285,14 @@
                 "threshold": 19000,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/2026aprilfool/sword"
+                    "model": "custom_items/2026aprilfool/huge_sword5"
                 }
             },
             {
                 "threshold": 19001,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/2026aprilfool/huge_sword"
+                    "model": "custom_items/2026aprilfool/sword"
                 }
             }
         ]

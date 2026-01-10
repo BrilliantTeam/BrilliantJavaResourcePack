@@ -1,7 +1,7 @@
 {
 	"format_version": "1.9.0",
 	"credit": "書碼",
-    "parent": "item/custom/2026aprilfool/huge_hoe",
+    "parent": "item/custom_items/2026aprilfool/huge_hoe",
 	"textures": {
 		"0": "minecraft:item/iron_hoe",
 		"particle": "minecraft:item/iron_hoe"

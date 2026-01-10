@@ -1,7 +1,7 @@
 {
 	"format_version": "1.9.0",
 	"credit": "書碼",
-    "parent": "item/custom/2026aprilfool/huge_shovel",
+    "parent": "item/custom_items/2026aprilfool/huge_shovel",
 	"textures": {
 		"0": "minecraft:item/netherite_shovel",
 		"particle": "minecraft:item/netherite_shovel"

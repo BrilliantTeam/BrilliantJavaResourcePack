@@ -1,6 +1,6 @@
 {
     "credit": "書碼",
-    "parent": "minecraft:item/generated",
+    "parent": "minecraft:item/handheld",
     "textures": {
         "layer0": "item/custom/2026aprilfool/hoe_yg"
     }

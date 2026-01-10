@@ -1,7 +1,7 @@
 {
 	"format_version": "1.9.0",
 	"credit": "書碼",
-    "parent": "item/custom_items/2026aprilfool/huge_sword",
+    "parent": "custom_items/2026aprilfool/huge_sword",
 	"textures": {
 		"0": "minecraft:item/golden_sword",
 		"particle": "minecraft:item/golden_sword"

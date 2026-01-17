@@ -5,6 +5,9 @@
     },
     "overrides": [
         {"predicate": {"custom_model_data": 19000}, "model": "custom_items/2026aprilfool/huge_axe4"},
-        {"predicate": {"custom_model_data": 19002}, "model": "custom_items/2026aprilfool/axe_yg"}
+        {"predicate": {"custom_model_data": 19002}, "model": "custom_items/2026aprilfool/axe_yg"},
+
+        {"predicate": {"custom_model_data": 19100}, "model": "custom_items/2026blockstats/hobbyhorse_newyear"},
+        {"predicate": {"custom_model_data": 19101}, "model": "custom_items/2026blockstats/hobbyhorse_valentines"}
     ]
 }

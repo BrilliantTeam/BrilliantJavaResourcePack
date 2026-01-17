@@ -21,6 +21,20 @@
                     "type": "model",
                     "model": "custom_items/2026aprilfool/axe_yg"
                 }
+            },
+            {
+                "threshold": 19100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026blockstats/hobbyhorse_newyear"
+                }
+            },
+            {
+                "threshold": 19101,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026blockstats/hobbyhorse_valentines"
+                }
             }
         ]
     }

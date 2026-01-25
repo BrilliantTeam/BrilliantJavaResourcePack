@@ -405,6 +405,7 @@
         {"predicate": {"custom_model_data": 31118}, "model":"custom_items/doll/willy100031"},
         {"predicate": {"custom_model_data": 31119}, "model":"custom_items/doll/youaresb6"},
         {"predicate": {"custom_model_data": 31120}, "model":"custom_items/doll/jiuzhou_tw"},
+        {"predicate": {"custom_model_data": 31121}, "model":"custom_items/doll/heavensunflower"},
 
         {"predicate": {"custom_model_data": 31500}, "model":"custom_items/doll/mistelnrice5"},
         

@@ -13,6 +13,9 @@
         {"predicate": {"custom_model_data": 17101}, "model": "custom_items/2025christmas/cane_shovel"},
 
         {"predicate": {"custom_model_data": 19000}, "model": "custom_items/2026aprilfool/huge_shovel5"},
-        {"predicate": {"custom_model_data": 19001}, "model": "custom_items/2026aprilfool/shovel"}
+        {"predicate": {"custom_model_data": 19001}, "model": "custom_items/2026aprilfool/shovel"},
+        
+        {"predicate": {"custom_model_data": 20000}, "model": "custom_items/2026valentinesday/heart_shovel"},
+        {"predicate": {"custom_model_data": 20001}, "model": "custom_items/2026valentinesday/spade_shovel"}
     ]
 }

@@ -322,6 +322,20 @@
                     "type": "model",
                     "model": "custom_items/2026aprilfool/sword2"
                 }
+            },
+            {
+                "threshold": 20000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/heart_sword"
+                }
+            },
+            {
+                "threshold": 20001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/spade_sword"
+                }
             }
         ]
     }

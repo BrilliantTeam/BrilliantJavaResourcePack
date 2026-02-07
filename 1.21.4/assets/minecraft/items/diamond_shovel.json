@@ -56,6 +56,20 @@
                     "type": "model",
                     "model": "custom_items/2026aprilfool/shovel"
                 }
+            },
+            {
+                "threshold": 20000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/heart_shovel"
+                }
+            },
+            {
+                "threshold": 20001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/spade_shovel"
+                }
             }
         ]
     }

@@ -3542,6 +3542,27 @@
                     "type": "model",
                     "model": "custom_items/blockentities/gift_wine"
                 }
+            },
+            {
+                "threshold": 30900,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/heartguard"
+                }
+            },
+            {
+                "threshold": 30901,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/spadeguard"
+                }
+            },
+            {
+                "threshold": 30902,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/hookah"
+                }
             }
         ]
     }

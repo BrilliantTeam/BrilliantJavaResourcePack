@@ -829,6 +829,10 @@
         { "predicate": { "custom_model_data": 57206 }, "model": "custom_items/2025christmas/xmas_kapippi" },
         { "predicate": { "custom_model_data": 57207 }, "model": "custom_items/2025christmas/mitten" },
         { "predicate": { "custom_model_data": 57208 }, "model": "custom_items/2025christmas/elf_hat" },
-        { "predicate": { "custom_model_data": 57209 }, "model": "custom_items/2025christmas/crystalball" }
+        { "predicate": { "custom_model_data": 57209 }, "model": "custom_items/2025christmas/crystalball" },
+
+        { "predicate": { "custom_model_data": 57300 }, "model": "custom_items/2026valentinesday/cheshirecat" },
+        { "predicate": { "custom_model_data": 57301 }, "model": "custom_items/2026valentinesday/madhatterhat" },
+        { "predicate": { "custom_model_data": 57302 }, "model": "custom_items/2026valentinesday/alice_ribbon" }
     ]
 }

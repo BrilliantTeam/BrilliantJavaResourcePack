@@ -560,6 +560,10 @@
       { "predicate": { "custom_model_data": 30816 }, "model": "custom_items/blockentities/gift_beige" },
       { "predicate": { "custom_model_data": 30817 }, "model": "custom_items/blockentities/gift_mint" },
       { "predicate": { "custom_model_data": 30818 }, "model": "custom_items/blockentities/gift_pink" },
-      { "predicate": { "custom_model_data": 30819 }, "model": "custom_items/blockentities/gift_wine" }
+      { "predicate": { "custom_model_data": 30819 }, "model": "custom_items/blockentities/gift_wine" },
+      
+      { "predicate": { "custom_model_data": 30900 }, "model": "custom_items/2026valentinesday/heartguard" },
+      { "predicate": { "custom_model_data": 30901 }, "model": "custom_items/2026valentinesday/spadeguard" },
+      { "predicate": { "custom_model_data": 30902 }, "model": "custom_items/2026valentinesday/hookah" }
   ]
 }

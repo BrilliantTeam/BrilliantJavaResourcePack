@@ -5369,6 +5369,27 @@
                     "type": "model",
                     "model": "custom_items/2025christmas/crystalball"
                 }
+            },
+            {
+                "threshold": 57300,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/cheshirecat"
+                }
+            },
+            {
+                "threshold": 57301,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/madhatterhat"
+                }
+            },
+            {
+                "threshold": 57302,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/alice_ribbon"
+                }
             }
         ]
     }

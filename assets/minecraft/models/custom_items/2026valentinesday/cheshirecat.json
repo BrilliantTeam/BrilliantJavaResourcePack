@@ -376,7 +376,8 @@
 			"scale": [0.7, 0.7, 0.7]
 		},
 		"head": {
-			"translation": [0, -2, 0]
+			"translation": [0, 20.75, 0],
+			"scale": [4, 4, 4]
 		},
 		"fixed": {
 			"translation": [0, 0, -24],

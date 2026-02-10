@@ -564,6 +564,7 @@
       
       { "predicate": { "custom_model_data": 30900 }, "model": "custom_items/2026valentinesday/heartguard" },
       { "predicate": { "custom_model_data": 30901 }, "model": "custom_items/2026valentinesday/spadeguard" },
-      { "predicate": { "custom_model_data": 30902 }, "model": "custom_items/2026valentinesday/hookah" }
+      { "predicate": { "custom_model_data": 30902 }, "model": "custom_items/2026valentinesday/hookah" },
+      { "predicate": { "custom_model_data": 30903 }, "model": "custom_items/2026valentinesday/heartcrown" }
   ]
 }

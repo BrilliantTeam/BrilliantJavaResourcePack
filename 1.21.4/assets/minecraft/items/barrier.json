@@ -3563,6 +3563,13 @@
                     "type": "model",
                     "model": "custom_items/2026valentinesday/hookah"
                 }
+            },
+            {
+                "threshold": 30903,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/heartcrown"
+                }
             }
         ]
     }

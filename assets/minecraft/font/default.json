@@ -2125,11 +2125,20 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "emojis/a0_8kuaikuai.png",
+			"file": "emojis/a0_811sesamemilk.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": [
 				"ꇫ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/a0_8kuaikuai.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"ꇬ"
 			]
 		}
 	]

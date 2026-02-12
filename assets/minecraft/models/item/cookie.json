@@ -73,6 +73,8 @@
         {"predicate": {"custom_model_data": 51103}, "model": "custom_items/2025childrensday/easteregg_purple"},
         {"predicate": {"custom_model_data": 51104}, "model": "custom_items/2025childrensday/easteregg_yellow"},
 
+        {"predicate": {"custom_model_data": 52000}, "model": "custom_items/2026valentinesday/eatme_cookie"},
+        
         {"predicate": {"custom_model_data": 70000}, "model": "custom_items/brilliant/shopgui/c0"},
         {"predicate": {"custom_model_data": 70001}, "model": "custom_items/brilliant/shopgui/c1"},
         {"predicate": {"custom_model_data": 70002}, "model": "custom_items/brilliant/shopgui/c2"},

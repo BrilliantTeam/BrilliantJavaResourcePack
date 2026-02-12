@@ -436,6 +436,13 @@
                 }
             },
             {
+                "threshold": 52000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/eatme_cookie"
+                }
+            },
+            {
                 "threshold": 70000,
                 "model": {
                     "type": "model",

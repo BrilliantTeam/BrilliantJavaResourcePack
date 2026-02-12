@@ -1,0 +1,10 @@
+{
+	"credit": "書碼",
+	"parent": "custom_items/2025childrensday/uno",
+	"texture_size": [16, 24],
+	"textures": {
+		"0": "item/custom/2026valentinesday/poker/poker_back",
+		"1": "item/custom/2026valentinesday/poker/clover_10",
+		"particle": "item/custom/2026valentinesday/poker/poker_back"
+	}
+}

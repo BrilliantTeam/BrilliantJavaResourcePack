@@ -5390,6 +5390,384 @@
                     "type": "model",
                     "model": "custom_items/2026valentinesday/alice_ribbon"
                 }
+            },
+            {
+                "threshold": 57303,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/joker_1"
+                }
+            },
+            {
+                "threshold": 57304,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/joker_2"
+                }
+            },
+            {
+                "threshold": 57400,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/spade_1"
+                }
+            },
+            {
+                "threshold": 57401,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/spade_2"
+                }
+            },
+            {
+                "threshold": 57402,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/spade_3"
+                }
+            },
+            {
+                "threshold": 57403,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/spade_4"
+                }
+            },
+            {
+                "threshold": 57404,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/spade_5"
+                }
+            },
+            {
+                "threshold": 57405,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/spade_6"
+                }
+            },
+            {
+                "threshold": 57406,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/spade_7"
+                }
+            },
+            {
+                "threshold": 57407,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/spade_8"
+                }
+            },
+            {
+                "threshold": 57408,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/spade_9"
+                }
+            },
+            {
+                "threshold": 57409,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/spade_10"
+                }
+            },
+            {
+                "threshold": 57410,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/spade_j"
+                }
+            },
+            {
+                "threshold": 57411,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/spade_q"
+                }
+            },
+            {
+                "threshold": 57412,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/spade_k"
+                }
+            },
+            {
+                "threshold": 57500,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/heart_1"
+                }
+            },
+            {
+                "threshold": 57501,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/heart_2"
+                }
+            },
+            {
+                "threshold": 57502,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/heart_3"
+                }
+            },
+            {
+                "threshold": 57503,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/heart_4"
+                }
+            },
+            {
+                "threshold": 57504,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/heart_5"
+                }
+            },
+            {
+                "threshold": 57505,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/heart_6"
+                }
+            },
+            {
+                "threshold": 57506,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/heart_7"
+                }
+            },
+            {
+                "threshold": 57507,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/heart_8"
+                }
+            },
+            {
+                "threshold": 57508,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/heart_9"
+                }
+            },
+            {
+                "threshold": 57509,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/heart_10"
+                }
+            },
+            {
+                "threshold": 57510,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/heart_j"
+                }
+            },
+            {
+                "threshold": 57511,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/heart_q"
+                }
+            },
+            {
+                "threshold": 57512,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/heart_k"
+                }
+            },
+            {
+                "threshold": 57600,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/clover_1"
+                }
+            },
+            {
+                "threshold": 57601,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/clover_2"
+                }
+            },
+            {
+                "threshold": 57602,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/clover_3"
+                }
+            },
+            {
+                "threshold": 57603,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/clover_4"
+                }
+            },
+            {
+                "threshold": 57604,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/clover_5"
+                }
+            },
+            {
+                "threshold": 57605,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/clover_6"
+                }
+            },
+            {
+                "threshold": 57606,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/clover_7"
+                }
+            },
+            {
+                "threshold": 57607,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/clover_8"
+                }
+            },
+            {
+                "threshold": 57608,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/clover_9"
+                }
+            },
+            {
+                "threshold": 57609,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/clover_10"
+                }
+            },
+            {
+                "threshold": 57610,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/clover_j"
+                }
+            },
+            {
+                "threshold": 57611,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/clover_q"
+                }
+            },
+            {
+                "threshold": 57612,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/clover_k"
+                }
+            },
+            {
+                "threshold": 57700,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/clubs_1"
+                }
+            },
+            {
+                "threshold": 57701,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/clubs_2"
+                }
+            },
+            {
+                "threshold": 57702,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/clubs_3"
+                }
+            },
+            {
+                "threshold": 57703,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/clubs_4"
+                }
+            },
+            {
+                "threshold": 57704,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/clubs_5"
+                }
+            },
+            {
+                "threshold": 57705,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/clubs_6"
+                }
+            },
+            {
+                "threshold": 57706,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/clubs_7"
+                }
+            },
+            {
+                "threshold": 57707,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/clubs_8"
+                }
+            },
+            {
+                "threshold": 57708,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/clubs_9"
+                }
+            },
+            {
+                "threshold": 57709,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/clubs_10"
+                }
+            },
+            {
+                "threshold": 57710,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/clubs_j"
+                }
+            },
+            {
+                "threshold": 57711,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/clubs_q"
+                }
+            },
+            {
+                "threshold": 57712,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026valentinesday/poker/clubs_k"
+                }
             }
         ]
     }

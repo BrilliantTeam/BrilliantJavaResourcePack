@@ -3,8 +3,8 @@
 	"credit": "書碼",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/custom/brilliant/dessert/kuaikuai",
-		"particle": "item/custom/brilliant/dessert/kuaikuai"
+		"0": "item/custom/brilliant/dessert/goodgood1",
+		"particle": "item/custom/brilliant/dessert/goodgood1"
 	},
 	"elements": [
 		{

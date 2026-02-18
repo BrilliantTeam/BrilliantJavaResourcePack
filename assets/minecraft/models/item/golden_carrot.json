@@ -177,6 +177,6 @@
         {"predicate": {"custom_model_data": 50038}, "model": "custom_items/brilliant/dessert/sweet_berries_ice_cream_cone"},
         {"predicate": {"custom_model_data": 50039}, "model": "custom_items/brilliant/dessert/beef_cheese_sandwich"},
 
-        {"predicate": {"custom_model_data": 50040}, "model": "custom_items/brilliant/dessert/kuaikuai"}
+        {"predicate": {"custom_model_data": 50040}, "model": "custom_items/brilliant/dessert/goodgood1"}
     ]
 }

@@ -1141,6 +1141,27 @@
                     "type": "model",
                     "model": "custom_items/brilliant/dessert/goodgood1"
                 }
+            },
+            {
+                "threshold": 50041,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/dessert/goodgood2"
+                }
+            },
+            {
+                "threshold": 50042,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/dessert/goodgood3"
+                }
+            },
+            {
+                "threshold": 50043,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/dessert/goodgood4"
+                }
             }
         ]
     }

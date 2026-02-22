@@ -177,6 +177,9 @@
         {"predicate": {"custom_model_data": 50038}, "model": "custom_items/brilliant/dessert/sweet_berries_ice_cream_cone"},
         {"predicate": {"custom_model_data": 50039}, "model": "custom_items/brilliant/dessert/beef_cheese_sandwich"},
 
-        {"predicate": {"custom_model_data": 50040}, "model": "custom_items/brilliant/dessert/goodgood1"}
+        {"predicate": {"custom_model_data": 50040}, "model": "custom_items/brilliant/dessert/goodgood1"},
+        {"predicate": {"custom_model_data": 50041}, "model": "custom_items/brilliant/dessert/goodgood2"},
+        {"predicate": {"custom_model_data": 50042}, "model": "custom_items/brilliant/dessert/goodgood3"},
+        {"predicate": {"custom_model_data": 50043}, "model": "custom_items/brilliant/dessert/goodgood4"}
     ]
 }

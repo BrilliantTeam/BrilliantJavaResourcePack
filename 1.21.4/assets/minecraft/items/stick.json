@@ -2739,6 +2739,13 @@
                 }
             },
             {
+                "threshold": 31122,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/doll/dimond12"
+                }
+            },
+            {
                 "threshold": 31500,
                 "model": {
                     "type": "model",

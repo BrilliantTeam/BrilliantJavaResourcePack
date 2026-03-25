@@ -19,6 +19,18 @@
         "formats": [63, 84],
         "min_format": 63,
         "max_format": 84
+      },
+      {
+        "directory": "1.21.11",
+        "formats": [63, 84],
+        "min_format": 63,
+        "max_format": 84
+      },
+      {
+        "directory": "26.1",
+        "formats": [63, 84],
+        "min_format": 63,
+        "max_format": 84
       }
     ]
   }

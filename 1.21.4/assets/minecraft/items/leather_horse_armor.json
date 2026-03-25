@@ -1,5 +1,4 @@
 {
-    "oversized_in_gui": true,
     "model": {
         "type": "range_dispatch",
         "property": "custom_model_data",

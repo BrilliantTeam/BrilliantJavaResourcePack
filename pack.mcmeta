@@ -2,23 +2,23 @@
   "pack": {
     "pack_format": 15,
     "min_format": 15,
-    "max_format": 75,
-    "supported_formats": [15, 75],
-    "description": "§7適用於 §f§l1.20.6 - 1.21.11 §r§7由 §6§l輝煌伺服器 §r§7製作"
+    "max_format": 84,
+    "supported_formats": [15, 84],
+    "description": "§7適用於 §f§l1.20.6 - 26.1 §r§7由 §6§l輝煌伺服器 §r§7製作"
   },
   "overlays": {
     "entries": [
       {
         "directory": "1.21.4",
-        "formats": [46, 75],
+        "formats": [46, 84],
         "min_format": 46,
-        "max_format": 75
+        "max_format": 84
       },
       {
         "directory": "1.21.6",
-        "formats": [63, 75],
+        "formats": [63, 84],
         "min_format": 63,
-        "max_format": 75
+        "max_format": 84
       }
     ]
   }

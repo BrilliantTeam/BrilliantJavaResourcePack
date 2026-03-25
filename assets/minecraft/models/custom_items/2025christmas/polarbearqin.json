@@ -1,9 +1,10 @@
 {
+	"format_version": "1.9.0",
 	"credit": "書碼",
 	"texture_size": [128, 64],
 	"textures": {
 		"0": "item/custom/2025christmas/polar_bear",
-        "particle": "item/custom/2025christmas/polar_bear"
+		"particle": "item/custom/2025christmas/polar_bear"
 	},
 	"elements": [
 		{
@@ -206,11 +207,11 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 19.25, 2.25]},
 			"faces": {
 				"north": {"uv": [12.125, 5, 16, 15.5], "texture": "#0"},
-				"east": {"uv": [-1.25, -1.75, -1.25, 0.5], "texture": "#0"},
+				"east": {"uv": [4, 0, 4.125, 2.25], "texture": "#0"},
 				"south": {"uv": [12.125, 5, 16, 15.5], "texture": "#0"},
-				"west": {"uv": [-0.5, -1.75, -0.5, 0.5], "texture": "#0"},
-				"up": {"uv": [-0.5, -1.75, -1.25, -1.75], "texture": "#0"},
-				"down": {"uv": [0.25, -1.75, -0.5, -1.75], "texture": "#0"}
+				"west": {"uv": [4, 0, 4.125, 2.25], "texture": "#0"},
+				"up": {"uv": [0, 0, 0.75, 0.25], "texture": "#0"},
+				"down": {"uv": [0, 0, 0.75, 0.25], "texture": "#0"}
 			}
 		},
 		{
@@ -220,11 +221,11 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [8.1, 19.25, 2.25]},
 			"faces": {
 				"north": {"uv": [16, 5, 12.125, 15.5], "texture": "#0"},
-				"east": {"uv": [-0.5, -1.75, -0.5, 0.5], "texture": "#0"},
+				"east": {"uv": [4, 0, 4.125, 2.25], "texture": "#0"},
 				"south": {"uv": [16, 5, 12.125, 15.5], "texture": "#0"},
-				"west": {"uv": [-1.25, -1.75, -1.25, 0.5], "texture": "#0"},
-				"up": {"uv": [-1.25, -1.75, -0.5, -1.75], "texture": "#0"},
-				"down": {"uv": [-0.5, -1.75, 0.25, -1.75], "texture": "#0"}
+				"west": {"uv": [4, 0, 4.125, 2.25], "texture": "#0"},
+				"up": {"uv": [0, 0, 0.75, 0.25], "texture": "#0"},
+				"down": {"uv": [0, 0, 0.75, 0.25], "texture": "#0"}
 			}
 		}
 	],
@@ -271,29 +272,34 @@
 		{
 			"name": "isbn_vanillatweaked_polarbear",
 			"origin": [8, 8, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [
 				{
 					"name": "head",
 					"origin": [8, 14, -8],
+					"scope": 0,
 					"color": 0,
 					"children": [0, 1, 2, 3, 4]
 				},
 				{
 					"name": "body",
 					"origin": [10, 15, 20],
+					"scope": 0,
 					"color": 0,
 					"children": [5, 6]
 				},
 				{
 					"name": "front_limbs",
 					"origin": [8, 8, 8],
+					"scope": 0,
 					"color": 0,
 					"children": [7, 8]
 				},
 				{
 					"name": "back_limbs",
 					"origin": [8, 8, 8],
+					"scope": 0,
 					"color": 0,
 					"children": [9, 10]
 				},
@@ -303,12 +309,14 @@
 		{
 			"name": "isbn_Qin",
 			"origin": [8, 8, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [12, 13, 14, 15]
 		},
 		{
 			"name": "made_by_isbn",
 			"origin": [8, 8, 8],
+			"scope": 0,
 			"color": 0,
 			"children": []
 		}

@@ -19,12 +19,6 @@
         "formats": [63, 84],
         "min_format": 63,
         "max_format": 84
-      },
-      {
-        "directory": "26.1",
-        "formats": [84, 84],
-        "min_format": 84,
-        "max_format": 84
       }
     ]
   }

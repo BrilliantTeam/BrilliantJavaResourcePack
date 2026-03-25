@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.11",
 	"credit": "書碼",
 	"textures": {
 		"1": "item/custom/blockentities/2025_dragonboat_black",
@@ -625,9 +626,9 @@
 				"north": {"uv": [14, 11, 16, 14], "texture": "#1"},
 				"east": {"uv": [15, 11, 16, 14], "texture": "#1"},
 				"south": {"uv": [14, 11, 16, 14], "texture": "#1"},
-				"west": {"uv": [19, 13, 20, 16], "texture": "#1"},
-				"up": {"uv": [19, 13, 17, 12], "texture": "#1"},
-				"down": {"uv": [21, 12, 19, 13], "texture": "#1"}
+				"west": {"uv": [16, 13, 16, 16], "texture": "#1"},
+				"up": {"uv": [16, 13, 16, 12], "texture": "#1"},
+				"down": {"uv": [16, 12, 16, 13], "texture": "#1"}
 			}
 		},
 		{
@@ -813,6 +814,7 @@
 		{
 			"name": "isbn_spine",
 			"origin": [0, 0, 0],
+			"scope": 0,
 			"color": 0,
 			"children": [
 				0,
@@ -823,6 +825,7 @@
 				{
 					"name": "isbn_long",
 					"origin": [0, 0, 0],
+					"scope": 0,
 					"color": 0,
 					"children": [5, 6, 7]
 				}
@@ -831,6 +834,7 @@
 		{
 			"name": "isbn_north_roof",
 			"origin": [0, 6.5, 3],
+			"scope": 0,
 			"color": 0,
 			"children": [
 				8,
@@ -848,12 +852,14 @@
 				{
 					"name": "wood",
 					"origin": [-0.072, 10.5, 12.5],
+					"scope": 0,
 					"color": 0,
 					"children": [20, 21, 22, 23, 24]
 				},
 				{
 					"name": "bar",
 					"origin": [-0.072, 10.5, 12.5],
+					"scope": 0,
 					"color": 0,
 					"children": [25, 26]
 				}
@@ -862,6 +868,7 @@
 		{
 			"name": "isbn_west_roof",
 			"origin": [0, 6.5, 3],
+			"scope": 0,
 			"color": 0,
 			"children": [
 				27,
@@ -879,12 +886,14 @@
 				{
 					"name": "wood",
 					"origin": [-0.072, 10.5, 12.5],
+					"scope": 0,
 					"color": 0,
 					"children": [39, 40, 41, 42, 43]
 				},
 				{
 					"name": "bar",
 					"origin": [-0.072, 10.5, 12.5],
+					"scope": 0,
 					"color": 0,
 					"children": [44, 45]
 				}
@@ -893,88 +902,103 @@
 		{
 			"name": "made by isbn978986",
 			"origin": [8, 8, 8],
+			"scope": 0,
 			"color": 0,
 			"children": []
 		},
 		{
 			"name": "creeper",
 			"origin": [8, 8, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [
 				{
 					"name": "head",
 					"origin": [8, 18, 8],
+					"scope": 0,
 					"color": 0,
 					"children": [46]
 				},
 				{
 					"name": "body",
 					"origin": [8, 18, 8],
+					"scope": 0,
 					"color": 0,
 					"children": [47]
 				},
 				{
 					"name": "leg1",
 					"origin": [10, 6, 12],
+					"scope": 0,
 					"color": 0,
 					"children": [48, 49]
 				},
 				{
 					"name": "leg2",
 					"origin": [6, 6, 12],
+					"scope": 0,
 					"color": 0,
 					"children": []
 				},
 				{
 					"name": "leg3",
 					"origin": [10, 6, 4],
+					"scope": 0,
 					"color": 0,
 					"children": [50, 51]
 				},
 				{
 					"name": "leg4",
 					"origin": [6, 6, 4],
+					"scope": 0,
 					"color": 0,
 					"children": []
 				},
 				{
 					"name": "creeper",
 					"origin": [8, 8, 8],
+					"scope": 0,
 					"color": 0,
 					"children": [
 						{
 							"name": "head",
 							"origin": [8, 18, 8],
+							"scope": 0,
 							"color": 0,
 							"children": [52]
 						},
 						{
 							"name": "body",
 							"origin": [8, 18, 8],
+							"scope": 0,
 							"color": 0,
 							"children": [53]
 						},
 						{
 							"name": "leg1",
 							"origin": [10, 6, 12],
+							"scope": 0,
 							"color": 0,
 							"children": [54, 55]
 						},
 						{
 							"name": "leg2",
 							"origin": [6, 6, 12],
+							"scope": 0,
 							"color": 0,
 							"children": []
 						},
 						{
 							"name": "leg3",
 							"origin": [10, 6, 4],
+							"scope": 0,
 							"color": 0,
 							"children": [56, 57]
 						},
 						{
 							"name": "leg4",
 							"origin": [6, 6, 4],
+							"scope": 0,
 							"color": 0,
 							"children": []
 						}

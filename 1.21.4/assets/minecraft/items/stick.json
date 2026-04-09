@@ -3236,6 +3236,13 @@
                 }
             },
             {
+                "threshold": 35006,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/misteln/misteln_rice_wig_kapippi"
+                }
+            },
+            {
                 "threshold": 36010,
                 "model": {
                     "type": "model",

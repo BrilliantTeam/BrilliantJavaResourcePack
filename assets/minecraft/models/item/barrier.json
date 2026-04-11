@@ -580,7 +580,8 @@
       { "predicate": { "custom_model_data": 31010 }, "model": "custom_items/2026hamsterday/tunnel_2" },
       { "predicate": { "custom_model_data": 31011 }, "model": "custom_items/2026hamsterday/hamster_in_tunnel" },
       { "predicate": { "custom_model_data": 31012 }, "model": "custom_items/2026hamsterday/hamster_seed" },
-      { "predicate": { "custom_model_data": 31013 }, "model": "custom_items/2026hamsterday/bowl_with_seed" },
-      { "predicate": { "custom_model_data": 31014 }, "model": "custom_items/2026hamsterday/bottle" }
+      { "predicate": { "custom_model_data": 31013 }, "model": "custom_items/2026hamsterday/bowl" },
+      { "predicate": { "custom_model_data": 31014 }, "model": "custom_items/2026hamsterday/bowl_with_seed" },
+      { "predicate": { "custom_model_data": 31015 }, "model": "custom_items/2026hamsterday/bottle" }
   ]
 }

@@ -3666,11 +3666,18 @@
                 "threshold": 31013,
                 "model": {
                     "type": "model",
-                    "model": "custom_items/2026hamsterday/bowl_with_seed"
+                    "model": "custom_items/2026hamsterday/bowl"
                 }
             },
             {
                 "threshold": 31014,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/bowl_with_seed"
+                }
+            },
+            {
+                "threshold": 31015,
                 "model": {
                     "type": "model",
                     "model": "custom_items/2026hamsterday/bottle"

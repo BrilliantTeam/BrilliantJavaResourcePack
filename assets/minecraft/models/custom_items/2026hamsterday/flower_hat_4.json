@@ -1,0 +1,10 @@
+{
+	"format_version": "1.9.0",
+	"credit": "書碼",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "minecraft:block/purple_wool",
+		"1": "minecraft:block/allium",
+		"particle": "minecraft:block/purple_wool"
+	}
+}

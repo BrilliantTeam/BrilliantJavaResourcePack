@@ -1,0 +1,107 @@
+{
+	"format_version": "1.9.0",
+	"credit": "書碼",
+	"texture_size": [32, 32],
+	"textures": {
+		"2": "minecraft:block/iron_block",
+		"particle": "minecraft:block/iron_block"
+	},
+	"elements": [
+		{
+			"from": [0, 0, -8],
+			"to": [16, 1, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 12]},
+			"faces": {
+				"north": {"uv": [0, 15, 16, 16], "texture": "#2", "tintindex": 0},
+				"east": {"uv": [0, 15, 16, 16], "texture": "#2", "tintindex": 0},
+				"south": {"uv": [0, 15, 16, 16], "texture": "#2", "tintindex": 0},
+				"west": {"uv": [0, 15, 16, 16], "texture": "#2", "tintindex": 0},
+				"up": {"uv": [0, 0, 16, 15], "texture": "#2", "tintindex": 0},
+				"down": {"uv": [0, 0, 16, 15], "texture": "#2", "tintindex": 0}
+			}
+		},
+		{
+			"name": "hexadecagon",
+			"from": [0, 1, 4.8174],
+			"to": [1, 32, 11.1826],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-7, -3, 8]},
+			"faces": {
+				"north": {"uv": [2, 0, 2.5, 15.5], "texture": "#2", "tintindex": 0},
+				"east": {"uv": [6, 0, 9, 15.5], "texture": "#2", "tintindex": 0},
+				"south": {"uv": [2, 0, 2.5, 15.5], "texture": "#2", "tintindex": 0},
+				"west": {"uv": [6, 0, 9, 15.5], "texture": "#2", "tintindex": 0},
+				"up": {"uv": [0, 0, 0.5, 0.5], "texture": "#2", "tintindex": 0},
+				"down": {"uv": [0, 0, 0.5, 0.5], "texture": "#2", "tintindex": 0}
+			}
+		},
+		{
+			"from": [0, 0, 8],
+			"to": [16, 1, 24],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 4]},
+			"faces": {
+				"north": {"uv": [16, 15, 0, 16], "texture": "#2", "tintindex": 0},
+				"east": {"uv": [16, 15, 0, 16], "texture": "#2", "tintindex": 0},
+				"south": {"uv": [16, 15, 0, 16], "texture": "#2", "tintindex": 0},
+				"west": {"uv": [16, 15, 0, 16], "texture": "#2", "tintindex": 0},
+				"up": {"uv": [0, 15, 16, 0], "texture": "#2", "tintindex": 0},
+				"down": {"uv": [0, 15, 16, 0], "texture": "#2", "tintindex": 0}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [49, 0, 0],
+			"translation": [0, 2.25, 1],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [49, 0, 0],
+			"translation": [0, 2.25, 1],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_righthand": {
+			"rotation": [-180, 58.25, -180],
+			"translation": [3, 4, 0],
+			"scale": [0.45, 0.45, 0.45]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-180, 58.25, -180],
+			"translation": [3, 4, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"ground": {
+			"translation": [0, 6.75, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"gui": {
+			"rotation": [-150.5, 46.25, -180],
+			"translation": [0, -1, -7.5],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"head": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -0.75]
+		},
+		"fixed": {
+			"translation": [0, -3.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "made_by_isbn",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": []
+		},
+		{
+			"name": "isbn_stand",
+			"origin": [7, 0, 12],
+			"scope": 0,
+			"color": 0,
+			"children": [0, 1, 2]
+		}
+	]
+}

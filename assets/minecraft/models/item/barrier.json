@@ -565,6 +565,22 @@
       { "predicate": { "custom_model_data": 30900 }, "model": "custom_items/2026valentinesday/heartguard" },
       { "predicate": { "custom_model_data": 30901 }, "model": "custom_items/2026valentinesday/spadeguard" },
       { "predicate": { "custom_model_data": 30902 }, "model": "custom_items/2026valentinesday/hookah" },
-      { "predicate": { "custom_model_data": 30903 }, "model": "custom_items/2026valentinesday/dormouseteapot" }
+      { "predicate": { "custom_model_data": 30903 }, "model": "custom_items/2026valentinesday/dormouseteapot" },
+
+      { "predicate": { "custom_model_data": 31000 }, "model": "custom_items/2026hamsterday/hamster" },
+      { "predicate": { "custom_model_data": 31001 }, "model": "custom_items/2026hamsterday/hamster_with_fisherman_hat" },
+      { "predicate": { "custom_model_data": 31002 }, "model": "custom_items/2026hamsterday/hamster_with_frog_hat" },
+      { "predicate": { "custom_model_data": 31003 }, "model": "custom_items/2026hamsterday/hamster_with_flower_hat_1" },
+      { "predicate": { "custom_model_data": 31004 }, "model": "custom_items/2026hamsterday/hamster_with_flower_hat_2" },
+      { "predicate": { "custom_model_data": 31005 }, "model": "custom_items/2026hamsterday/hamster_with_flower_hat_3" },
+      { "predicate": { "custom_model_data": 31006 }, "model": "custom_items/2026hamsterday/hamster_with_flower_hat_4" },
+      { "predicate": { "custom_model_data": 31007 }, "model": "custom_items/2026hamsterday/swing" },
+      { "predicate": { "custom_model_data": 31008 }, "model": "custom_items/2026hamsterday/hamster_on_swing" },
+      { "predicate": { "custom_model_data": 31009 }, "model": "custom_items/2026hamsterday/tunnel_1" },
+      { "predicate": { "custom_model_data": 31010 }, "model": "custom_items/2026hamsterday/tunnel_2" },
+      { "predicate": { "custom_model_data": 31011 }, "model": "custom_items/2026hamsterday/hamster_in_tunnel" },
+      { "predicate": { "custom_model_data": 31012 }, "model": "custom_items/2026hamsterday/hamster_seed" },
+      { "predicate": { "custom_model_data": 31013 }, "model": "custom_items/2026hamsterday/bowl_with_seed" },
+      { "predicate": { "custom_model_data": 31014 }, "model": "custom_items/2026hamsterday/bottle" }
   ]
 }

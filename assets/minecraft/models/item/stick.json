@@ -894,6 +894,17 @@
         { "predicate": { "custom_model_data": 57709 }, "model": "custom_items/2026valentinesday/poker/clubs_10" },
         { "predicate": { "custom_model_data": 57710 }, "model": "custom_items/2026valentinesday/poker/clubs_j" },
         { "predicate": { "custom_model_data": 57711 }, "model": "custom_items/2026valentinesday/poker/clubs_q" },
-        { "predicate": { "custom_model_data": 57712 }, "model": "custom_items/2026valentinesday/poker/clubs_k" }
+        { "predicate": { "custom_model_data": 57712 }, "model": "custom_items/2026valentinesday/poker/clubs_k" },
+
+        { "predicate": { "custom_model_data": 58000 }, "model": "custom_items/2026hamsterday/sunflower_seed" },
+        { "predicate": { "custom_model_data": 58001 }, "model": "custom_items/2026hamsterday/ball" },
+        { "predicate": { "custom_model_data": 58002 }, "model": "custom_items/2026hamsterday/hamster_fly" },
+        { "predicate": { "custom_model_data": 58003 }, "model": "custom_items/2026hamsterday/hamster_in_ball" },
+        { "predicate": { "custom_model_data": 58004 }, "model": "custom_items/2026hamsterday/hamster_ball_shooter" },
+        { "predicate": { "custom_model_data": 58005 }, "model": "custom_items/2026hamsterday/frog_hat" },
+        { "predicate": { "custom_model_data": 58006 }, "model": "custom_items/2026hamsterday/flower_hat_1" },
+        { "predicate": { "custom_model_data": 58007 }, "model": "custom_items/2026hamsterday/flower_hat_2" },
+        { "predicate": { "custom_model_data": 58008 }, "model": "custom_items/2026hamsterday/flower_hat_3" },
+        { "predicate": { "custom_model_data": 58009 }, "model": "custom_items/2026hamsterday/flower_hat_4" }
     ]
 }

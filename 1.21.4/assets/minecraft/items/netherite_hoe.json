@@ -49,6 +49,13 @@
                     "type": "model",
                     "model": "custom_items/2026aprilfool/hoe2"
                 }
+            },
+            {
+                "threshold": 19100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/huge_sunflowerseed"
+                }
             }
         ]
     }

@@ -27,6 +27,10 @@
         {"predicate":{"custom_model_data": 20305 }, "model": "custom_items/2025christmas/hangedsocks_liho_jin" },
         {"predicate":{"custom_model_data": 20306 }, "model": "custom_items/2025christmas/hangedsocks_penguin_0404" },
         {"predicate":{"custom_model_data": 20307 }, "model": "custom_items/2025christmas/hangedsocks_penguininthesky" },
-        {"predicate":{"custom_model_data": 20308 }, "model": "custom_items/2025christmas/bed_frame" }
+        {"predicate":{"custom_model_data": 20308 }, "model": "custom_items/2025christmas/bed_frame" },
+
+        {"predicate":{"custom_model_data": 20400 }, "model": "custom_items/2026hamsterday/wheel" },
+        {"predicate":{"custom_model_data": 20401 }, "model": "custom_items/2026hamsterday/hamster_on_wheel" },
+        {"predicate":{"custom_model_data": 20402 }, "model": "custom_items/2026hamsterday/wheel_stand" }
     ]
 }

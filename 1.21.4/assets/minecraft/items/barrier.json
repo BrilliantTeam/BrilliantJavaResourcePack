@@ -3570,6 +3570,111 @@
                     "type": "model",
                     "model": "custom_items/2026valentinesday/dormouseteapot"
                 }
+            },
+            {
+                "threshold": 31000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/hamster"
+                }
+            },
+            {
+                "threshold": 31001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/hamster_with_fisherman_hat"
+                }
+            },
+            {
+                "threshold": 31002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/hamster_with_frog_hat"
+                }
+            },
+            {
+                "threshold": 31003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/hamster_with_flower_hat_1"
+                }
+            },
+            {
+                "threshold": 31004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/hamster_with_flower_hat_2"
+                }
+            },
+            {
+                "threshold": 31005,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/hamster_with_flower_hat_3"
+                }
+            },
+            {
+                "threshold": 31006,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/hamster_with_flower_hat_4"
+                }
+            },
+            {
+                "threshold": 31007,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/swing"
+                }
+            },
+            {
+                "threshold": 31008,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/hamster_on_swing"
+                }
+            },
+            {
+                "threshold": 31009,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/tunnel_1"
+                }
+            },
+            {
+                "threshold": 31010,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/tunnel_2"
+                }
+            },
+            {
+                "threshold": 31011,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/hamster_in_tunnel"
+                }
+            },
+            {
+                "threshold": 31012,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/hamster_seed"
+                }
+            },
+            {
+                "threshold": 31013,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/bowl_with_seed"
+                }
+            },
+            {
+                "threshold": 31014,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/bottle"
+                }
             }
         ]
     }

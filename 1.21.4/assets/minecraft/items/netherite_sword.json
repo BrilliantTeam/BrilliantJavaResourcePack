@@ -336,6 +336,13 @@
                     "type": "model",
                     "model": "custom_items/2026valentinesday/spade_sword"
                 }
+            },
+            {
+                "threshold": 20100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/hamster_wand"
+                }
             }
         ]
     }

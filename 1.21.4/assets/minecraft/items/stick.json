@@ -5782,6 +5782,76 @@
                     "type": "model",
                     "model": "custom_items/2026valentinesday/poker/clubs_k"
                 }
+            },
+            {
+                "threshold": 58000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/sunflower_seed"
+                }
+            },
+            {
+                "threshold": 58001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/ball"
+                }
+            },
+            {
+                "threshold": 58002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/hamster_fly"
+                }
+            },
+            {
+                "threshold": 58003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/hamster_in_ball"
+                }
+            },
+            {
+                "threshold": 58004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/hamster_ball_shooter"
+                }
+            },
+            {
+                "threshold": 58005,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/frog_hat"
+                }
+            },
+            {
+                "threshold": 58006,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/flower_hat_1"
+                }
+            },
+            {
+                "threshold": 58007,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/flower_hat_2"
+                }
+            },
+            {
+                "threshold": 58008,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/flower_hat_3"
+                }
+            },
+            {
+                "threshold": 58009,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/flower_hat_4"
+                }
             }
         ]
     }

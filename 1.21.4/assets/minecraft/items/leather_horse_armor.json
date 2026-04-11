@@ -273,6 +273,45 @@
                         }
                     ]
                 }
+            },
+            {
+                "threshold": 20400,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/wheel",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20401,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/hamster_on_wheel",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20402,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/wheel_stand",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
             }
         ]
     }

@@ -4,7 +4,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"1": "item/custom/2026hamsterday/syrian",
-		"3": "minecraft:entity/zombie_villager/profession/fisherman",
+		"3": "item/custom/2026hamsterday/fisherman",
 		"particle": "item/custom/2026hamsterday/syrian"
 	},
 	"elements": [

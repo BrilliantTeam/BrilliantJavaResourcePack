@@ -2,6 +2,7 @@
 	"format_version": "1.9.0",
 	"credit": "書碼",
 	"texture_size": [32, 32],
+    "parent": "custom_items/2026hamsterday/hamster_with_flower_hat",
 	"textures": {
 		"1": "item/custom/2026hamsterday/syrian",
 		"2": "item/custom/2026hamsterday/dandelion",

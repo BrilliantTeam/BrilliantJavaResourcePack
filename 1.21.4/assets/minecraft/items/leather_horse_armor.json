@@ -312,6 +312,19 @@
                         }
                     ]
                 }
+            },
+            {
+                "threshold": 20403,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026hamsterday/frog_hat",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
             }
         ]
     }

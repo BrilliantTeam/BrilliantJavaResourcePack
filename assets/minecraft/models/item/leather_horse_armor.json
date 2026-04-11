@@ -31,6 +31,7 @@
 
         {"predicate":{"custom_model_data": 20400 }, "model": "custom_items/2026hamsterday/wheel" },
         {"predicate":{"custom_model_data": 20401 }, "model": "custom_items/2026hamsterday/hamster_on_wheel" },
-        {"predicate":{"custom_model_data": 20402 }, "model": "custom_items/2026hamsterday/wheel_stand" }
+        {"predicate":{"custom_model_data": 20402 }, "model": "custom_items/2026hamsterday/wheel_stand" },
+        {"predicate":{"custom_model_data": 20403 }, "model": "custom_items/2026hamsterday/frog_hat" }
     ]
 }

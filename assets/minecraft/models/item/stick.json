@@ -901,7 +901,6 @@
         { "predicate": { "custom_model_data": 58002 }, "model": "custom_items/2026hamsterday/hamster_fly" },
         { "predicate": { "custom_model_data": 58003 }, "model": "custom_items/2026hamsterday/hamster_in_ball" },
         { "predicate": { "custom_model_data": 58004 }, "model": "custom_items/2026hamsterday/hamster_ball_shooter" },
-        { "predicate": { "custom_model_data": 58005 }, "model": "custom_items/2026hamsterday/frog_hat" },
         { "predicate": { "custom_model_data": 58006 }, "model": "custom_items/2026hamsterday/flower_hat_1" },
         { "predicate": { "custom_model_data": 58007 }, "model": "custom_items/2026hamsterday/flower_hat_2" },
         { "predicate": { "custom_model_data": 58008 }, "model": "custom_items/2026hamsterday/flower_hat_3" },

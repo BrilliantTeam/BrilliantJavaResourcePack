@@ -5819,13 +5819,6 @@
                 }
             },
             {
-                "threshold": 58005,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2026hamsterday/frog_hat"
-                }
-            },
-            {
                 "threshold": 58006,
                 "model": {
                     "type": "model",

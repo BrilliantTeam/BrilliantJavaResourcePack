@@ -3,7 +3,7 @@
 	"credit": "書碼",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "minecraft:acacia_planks",
+		"2": "minecraft:block/acacia_planks",
 		"3": "minecraft:item/chain",
 		"particle": "minecraft:block/acacia_planks"
 	},

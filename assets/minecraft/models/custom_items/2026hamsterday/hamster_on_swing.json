@@ -4,9 +4,9 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"1": "item/custom/2026hamsterday/syrian",
-		"2": "minecraft:block/acacia_planks",
-		"3": "minecraft:item/chain",
-		"particle": "minecraft:block/acacia_planks"
+		"2": "item/custom/2026hamsterday/acacia_planks",
+		"3": "item/custom/2026hamsterday/chain",
+		"particle": "item/custom/2026hamsterday/acacia_planks"
 	},
 	"elements": [
 		{

@@ -3,9 +3,9 @@
 	"credit": "書碼",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "minecraft:block/pink_shulker_box",
+		"0": "item/custom/2026hamsterday/pink_shulker_box",
 		"1": "item/custom/2026hamsterday/sunflower_seed",
-		"particle": "minecraft:block/pink_shulker_box"
+		"particle": "item/custom/2026hamsterday/pink_shulker_box"
 	},
 	"elements": [
 		{

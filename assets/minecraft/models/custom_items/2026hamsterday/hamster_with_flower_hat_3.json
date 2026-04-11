@@ -4,8 +4,8 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"1": "item/custom/2026hamsterday/syrian",
-		"2": "minecraft:block/blue_orchid",
-		"3": "minecraft:block/light_blue_wool",
-		"particle": "minecraft:block/blue_orchid"
+		"2": "item/custom/2026hamsterday/blue_orchid",
+		"3": "item/custom/2026hamsterday/light_blue_wool",
+		"particle": "item/custom/2026hamsterday/blue_orchid"
 	}
 }

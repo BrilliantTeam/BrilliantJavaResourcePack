@@ -3,8 +3,8 @@
 	"credit": "書碼",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "minecraft:block/yellow_wool",
-		"1": "minecraft:block/dandelion",
-		"particle": "minecraft:block/yellow_wool"
+		"0": "item/custom/2026hamsterday/yellow_wool",
+		"1": "item/custom/2026hamsterday/dandelion",
+		"particle": "item/custom/2026hamsterday/yellow_wool"
 	}
 }

@@ -4,8 +4,8 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"1": "item/custom/2026hamsterday/syrian",
-		"2": "minecraft:block/dandelion",
-		"3": "minecraft:block/yellow_wool",
-		"particle": "minecraft:block/dandelion"
+		"2": "item/custom/2026hamsterday/dandelion",
+		"3": "item/custom/2026hamsterday/yellow_wool",
+		"particle": "item/custom/2026hamsterday/dandelion"
 	}
 }

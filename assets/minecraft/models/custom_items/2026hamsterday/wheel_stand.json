@@ -3,8 +3,8 @@
 	"credit": "書碼",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "minecraft:block/iron_block",
-		"particle": "minecraft:block/iron_block"
+		"2": "item/custom/2026hamsterday/iron_block",
+		"particle": "item/custom/2026hamsterday/iron_block"
 	},
 	"elements": [
 		{

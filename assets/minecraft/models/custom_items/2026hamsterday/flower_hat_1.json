@@ -3,8 +3,8 @@
 	"credit": "書碼",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "minecraft:block/red_wool",
-		"1": "minecraft:block/poppy",
-		"particle": "minecraft:block/red_wool"
+		"0": "item/custom/2026hamsterday/red_wool",
+		"1": "item/custom/2026hamsterday/poppy",
+		"particle": "item/custom/2026hamsterday/red_wool"
 	}
 }

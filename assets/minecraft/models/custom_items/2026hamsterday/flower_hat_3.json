@@ -3,8 +3,8 @@
 	"credit": "書碼",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "minecraft:block/light_blue_wool",
-		"1": "minecraft:block/blue_orchid",
-		"particle": "minecraft:block/light_blue_wool"
+		"0": "item/custom/2026hamsterday/light_blue_wool",
+		"1": "item/custom/2026hamsterday/blue_orchid",
+		"particle": "item/custom/2026hamsterday/light_blue_wool"
 	}
 }

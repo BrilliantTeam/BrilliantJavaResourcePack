@@ -4,8 +4,8 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"1": "item/custom/2026hamsterday/syrian",
-		"2": "minecraft:block/allium",
-		"3": "minecraft:block/purple_wool",
-		"particle": "minecraft:block/allium"
+		"2": "item/custom/2026hamsterday/allium",
+		"3": "item/custom/2026hamsterday/purple_wool",
+		"particle": "item/custom/2026hamsterday/allium"
 	}
 }

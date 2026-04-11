@@ -3,9 +3,9 @@
 	"credit": "書碼",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "minecraft:block/white_shulker_box",
-		"2": "minecraft:block/white_stained_glass",
-		"particle": "minecraft:block/white_stained_glass"
+		"1": "item/custom/2026hamsterday/white_shulker_box",
+		"2": "item/custom/2026hamsterday/white_stained_glass",
+		"particle": "item/custom/2026hamsterday/white_stained_glass"
 	},
 	"elements": [
 		{

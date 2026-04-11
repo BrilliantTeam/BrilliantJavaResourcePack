@@ -2,11 +2,11 @@
 	"format_version": "1.9.0",
 	"credit": "書碼",
 	"textures": {
-		"0": "minecraft:block/light_blue_stained_glass",
-		"1": "minecraft:block/pink_shulker_box",
-		"2": "minecraft:block/iron_block",
-		"3": "minecraft:block/white_stained_glass",
-		"particle": "minecraft:block/light_blue_stained_glass"
+		"0": "item/custom/2026hamsterday/light_blue_stained_glass",
+		"1": "item/custom/2026hamsterday/pink_shulker_box",
+		"2": "item/custom/2026hamsterday/iron_block",
+		"3": "item/custom/2026hamsterday/white_stained_glass",
+		"particle": "item/custom/2026hamsterday/light_blue_stained_glass"
 	},
 	"elements": [
 		{

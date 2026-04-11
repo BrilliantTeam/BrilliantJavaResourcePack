@@ -4,9 +4,9 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"1": "item/custom/2026hamsterday/syrian",
-		"2": "minecraft:block/white_stained_glass",
-		"3": "minecraft:block/white_shulker_box",
-		"particle": "minecraft:block/white_stained_glass"
+		"2": "item/custom/2026hamsterday/white_stained_glass",
+		"3": "item/custom/2026hamsterday/white_shulker_box",
+		"particle": "item/custom/2026hamsterday/white_stained_glass"
 	},
 	"elements": [
 		{

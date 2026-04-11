@@ -5,10 +5,10 @@
 	"textures": {
 		"1": "item/custom/2026hamsterday/hamster_ball",
 		"2": "item/custom/2026hamsterday/syrian",
-		"3": "minecraft:block/sunflower_front",
-		"5": "minecraft:block/sunflower_bottom",
-		"6": "minecraft:block/sunflower_back",
-		"7": "minecraft:item/candle"
+		"3": "item/custom/2026hamsterday/sunflower_front",
+		"5": "item/custom/2026hamsterday/sunflower_bottom",
+		"6": "item/custom/2026hamsterday/sunflower_back",
+		"7": "item/custom/2026hamsterday/candle"
 	},
 	"elements": [
 		{

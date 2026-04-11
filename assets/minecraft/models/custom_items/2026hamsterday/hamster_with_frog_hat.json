@@ -4,7 +4,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"1": "item/custom/2026hamsterday/syrian",
-		"3": "minecraft:block/lime_wool",
+		"3": "item/custom/2026hamsterday/lime_wool",
 		"particle": "item/custom/2026hamsterday/syrian"
 	},
 	"elements": [

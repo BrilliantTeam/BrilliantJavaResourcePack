@@ -3682,6 +3682,510 @@
                     "type": "model",
                     "model": "custom_items/2026hamsterday/bottle"
                 }
+            },
+            {
+                "threshold": 32000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_0"
+                }
+            },
+            {
+                "threshold": 32001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_1"
+                }
+            },
+            {
+                "threshold": 32002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_2"
+                }
+            },
+            {
+                "threshold": 32003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_3"
+                }
+            },
+            {
+                "threshold": 32004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_4"
+                }
+            },
+            {
+                "threshold": 32005,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_5"
+                }
+            },
+            {
+                "threshold": 32006,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_6"
+                }
+            },
+            {
+                "threshold": 32007,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_7"
+                }
+            },
+            {
+                "threshold": 32008,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_8"
+                }
+            },
+            {
+                "threshold": 32009,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_9"
+                }
+            },
+            {
+                "threshold": 32010,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_a"
+                }
+            },
+            {
+                "threshold": 32011,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_b"
+                }
+            },
+            {
+                "threshold": 32012,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_c"
+                }
+            },
+            {
+                "threshold": 32013,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_d"
+                }
+            },
+            {
+                "threshold": 32014,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_e"
+                }
+            },
+            {
+                "threshold": 32015,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_f"
+                }
+            },
+            {
+                "threshold": 32016,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_g"
+                }
+            },
+            {
+                "threshold": 32017,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_h"
+                }
+            },
+            {
+                "threshold": 32018,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_i"
+                }
+            },
+            {
+                "threshold": 32019,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_j"
+                }
+            },
+            {
+                "threshold": 32020,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_k"
+                }
+            },
+            {
+                "threshold": 32021,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_l"
+                }
+            },
+            {
+                "threshold": 32022,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_m"
+                }
+            },
+            {
+                "threshold": 32023,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_n"
+                }
+            },
+            {
+                "threshold": 32024,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_o"
+                }
+            },
+            {
+                "threshold": 32025,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_p"
+                }
+            },
+            {
+                "threshold": 32026,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_q"
+                }
+            },
+            {
+                "threshold": 32027,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_r"
+                }
+            },
+            {
+                "threshold": 32028,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_s"
+                }
+            },
+            {
+                "threshold": 32029,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_t"
+                }
+            },
+            {
+                "threshold": 32030,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_u"
+                }
+            },
+            {
+                "threshold": 32031,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_v"
+                }
+            },
+            {
+                "threshold": 32032,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_w"
+                }
+            },
+            {
+                "threshold": 32033,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_x"
+                }
+            },
+            {
+                "threshold": 32034,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_y"
+                }
+            },
+            {
+                "threshold": 32035,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/stonebricks/font_statue_z"
+                }
+            },
+            {
+                "threshold": 32100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_0"
+                }
+            },
+            {
+                "threshold": 32101,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_1"
+                }
+            },
+            {
+                "threshold": 32102,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_2"
+                }
+            },
+            {
+                "threshold": 32103,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_3"
+                }
+            },
+            {
+                "threshold": 32104,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_4"
+                }
+            },
+            {
+                "threshold": 32105,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_5"
+                }
+            },
+            {
+                "threshold": 32106,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_6"
+                }
+            },
+            {
+                "threshold": 32107,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_7"
+                }
+            },
+            {
+                "threshold": 32108,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_8"
+                }
+            },
+            {
+                "threshold": 32109,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_9"
+                }
+            },
+            {
+                "threshold": 32110,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_a"
+                }
+            },
+            {
+                "threshold": 32111,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_b"
+                }
+            },
+            {
+                "threshold": 32112,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_c"
+                }
+            },
+            {
+                "threshold": 32113,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_d"
+                }
+            },
+            {
+                "threshold": 32114,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_e"
+                }
+            },
+            {
+                "threshold": 32115,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_f"
+                }
+            },
+            {
+                "threshold": 32116,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_g"
+                }
+            },
+            {
+                "threshold": 32117,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_h"
+                }
+            },
+            {
+                "threshold": 32118,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_i"
+                }
+            },
+            {
+                "threshold": 32119,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_j"
+                }
+            },
+            {
+                "threshold": 32120,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_k"
+                }
+            },
+            {
+                "threshold": 32121,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_l"
+                }
+            },
+            {
+                "threshold": 32122,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_m"
+                }
+            },
+            {
+                "threshold": 32123,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_n"
+                }
+            },
+            {
+                "threshold": 32124,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_o"
+                }
+            },
+            {
+                "threshold": 32125,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_p"
+                }
+            },
+            {
+                "threshold": 32126,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_q"
+                }
+            },
+            {
+                "threshold": 32127,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_r"
+                }
+            },
+            {
+                "threshold": 32128,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_s"
+                }
+            },
+            {
+                "threshold": 32129,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_t"
+                }
+            },
+            {
+                "threshold": 32130,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_u"
+                }
+            },
+            {
+                "threshold": 32131,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_v"
+                }
+            },
+            {
+                "threshold": 32132,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_w"
+                }
+            },
+            {
+                "threshold": 32133,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_x"
+                }
+            },
+            {
+                "threshold": 32134,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_y"
+                }
+            },
+            {
+                "threshold": 32135,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/fontstatue/strippedoaklog/font_statue_z"
+                }
             }
         ]
     }

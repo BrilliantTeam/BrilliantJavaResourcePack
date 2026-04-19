@@ -1,0 +1,9 @@
+{
+	"format_version": "1.9.0",
+	"credit": "書碼",
+	"parent": "custom_items/blockentities/fontstatue/font_statue_l",
+	"textures": {
+		"0": "item/custom/blockentities/stone_bricks.png",
+		"particle": "item/custom/blockentities/stone_bricks.png"
+	}
+}

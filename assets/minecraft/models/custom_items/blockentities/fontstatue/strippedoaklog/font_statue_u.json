@@ -1,0 +1,9 @@
+{
+	"format_version": "1.9.0",
+	"credit": "書碼",
+	"parent": "custom_items/blockentities/fontstatue/font_statue_u",
+	"textures": {
+		"0": "item/custom/blockentities/stripped_oak_log.png",
+		"particle": "item/custom/blockentities/stripped_oak_log.png"
+	}
+}

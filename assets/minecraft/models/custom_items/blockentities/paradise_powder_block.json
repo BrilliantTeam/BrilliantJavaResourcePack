@@ -1,8 +1,0 @@
-{
-	"credit": "書碼",
-	"parent": "custom_items/blockentities/paradise_powder_block0",
-	"textures": {
-		"0": "item/custom/blockentities/paradise_powder_block",
-		"particle": "item/custom/blockentities/paradise_powder_block"
-	}
-}

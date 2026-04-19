@@ -3,7 +3,7 @@
 	"credit": "書碼",
 	"parent": "custom_items/blockentities/fontstatue/font_statue_5",
 	"textures": {
-		"0": "item/custom/blockentities/stripped_oak_log.png",
-		"particle": "item/custom/blockentities/stripped_oak_log.png"
+		"0": "item/custom/blockentities/stripped_oak_log",
+		"particle": "item/custom/blockentities/stripped_oak_log"
 	}
 }

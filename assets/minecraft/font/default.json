@@ -2140,6 +2140,15 @@
 			"chars": [
 				"ꇬ"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "emojis/a0_ricepoints.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"ꇭ"
+			]
 		}
 	]
 }

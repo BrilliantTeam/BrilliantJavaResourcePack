@@ -2746,6 +2746,13 @@
                 }
             },
             {
+                "threshold": 31123,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/doll/panyin0930"
+                }
+            },
+            {
                 "threshold": 31500,
                 "model": {
                     "type": "model",

@@ -3250,6 +3250,13 @@
                 }
             },
             {
+                "threshold": 35007,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/misteln/misteln_rice_camera"
+                }
+            },
+            {
                 "threshold": 36010,
                 "model": {
                     "type": "model",

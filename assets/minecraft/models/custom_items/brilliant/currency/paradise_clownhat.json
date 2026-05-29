@@ -1,9 +1,9 @@
 {
 	"credit": "書碼",
 	"textures": {
-		"1": "item/custom/blockentities/paradise_powder_block",
+		"1": "item/custom/blockentities/currency/paradise_powder_block",
 		"2": "item/custom/brilliant/currency/paradise_powder",
-		"particle": "item/custom/blockentities/paradise_powder_block"
+		"particle": "item/custom/blockentities/currency/paradise_powder_block"
 	},
 	"elements": [
 		{

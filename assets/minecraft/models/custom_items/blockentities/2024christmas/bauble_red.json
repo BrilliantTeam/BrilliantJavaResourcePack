@@ -3,7 +3,7 @@
 	"parent": "custom_items/blockentities/2024christmas/bauble",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/custom/blockentities/bauble_red",
-		"particle": "item/custom/blockentities/bauble_red"
+		"0": "item/custom/blockentities/2024christmas/bauble_red",
+		"particle": "item/custom/blockentities/2024christmas/bauble_red"
 	}
 }

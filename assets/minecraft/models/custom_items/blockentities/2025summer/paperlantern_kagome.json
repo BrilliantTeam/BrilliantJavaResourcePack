@@ -1,9 +1,9 @@
 {
 	"credit": "書碼",
 	"textures": {
-		"1": "item/custom/blockentities/symbol_red",
-		"particle": "item/custom/blockentities/paperlantern",
-		"lantern": "item/custom/blockentities/paperlantern"
+		"1": "item/custom/blockentities/2025summer/symbol_red",
+		"particle": "item/custom/blockentities/2025summer/paperlantern",
+		"lantern": "item/custom/blockentities/2025summer/paperlantern"
 	},
 	"elements": [
 		{

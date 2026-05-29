@@ -3,7 +3,7 @@
 	"parent": "custom_items/blockentities/2025childrensday/eggblock",
 	"texture_size": [84, 84],
 	"textures": {
-		"0": "item/custom/blockentities/eggblock_yellow",
-		"particle": "item/custom/blockentities/eggblock_yellow"
+		"0": "item/custom/blockentities/2025childrensday/eggblock_yellow",
+		"particle": "item/custom/blockentities/2025childrensday/eggblock_yellow"
 	}
 }

@@ -3,8 +3,8 @@
 	"parent": "custom_items/blockentities/furniture/wooden_sofa_a1",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/custom/blockentities/cyan",
-		"1": "item/custom/blockentities/warped",
-		"particle": "item/custom/blockentities/cyan"
+		"0": "item/custom/blockentities/furniture/cyan",
+		"1": "item/custom/blockentities/furniture/warped",
+		"particle": "item/custom/blockentities/furniture/cyan"
 	}
 }

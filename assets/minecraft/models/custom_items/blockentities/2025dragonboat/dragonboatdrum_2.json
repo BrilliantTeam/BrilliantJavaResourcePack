@@ -2,9 +2,9 @@
 	"credit": "恐龍",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "item/custom/blockentities/dragonboat_2",
-		"4": "item/custom/blockentities/dragonboatdrum",
-		"particle": "item/custom/blockentities/dragonboat_2"
+		"0": "item/custom/blockentities/2025dragonboat/dragonboat_2",
+		"4": "item/custom/blockentities/2025dragonboat/dragonboatdrum",
+		"particle": "item/custom/blockentities/2025dragonboat/dragonboat_2"
 	},
 	"elements": [
 		{

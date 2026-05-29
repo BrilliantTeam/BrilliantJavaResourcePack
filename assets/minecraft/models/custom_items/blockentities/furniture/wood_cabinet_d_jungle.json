@@ -3,9 +3,9 @@
 	"parent": "custom_items/blockentities/furniture/wood_cabinet_d",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "item/custom/blockentities/jungle",
-		"2": "item/custom/blockentities/brown",
-		"3": "item/custom/blockentities/function_1",
-		"particle": "item/custom/blockentities/jungle"
+		"1": "item/custom/blockentities/furniture/jungle",
+		"2": "item/custom/blockentities/furniture/brown",
+		"3": "item/custom/blockentities/furniture/function_1",
+		"particle": "item/custom/blockentities/furniture/jungle"
 	}
 }

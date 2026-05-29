@@ -2,9 +2,9 @@
 	"format_version": "1.9.0",
 	"credit": "書碼",
 	"textures": {
-		"1": "item/custom/blockentities/2025_dragonboat_black",
-		"2": "item/custom/blockentities/oak_planks",
-		"particle": "item/custom/blockentities/oak_planks"
+		"1": "item/custom/blockentities/2025dragonboat/2025_dragonboat_black",
+		"2": "item/custom/blockentities/2025dragonboat/oak_planks",
+		"particle": "item/custom/blockentities/2025dragonboat/oak_planks"
 	},
 	"elements": [
 		{

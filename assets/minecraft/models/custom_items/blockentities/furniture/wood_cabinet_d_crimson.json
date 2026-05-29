@@ -3,9 +3,9 @@
 	"parent": "custom_items/blockentities/furniture/wood_cabinet_d",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "item/custom/blockentities/crimson",
-		"2": "item/custom/blockentities/purple",
-		"3": "item/custom/blockentities/function_1",
-		"particle": "item/custom/blockentities/crimson"
+		"1": "item/custom/blockentities/furniture/crimson",
+		"2": "item/custom/blockentities/furniture/purple",
+		"3": "item/custom/blockentities/furniture/function_1",
+		"particle": "item/custom/blockentities/furniture/crimson"
 	}
 }

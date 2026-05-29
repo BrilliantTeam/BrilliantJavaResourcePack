@@ -3,8 +3,8 @@
 	"parent": "custom_items/blockentities/furniture/wood_table_b",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "item/custom/blockentities/spruce",
-		"18": "item/custom/blockentities/gray",
-		"particle": "item/custom/blockentities/spruce"
+		"1": "item/custom/blockentities/furniture/spruce",
+		"18": "item/custom/blockentities/furniture/gray",
+		"particle": "item/custom/blockentities/furniture/spruce"
 	}
 }

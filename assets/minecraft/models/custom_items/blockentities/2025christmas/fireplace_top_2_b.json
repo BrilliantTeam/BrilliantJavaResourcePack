@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "書碼",
 	"textures": {
-		"0": "item/custom/blockentities/plain_bricks",
-		"particle": "item/custom/blockentities/plain_bricks"
+		"0": "item/custom/blockentities/2025christmas/plain_bricks",
+		"particle": "item/custom/blockentities/2025christmas/plain_bricks"
 	},
 	"elements": [
 		{

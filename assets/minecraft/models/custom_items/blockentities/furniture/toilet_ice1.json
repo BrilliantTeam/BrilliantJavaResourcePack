@@ -2,8 +2,8 @@
 	"credit": "書碼",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/custom/blockentities/ice",
-		"particle": "item/custom/blockentities/ice"
+		"0": "item/custom/blockentities/furniture/ice",
+		"particle": "item/custom/blockentities/furniture/ice"
 	},
 	"elements": [
 		{

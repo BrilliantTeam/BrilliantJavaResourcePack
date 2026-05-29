@@ -2,8 +2,8 @@
 	"credit": "恐龍",
 	"texture_size": [64, 64],
 	"textures": {
-		"2": "item/custom/blockentities/gaywine",
-		"particle": "item/custom/blockentities/gaywine"
+		"2": "item/custom/blockentities/2025dragonboat/gaywine",
+		"particle": "item/custom/blockentities/2025dragonboat/gaywine"
 	},
 	"elements": [
 		{

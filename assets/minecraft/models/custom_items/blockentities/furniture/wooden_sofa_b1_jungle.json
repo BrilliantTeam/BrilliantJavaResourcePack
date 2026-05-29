@@ -3,8 +3,8 @@
 	"parent": "custom_items/blockentities/furniture/wooden_sofa_b1",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "item/custom/blockentities/jungle",
-		"2": "item/custom/blockentities/brown",
-		"particle": "item/custom/blockentities/jungle"
+		"1": "item/custom/blockentities/furniture/jungle",
+		"2": "item/custom/blockentities/furniture/brown",
+		"particle": "item/custom/blockentities/furniture/jungle"
 	}
 }

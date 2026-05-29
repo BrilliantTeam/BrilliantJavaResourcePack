@@ -2,8 +2,8 @@
 	"credit": "恐龍",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/custom/blockentities/chair",
-		"particle": "item/custom/blockentities/chair"
+		"0": "item/custom/blockentities/2024christmas/chair",
+		"particle": "item/custom/blockentities/2024christmas/chair"
 	},
 	"elements": [
 		{

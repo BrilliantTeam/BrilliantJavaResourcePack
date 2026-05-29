@@ -2,8 +2,8 @@
 	"credit": "恐龍",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "item/custom/blockentities/drum",
-		"particle": "item/custom/blockentities/drum"
+		"1": "item/custom/blockentities/2025dragonboat/drum",
+		"particle": "item/custom/blockentities/2025dragonboat/drum"
 	},
 	"elements": [
 		{

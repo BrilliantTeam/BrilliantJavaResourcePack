@@ -2,9 +2,9 @@
 	"credit": "書碼",
 	"texture_size": [84, 84],
 	"textures": {
-		"0": "item/custom/blockentities/eggblock_empty",
-		"1": "item/custom/blockentities/basket",
-		"particle": "item/custom/blockentities/eggblock_empty"
+		"0": "item/custom/blockentities/2025childrensday/eggblock_empty",
+		"1": "item/custom/blockentities/2025childrensday/basket",
+		"particle": "item/custom/blockentities/2025childrensday/eggblock_empty"
 	},
 	"elements": [
 		{

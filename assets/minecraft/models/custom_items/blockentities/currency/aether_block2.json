@@ -2,7 +2,7 @@
 	"credit": "書碼",
 	"parent": "custom_items/blockentities/currency/aether_block0",
 	"textures": {
-		"0": "item/custom/blockentities/aether_block2",
-		"particle": "item/custom/blockentities/aether_block2"
+		"0": "item/custom/blockentities/currency/aether_block2",
+		"particle": "item/custom/blockentities/currency/aether_block2"
 	}
 }

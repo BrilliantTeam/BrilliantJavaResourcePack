@@ -2,8 +2,8 @@
 	"credit": "書碼",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "item/custom/blockentities/chess_black",
-		"particle": "item/custom/blockentities/chess_black"
+		"1": "item/custom/blockentities/2025childrensday/chess_black",
+		"particle": "item/custom/blockentities/2025childrensday/chess_black"
 	},
 	"elements": [
 		{

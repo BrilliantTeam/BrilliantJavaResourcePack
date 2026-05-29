@@ -2,8 +2,8 @@
 	"credit": "恐龍",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/custom/blockentities/winecup",
-		"particle": "item/custom/blockentities/winecup"
+		"0": "item/custom/blockentities/2025dragonboat/winecup",
+		"particle": "item/custom/blockentities/2025dragonboat/winecup"
 	},
 	"elements": [
 		{

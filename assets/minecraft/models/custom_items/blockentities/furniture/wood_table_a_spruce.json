@@ -3,7 +3,7 @@
 	"parent": "custom_items/blockentities/furniture/wood_table_a",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/custom/blockentities/spruce",
-		"particle": "item/custom/blockentities/spruce"
+		"0": "item/custom/blockentities/furniture/spruce",
+		"particle": "item/custom/blockentities/furniture/spruce"
 	}
 }

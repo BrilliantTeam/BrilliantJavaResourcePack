@@ -2,8 +2,8 @@
 	"credit": "書碼",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/custom/blockentities/unicorn",
-		"particle": "item/custom/blockentities/unicorn"
+		"0": "item/custom/blockentities/2024summer/unicorn",
+		"particle": "item/custom/blockentities/2024summer/unicorn"
 	},
 	"elements": [
 		{

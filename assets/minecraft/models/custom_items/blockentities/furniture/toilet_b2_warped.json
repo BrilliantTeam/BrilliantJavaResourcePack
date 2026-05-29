@@ -3,8 +3,8 @@
 	"parent": "custom_items/blockentities/furniture/toilet_b2",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/custom/blockentities/white",
-		"1": "item/custom/blockentities/cyan",
-		"particle": "item/custom/blockentities/white"
+		"0": "item/custom/blockentities/furniture/white",
+		"1": "item/custom/blockentities/furniture/cyan",
+		"particle": "item/custom/blockentities/furniture/white"
 	}
 }

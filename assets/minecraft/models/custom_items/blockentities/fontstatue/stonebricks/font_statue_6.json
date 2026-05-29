@@ -3,7 +3,7 @@
 	"credit": "書碼",
 	"parent": "custom_items/blockentities/fontstatue/font_statue_6",
 	"textures": {
-		"0": "item/custom/blockentities/stone_bricks",
-		"particle": "item/custom/blockentities/stone_bricks"
+		"0": "item/custom/blockentities/fontstatue/stone_bricks",
+		"particle": "item/custom/blockentities/fontstatue/stone_bricks"
 	}
 }

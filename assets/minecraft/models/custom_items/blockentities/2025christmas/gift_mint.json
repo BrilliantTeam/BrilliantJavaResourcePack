@@ -3,7 +3,7 @@
 	"parent": "custom_items/blockentities/2024christmas/gift",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/custom/blockentities/gift_mint",
-		"particle": "item/custom/blockentities/gift_mint"
+		"0": "item/custom/blockentities/2025christmas/gift_mint",
+		"particle": "item/custom/blockentities/2025christmas/gift_mint"
 	}
 }

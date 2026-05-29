@@ -3,8 +3,8 @@
 	"parent": "custom_items/blockentities/furniture/wooden_sofa_a3",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/custom/blockentities/orange",
-		"1": "item/custom/blockentities/acacia",
-		"particle": "item/custom/blockentities/orange"
+		"0": "item/custom/blockentities/furniture/orange",
+		"1": "item/custom/blockentities/furniture/acacia",
+		"particle": "item/custom/blockentities/furniture/orange"
 	}
 }

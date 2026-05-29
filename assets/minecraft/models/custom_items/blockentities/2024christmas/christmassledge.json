@@ -2,8 +2,8 @@
 	"credit": "恐龍",
 	"texture_size": [160, 160],
 	"textures": {
-		"0": "item/custom/blockentities/christmassledge",
-		"particle": "item/custom/blockentities/christmassledge"
+		"0": "item/custom/blockentities/2024christmas/christmassledge",
+		"particle": "item/custom/blockentities/2024christmas/christmassledge"
 	},
 	"elements": [
 		{

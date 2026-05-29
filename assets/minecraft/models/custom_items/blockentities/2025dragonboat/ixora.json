@@ -2,8 +2,8 @@
 	"credit": "書碼",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/custom/blockentities/ixora_pot",
-		"particle": "item/custom/blockentities/ixora_pot"
+		"0": "item/custom/blockentities/2025dragonboat/ixora_pot",
+		"particle": "item/custom/blockentities/2025dragonboat/ixora_pot"
 	},
 	"elements": [
 		{

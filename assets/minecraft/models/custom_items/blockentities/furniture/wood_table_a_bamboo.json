@@ -3,7 +3,7 @@
 	"parent": "custom_items/blockentities/furniture/wood_table_a",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/custom/blockentities/bamboo",
-		"particle": "item/custom/blockentities/bamboo"
+		"0": "item/custom/blockentities/furniture/bamboo",
+		"particle": "item/custom/blockentities/furniture/bamboo"
 	}
 }

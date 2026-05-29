@@ -2,7 +2,7 @@
     "credit": "書碼",
     "parent": "custom_items/blockentities/2024halloween/potion_1",
     "textures": {
-        "1": "item/custom/blockentities/potion_1_rgb",
-        "particle": "item/custom/blockentities/potion_1_rgb"
+        "1": "item/custom/blockentities/2024halloween/potion_1_rgb",
+        "particle": "item/custom/blockentities/2024halloween/potion_1_rgb"
     }
 }

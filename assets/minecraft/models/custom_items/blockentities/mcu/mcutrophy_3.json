@@ -3,7 +3,7 @@
 	"parent": "custom_items/blockentities/mcu/mcu_trophy",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/custom/blockentities/mcutrophy_3",
-		"particle": "item/custom/blockentities/mcutrophy_3"
+		"0": "item/custom/blockentities/mcu/mcutrophy_3",
+		"particle": "item/custom/blockentities/mcu/mcutrophy_3"
 	}
 }

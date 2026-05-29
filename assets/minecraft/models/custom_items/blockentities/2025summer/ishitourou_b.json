@@ -1,8 +1,8 @@
 {
 	"credit": "書碼",
 	"textures": {
-		"3": "item/custom/blockentities/mossy_stone_bricks",
-		"particle": "item/custom/blockentities/mossy_stone_bricks"
+		"3": "item/custom/blockentities/2025summer/mossy_stone_bricks",
+		"particle": "item/custom/blockentities/2025summer/mossy_stone_bricks"
 	},
 	"elements": [
 		{

@@ -3,8 +3,8 @@
 	"parent": "custom_items/blockentities/furniture/wood_chair_b",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/custom/blockentities/warped",
-		"1": "item/custom/blockentities/cyan",
-		"particle": "item/custom/blockentities/warped"
+		"0": "item/custom/blockentities/furniture/warped",
+		"1": "item/custom/blockentities/furniture/cyan",
+		"particle": "item/custom/blockentities/furniture/warped"
 	}
 }

@@ -3,8 +3,8 @@
 	"parent": "custom_items/blockentities/fusuma/fusuma_down_b",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/custom/blockentities/dark_oak",
-		"1": "item/custom/blockentities/fusuma_b1",
-		"particle": "item/custom/blockentities/dark_oak"
+		"0": "item/custom/blockentities/furniture/dark_oak",
+		"1": "item/custom/blockentities/fusuma/fusuma_b1",
+		"particle": "item/custom/blockentities/furniture/dark_oak"
 	}
 }

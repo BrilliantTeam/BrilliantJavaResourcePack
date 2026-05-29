@@ -2,8 +2,8 @@
 	"credit": "書碼",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/custom/blockentities/mugwort",
-		"particle": "item/custom/blockentities/mugwort"
+		"0": "item/custom/blockentities/2025dragonboat/mugwort",
+		"particle": "item/custom/blockentities/2025dragonboat/mugwort"
 	},
 	"elements": [
 		{

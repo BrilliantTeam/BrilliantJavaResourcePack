@@ -2,7 +2,7 @@
 	"credit": "書碼",
 	"parent": "custom_items/blockentities/currency/paradise_powder_block0",
 	"textures": {
-		"0": "item/custom/blockentities/paradise_powder_block",
-		"particle": "item/custom/blockentities/paradise_powder_block"
+		"0": "item/custom/blockentities/currency/paradise_powder_block",
+		"particle": "item/custom/blockentities/currency/paradise_powder_block"
 	}
 }

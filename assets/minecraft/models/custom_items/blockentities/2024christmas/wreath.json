@@ -2,8 +2,8 @@
 	"credit": "恐龍",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/custom/blockentities/wreath",
-		"particle": "item/custom/blockentities/wreath"
+		"0": "item/custom/blockentities/2024christmas/wreath",
+		"particle": "item/custom/blockentities/2024christmas/wreath"
 	},
 	"elements": [
 		{

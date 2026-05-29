@@ -2,8 +2,8 @@
 	"credit": "書碼",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "item/custom/blockentities/checker_magenta",
-		"particle": "item/custom/blockentities/checker_magenta"
+		"1": "item/custom/blockentities/2025childrensday/checker_magenta",
+		"particle": "item/custom/blockentities/2025childrensday/checker_magenta"
 	},
 	"elements": [
 		{

@@ -1,8 +1,8 @@
 {
 	"credit": "書碼",
 	"textures": {
-		"0": "item/custom/blockentities/flower_0",
-		"particle": "item/custom/blockentities/flower_0"
+		"0": "item/custom/blockentities/2025valentinesday/flower_0",
+		"particle": "item/custom/blockentities/2025valentinesday/flower_0"
 	},
 	"elements": [
 		{

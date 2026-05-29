@@ -3,10 +3,10 @@
 	"credit": "書碼",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/custom/blockentities/basket",
+		"0": "item/custom/blockentities/2025childrensday/basket",
 		"1": "item/custom/2025valentinesday/strawberry_1",
-		"2": "item/custom/blockentities/eggs",
-		"particle": "item/custom/blockentities/basket"
+		"2": "item/custom/blockentities/2025childrensday/eggs",
+		"particle": "item/custom/blockentities/2025childrensday/basket"
 	},
 	"elements": [
 		{

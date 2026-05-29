@@ -2,9 +2,9 @@
 	"credit": "書碼",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/custom/blockentities/sand_castle",
-		"1": "item/custom/blockentities/red",
-		"particle": "item/custom/blockentities/sand_castle"
+		"0": "item/custom/blockentities/2024summer/sand_castle",
+		"1": "item/custom/blockentities/furniture/red",
+		"particle": "item/custom/blockentities/2024summer/sand_castle"
 	},
 	"elements": [
 		{

@@ -3,8 +3,8 @@
 	"parent": "custom_items/blockentities/fusuma/fusuma_up_b",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/custom/blockentities/spruce",
-		"1": "item/custom/blockentities/fusuma_b2",
-		"particle": "item/custom/blockentities/spruce"
+		"0": "item/custom/blockentities/furniture/spruce",
+		"1": "item/custom/blockentities/fusuma/fusuma_b2",
+		"particle": "item/custom/blockentities/furniture/spruce"
 	}
 }

@@ -906,6 +906,8 @@
         { "predicate": { "custom_model_data": 58006 }, "model": "custom_items/2026hamsterday/flower_hat_1" },
         { "predicate": { "custom_model_data": 58007 }, "model": "custom_items/2026hamsterday/flower_hat_2" },
         { "predicate": { "custom_model_data": 58008 }, "model": "custom_items/2026hamsterday/flower_hat_3" },
-        { "predicate": { "custom_model_data": 58009 }, "model": "custom_items/2026hamsterday/flower_hat_4" }
+        { "predicate": { "custom_model_data": 58009 }, "model": "custom_items/2026hamsterday/flower_hat_4" },
+
+        { "predicate": { "custom_model_data": 59000 }, "model": "custom_items/brilliant/badv/advancement_crown_1_21_1" }
     ]
 }

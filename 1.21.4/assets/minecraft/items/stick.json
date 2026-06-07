@@ -5859,6 +5859,13 @@
                     "type": "model",
                     "model": "custom_items/2026hamsterday/flower_hat_4"
                 }
+            },
+            {
+                "threshold": 59000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/badv/advancement_crown_1_21_1"
+                }
             }
         ]
     }

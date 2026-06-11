@@ -343,6 +343,13 @@
                     "type": "model",
                     "model": "custom_items/2026hamsterday/hamster_wand"
                 }
+            },
+            {
+                "threshold": 21000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/currency/crystal_sword"
+                }
             }
         ]
     }

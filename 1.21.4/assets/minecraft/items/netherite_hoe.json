@@ -56,6 +56,13 @@
                     "type": "model",
                     "model": "custom_items/2026hamsterday/huge_sunflowerseed"
                 }
+            },
+            {
+                "threshold": 21000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/currency/crystal_hoe"
+                }
             }
         ]
     }

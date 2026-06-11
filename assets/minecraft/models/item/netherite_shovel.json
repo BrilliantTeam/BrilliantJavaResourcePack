@@ -16,6 +16,8 @@
         {"predicate": {"custom_model_data": 19001}, "model": "custom_items/2026aprilfool/shovel2"},
 
         {"predicate": {"custom_model_data": 20000}, "model": "custom_items/2026valentinesday/heart_shovel"},
-        {"predicate": {"custom_model_data": 20001}, "model": "custom_items/2026valentinesday/spade_shovel"}
+        {"predicate": {"custom_model_data": 20001}, "model": "custom_items/2026valentinesday/spade_shovel"},
+        
+        {"predicate": {"custom_model_data": 21000}, "model": "custom_items/brilliant/currency/crystal_shovel"}
     ]
 }

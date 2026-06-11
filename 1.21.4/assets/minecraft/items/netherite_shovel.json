@@ -70,6 +70,13 @@
                     "type": "model",
                     "model": "custom_items/2026valentinesday/spade_shovel"
                 }
+            },
+            {
+                "threshold": 21000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/currency/crystal_shovel"
+                }
             }
         ]
     }

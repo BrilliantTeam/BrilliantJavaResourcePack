@@ -1,0 +1,7 @@
+{
+    "credit": "書碼",
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "item/custom/brilliant/currency/crystal_sword"
+    }
+}

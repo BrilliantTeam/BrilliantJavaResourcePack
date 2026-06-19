@@ -2333,6 +2333,13 @@
                 }
             },
             {
+                "threshold": 21144,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/trident"
+                }
+            },
+            {
                 "threshold": 30001,
                 "model": {
                     "type": "model",

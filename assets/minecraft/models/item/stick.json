@@ -346,6 +346,7 @@
         {"predicate": {"custom_model_data": 21142}, "model": "custom_items/brilliant/mc/crimson_sign"},
         {"predicate": {"custom_model_data": 21143}, "model": "custom_items/brilliant/mc/warped_sign"},
         {"predicate": {"custom_model_data": 21144}, "model": "custom_items/brilliant/mc/trident"},
+        {"predicate": {"custom_model_data": 21145}, "model": "custom_items/brilliant/mc/vault"},
 
         {"predicate": {"custom_model_data": 30001}, "model":"custom_items/brilliant/purifier"},
         {"predicate": {"custom_model_data": 30002}, "model":"custom_items/brilliant/teleport_scroll"},

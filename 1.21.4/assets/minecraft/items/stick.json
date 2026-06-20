@@ -2340,6 +2340,13 @@
                 }
             },
             {
+                "threshold": 21145,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/vault"
+                }
+            },
+            {
                 "threshold": 30001,
                 "model": {
                     "type": "model",

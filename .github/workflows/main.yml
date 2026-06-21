@@ -67,7 +67,7 @@ jobs:
         run: |
           cp pack.mcmeta pack.mcmeta.original
           cp pack.mcmeta-icd pack.mcmeta
-          zip -r "${{ steps.set_var.outputs.ZIP_ICD }}" assets/ 1.21.4/ 1.21.6/ 1.21.11/ 26.1/ LICENSE.txt pack.mcmeta pack.png || exit 1
+          zip -r "${{ steps.set_var.outputs.ZIP_ICD }}" assets/ LICENSE.txt pack.mcmeta pack.png || exit 1
           cp pack.mcmeta.original pack.mcmeta
           echo "ICD ZIP created."
 

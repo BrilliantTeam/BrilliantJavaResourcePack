@@ -4,6 +4,6 @@
 	"textures": {
 		"0": "item/custom/brilliant/gacha/gacha_blue",
 		"1": "item/custom/blockentities/currency/aether_block",
-		"particle": "item/custom/brilliant/gacha/aether_block"
+		"particle": "item/custom/blockentities/currency/aether_block"
 	}
 }

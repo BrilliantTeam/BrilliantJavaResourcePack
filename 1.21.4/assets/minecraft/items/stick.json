@@ -3878,11 +3878,11 @@
                     "models": [
                         {
                         "type": "model",
-                        "model": "custom_items/brilliant/gacha/purple/_gacha_purple_cube"
+                        "model": "custom_items/brilliant/gacha/purple/gacha_purple_cube"
                         },
                         {
                         "type": "model",
-                        "model": "custom_items/brilliant/gacha/purple_/gacha_purple_ball"
+                        "model": "custom_items/brilliant/gacha/purple/gacha_purple_ball"
                         }
                     ]
                 }

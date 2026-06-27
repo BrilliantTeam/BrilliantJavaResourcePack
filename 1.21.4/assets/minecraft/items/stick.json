@@ -3830,11 +3830,11 @@
                     "models": [
                         {
                         "type": "model",
-                        "model": "custom_items/brilliant/gacha/gacha_green_cube"
+                        "model": "custom_items/brilliant/gacha/green/gacha_green_cube"
                         },
                         {
                         "type": "model",
-                        "model": "custom_items/brilliant/gacha/gacha_green_ball"
+                        "model": "custom_items/brilliant/gacha/green/gacha_green_ball"
                         }
                     ]
                 }
@@ -3846,11 +3846,11 @@
                     "models": [
                         {
                         "type": "model",
-                        "model": "custom_items/brilliant/gacha/gacha_green2_cube"
+                        "model": "custom_items/brilliant/gacha/green/gacha_green2_cube"
                         },
                         {
                         "type": "model",
-                        "model": "custom_items/brilliant/gacha/gacha_green2_ball"
+                        "model": "custom_items/brilliant/gacha/green/gacha_green2_ball"
                         }
                     ]
                 }
@@ -3862,11 +3862,11 @@
                     "models": [
                         {
                         "type": "model",
-                        "model": "custom_items/brilliant/gacha/gacha_blue_cube"
+                        "model": "custom_items/brilliant/gacha/blue/gacha_blue_cube"
                         },
                         {
                         "type": "model",
-                        "model": "custom_items/brilliant/gacha/gacha_blue_ball"
+                        "model": "custom_items/brilliant/gacha/blue/gacha_blue_ball"
                         }
                     ]
                 }
@@ -3878,11 +3878,11 @@
                     "models": [
                         {
                         "type": "model",
-                        "model": "custom_items/brilliant/gacha/gacha_purple_cube"
+                        "model": "custom_items/brilliant/gacha/purple/_gacha_purple_cube"
                         },
                         {
                         "type": "model",
-                        "model": "custom_items/brilliant/gacha/gacha_purple_ball"
+                        "model": "custom_items/brilliant/gacha/purple_/gacha_purple_ball"
                         }
                     ]
                 }
@@ -3894,11 +3894,11 @@
                     "models": [
                         {
                         "type": "model",
-                        "model": "custom_items/brilliant/gacha/gacha_orange_cube"
+                        "model": "custom_items/brilliant/gacha/orange/gacha_orange_cube"
                         },
                         {
                         "type": "model",
-                        "model": "custom_items/brilliant/gacha/gacha_orange_ball"
+                        "model": "custom_items/brilliant/gacha/orange/gacha_orange_ball"
                         }
                     ]
                 }

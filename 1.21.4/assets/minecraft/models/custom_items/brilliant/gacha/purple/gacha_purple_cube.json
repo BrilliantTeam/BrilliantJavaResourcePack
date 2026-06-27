@@ -1,0 +1,8 @@
+{
+	"parent": "custom_items/brilliant/gacha/gacha_watercress_cube",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "item/custom/brilliant/currency/watercress",
+		"particle": "item/custom/brilliant/currency/watercress"
+	}
+}

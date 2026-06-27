@@ -3826,36 +3826,81 @@
             {
                 "threshold": 50000,
                 "model": {
-                    "type": "model",
-                    "model": "custom_items/brilliant/gacha/gacha_green"
+                    "type": "composite",
+                    "models": [
+                        {
+                        "type": "model",
+                        "model": "custom_items/brilliant/gacha/gacha_green_cube"
+                        },
+                        {
+                        "type": "model",
+                        "model": "custom_items/brilliant/gacha/gacha_green_ball"
+                        }
+                    ]
                 }
             },
             {
                 "threshold": 50001,
                 "model": {
-                    "type": "model",
-                    "model": "custom_items/brilliant/gacha/gacha_green2"
+                    "type": "composite",
+                    "models": [
+                        {
+                        "type": "model",
+                        "model": "custom_items/brilliant/gacha/gacha_green2_cube"
+                        },
+                        {
+                        "type": "model",
+                        "model": "custom_items/brilliant/gacha/gacha_green2_ball"
+                        }
+                    ]
                 }
             },
             {
                 "threshold": 50002,
                 "model": {
-                    "type": "model",
-                    "model": "custom_items/brilliant/gacha/gacha_blue"
+                    "type": "composite",
+                    "models": [
+                        {
+                        "type": "model",
+                        "model": "custom_items/brilliant/gacha/gacha_blue_cube"
+                        },
+                        {
+                        "type": "model",
+                        "model": "custom_items/brilliant/gacha/gacha_blue_ball"
+                        }
+                    ]
                 }
             },
             {
                 "threshold": 50003,
                 "model": {
-                    "type": "model",
-                    "model": "custom_items/brilliant/gacha/gacha_purple"
+                    "type": "composite",
+                    "models": [
+                        {
+                        "type": "model",
+                        "model": "custom_items/brilliant/gacha/gacha_purple_cube"
+                        },
+                        {
+                        "type": "model",
+                        "model": "custom_items/brilliant/gacha/gacha_purple_ball"
+                        }
+                    ]
                 }
             },
             {
                 "threshold": 50004,
                 "model": {
-                    "type": "model",
-                    "model": "custom_items/brilliant/gacha/gacha_orange"
+                    "type": "composite",
+                    "models": [
+                        {
+                        "type": "model",
+                        "model": "custom_items/brilliant/gacha/gacha_orange_cube"
+                        },
+                        {
+                        "type": "model",
+                        "model": "custom_items/brilliant/gacha/gacha_orange_ball"
+                        }
+                    ]
                 }
             },
             {

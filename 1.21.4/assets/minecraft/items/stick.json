@@ -2347,6 +2347,13 @@
                 }
             },
             {
+                "threshold": 21146,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/mc/map"
+                }
+            },
+            {
                 "threshold": 30001,
                 "model": {
                     "type": "model",

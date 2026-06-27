@@ -5460,8 +5460,17 @@
             {
                 "threshold": 57209,
                 "model": {
-                    "type": "model",
-                    "model": "custom_items/2025christmas/crystalball"
+                    "type": "composite",
+                    "models": [
+                        {
+                        "type": "model",
+                        "model": "custom_items/2025christmas/crystalball"
+                        },
+                        {
+                        "type": "model",
+                        "model": "custom_items/2025christmas/crystalball_ball"
+                        }
+                    ]
                 }
             },
             {

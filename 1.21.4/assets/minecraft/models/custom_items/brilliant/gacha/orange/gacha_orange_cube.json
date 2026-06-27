@@ -2,6 +2,7 @@
 	"parent": "custom_items/brilliant/gacha/gacha_cube",
 	"texture_size": [64, 64],
 	"textures": {
+		"0": "item/custom/brilliant/gacha/gacha_orange",
 		"1": "item/custom/blockentities/currency/gacha_event",
 		"particle": "item/custom/blockentities/currency/gacha_event"
 	}

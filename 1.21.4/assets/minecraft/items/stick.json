@@ -5894,8 +5894,17 @@
             {
                 "threshold": 58004,
                 "model": {
-                    "type": "model",
-                    "model": "custom_items/2026hamsterday/hamster_ball_shooter"
+                    "type": "composite",
+                    "models": [
+                        {
+                        "type": "model",
+                        "model": "custom_items/2026hamsterday/hamster_ball_shooter"
+                        },
+                        {
+                        "type": "model",
+                        "model": "custom_items/2026hamsterday/hamster_ball_shooter_ball"
+                        }
+                    ]
                 }
             },
             {

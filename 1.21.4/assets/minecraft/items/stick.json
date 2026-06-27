@@ -3955,8 +3955,17 @@
             {
                 "threshold": 51011,
                 "model": {
-                    "type": "model",
-                    "model": "custom_items/2024christmas/globe"
+                    "type": "composite",
+                    "models": [
+                        {
+                        "type": "model",
+                        "model": "custom_items/2024christmas/globe"
+                        },
+                        {
+                        "type": "model",
+                        "model": "custom_items/2024christmas/globe_ball"
+                        }
+                    ]
                 }
             },
             {

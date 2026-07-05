@@ -64,6 +64,8 @@
 
         {"predicate": {"custom_model_data": 20100}, "model": "custom_items/2026hamsterday/hamster_wand"},
 
-        {"predicate": {"custom_model_data": 21000}, "model": "custom_items/brilliant/currency/crystal_sword"}
+        {"predicate": {"custom_model_data": 21000}, "model": "custom_items/brilliant/currency/crystal_sword"},
+
+        {"predicate": {"custom_model_data": 77777}, "model": "custom_items/20267th/kapippistaff"}
     ]
 }

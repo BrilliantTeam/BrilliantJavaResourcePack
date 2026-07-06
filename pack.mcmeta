@@ -3,7 +3,7 @@
     "pack_format": 34,
     "min_format": 34,
     "max_format": 88,
-    "supported_formats": [88],
+    "supported_formats": [34, 88],
     "description": "§7適用於 §f§l1.21.1 - 26.2 §r§7由 §6§l輝煌伺服器 §r§7製作"
   },
   "overlays": {

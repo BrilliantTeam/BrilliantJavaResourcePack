@@ -2613,6 +2613,13 @@
                 }
             },
             {
+                "threshold": 31032,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/doll/baobao369"
+                }
+            },
+            {
                 "threshold": 31100,
                 "model": {
                     "type": "model",

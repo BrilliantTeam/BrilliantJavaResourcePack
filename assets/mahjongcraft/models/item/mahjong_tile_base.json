@@ -1,11 +1,7 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
-	"textures": {
-		"0": "mahjongcraft:item/mahjong_tile/mahjong_tile_m1",
-		"1": "mahjongcraft:item/mahjong_tile/mahjong_tile_cover",
-		"particle": "mahjongcraft:item/mahjong_tile/mahjong_tile_cover"
-	},
 	"elements": [
 		{
 			"from": [2, 0, 4],
@@ -20,6 +16,7 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [0, -180, 0],
@@ -30,28 +27,28 @@
 			"scale": [0.15, 0.15, 0.15]
 		},
 		"firstperson_righthand": {
-			"rotation": [0, -180, 0],
-			"translation": [0, 0.75, 0],
-			"scale": [0.15, 0.15, 0.15]
+			"rotation": [160.74, 58.06, -157.88],
+			"translation": [1.75, 2.75, 0],
+			"scale": [0.3, 0.3, 0.3]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0, -180, 0],
-			"translation": [0, 0.75, 0],
-			"scale": [0.15, 0.15, 0.15]
+			"rotation": [160.74, 58.06, -157.88],
+			"translation": [1.75, 2.75, 0],
+			"scale": [0.3, 0.3, 0.3]
 		},
 		"ground": {
 			"translation": [0, 2, 0],
 			"scale": [0.15, 0.15, 0.15]
 		},
 		"gui": {
-			"rotation": [15, 150, 0],
+			"rotation": [-177.46, 33.11, -156.46],
 			"scale": [0.7, 0.7, 0.7]
 		},
 		"head": {
 			"scale": [0.15, 0.15, 0.15]
 		},
 		"fixed": {
-			"translation": [0, 0, -5]
+			"translation": [0, 0, -2.75]
 		}
 	}
 }

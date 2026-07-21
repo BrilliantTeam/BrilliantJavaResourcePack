@@ -2,6 +2,10 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
+	"textures": {
+		"1": "mahjongcraft:item/mahjong_tile/mahjong_tile_cover",
+		"particle": "mahjongcraft:item/mahjong_tile/mahjong_tile_cover"
+	},
 	"elements": [
 		{
 			"from": [2, 0, 4],

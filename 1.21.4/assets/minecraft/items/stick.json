@@ -2788,6 +2788,13 @@
                 }
             },
             {
+                "threshold": 31124,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/doll/snake960031"
+                }
+            },
+            {
                 "threshold": 31500,
                 "model": {
                     "type": "model",

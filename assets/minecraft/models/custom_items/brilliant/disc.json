@@ -1,0 +1,7 @@
+{
+    "credit": "書碼",
+    "parent": "minecraft:item/template_music_disc",
+    "textures": {
+        "layer0": "item/custom/brilliant/disc"
+    }
+}

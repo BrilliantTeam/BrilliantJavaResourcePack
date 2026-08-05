@@ -1353,6 +1353,13 @@
                 }
             },
             {
+                "threshold": 20082,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/shopgui/disc"
+                }
+            },
+            {
                 "threshold": 21001,
                 "model": {
                     "type": "model",

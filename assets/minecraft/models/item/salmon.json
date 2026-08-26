@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/salmon"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 3001}, "model": "custom_items/brilliant/fishing/bait_common"},
+        {"predicate": {"custom_model_data": 3002}, "model": "custom_items/brilliant/fishing/bait_tasty"},
+        {"predicate": {"custom_model_data": 3003}, "model": "custom_items/brilliant/fishing/bait_delicacy"},
+        {"predicate": {"custom_model_data": 3004}, "model": "custom_items/brilliant/fishing/bait_gourmet"}
+    ]
+}

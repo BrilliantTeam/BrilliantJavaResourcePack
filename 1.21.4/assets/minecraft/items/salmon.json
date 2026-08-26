@@ -1,0 +1,41 @@
+{
+    "oversized_in_gui": true,
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/salmon"
+        },
+        "entries": [
+            {
+                "threshold": 3001,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/bait_common"
+                }
+            },
+            {
+                "threshold": 3002,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/bait_tasty"
+                }
+            },
+            {
+                "threshold": 3003,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/bait_delicacy"
+                }
+            },
+            {
+                "threshold": 3004,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/bait_gourmet"
+                }
+            }
+        ]
+    }
+}

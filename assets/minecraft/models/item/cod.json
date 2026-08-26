@@ -203,7 +203,6 @@
         {"predicate": {"custom_model_data": 1307}, "model": "custom_items/brilliant/fishing/fish/197"},
         {"predicate": {"custom_model_data": 1308}, "model": "custom_items/brilliant/fishing/fish/198"},
         {"predicate": {"custom_model_data": 1309}, "model": "custom_items/brilliant/fishing/fish/199"},
-        {"predicate": {"custom_model_data": 1310}, "model": "custom_items/brilliant/fishing/fish/200"},
-        {"predicate": {"custom_model_data": 20000}, "model": "custom_items/2024halloween/witch_broom"}
+        {"predicate": {"custom_model_data": 1310}, "model": "custom_items/brilliant/fishing/fish/200"}
     ]
 }

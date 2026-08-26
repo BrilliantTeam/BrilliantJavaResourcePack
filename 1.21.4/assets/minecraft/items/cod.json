@@ -1339,6 +1339,13 @@
                 }
             },
             {
+                "threshold": 1231,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/fish/201"
+                }
+            },
+            {
                 "threshold": 1301,
                 "model": {
                     "type": "minecraft:model",

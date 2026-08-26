@@ -103,6 +103,7 @@
         {"predicate": {"custom_model_data": 1097}, "model": "custom_items/brilliant/fishing/fish/097"},
         {"predicate": {"custom_model_data": 1098}, "model": "custom_items/brilliant/fishing/fish/098"},
         {"predicate": {"custom_model_data": 1099}, "model": "custom_items/brilliant/fishing/fish/099"},
+    
         {"predicate": {"custom_model_data": 1100}, "model": "custom_items/brilliant/fishing/fish/100"},
         {"predicate": {"custom_model_data": 1101}, "model": "custom_items/brilliant/fishing/fish/101"},
         {"predicate": {"custom_model_data": 1102}, "model": "custom_items/brilliant/fishing/fish/102"},
@@ -164,6 +165,7 @@
         {"predicate": {"custom_model_data": 1158}, "model": "custom_items/brilliant/fishing/fish/158"},
         {"predicate": {"custom_model_data": 1159}, "model": "custom_items/brilliant/fishing/fish/159"},
         {"predicate": {"custom_model_data": 1160}, "model": "custom_items/brilliant/fishing/fish/160"},
+
         {"predicate": {"custom_model_data": 1201}, "model": "custom_items/brilliant/fishing/fish/161"},
         {"predicate": {"custom_model_data": 1202}, "model": "custom_items/brilliant/fishing/fish/162"},
         {"predicate": {"custom_model_data": 1203}, "model": "custom_items/brilliant/fishing/fish/163"},
@@ -194,6 +196,8 @@
         {"predicate": {"custom_model_data": 1228}, "model": "custom_items/brilliant/fishing/fish/188"},
         {"predicate": {"custom_model_data": 1229}, "model": "custom_items/brilliant/fishing/fish/189"},
         {"predicate": {"custom_model_data": 1230}, "model": "custom_items/brilliant/fishing/fish/190"},
+        {"predicate": {"custom_model_data": 1231}, "model": "custom_items/brilliant/fishing/fish/201"},
+
         {"predicate": {"custom_model_data": 1301}, "model": "custom_items/brilliant/fishing/fish/191"},
         {"predicate": {"custom_model_data": 1302}, "model": "custom_items/brilliant/fishing/fish/192"},
         {"predicate": {"custom_model_data": 1303}, "model": "custom_items/brilliant/fishing/fish/193"},

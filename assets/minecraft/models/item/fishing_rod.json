@@ -1,0 +1,24 @@
+{
+    "parent": "minecraft:item/handheld_rod",
+    "textures": {
+        "layer0": "minecraft:item/fishing_rod"
+    },
+    "overrides": [
+        {"predicate": {"cast": 1}, "model": "minecraft:item/fishing_rod_cast"},
+
+        {"predicate": {"custom_model_data": 2001}, "model": "custom_items/brilliant/fishing/rod_copper"},
+        {"predicate": {"custom_model_data": 2001, "cast": 1}, "model": "custom_items/brilliant/fishing/rod_copper_cast"},
+
+        {"predicate": {"custom_model_data": 2002}, "model": "custom_items/brilliant/fishing/rod_iron"},
+        {"predicate": {"custom_model_data": 2002, "cast": 1}, "model": "custom_items/brilliant/fishing/rod_iron_cast"},
+
+        {"predicate": {"custom_model_data": 2003}, "model": "custom_items/brilliant/fishing/rod_gold"},
+        {"predicate": {"custom_model_data": 2003, "cast": 1}, "model": "custom_items/brilliant/fishing/rod_gold_cast"},
+
+        {"predicate": {"custom_model_data": 2004}, "model": "custom_items/brilliant/fishing/rod_diamond"},
+        {"predicate": {"custom_model_data": 2004, "cast": 1}, "model": "custom_items/brilliant/fishing/rod_diamond_cast"},
+
+        {"predicate": {"custom_model_data": 2005}, "model": "custom_items/brilliant/fishing/rod_netherite"},
+        {"predicate": {"custom_model_data": 2005, "cast": 1}, "model": "custom_items/brilliant/fishing/rod_netherite_cast"}
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "oversized_in_gui": true,
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:fishing_rod/cast",
+            "on_false": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/fishing_rod"
+            },
+            "on_true": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/fishing_rod_cast"
+            }
+        },
+        "entries": [
+            {
+                "threshold": 2001,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "custom_items/brilliant/fishing/rod_copper"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "custom_items/brilliant/fishing/rod_copper_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 2002,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "custom_items/brilliant/fishing/rod_iron"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "custom_items/brilliant/fishing/rod_iron_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 2003,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "custom_items/brilliant/fishing/rod_gold"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "custom_items/brilliant/fishing/rod_gold_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 2004,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "custom_items/brilliant/fishing/rod_diamond"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "custom_items/brilliant/fishing/rod_diamond_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 2005,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "custom_items/brilliant/fishing/rod_netherite"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "custom_items/brilliant/fishing/rod_netherite_cast"
+                    }
+                }
+            }
+        ]
+    }
+}

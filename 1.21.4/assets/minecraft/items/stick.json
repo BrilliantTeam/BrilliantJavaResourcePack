@@ -1360,6 +1360,13 @@
                 }
             },
             {
+                "threshold": 20083,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/shopgui/bfish"
+                }
+            },
+            {
                 "threshold": 21001,
                 "model": {
                     "type": "model",

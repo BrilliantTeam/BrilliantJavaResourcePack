@@ -205,6 +205,7 @@
         {"predicate": {"custom_model_data": 20080}, "model":"custom_items/brilliant/shopgui/netherite_chestplate_gui"},
         {"predicate": {"custom_model_data": 20081}, "model":"custom_items/brilliant/shopgui/crystal_pickaxe"},
         {"predicate": {"custom_model_data": 20082}, "model":"custom_items/brilliant/shopgui/disc"},
+        {"predicate": {"custom_model_data": 20083}, "model":"custom_items/brilliant/shopgui/bfish"},
 
         {"predicate": {"custom_model_data": 21001}, "model": "custom_items/brilliant/mc/amethyst_shard"},
         {"predicate": {"custom_model_data": 21002}, "model": "custom_items/brilliant/mc/barrier"},

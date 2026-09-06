@@ -317,6 +317,13 @@
                 }
             },
             {
+                "threshold": 1071,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/fish/071"
+                }
+            },
+            {
                 "threshold": 1073,
                 "model": {
                     "type": "minecraft:model",
@@ -674,6 +681,20 @@
                 }
             },
             {
+                "threshold": 1228,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/fish/188"
+                }
+            },
+            {
+                "threshold": 1229,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/fish/189"
+                }
+            },
+            {
                 "threshold": 1231,
                 "model": {
                     "type": "minecraft:model",
@@ -681,10 +702,31 @@
                 }
             },
             {
+                "threshold": 1232,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/fish/204"
+                }
+            },
+            {
                 "threshold": 1302,
                 "model": {
                     "type": "minecraft:model",
                     "model": "custom_items/brilliant/fishing/fish/192"
+                }
+            },
+            {
+                "threshold": 1303,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/fish/193"
+                }
+            },
+            {
+                "threshold": 1304,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/fish/194"
                 }
             },
             {
@@ -706,6 +748,20 @@
                 "model": {
                     "type": "minecraft:model",
                     "model": "custom_items/brilliant/fishing/fish/202"
+                }
+            },
+            {
+                "threshold": 1312,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/fish/205"
+                }
+            },
+            {
+                "threshold": 1500,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/fish/203"
                 }
             }
         ]

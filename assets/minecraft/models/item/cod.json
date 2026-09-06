@@ -48,6 +48,7 @@
         {"predicate": {"custom_model_data": 1066}, "model": "custom_items/brilliant/fishing/fish/066"},
         {"predicate": {"custom_model_data": 1069}, "model": "custom_items/brilliant/fishing/fish/069"},
         {"predicate": {"custom_model_data": 1070}, "model": "custom_items/brilliant/fishing/fish/070"},
+        {"predicate": {"custom_model_data": 1071}, "model": "custom_items/brilliant/fishing/fish/071"},
         {"predicate": {"custom_model_data": 1073}, "model": "custom_items/brilliant/fishing/fish/073"},
         {"predicate": {"custom_model_data": 1074}, "model": "custom_items/brilliant/fishing/fish/074"},
         {"predicate": {"custom_model_data": 1075}, "model": "custom_items/brilliant/fishing/fish/075"},
@@ -99,10 +100,17 @@
         {"predicate": {"custom_model_data": 1223}, "model": "custom_items/brilliant/fishing/fish/183"},
         {"predicate": {"custom_model_data": 1225}, "model": "custom_items/brilliant/fishing/fish/185"},
         {"predicate": {"custom_model_data": 1226}, "model": "custom_items/brilliant/fishing/fish/186"},
+        {"predicate": {"custom_model_data": 1228}, "model": "custom_items/brilliant/fishing/fish/188"},
+        {"predicate": {"custom_model_data": 1229}, "model": "custom_items/brilliant/fishing/fish/189"},
         {"predicate": {"custom_model_data": 1231}, "model": "custom_items/brilliant/fishing/fish/201"},
+        {"predicate": {"custom_model_data": 1232}, "model": "custom_items/brilliant/fishing/fish/204"},
         {"predicate": {"custom_model_data": 1302}, "model": "custom_items/brilliant/fishing/fish/192"},
+        {"predicate": {"custom_model_data": 1303}, "model": "custom_items/brilliant/fishing/fish/193"},
+        {"predicate": {"custom_model_data": 1304}, "model": "custom_items/brilliant/fishing/fish/194"},
         {"predicate": {"custom_model_data": 1306}, "model": "custom_items/brilliant/fishing/fish/196"},
         {"predicate": {"custom_model_data": 1310}, "model": "custom_items/brilliant/fishing/fish/200"},
-        {"predicate": {"custom_model_data": 1311}, "model": "custom_items/brilliant/fishing/fish/202"}
+        {"predicate": {"custom_model_data": 1311}, "model": "custom_items/brilliant/fishing/fish/202"},
+        {"predicate": {"custom_model_data": 1312}, "model": "custom_items/brilliant/fishing/fish/205"},
+        {"predicate": {"custom_model_data": 1500}, "model": "custom_items/brilliant/fishing/fish/203"}
     ]
 }

@@ -84,6 +84,18 @@
         {"predicate": {"custom_model_data": 70006}, "model": "custom_items/brilliant/shopgui/c6"},
         {"predicate": {"custom_model_data": 70007}, "model": "custom_items/brilliant/shopgui/c7"},
         {"predicate": {"custom_model_data": 70008}, "model": "custom_items/brilliant/shopgui/c8"},
-        {"predicate": {"custom_model_data": 70009}, "model": "custom_items/brilliant/shopgui/c9"}
+        {"predicate": {"custom_model_data": 70009}, "model": "custom_items/brilliant/shopgui/c9"},
+        {"predicate": {"custom_model_data": 70010}, "model": "custom_items/brilliant/shopgui/c10"},
+        {"predicate": {"custom_model_data": 70011}, "model": "custom_items/brilliant/shopgui/c11"},
+        {"predicate": {"custom_model_data": 70012}, "model": "custom_items/brilliant/shopgui/c12"},
+        {"predicate": {"custom_model_data": 70013}, "model": "custom_items/brilliant/shopgui/c13"},
+        {"predicate": {"custom_model_data": 70014}, "model": "custom_items/brilliant/shopgui/c14"},
+        {"predicate": {"custom_model_data": 70015}, "model": "custom_items/brilliant/shopgui/c15"},
+        {"predicate": {"custom_model_data": 70016}, "model": "custom_items/brilliant/shopgui/c16"},
+        {"predicate": {"custom_model_data": 70017}, "model": "custom_items/brilliant/shopgui/c17"},
+        {"predicate": {"custom_model_data": 70018}, "model": "custom_items/brilliant/shopgui/c18"},
+        {"predicate": {"custom_model_data": 70019}, "model": "custom_items/brilliant/shopgui/c19"},
+        {"predicate": {"custom_model_data": 70020}, "model": "custom_items/brilliant/shopgui/c20"},
+        {"predicate": {"custom_model_data": 70021}, "model": "custom_items/brilliant/shopgui/c21"}
     ]
 }

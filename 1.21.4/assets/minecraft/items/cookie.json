@@ -511,6 +511,90 @@
                     "type": "model",
                     "model": "custom_items/brilliant/shopgui/c9"
                 }
+            },
+            {
+                "threshold": 70010,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/shopgui/c10"
+                }
+            },
+            {
+                "threshold": 70011,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/shopgui/c11"
+                }
+            },
+            {
+                "threshold": 70012,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/shopgui/c12"
+                }
+            },
+            {
+                "threshold": 70013,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/shopgui/c13"
+                }
+            },
+            {
+                "threshold": 70014,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/shopgui/c14"
+                }
+            },
+            {
+                "threshold": 70015,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/shopgui/c15"
+                }
+            },
+            {
+                "threshold": 70016,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/shopgui/c16"
+                }
+            },
+            {
+                "threshold": 70017,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/shopgui/c17"
+                }
+            },
+            {
+                "threshold": 70018,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/shopgui/c18"
+                }
+            },
+            {
+                "threshold": 70019,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/shopgui/c19"
+                }
+            },
+            {
+                "threshold": 70020,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/shopgui/c20"
+                }
+            },
+            {
+                "threshold": 70021,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/shopgui/c21"
+                }
             }
         ]
     }

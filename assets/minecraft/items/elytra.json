@@ -49,6 +49,13 @@
                     "type": "model",
                     "model": "custom_items/brilliant/elytra/netherite_chestplate"
                 }
+            },
+            {
+                "threshold": 1007,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/elytra/copper_chestplate"
+                }
             }
         ]
     }

@@ -27,26 +27,18 @@ jobs:
           if [[ "$BRANCH_NAME" == "main" ]]; then
             echo "ZIP_LIGHT=bsje.zip" >> "$GITHUB_OUTPUT"
             echo "ZIP_DARK=bsje-dark.zip" >> "$GITHUB_OUTPUT"
-            echo "ZIP_VERYDARK=bsje-verydark.zip" >> "$GITHUB_OUTPUT"
-            echo "ZIP_SUPERDARK=bsje-superdark.zip" >> "$GITHUB_OUTPUT"
             echo "ZIP_ICD=bsje-icd.zip" >> "$GITHUB_OUTPUT"
 
             echo "ASSET_LIGHT=bsje.zip" >> "$GITHUB_OUTPUT"
             echo "ASSET_DARK=bsje-dark.zip" >> "$GITHUB_OUTPUT"
-            echo "ASSET_VERYDARK=bsje-verydark.zip" >> "$GITHUB_OUTPUT"
-            echo "ASSET_SUPERDARK=bsje-superdark.zip" >> "$GITHUB_OUTPUT"
             echo "ASSET_ICD=bsje-icd.zip" >> "$GITHUB_OUTPUT"
           else
             echo "ZIP_LIGHT=bsje-unknown.zip" >> "$GITHUB_OUTPUT"
             echo "ZIP_DARK=bsje-unknown-dark.zip" >> "$GITHUB_OUTPUT"
-            echo "ZIP_VERYDARK=bsje-unknown-verydark.zip" >> "$GITHUB_OUTPUT"
-            echo "ZIP_SUPERDARK=bsje-unknown-superdark.zip" >> "$GITHUB_OUTPUT"
             echo "ZIP_ICD=bsje-unknown-icd.zip" >> "$GITHUB_OUTPUT"
 
             echo "ASSET_LIGHT=bsje-unknown.zip" >> "$GITHUB_OUTPUT"
             echo "ASSET_DARK=bsje-unknown-dark.zip" >> "$GITHUB_OUTPUT"
-            echo "ASSET_VERYDARK=bsje-unknown-verydark.zip" >> "$GITHUB_OUTPUT"
-            echo "ASSET_SUPERDARK=bsje-unknown-superdark.zip" >> "$GITHUB_OUTPUT"
             echo "ASSET_ICD=bsje-unknown-icd.zip" >> "$GITHUB_OUTPUT"
           fi
 
@@ -56,10 +48,8 @@ jobs:
           
           echo "Creating base ZIPs..."
           
-          zip -r "${{ steps.set_var.outputs.ZIP_LIGHT }}" $BASE_FILES -x "darkmode/**" "verydarkmode/**" "superdarkmode/**" || exit 1
+          zip -r "${{ steps.set_var.outputs.ZIP_LIGHT }}" $BASE_FILES -x "darkmode/**" || exit 1
           cp "${{ steps.set_var.outputs.ZIP_LIGHT }}" "${{ steps.set_var.outputs.ZIP_DARK }}"
-          cp "${{ steps.set_var.outputs.ZIP_LIGHT }}" "${{ steps.set_var.outputs.ZIP_VERYDARK }}"
-          cp "${{ steps.set_var.outputs.ZIP_LIGHT }}" "${{ steps.set_var.outputs.ZIP_SUPERDARK }}"
           
           echo "Base ZIPs created."
 
@@ -88,40 +78,6 @@ jobs:
             echo "No darkmode/1.21.6/ folder found, skipping."
           fi
 
-      - name: 合併 verydarkmode 到 VeryDark 版
-        if: always()
-        run: |
-          if [ -d "verydarkmode/assets" ]; then
-            echo "Merging verydarkmode/assets/ into ${{ steps.set_var.outputs.ZIP_VERYDARK }}..."
-            cd verydarkmode && zip -r "../${{ steps.set_var.outputs.ZIP_VERYDARK }}" assets/ && cd ..
-          else
-            echo "No verydarkmode/assets/ folder found, skipping."
-          fi
-          
-          if [ -d "verydarkmode/1.21.6" ]; then
-            echo "Merging verydarkmode/1.21.6/ into ${{ steps.set_var.outputs.ZIP_VERYDARK }}..."
-            cd verydarkmode && zip -r "../${{ steps.set_var.outputs.ZIP_VERYDARK }}" 1.21.6/ && cd ..
-          else
-            echo "No verydarkmode/1.21.6/ folder found, skipping."
-          fi
-
-      - name: 合併 superdarkmode 到 SuperDark 版
-        if: always()
-        run: |
-          if [ -d "superdarkmode/assets" ]; then
-            echo "Merging superdarkmode/assets/ into ${{ steps.set_var.outputs.ZIP_SUPERDARK }}..."
-            cd superdarkmode && zip -r "../${{ steps.set_var.outputs.ZIP_SUPERDARK }}" assets/ && cd ..
-          else
-            echo "No superdarkmode/assets/ folder found, skipping."
-          fi
-          
-          if [ -d "superdarkmode/1.21.6" ]; then
-            echo "Merging superdarkmode/1.21.6/ into ${{ steps.set_var.outputs.ZIP_SUPERDARK }}..."
-            cd superdarkmode && zip -r "../${{ steps.set_var.outputs.ZIP_SUPERDARK }}" 1.21.6/ && cd ..
-          else
-            echo "No superdarkmode/1.21.6/ folder found, skipping."
-          fi
-
       - name: 驗證 ZIP 檔案
         run: |
           echo "Final ZIP files:"
@@ -132,20 +88,14 @@ jobs:
         run: |
           LIGHT_SHA1=$(sha1sum "${{ steps.set_var.outputs.ZIP_LIGHT }}" | cut -d' ' -f1)
           DARK_SHA1=$(sha1sum "${{ steps.set_var.outputs.ZIP_DARK }}" | cut -d' ' -f1)
-          VERYDARK_SHA1=$(sha1sum "${{ steps.set_var.outputs.ZIP_VERYDARK }}" | cut -d' ' -f1)
-          SUPERDARK_SHA1=$(sha1sum "${{ steps.set_var.outputs.ZIP_SUPERDARK }}" | cut -d' ' -f1)
           ICD_SHA1=$(sha1sum "${{ steps.set_var.outputs.ZIP_ICD }}" | cut -d' ' -f1)
 
           echo "RESOURCE_SHA1_LIGHT=$LIGHT_SHA1" >> "$GITHUB_OUTPUT"
           echo "RESOURCE_SHA1_DARK=$DARK_SHA1" >> "$GITHUB_OUTPUT"
-          echo "RESOURCE_SHA1_VERYDARK=$VERYDARK_SHA1" >> "$GITHUB_OUTPUT"
-          echo "RESOURCE_SHA1_SUPERDARK=$SUPERDARK_SHA1" >> "$GITHUB_OUTPUT"
           echo "RESOURCE_SHA1_ICD=$ICD_SHA1" >> "$GITHUB_OUTPUT"
 
           echo "Light SHA1: $LIGHT_SHA1"
           echo "Dark SHA1: $DARK_SHA1"
-          echo "VeryDark SHA1: $VERYDARK_SHA1"
-          echo "SuperDark SHA1: $SUPERDARK_SHA1"
           echo "ICD SHA1: $ICD_SHA1"
 
       - name: 發佈並上傳 Release 
@@ -157,8 +107,6 @@ jobs:
             可於 **Assets** 區塊中選擇下載：
             - 亮色模式：`${{ steps.set_var.outputs.ASSET_LIGHT }}`
             - 暗色模式：`${{ steps.set_var.outputs.ASSET_DARK }}`
-            - 非常暗色：`${{ steps.set_var.outputs.ASSET_VERYDARK }}`
-            - 超級暗色：`${{ steps.set_var.outputs.ASSET_SUPERDARK }}`
 
             建議下載標有 **Latest** 的版本以獲得最佳體驗。
             ---
@@ -174,16 +122,6 @@ jobs:
                 hash: ${{ steps.hash.outputs.RESOURCE_SHA1_DARK }}
                 restricted: true
                 permission: bungeeresourcepacks.pack.darkmode
-              verydarkmode:
-                url: https://github.com/BrilliantTeam/BrilliantJavaResourcePack/releases/download/${{ github.run_number }}/${{ steps.set_var.outputs.ZIP_VERYDARK }}
-                hash: ${{ steps.hash.outputs.RESOURCE_SHA1_VERYDARK }}
-                restricted: true
-                permission: bungeeresourcepacks.pack.verydarkmode
-              superdarkmode:
-                url: https://github.com/BrilliantTeam/BrilliantJavaResourcePack/releases/download/${{ github.run_number }}/${{ steps.set_var.outputs.ZIP_SUPERDARK }}
-                hash: ${{ steps.hash.outputs.RESOURCE_SHA1_SUPERDARK }}
-                restricted: true
-                permission: bungeeresourcepacks.pack.superdarkmode
             ```
 
             Copyright © 輝煌伺服器 Brilliant Minecraft Server 版權所有 All rights reserved
@@ -193,6 +131,4 @@ jobs:
           files: |
             ${{ steps.set_var.outputs.ZIP_LIGHT }}
             ${{ steps.set_var.outputs.ZIP_DARK }}
-            ${{ steps.set_var.outputs.ZIP_VERYDARK }}
-            ${{ steps.set_var.outputs.ZIP_SUPERDARK }}
             ${{ steps.set_var.outputs.ZIP_ICD }}

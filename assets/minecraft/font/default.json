@@ -15,8 +15,6 @@
 {"file":"fallback_font/black.png","chars":["\uf82c"],"height":127,"ascent":-5000,"type":"bitmap"},
 {"file":"fallback_font/black.png","chars":["\uf82d"],"height":256,"ascent":-5000,"type":"bitmap"},
 {"file":"fallback_font/black.png","chars":["\uf82e"],"height":512,"ascent":-5000,"type":"bitmap"},
-{"file":"fallback_font/black.png","chars":["\uf82f"],"height":1024,"ascent":-5000,"type":"bitmap"},
-{"file":"fallback_font/black.png","chars":["\uf82f"],"height":1023,"ascent":-5000,"type":"bitmap"},
 
 {"file":"fallback_font/black.png","chars":["\uf801"],"height":-3,"ascent":-5000,"type":"bitmap"},
 {"file":"fallback_font/black.png","chars":["\uf802"],"height":-4,"ascent":-5000,"type":"bitmap"},

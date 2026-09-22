@@ -4,8 +4,16 @@
         "type": "range_dispatch",
         "property": "custom_model_data",
         "fallback": {
-            "type": "model",
-            "model": "minecraft:item/elytra"
+            "type": "minecraft:condition",
+            "property": "minecraft:broken",
+            "on_false": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/elytra"
+            },
+            "on_true": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/elytra_broken"
+            }
         },
         "entries": [
             {

@@ -1,4 +1,5 @@
 {
+	"format_version": "1.9.0",
 	"credit": "書碼",
 	"parent": "custom_items/blockentities/furniture/toilet_b2",
 	"texture_size": [64, 64],

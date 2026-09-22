@@ -1,4 +1,5 @@
 {
+    "format_version": "1.9.0",
     "credit": "書碼",
     "parent": "minecraft:item/handheld",
     "textures": {

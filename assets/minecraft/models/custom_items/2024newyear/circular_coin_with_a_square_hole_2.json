@@ -1,4 +1,5 @@
 {
+	"format_version": "1.9.0",
 	"credit": "circular_coin_with_a_square_hole_2",
 	"parent": "minecraft:item/generated",
 	"textures": {

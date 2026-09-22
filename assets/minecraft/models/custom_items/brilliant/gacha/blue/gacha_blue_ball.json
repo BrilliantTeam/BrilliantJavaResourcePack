@@ -1,4 +1,5 @@
 {
+	"format_version": "1.9.0",
 	"parent": "custom_items/brilliant/gacha/gacha_ball",
 	"texture_size": [64, 64],
 	"textures": {

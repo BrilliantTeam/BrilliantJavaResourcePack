@@ -44,7 +44,7 @@ jobs:
 
       - name: 壓縮基礎檔案（所有版本共用）
         run: |
-          BASE_FILES="assets/ 1.21.6/ 26.1/ LICENSE.txt pack.mcmeta pack.png"
+          BASE_FILES="assets/ 26.1/ LICENSE.txt pack.mcmeta pack.png"
           
           echo "Creating base ZIPs..."
           
@@ -69,13 +69,6 @@ jobs:
             cd darkmode && zip -r "../${{ steps.set_var.outputs.ZIP_DARK }}" assets/ && cd ..
           else
             echo "No darkmode/assets/ folder found, skipping."
-          fi
-          
-          if [ -d "darkmode/1.21.6" ]; then
-            echo "Merging darkmode/1.21.6/ into ${{ steps.set_var.outputs.ZIP_DARK }}..."
-            cd darkmode && zip -r "../${{ steps.set_var.outputs.ZIP_DARK }}" 1.21.6/ && cd ..
-          else
-            echo "No darkmode/1.21.6/ folder found, skipping."
           fi
 
       - name: 驗證 ZIP 檔案

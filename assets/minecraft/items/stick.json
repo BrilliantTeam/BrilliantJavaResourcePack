@@ -6010,6 +6010,13 @@
                     "type": "model",
                     "model": "custom_items/brilliant/badv/advancement_crown_1_21_11"
                 }
+            },
+            {
+                "threshold": 59002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/badv/advancement_crown_26_2"
+                }
             }
         ]
     }

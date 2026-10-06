@@ -5998,6 +5998,104 @@
                 }
             },
             {
+                "threshold": 58100,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/movingbox/movingbox_copper_open"
+                }
+            },
+            {
+                "threshold": 58101,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/movingbox/movingbox_copper_close"
+                }
+            },
+            {
+                "threshold": 58102,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/movingbox/movingbox_iron_open"
+                }
+            },
+            {
+                "threshold": 58103,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/movingbox/movingbox_iron_close"
+                }
+            },
+            {
+                "threshold": 58104,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/movingbox/movingbox_gold_open"
+                }
+            },
+            {
+                "threshold": 58105,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/movingbox/movingbox_gold_close"
+                }
+            },
+            {
+                "threshold": 58106,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/movingbox/movingbox_diamond_open"
+                }
+            },
+            {
+                "threshold": 58107,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/movingbox/movingbox_diamond_close"
+                }
+            },
+            {
+                "threshold": 58108,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/movingbox/movingbox_emerald_open"
+                }
+            },
+            {
+                "threshold": 58109,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/movingbox/movingbox_emerald_close"
+                }
+            },
+            {
+                "threshold": 58110,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/movingbox/movingbox_netherite_open"
+                }
+            },
+            {
+                "threshold": 58111,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/movingbox/movingbox_netherite_close"
+                }
+            },
+            {
+                "threshold": 58112,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/movingbox/movingbox_paradise_open"
+                }
+            },
+            {
+                "threshold": 58113,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/movingbox/movingbox_paradise_close"
+                }
+            },
+            {
                 "threshold": 59000,
                 "model": {
                     "type": "model",

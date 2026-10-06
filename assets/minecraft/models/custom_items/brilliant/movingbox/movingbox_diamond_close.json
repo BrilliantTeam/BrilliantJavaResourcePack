@@ -1,0 +1,8 @@
+{
+	"credit": "書碼",
+	"parent": "custom_items/brilliant/movingbox/movingbox_close",
+	"textures": {
+		"0": "item/custom/brilliant/movingbox/movingbox_diamond",
+		"particle": "item/custom/brilliant/movingbox/movingbox_diamond"
+	}
+}

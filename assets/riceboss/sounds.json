@@ -653,5 +653,12 @@
         "name": "riceboss:sfx/boss_defeat"
       }
     ]
+  },
+  "sfx.spell.declare": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/spell_declare"
+      }
+    ]
   }
 }

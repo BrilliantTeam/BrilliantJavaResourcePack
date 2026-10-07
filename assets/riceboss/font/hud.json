@@ -901,6 +901,87 @@
       ]
     },
     {
+      "type": "bitmap",
+      "file": "riceboss:font/impact_0_0.png",
+      "height": 160,
+      "ascent": 77,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/impact_0_1.png",
+      "height": 160,
+      "ascent": 77,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/impact_0_2.png",
+      "height": 160,
+      "ascent": 77,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/impact_1_0.png",
+      "height": 160,
+      "ascent": 77,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/impact_1_1.png",
+      "height": 160,
+      "ascent": 77,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/impact_1_2.png",
+      "height": 160,
+      "ascent": 77,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/impact_2_0.png",
+      "height": 160,
+      "ascent": 77,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/impact_2_1.png",
+      "height": 160,
+      "ascent": 77,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/impact_2_2.png",
+      "height": 160,
+      "ascent": 77,
+      "chars": [
+        ""
+      ]
+    },
+    {
       "type": "space",
       "advances": {
         "": -1

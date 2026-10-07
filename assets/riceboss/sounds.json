@@ -660,5 +660,19 @@
         "name": "riceboss:sfx/spell_declare"
       }
     ]
+  },
+  "sfx.cam.whoosh": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/cam_whoosh"
+      }
+    ]
+  },
+  "sfx.cam.boom": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/cam_boom"
+      }
+    ]
   }
 }

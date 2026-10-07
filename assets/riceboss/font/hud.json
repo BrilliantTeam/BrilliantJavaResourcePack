@@ -200,6 +200,87 @@
     },
     {
       "type": "bitmap",
+      "file": "riceboss:font/title_mirror_0.png",
+      "height": 20,
+      "ascent": 18,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/title_mirror_1.png",
+      "height": 20,
+      "ascent": 18,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/title_mirror_2.png",
+      "height": 20,
+      "ascent": 18,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/title_danmaku_0.png",
+      "height": 20,
+      "ascent": 18,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/title_danmaku_1.png",
+      "height": 20,
+      "ascent": 18,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/title_danmaku_2.png",
+      "height": 20,
+      "ascent": 18,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/title_rewind_0.png",
+      "height": 20,
+      "ascent": 18,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/title_rewind_1.png",
+      "height": 20,
+      "ascent": 18,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/title_rewind_2.png",
+      "height": 20,
+      "ascent": 18,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "riceboss:font/title_order_0_0.png",
       "height": 20,
       "ascent": 18,

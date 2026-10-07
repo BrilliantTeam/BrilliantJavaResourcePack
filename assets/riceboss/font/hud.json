@@ -1,0 +1,508 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/title_intro.png",
+      "height": 22,
+      "ascent": 18,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/title_release.png",
+      "height": 20,
+      "ascent": 18,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/title_ultimate.png",
+      "height": 20,
+      "ascent": 18,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/title_fate.png",
+      "height": 20,
+      "ascent": 18,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/title_eternal.png",
+      "height": 20,
+      "ascent": 18,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/title_dream.png",
+      "height": 20,
+      "ascent": 18,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/title_truth.png",
+      "height": 20,
+      "ascent": 18,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/title_order_0.png",
+      "height": 20,
+      "ascent": 18,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/title_order_1.png",
+      "height": 20,
+      "ascent": 18,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/title_order_2.png",
+      "height": 20,
+      "ascent": 18,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/count_1.png",
+      "height": 18,
+      "ascent": 15,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/count_2.png",
+      "height": 18,
+      "ascent": 15,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/count_3.png",
+      "height": 18,
+      "ascent": 15,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/count_4.png",
+      "height": 18,
+      "ascent": 15,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/count_5.png",
+      "height": 18,
+      "ascent": 15,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/key_w_idle.png",
+      "height": 14,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/key_w_now.png",
+      "height": 14,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/key_w_done.png",
+      "height": 14,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/key_a_idle.png",
+      "height": 14,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/key_a_now.png",
+      "height": 14,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/key_a_done.png",
+      "height": 14,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/key_s_idle.png",
+      "height": 14,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/key_s_now.png",
+      "height": 14,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/key_s_done.png",
+      "height": 14,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/key_d_idle.png",
+      "height": 14,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/key_d_now.png",
+      "height": 14,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/key_d_done.png",
+      "height": 14,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/key_space_idle.png",
+      "height": 14,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/key_space_now.png",
+      "height": 14,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/key_space_done.png",
+      "height": 14,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_bloom.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_sprout.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_star.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_seed.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_blade.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_thunder.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_frost.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_wind.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_clock.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_wave.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_flame.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_moon.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_eye.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_lily.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_root.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_gem.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_echo.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_scale.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_crown.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_chain.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_pentagram.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_heart.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_sun.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_wing.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_prism.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_spiral.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    }
+  ]
+}

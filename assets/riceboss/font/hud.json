@@ -694,6 +694,177 @@
       ]
     },
     {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_fairy.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_mirror.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_shard.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_mark.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_bird.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_memory.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/icon_sigil_dance.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/overlay_flash_0.png",
+      "height": 160,
+      "ascent": 77,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/overlay_flash_1.png",
+      "height": 160,
+      "ascent": 77,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/overlay_flash_2.png",
+      "height": 160,
+      "ascent": 77,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/overlay_pink_0.png",
+      "height": 160,
+      "ascent": 77,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/overlay_pink_1.png",
+      "height": 160,
+      "ascent": 77,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/overlay_pink_2.png",
+      "height": 160,
+      "ascent": 77,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/overlay_gold_0.png",
+      "height": 160,
+      "ascent": 77,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/overlay_gold_1.png",
+      "height": 160,
+      "ascent": 77,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/overlay_gold_2.png",
+      "height": 160,
+      "ascent": 77,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/overlay_red_0.png",
+      "height": 160,
+      "ascent": 77,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/overlay_red_1.png",
+      "height": 160,
+      "ascent": 77,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/overlay_red_2.png",
+      "height": 160,
+      "ascent": 77,
+      "chars": [
+        ""
+      ]
+    },
+    {
       "type": "space",
       "advances": {
         "": -1

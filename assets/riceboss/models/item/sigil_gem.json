@@ -1,18 +1,19 @@
 {
   "textures": {
     "t": "riceboss:item/sigil_gem",
+    "s": "riceboss:item/shimmer",
     "particle": "riceboss:item/sigil_gem"
   },
   "elements": [
     {
       "from": [
         0,
-        8.0,
+        8,
         0
       ],
       "to": [
         16,
-        8.0,
+        8,
         16
       ],
       "shade": false,
@@ -36,6 +37,39 @@
           ],
           "texture": "#t",
           "tintindex": 0
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        8.03,
+        0
+      ],
+      "to": [
+        16,
+        8.03,
+        16
+      ],
+      "shade": false,
+      "faces": {
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#s"
+        },
+        "down": {
+          "uv": [
+            0,
+            16,
+            16,
+            0
+          ],
+          "texture": "#s"
         }
       }
     }

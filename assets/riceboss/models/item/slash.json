@@ -1,0 +1,77 @@
+{
+  "textures": {
+    "t": "riceboss:item/slash",
+    "c": "riceboss:item/slash_core",
+    "particle": "riceboss:item/slash"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        8.0,
+        0
+      ],
+      "to": [
+        16,
+        8.0,
+        16
+      ],
+      "shade": false,
+      "faces": {
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#t",
+          "tintindex": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            16,
+            16,
+            0
+          ],
+          "texture": "#t",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        8.05,
+        0
+      ],
+      "to": [
+        16,
+        8.05,
+        16
+      ],
+      "shade": false,
+      "faces": {
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#c"
+        },
+        "down": {
+          "uv": [
+            0,
+            16,
+            16,
+            0
+          ],
+          "texture": "#c"
+        }
+      }
+    }
+  ]
+}

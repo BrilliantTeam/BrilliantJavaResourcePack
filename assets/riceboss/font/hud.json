@@ -865,6 +865,69 @@
       ]
     },
     {
+      "type": "bitmap",
+      "file": "riceboss:font/letterbox.png",
+      "height": 300,
+      "ascent": 162,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/cine_black_0.png",
+      "height": 160,
+      "ascent": 77,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/cine_black_1.png",
+      "height": 160,
+      "ascent": 77,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/cine_black_2.png",
+      "height": 160,
+      "ascent": 77,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/cine_end_0.png",
+      "height": 160,
+      "ascent": 77,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/cine_end_1.png",
+      "height": 160,
+      "ascent": 77,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/cine_end_2.png",
+      "height": 160,
+      "ascent": 77,
+      "chars": [
+        ""
+      ]
+    },
+    {
       "type": "space",
       "advances": {
         "": -1

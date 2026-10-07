@@ -1,0 +1,657 @@
+{
+  "music.phase1": {
+    "sounds": [
+      {
+        "name": "riceboss:music/phase1",
+        "stream": true
+      }
+    ]
+  },
+  "music.phase2": {
+    "sounds": [
+      {
+        "name": "riceboss:music/phase2",
+        "stream": true
+      }
+    ]
+  },
+  "music.phase3": {
+    "sounds": [
+      {
+        "name": "riceboss:music/phase3",
+        "stream": true
+      }
+    ]
+  },
+  "sfx.guard": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/guard"
+      }
+    ]
+  },
+  "sfx.intro.rift": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/intro_rift"
+      }
+    ]
+  },
+  "sfx.intro.portal": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/intro_portal"
+      }
+    ]
+  },
+  "sfx.intro.arrive": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/intro_arrive"
+      }
+    ]
+  },
+  "sfx.transition.rise": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/transition_rise"
+      }
+    ]
+  },
+  "sfx.transition.burst": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/transition_burst"
+      }
+    ]
+  },
+  "sfx.blossom.rain": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/blossom_rain"
+      }
+    ]
+  },
+  "sfx.blossom.bloom": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/blossom_bloom"
+      }
+    ]
+  },
+  "sfx.sprout.cast": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/sprout_cast"
+      }
+    ]
+  },
+  "sfx.sprout.spike": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/sprout_spike"
+      }
+    ]
+  },
+  "sfx.star.charge": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/star_charge"
+      }
+    ]
+  },
+  "sfx.star.fire": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/star_fire"
+      }
+    ]
+  },
+  "sfx.seed.plant": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/seed_plant"
+      }
+    ]
+  },
+  "sfx.seed.hit": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/seed_hit"
+      }
+    ]
+  },
+  "sfx.seed.crack": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/seed_crack"
+      }
+    ]
+  },
+  "sfx.seed.bloom": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/seed_bloom"
+      }
+    ]
+  },
+  "sfx.dash.mark": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/dash_mark"
+      }
+    ]
+  },
+  "sfx.dash.slash": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/dash_slash"
+      }
+    ]
+  },
+  "sfx.thunder.strike": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/thunder_strike"
+      }
+    ]
+  },
+  "sfx.frost.cast": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/frost_cast"
+      }
+    ]
+  },
+  "sfx.frost.shoot": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/frost_shoot"
+      }
+    ]
+  },
+  "sfx.frost.shatter": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/frost_shatter"
+      }
+    ]
+  },
+  "sfx.breeze.cast": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/breeze_cast"
+      }
+    ]
+  },
+  "sfx.breeze.gust": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/breeze_gust"
+      }
+    ]
+  },
+  "sfx.time.lock": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/time_lock"
+      }
+    ]
+  },
+  "sfx.time.release": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/time_release"
+      }
+    ]
+  },
+  "sfx.time.break": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/time_break"
+      }
+    ]
+  },
+  "sfx.tide.cast": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/tide_cast"
+      }
+    ]
+  },
+  "sfx.tide.wave": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/tide_wave"
+      }
+    ]
+  },
+  "sfx.meteor.fall": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/meteor_fall"
+      }
+    ]
+  },
+  "sfx.meteor.impact": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/meteor_impact"
+      }
+    ]
+  },
+  "sfx.moon.gravity": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/moon_gravity"
+      }
+    ]
+  },
+  "sfx.moon.fall": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/moon_fall"
+      }
+    ]
+  },
+  "sfx.moon.impact": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/moon_impact"
+      }
+    ]
+  },
+  "sfx.mirage.cast": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/mirage_cast"
+      }
+    ]
+  },
+  "sfx.mirage.break": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/mirage_break"
+      }
+    ]
+  },
+  "sfx.cleave.bloom": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/cleave_bloom"
+      }
+    ]
+  },
+  "sfx.cleave.burst": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/cleave_burst"
+      }
+    ]
+  },
+  "sfx.harvest.cast": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/harvest_cast"
+      }
+    ]
+  },
+  "sfx.harvest.roots": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/harvest_roots"
+      }
+    ]
+  },
+  "sfx.gold.pillar": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/gold_pillar"
+      }
+    ]
+  },
+  "sfx.echo.mark": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/echo_mark"
+      }
+    ]
+  },
+  "sfx.echo.burst": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/echo_burst"
+      }
+    ]
+  },
+  "sfx.truth.tick": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/truth_tick"
+      }
+    ]
+  },
+  "sfx.truth.verdict": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/truth_verdict"
+      }
+    ]
+  },
+  "sfx.dominion.order": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/dominion_order"
+      }
+    ]
+  },
+  "sfx.dominion.drum": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/dominion_drum"
+      }
+    ]
+  },
+  "sfx.dominion.judge": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/dominion_judge"
+      }
+    ]
+  },
+  "sfx.bind.lock": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/bind_lock"
+      }
+    ]
+  },
+  "sfx.bind.pull": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/bind_pull"
+      }
+    ]
+  },
+  "sfx.origin.cast": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/origin_cast"
+      }
+    ]
+  },
+  "sfx.origin.line": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/origin_line"
+      }
+    ]
+  },
+  "sfx.origin.strike": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/origin_strike"
+      }
+    ]
+  },
+  "sfx.origin.finale": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/origin_finale"
+      }
+    ]
+  },
+  "sfx.heart.cast": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/heart_cast"
+      }
+    ]
+  },
+  "sfx.heart.lances": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/heart_lances"
+      }
+    ]
+  },
+  "sfx.heart.burst": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/heart_burst"
+      }
+    ]
+  },
+  "sfx.paradise.lullaby": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/paradise_lullaby",
+        "stream": true
+      }
+    ]
+  },
+  "sfx.paradise.bell": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/paradise_bell"
+      }
+    ]
+  },
+  "sfx.blessing.cast": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/blessing_cast"
+      }
+    ]
+  },
+  "sfx.blessing.break": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/blessing_break"
+      }
+    ]
+  },
+  "sfx.prism.cast": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/prism_cast"
+      }
+    ]
+  },
+  "sfx.prism.sweep": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/prism_sweep"
+      }
+    ]
+  },
+  "sfx.spiral.cast": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/spiral_cast"
+      }
+    ]
+  },
+  "sfx.spiral.emit": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/spiral_emit"
+      }
+    ]
+  },
+  "sfx.fairy.vanish": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/fairy_vanish"
+      }
+    ]
+  },
+  "sfx.fairy.appear": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/fairy_appear"
+      }
+    ]
+  },
+  "sfx.crystal.encase": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/crystal_encase"
+      }
+    ]
+  },
+  "sfx.crystal.shatter": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/crystal_shatter"
+      }
+    ]
+  },
+  "sfx.mirror.cast": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/mirror_cast"
+      }
+    ]
+  },
+  "sfx.greeting.beat": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/greeting_beat"
+      }
+    ]
+  },
+  "sfx.greeting.burst": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/greeting_burst"
+      }
+    ]
+  },
+  "sfx.birds.cast": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/birds_cast"
+      }
+    ]
+  },
+  "sfx.birds.hit": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/birds_hit"
+      }
+    ]
+  },
+  "sfx.birds.seed": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/birds_seed"
+      }
+    ]
+  },
+  "sfx.remember.tone": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/remember_tone"
+      }
+    ]
+  },
+  "sfx.remember.tick": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/remember_tick"
+      }
+    ]
+  },
+  "sfx.remember.bell": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/remember_bell"
+      }
+    ]
+  },
+  "sfx.dance.step": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/dance_step"
+      }
+    ]
+  },
+  "sfx.ultimate.charge": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/ultimate_charge"
+      }
+    ]
+  },
+  "sfx.ultimate.count": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/ultimate_count"
+      }
+    ]
+  },
+  "sfx.ultimate.impact": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/ultimate_impact"
+      }
+    ]
+  },
+  "sfx.revive.fade": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/revive_fade"
+      }
+    ]
+  },
+  "sfx.revive.heartbeat": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/revive_heartbeat"
+      }
+    ]
+  },
+  "sfx.revive.rise": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/revive_rise"
+      }
+    ]
+  },
+  "sfx.revive.burst": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/revive_burst"
+      }
+    ]
+  },
+  "sfx.finale.dream": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/finale_dream"
+      }
+    ]
+  },
+  "sfx.bow.shot": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/bow_shot"
+      }
+    ]
+  },
+  "sfx.boss.hit": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/boss_hit"
+      }
+    ]
+  },
+  "sfx.boss.defeat": {
+    "sounds": [
+      {
+        "name": "riceboss:sfx/boss_defeat"
+      }
+    ]
+  }
+}

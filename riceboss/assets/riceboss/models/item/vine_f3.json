@@ -1,0 +1,78 @@
+{
+  "textures": {
+    "t": "riceboss:item/vine_f3",
+    "particle": "riceboss:item/vine_f3"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        8,
+        8.0
+      ],
+      "to": [
+        16,
+        24,
+        8.0
+      ],
+      "shade": false,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#t",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#t",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "from": [
+        8.0,
+        8,
+        0
+      ],
+      "to": [
+        8.0,
+        24,
+        16
+      ],
+      "shade": false,
+      "faces": {
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#t",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#t",
+          "tintindex": 0
+        }
+      }
+    }
+  ]
+}

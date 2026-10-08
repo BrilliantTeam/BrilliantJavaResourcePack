@@ -28,6 +28,7 @@ jobs:
             echo "ZIP_LIGHT=bsje.zip" >> "$GITHUB_OUTPUT"
             echo "ZIP_DARK=bsje-dark.zip" >> "$GITHUB_OUTPUT"
             echo "ZIP_ICD=bsje-icd.zip" >> "$GITHUB_OUTPUT"
+            echo "ZIP_RICEBOSS=bsje-riceboss.zip" >> "$GITHUB_OUTPUT"
 
             echo "ASSET_LIGHT=bsje.zip" >> "$GITHUB_OUTPUT"
             echo "ASSET_DARK=bsje-dark.zip" >> "$GITHUB_OUTPUT"
@@ -36,6 +37,7 @@ jobs:
             echo "ZIP_LIGHT=bsje-unknown.zip" >> "$GITHUB_OUTPUT"
             echo "ZIP_DARK=bsje-unknown-dark.zip" >> "$GITHUB_OUTPUT"
             echo "ZIP_ICD=bsje-unknown-icd.zip" >> "$GITHUB_OUTPUT"
+            echo "ZIP_RICEBOSS=bsje-unknown-riceboss.zip" >> "$GITHUB_OUTPUT"
 
             echo "ASSET_LIGHT=bsje-unknown.zip" >> "$GITHUB_OUTPUT"
             echo "ASSET_DARK=bsje-unknown-dark.zip" >> "$GITHUB_OUTPUT"
@@ -61,6 +63,12 @@ jobs:
           cp pack.mcmeta.original pack.mcmeta
           echo "ICD ZIP created."
 
+      - name: 壓縮 RiceBoss 獨立資源包
+        run: |
+          cp pack.png LICENSE.txt riceboss/
+          cd riceboss && zip -r "../${{ steps.set_var.outputs.ZIP_RICEBOSS }}" assets/ LICENSE.txt pack.mcmeta pack.png || exit 1
+          echo "RiceBoss ZIP created."
+
       - name: 合併 darkmode 到 Dark 版
         if: always()
         run: |
@@ -82,14 +90,17 @@ jobs:
           LIGHT_SHA1=$(sha1sum "${{ steps.set_var.outputs.ZIP_LIGHT }}" | cut -d' ' -f1)
           DARK_SHA1=$(sha1sum "${{ steps.set_var.outputs.ZIP_DARK }}" | cut -d' ' -f1)
           ICD_SHA1=$(sha1sum "${{ steps.set_var.outputs.ZIP_ICD }}" | cut -d' ' -f1)
+          RICEBOSS_SHA1=$(sha1sum "${{ steps.set_var.outputs.ZIP_RICEBOSS }}" | cut -d' ' -f1)
 
           echo "RESOURCE_SHA1_LIGHT=$LIGHT_SHA1" >> "$GITHUB_OUTPUT"
           echo "RESOURCE_SHA1_DARK=$DARK_SHA1" >> "$GITHUB_OUTPUT"
           echo "RESOURCE_SHA1_ICD=$ICD_SHA1" >> "$GITHUB_OUTPUT"
+          echo "RESOURCE_SHA1_RICEBOSS=$RICEBOSS_SHA1" >> "$GITHUB_OUTPUT"
 
           echo "Light SHA1: $LIGHT_SHA1"
           echo "Dark SHA1: $DARK_SHA1"
           echo "ICD SHA1: $ICD_SHA1"
+          echo "RiceBoss SHA1: $RICEBOSS_SHA1"
 
       - name: 發佈並上傳 Release 
         uses: softprops/action-gh-release@v2
@@ -100,6 +111,7 @@ jobs:
             可於 **Assets** 區塊中選擇下載：
             - 亮色模式：`${{ steps.set_var.outputs.ASSET_LIGHT }}`
             - 暗色模式：`${{ steps.set_var.outputs.ASSET_DARK }}`
+            - RiceBoss BOSS 戰：`${{ steps.set_var.outputs.ZIP_RICEBOSS }}`（需與上方任一版本一起載入）
 
             建議下載標有 **Latest** 的版本以獲得最佳體驗。
             ---
@@ -115,6 +127,9 @@ jobs:
                 hash: ${{ steps.hash.outputs.RESOURCE_SHA1_DARK }}
                 restricted: true
                 permission: bungeeresourcepacks.pack.darkmode
+              riceboss:
+                url: https://github.com/BrilliantTeam/BrilliantJavaResourcePack/releases/download/${{ github.run_number }}/${{ steps.set_var.outputs.ZIP_RICEBOSS }}
+                hash: ${{ steps.hash.outputs.RESOURCE_SHA1_RICEBOSS }}
             ```
 
             Copyright © 輝煌伺服器 Brilliant Minecraft Server 版權所有 All rights reserved
@@ -125,3 +140,4 @@ jobs:
             ${{ steps.set_var.outputs.ZIP_LIGHT }}
             ${{ steps.set_var.outputs.ZIP_DARK }}
             ${{ steps.set_var.outputs.ZIP_ICD }}
+            ${{ steps.set_var.outputs.ZIP_RICEBOSS }}

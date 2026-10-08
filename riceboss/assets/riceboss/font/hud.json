@@ -1478,6 +1478,159 @@
     },
     {
       "type": "bitmap",
+      "file": "riceboss:font/bossui_gauge_frame_00_0.png",
+      "height": 12,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_gauge_frame_00_1.png",
+      "height": 12,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_gauge_frame_00_2.png",
+      "height": 12,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_gauge_frame_00_3.png",
+      "height": 12,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_gauge_frame_01_0.png",
+      "height": 12,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_gauge_frame_01_1.png",
+      "height": 12,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_gauge_frame_01_2.png",
+      "height": 12,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_gauge_frame_01_3.png",
+      "height": 12,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_gauge_frame_10_0.png",
+      "height": 12,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_gauge_frame_10_1.png",
+      "height": 12,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_gauge_frame_10_2.png",
+      "height": 12,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_gauge_frame_10_3.png",
+      "height": 12,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_gauge_frame_11_0.png",
+      "height": 12,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_gauge_frame_11_1.png",
+      "height": 12,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_gauge_frame_11_2.png",
+      "height": 12,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_gauge_frame_11_3.png",
+      "height": 12,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_gauge.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "riceboss:font/bossui_digit_0.png",
       "height": 8,
       "ascent": 8,

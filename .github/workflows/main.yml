@@ -130,6 +130,8 @@ jobs:
               riceboss:
                 url: https://github.com/BrilliantTeam/BrilliantJavaResourcePack/releases/download/${{ github.run_number }}/${{ steps.set_var.outputs.ZIP_RICEBOSS }}
                 hash: ${{ steps.hash.outputs.RESOURCE_SHA1_RICEBOSS }}
+                restricted: true
+                permission: bungeeresourcepacks.pack.riceboss
             ```
 
             Copyright © 輝煌伺服器 Brilliant Minecraft Server 版權所有 All rights reserved

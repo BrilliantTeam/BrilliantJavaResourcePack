@@ -1992,8 +1992,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_marker.png",
-      "height": 6,
-      "ascent": 3,
+      "height": 4,
+      "ascent": -8,
       "chars": [
         ""
       ]
@@ -2059,6 +2059,294 @@
       "ascent": 90,
       "chars": [
         ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_chipdigit_0.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_chipdigit_1.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_chipdigit_2.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_chipdigit_3.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_chipdigit_4.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_chipdigit_5.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_chipdigit_6.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_chipdigit_7.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_chipdigit_8.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_chipdigit_9.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_chipdigit_10.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_doom_00.png",
+      "height": 16,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_doom_01.png",
+      "height": 16,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_doom_02.png",
+      "height": 16,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_doom_03.png",
+      "height": 16,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_doom_04.png",
+      "height": 16,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_doom_10.png",
+      "height": 16,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_doom_11.png",
+      "height": 16,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_doom_12.png",
+      "height": 16,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_doom_13.png",
+      "height": 16,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_doom_14.png",
+      "height": 16,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_doomdigit_0.png",
+      "height": 8,
+      "ascent": 5,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_doomdigit_1.png",
+      "height": 8,
+      "ascent": 5,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_doomdigit_2.png",
+      "height": 8,
+      "ascent": 5,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_doomdigit_3.png",
+      "height": 8,
+      "ascent": 5,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_doomdigit_4.png",
+      "height": 8,
+      "ascent": 5,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_doomdigit_5.png",
+      "height": 8,
+      "ascent": 5,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_doomdigit_6.png",
+      "height": 8,
+      "ascent": 5,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_doomdigit_7.png",
+      "height": 8,
+      "ascent": 5,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_doomdigit_8.png",
+      "height": 8,
+      "ascent": 5,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_doomdigit_9.png",
+      "height": 8,
+      "ascent": 5,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_doomdigit_10.png",
+      "height": 8,
+      "ascent": 5,
+      "chars": [
+        ""
       ]
     },
     {

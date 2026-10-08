@@ -308,6 +308,33 @@
     },
     {
       "type": "bitmap",
+      "file": "riceboss:font/title_domain_0.png",
+      "height": 20,
+      "ascent": 18,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/title_domain_1.png",
+      "height": 20,
+      "ascent": 18,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/title_domain_2.png",
+      "height": 20,
+      "ascent": 18,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "riceboss:font/title_order_0_0.png",
       "height": 20,
       "ascent": 18,

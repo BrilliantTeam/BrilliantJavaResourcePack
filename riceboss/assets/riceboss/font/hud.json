@@ -281,6 +281,33 @@
     },
     {
       "type": "bitmap",
+      "file": "riceboss:font/title_calamity_0.png",
+      "height": 20,
+      "ascent": 18,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/title_calamity_1.png",
+      "height": 20,
+      "ascent": 18,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/title_calamity_2.png",
+      "height": 20,
+      "ascent": 18,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "riceboss:font/title_order_0_0.png",
       "height": 20,
       "ascent": 18,
@@ -983,7 +1010,7 @@
     },
     {
       "type": "bitmap",
-      "file": "riceboss:font/bossui_frame_00_0.png",
+      "file": "riceboss:font/bossui_frame_000_0.png",
       "height": 21,
       "ascent": 10,
       "chars": [
@@ -992,7 +1019,7 @@
     },
     {
       "type": "bitmap",
-      "file": "riceboss:font/bossui_frame_00_1.png",
+      "file": "riceboss:font/bossui_frame_000_1.png",
       "height": 21,
       "ascent": 10,
       "chars": [
@@ -1001,7 +1028,7 @@
     },
     {
       "type": "bitmap",
-      "file": "riceboss:font/bossui_frame_00_2.png",
+      "file": "riceboss:font/bossui_frame_000_2.png",
       "height": 21,
       "ascent": 10,
       "chars": [
@@ -1010,7 +1037,7 @@
     },
     {
       "type": "bitmap",
-      "file": "riceboss:font/bossui_frame_00_3.png",
+      "file": "riceboss:font/bossui_frame_000_3.png",
       "height": 21,
       "ascent": 10,
       "chars": [
@@ -1019,7 +1046,7 @@
     },
     {
       "type": "bitmap",
-      "file": "riceboss:font/bossui_frame_01_0.png",
+      "file": "riceboss:font/bossui_frame_001_0.png",
       "height": 21,
       "ascent": 10,
       "chars": [
@@ -1028,7 +1055,7 @@
     },
     {
       "type": "bitmap",
-      "file": "riceboss:font/bossui_frame_01_1.png",
+      "file": "riceboss:font/bossui_frame_001_1.png",
       "height": 21,
       "ascent": 10,
       "chars": [
@@ -1037,7 +1064,7 @@
     },
     {
       "type": "bitmap",
-      "file": "riceboss:font/bossui_frame_01_2.png",
+      "file": "riceboss:font/bossui_frame_001_2.png",
       "height": 21,
       "ascent": 10,
       "chars": [
@@ -1046,7 +1073,7 @@
     },
     {
       "type": "bitmap",
-      "file": "riceboss:font/bossui_frame_01_3.png",
+      "file": "riceboss:font/bossui_frame_001_3.png",
       "height": 21,
       "ascent": 10,
       "chars": [
@@ -1055,7 +1082,7 @@
     },
     {
       "type": "bitmap",
-      "file": "riceboss:font/bossui_frame_10_0.png",
+      "file": "riceboss:font/bossui_frame_010_0.png",
       "height": 21,
       "ascent": 10,
       "chars": [
@@ -1064,7 +1091,7 @@
     },
     {
       "type": "bitmap",
-      "file": "riceboss:font/bossui_frame_10_1.png",
+      "file": "riceboss:font/bossui_frame_010_1.png",
       "height": 21,
       "ascent": 10,
       "chars": [
@@ -1073,7 +1100,7 @@
     },
     {
       "type": "bitmap",
-      "file": "riceboss:font/bossui_frame_10_2.png",
+      "file": "riceboss:font/bossui_frame_010_2.png",
       "height": 21,
       "ascent": 10,
       "chars": [
@@ -1082,7 +1109,7 @@
     },
     {
       "type": "bitmap",
-      "file": "riceboss:font/bossui_frame_10_3.png",
+      "file": "riceboss:font/bossui_frame_010_3.png",
       "height": 21,
       "ascent": 10,
       "chars": [
@@ -1091,7 +1118,7 @@
     },
     {
       "type": "bitmap",
-      "file": "riceboss:font/bossui_frame_11_0.png",
+      "file": "riceboss:font/bossui_frame_011_0.png",
       "height": 21,
       "ascent": 10,
       "chars": [
@@ -1100,7 +1127,7 @@
     },
     {
       "type": "bitmap",
-      "file": "riceboss:font/bossui_frame_11_1.png",
+      "file": "riceboss:font/bossui_frame_011_1.png",
       "height": 21,
       "ascent": 10,
       "chars": [
@@ -1109,7 +1136,7 @@
     },
     {
       "type": "bitmap",
-      "file": "riceboss:font/bossui_frame_11_2.png",
+      "file": "riceboss:font/bossui_frame_011_2.png",
       "height": 21,
       "ascent": 10,
       "chars": [
@@ -1118,7 +1145,7 @@
     },
     {
       "type": "bitmap",
-      "file": "riceboss:font/bossui_frame_11_3.png",
+      "file": "riceboss:font/bossui_frame_011_3.png",
       "height": 21,
       "ascent": 10,
       "chars": [
@@ -1127,7 +1154,7 @@
     },
     {
       "type": "bitmap",
-      "file": "riceboss:font/bossui_frame_20_0.png",
+      "file": "riceboss:font/bossui_frame_020_0.png",
       "height": 21,
       "ascent": 10,
       "chars": [
@@ -1136,7 +1163,7 @@
     },
     {
       "type": "bitmap",
-      "file": "riceboss:font/bossui_frame_20_1.png",
+      "file": "riceboss:font/bossui_frame_020_1.png",
       "height": 21,
       "ascent": 10,
       "chars": [
@@ -1145,7 +1172,7 @@
     },
     {
       "type": "bitmap",
-      "file": "riceboss:font/bossui_frame_20_2.png",
+      "file": "riceboss:font/bossui_frame_020_2.png",
       "height": 21,
       "ascent": 10,
       "chars": [
@@ -1154,7 +1181,7 @@
     },
     {
       "type": "bitmap",
-      "file": "riceboss:font/bossui_frame_20_3.png",
+      "file": "riceboss:font/bossui_frame_020_3.png",
       "height": 21,
       "ascent": 10,
       "chars": [
@@ -1163,7 +1190,7 @@
     },
     {
       "type": "bitmap",
-      "file": "riceboss:font/bossui_frame_21_0.png",
+      "file": "riceboss:font/bossui_frame_021_0.png",
       "height": 21,
       "ascent": 10,
       "chars": [
@@ -1172,7 +1199,7 @@
     },
     {
       "type": "bitmap",
-      "file": "riceboss:font/bossui_frame_21_1.png",
+      "file": "riceboss:font/bossui_frame_021_1.png",
       "height": 21,
       "ascent": 10,
       "chars": [
@@ -1181,7 +1208,7 @@
     },
     {
       "type": "bitmap",
-      "file": "riceboss:font/bossui_frame_21_2.png",
+      "file": "riceboss:font/bossui_frame_021_2.png",
       "height": 21,
       "ascent": 10,
       "chars": [
@@ -1190,11 +1217,227 @@
     },
     {
       "type": "bitmap",
-      "file": "riceboss:font/bossui_frame_21_3.png",
+      "file": "riceboss:font/bossui_frame_021_3.png",
       "height": 21,
       "ascent": 10,
       "chars": [
         ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_frame_100_0.png",
+      "height": 21,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_frame_100_1.png",
+      "height": 21,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_frame_100_2.png",
+      "height": 21,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_frame_100_3.png",
+      "height": 21,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_frame_101_0.png",
+      "height": 21,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_frame_101_1.png",
+      "height": 21,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_frame_101_2.png",
+      "height": 21,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_frame_101_3.png",
+      "height": 21,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_frame_110_0.png",
+      "height": 21,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_frame_110_1.png",
+      "height": 21,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_frame_110_2.png",
+      "height": 21,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_frame_110_3.png",
+      "height": 21,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_frame_111_0.png",
+      "height": 21,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_frame_111_1.png",
+      "height": 21,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_frame_111_2.png",
+      "height": 21,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_frame_111_3.png",
+      "height": 21,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_frame_120_0.png",
+      "height": 21,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_frame_120_1.png",
+      "height": 21,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_frame_120_2.png",
+      "height": 21,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_frame_120_3.png",
+      "height": 21,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_frame_121_0.png",
+      "height": 21,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_frame_121_1.png",
+      "height": 21,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_frame_121_2.png",
+      "height": 21,
+      "ascent": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_frame_121_3.png",
+      "height": 21,
+      "ascent": 10,
+      "chars": [
+        ""
       ]
     },
     {

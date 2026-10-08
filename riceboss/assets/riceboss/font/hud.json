@@ -1991,6 +1991,51 @@
     },
     {
       "type": "bitmap",
+      "file": "riceboss:font/bossui_chip_fury_1.png",
+      "height": 12,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_chip_fury_2.png",
+      "height": 12,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_chip_fury_3.png",
+      "height": 12,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_chip_fury_4.png",
+      "height": 12,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_chip_fury_5.png",
+      "height": 12,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "riceboss:font/bossui_marker.png",
       "height": 4,
       "ascent": -8,

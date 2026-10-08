@@ -2350,6 +2350,60 @@
       ]
     },
     {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_mode_0_0.png",
+      "height": 14,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_mode_0_1.png",
+      "height": 14,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_mode_0_2.png",
+      "height": 14,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_mode_1_0.png",
+      "height": 14,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_mode_1_1.png",
+      "height": 14,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_mode_1_2.png",
+      "height": 14,
+      "ascent": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
       "type": "space",
       "advances": {
         "": -1,

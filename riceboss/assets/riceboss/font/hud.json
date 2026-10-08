@@ -362,6 +362,33 @@
     },
     {
       "type": "bitmap",
+      "file": "riceboss:font/title_wipe_0.png",
+      "height": 20,
+      "ascent": 18,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/title_wipe_1.png",
+      "height": 20,
+      "ascent": 18,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/title_wipe_2.png",
+      "height": 20,
+      "ascent": 18,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "riceboss:font/title_order_0_0.png",
       "height": 20,
       "ascent": 18,
@@ -1897,6 +1924,141 @@
       "ascent": 8,
       "chars": [
         ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_digit_11.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_chip_0.png",
+      "height": 12,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_chip_1.png",
+      "height": 12,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_chip_2.png",
+      "height": 12,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_chip_3.png",
+      "height": 12,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_chip_4.png",
+      "height": 12,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_chip_5.png",
+      "height": 12,
+      "ascent": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_marker.png",
+      "height": 6,
+      "ascent": 3,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_hourglass.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_vignette_0.png",
+      "height": 480,
+      "ascent": 90,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_vignette_1.png",
+      "height": 480,
+      "ascent": 90,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_vignette_2.png",
+      "height": 480,
+      "ascent": 90,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_vignette_3.png",
+      "height": 480,
+      "ascent": 90,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_vignette_4.png",
+      "height": 480,
+      "ascent": 90,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "riceboss:font/bossui_vignette_5.png",
+      "height": 480,
+      "ascent": 90,
+      "chars": [
+        ""
       ]
     },
     {

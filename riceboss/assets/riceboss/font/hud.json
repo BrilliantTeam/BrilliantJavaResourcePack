@@ -984,8 +984,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_frame_00_0.png",
-      "height": 22,
-      "ascent": 9,
+      "height": 21,
+      "ascent": 10,
       "chars": [
         ""
       ]
@@ -993,8 +993,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_frame_00_1.png",
-      "height": 22,
-      "ascent": 9,
+      "height": 21,
+      "ascent": 10,
       "chars": [
         ""
       ]
@@ -1002,8 +1002,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_frame_00_2.png",
-      "height": 22,
-      "ascent": 9,
+      "height": 21,
+      "ascent": 10,
       "chars": [
         ""
       ]
@@ -1011,8 +1011,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_frame_00_3.png",
-      "height": 22,
-      "ascent": 9,
+      "height": 21,
+      "ascent": 10,
       "chars": [
         ""
       ]
@@ -1020,8 +1020,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_frame_01_0.png",
-      "height": 22,
-      "ascent": 9,
+      "height": 21,
+      "ascent": 10,
       "chars": [
         ""
       ]
@@ -1029,8 +1029,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_frame_01_1.png",
-      "height": 22,
-      "ascent": 9,
+      "height": 21,
+      "ascent": 10,
       "chars": [
         ""
       ]
@@ -1038,8 +1038,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_frame_01_2.png",
-      "height": 22,
-      "ascent": 9,
+      "height": 21,
+      "ascent": 10,
       "chars": [
         ""
       ]
@@ -1047,8 +1047,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_frame_01_3.png",
-      "height": 22,
-      "ascent": 9,
+      "height": 21,
+      "ascent": 10,
       "chars": [
         ""
       ]
@@ -1056,8 +1056,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_frame_10_0.png",
-      "height": 22,
-      "ascent": 9,
+      "height": 21,
+      "ascent": 10,
       "chars": [
         ""
       ]
@@ -1065,8 +1065,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_frame_10_1.png",
-      "height": 22,
-      "ascent": 9,
+      "height": 21,
+      "ascent": 10,
       "chars": [
         ""
       ]
@@ -1074,8 +1074,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_frame_10_2.png",
-      "height": 22,
-      "ascent": 9,
+      "height": 21,
+      "ascent": 10,
       "chars": [
         ""
       ]
@@ -1083,8 +1083,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_frame_10_3.png",
-      "height": 22,
-      "ascent": 9,
+      "height": 21,
+      "ascent": 10,
       "chars": [
         ""
       ]
@@ -1092,8 +1092,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_frame_11_0.png",
-      "height": 22,
-      "ascent": 9,
+      "height": 21,
+      "ascent": 10,
       "chars": [
         ""
       ]
@@ -1101,8 +1101,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_frame_11_1.png",
-      "height": 22,
-      "ascent": 9,
+      "height": 21,
+      "ascent": 10,
       "chars": [
         ""
       ]
@@ -1110,8 +1110,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_frame_11_2.png",
-      "height": 22,
-      "ascent": 9,
+      "height": 21,
+      "ascent": 10,
       "chars": [
         ""
       ]
@@ -1119,8 +1119,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_frame_11_3.png",
-      "height": 22,
-      "ascent": 9,
+      "height": 21,
+      "ascent": 10,
       "chars": [
         ""
       ]
@@ -1128,8 +1128,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_frame_20_0.png",
-      "height": 22,
-      "ascent": 9,
+      "height": 21,
+      "ascent": 10,
       "chars": [
         ""
       ]
@@ -1137,8 +1137,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_frame_20_1.png",
-      "height": 22,
-      "ascent": 9,
+      "height": 21,
+      "ascent": 10,
       "chars": [
         ""
       ]
@@ -1146,8 +1146,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_frame_20_2.png",
-      "height": 22,
-      "ascent": 9,
+      "height": 21,
+      "ascent": 10,
       "chars": [
         ""
       ]
@@ -1155,8 +1155,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_frame_20_3.png",
-      "height": 22,
-      "ascent": 9,
+      "height": 21,
+      "ascent": 10,
       "chars": [
         ""
       ]
@@ -1164,8 +1164,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_frame_21_0.png",
-      "height": 22,
-      "ascent": 9,
+      "height": 21,
+      "ascent": 10,
       "chars": [
         ""
       ]
@@ -1173,8 +1173,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_frame_21_1.png",
-      "height": 22,
-      "ascent": 9,
+      "height": 21,
+      "ascent": 10,
       "chars": [
         ""
       ]
@@ -1182,8 +1182,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_frame_21_2.png",
-      "height": 22,
-      "ascent": 9,
+      "height": 21,
+      "ascent": 10,
       "chars": [
         ""
       ]
@@ -1191,8 +1191,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_frame_21_3.png",
-      "height": 22,
-      "ascent": 9,
+      "height": 21,
+      "ascent": 10,
       "chars": [
         ""
       ]
@@ -1200,8 +1200,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_segment.png",
-      "height": 6,
-      "ascent": -2,
+      "height": 5,
+      "ascent": -3,
       "chars": [
         ""
       ]
@@ -1209,8 +1209,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_digit_0.png",
-      "height": 7,
-      "ascent": 7,
+      "height": 6,
+      "ascent": 8,
       "chars": [
         ""
       ]
@@ -1218,8 +1218,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_digit_1.png",
-      "height": 7,
-      "ascent": 7,
+      "height": 6,
+      "ascent": 8,
       "chars": [
         ""
       ]
@@ -1227,8 +1227,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_digit_2.png",
-      "height": 7,
-      "ascent": 7,
+      "height": 6,
+      "ascent": 8,
       "chars": [
         ""
       ]
@@ -1236,8 +1236,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_digit_3.png",
-      "height": 7,
-      "ascent": 7,
+      "height": 6,
+      "ascent": 8,
       "chars": [
         ""
       ]
@@ -1245,8 +1245,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_digit_4.png",
-      "height": 7,
-      "ascent": 7,
+      "height": 6,
+      "ascent": 8,
       "chars": [
         ""
       ]
@@ -1254,8 +1254,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_digit_5.png",
-      "height": 7,
-      "ascent": 7,
+      "height": 6,
+      "ascent": 8,
       "chars": [
         ""
       ]
@@ -1263,8 +1263,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_digit_6.png",
-      "height": 7,
-      "ascent": 7,
+      "height": 6,
+      "ascent": 8,
       "chars": [
         ""
       ]
@@ -1272,8 +1272,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_digit_7.png",
-      "height": 7,
-      "ascent": 7,
+      "height": 6,
+      "ascent": 8,
       "chars": [
         ""
       ]
@@ -1281,8 +1281,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_digit_8.png",
-      "height": 7,
-      "ascent": 7,
+      "height": 6,
+      "ascent": 8,
       "chars": [
         ""
       ]
@@ -1290,8 +1290,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_digit_9.png",
-      "height": 7,
-      "ascent": 7,
+      "height": 6,
+      "ascent": 8,
       "chars": [
         ""
       ]
@@ -1299,8 +1299,8 @@
     {
       "type": "bitmap",
       "file": "riceboss:font/bossui_digit_10.png",
-      "height": 7,
-      "ascent": 7,
+      "height": 6,
+      "ascent": 8,
       "chars": [
         ""
       ]

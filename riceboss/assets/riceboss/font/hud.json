@@ -2504,7 +2504,7 @@
     },
     {
       "type": "bitmap",
-      "file": "riceboss:font/bossui_grade_S.png",
+      "file": "riceboss:font/bossui_grade_s.png",
       "height": 28,
       "ascent": 8,
       "chars": [
@@ -2513,7 +2513,7 @@
     },
     {
       "type": "bitmap",
-      "file": "riceboss:font/bossui_grade_A.png",
+      "file": "riceboss:font/bossui_grade_a.png",
       "height": 28,
       "ascent": 8,
       "chars": [
@@ -2522,7 +2522,7 @@
     },
     {
       "type": "bitmap",
-      "file": "riceboss:font/bossui_grade_B.png",
+      "file": "riceboss:font/bossui_grade_b.png",
       "height": 28,
       "ascent": 8,
       "chars": [
@@ -2531,7 +2531,7 @@
     },
     {
       "type": "bitmap",
-      "file": "riceboss:font/bossui_grade_C.png",
+      "file": "riceboss:font/bossui_grade_c.png",
       "height": 28,
       "ascent": 8,
       "chars": [

@@ -1,12 +1,12 @@
 {
   "parent": "minecraft:block/block",
   "textures": {
-    "particle": "brilliant:block/machine/north_active",
-    "front": "brilliant:block/machine/north_active",
-    "back": "brilliant:block/machine/south_active",
-    "side": "brilliant:block/machine/transporter_active",
-    "top": "brilliant:block/machine/top_active",
-    "bottom": "brilliant:block/machine/down_active"
+    "particle": "brilliant:block/machine/north",
+    "front": "brilliant:block/machine/north",
+    "back": "brilliant:block/machine/south",
+    "side": "brilliant:block/machine/transporter_in",
+    "top": "brilliant:block/machine/top",
+    "bottom": "brilliant:block/machine/down"
   },
   "elements": [
     {

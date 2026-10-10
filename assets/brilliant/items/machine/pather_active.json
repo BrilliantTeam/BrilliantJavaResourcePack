@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "brilliant:block/machine/pather_active"
+  }
+}

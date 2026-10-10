@@ -2,9 +2,9 @@
   "parent": "minecraft:block/block",
   "textures": {
     "particle": "brilliant:block/machine/north_active",
-    "front": "brilliant:block/machine/breaker_active",
+    "front": "brilliant:block/machine/north_active",
     "back": "brilliant:block/machine/south_active",
-    "side": "brilliant:block/machine/north_active",
+    "side": "brilliant:block/machine/breaker_active",
     "top": "brilliant:block/machine/top_active",
     "bottom": "brilliant:block/machine/down_active"
   },

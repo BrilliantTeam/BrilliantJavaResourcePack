@@ -1534,7 +1534,7 @@
       "type": "bitmap",
       "file": "riceboss:font/bossui_segment.png",
       "height": 5,
-      "ascent": 6,
+      "ascent": 5,
       "chars": [
         ""
       ]

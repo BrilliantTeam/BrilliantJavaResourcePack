@@ -64,6 +64,40 @@
                     "type": "model",
                     "model": "custom_items/brilliant/elytra/copper_chestplate"
                 }
+            },
+            {
+                "threshold": 1008,
+                "model": {
+                    "type": "select",
+                    "property": "trim_material",
+                    "cases": [
+                        {
+                            "when": "brilliant:paradise_powder_1",
+                            "model": {
+                                "type": "model",
+                                "model": "brilliant:item/paradise/paradise_powder_elytra_1"
+                            }
+                        },
+                        {
+                            "when": "brilliant:paradise_powder_2",
+                            "model": {
+                                "type": "model",
+                                "model": "brilliant:item/paradise/paradise_powder_elytra_2"
+                            }
+                        },
+                        {
+                            "when": "brilliant:paradise_powder_3",
+                            "model": {
+                                "type": "model",
+                                "model": "brilliant:item/paradise/paradise_powder_elytra_3"
+                            }
+                        }
+                    ],
+                    "fallback": {
+                        "type": "model",
+                        "model": "brilliant:item/paradise/paradise_powder_elytra_1"
+                    }
+                }
             }
         ]
     }

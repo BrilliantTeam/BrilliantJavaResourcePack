@@ -1,0 +1,40 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:single",
+      "resource": "brilliant:trims/entity/humanoid/paradise_powder_paradise_1"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "brilliant:trims/entity/humanoid_leggings/paradise_powder_paradise_1"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "brilliant:trims/entity/wings/paradise_powder_paradise_1"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "brilliant:trims/entity/humanoid/paradise_powder_paradise_2"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "brilliant:trims/entity/humanoid_leggings/paradise_powder_paradise_2"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "brilliant:trims/entity/wings/paradise_powder_paradise_2"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "brilliant:trims/entity/humanoid/paradise_powder_paradise_3"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "brilliant:trims/entity/humanoid_leggings/paradise_powder_paradise_3"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "brilliant:trims/entity/wings/paradise_powder_paradise_3"
+    }
+  ]
+}

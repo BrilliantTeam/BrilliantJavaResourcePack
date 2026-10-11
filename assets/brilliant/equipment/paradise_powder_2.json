@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "brilliant:paradise_powder_2"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "brilliant:paradise_powder_2"
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "brilliant:paradise_powder_2"
+      }
+    ]
+  }
+}

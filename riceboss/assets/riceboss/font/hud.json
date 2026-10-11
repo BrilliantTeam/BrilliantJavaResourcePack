@@ -1532,6 +1532,15 @@
     },
     {
       "type": "bitmap",
+      "file": "riceboss:font/bossui_segment.png",
+      "height": 5,
+      "ascent": 6,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "riceboss:font/bossui_gauge_frame_00_0.png",
       "height": 12,
       "ascent": 7,

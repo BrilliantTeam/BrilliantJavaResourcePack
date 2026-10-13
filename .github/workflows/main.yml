@@ -46,7 +46,7 @@ jobs:
 
       - name: 壓縮基礎檔案（所有版本共用）
         run: |
-          BASE_FILES="assets/ 26.1/ LICENSE.txt pack.mcmeta pack.png"
+          BASE_FILES="assets/ 26.1/ 26.3/ LICENSE.txt pack.mcmeta pack.png"
           
           echo "Creating base ZIPs..."
           

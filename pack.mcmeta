@@ -11,6 +11,11 @@
         "directory": "26.1",
         "min_format": 84.0,
         "max_format": [97, 1]
+      },
+      {
+        "directory": "26.3",
+        "min_format": 97.0,
+        "max_format": [97, 1]
       }
     ]
   }

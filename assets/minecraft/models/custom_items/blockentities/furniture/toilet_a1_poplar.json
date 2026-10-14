@@ -1,0 +1,11 @@
+{
+	"format_version": "1.9.0",
+	"credit": "書碼、鯉魚",
+	"parent": "custom_items/blockentities/furniture/toilet_a1",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "item/custom/blockentities/furniture/white",
+		"1": "item/custom/blockentities/furniture/poplar",
+		"particle": "item/custom/blockentities/furniture/white"
+	}
+}

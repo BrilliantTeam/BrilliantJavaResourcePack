@@ -93,6 +93,13 @@
                 }
             },
             {
+                "threshold": 2012,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/furniture/wood_chair_a_poplar"
+                }
+            },
+            {
                 "threshold": 2100,
                 "model": {
                     "type": "model",
@@ -174,6 +181,13 @@
                 "model": {
                     "type": "model",
                     "model": "custom_items/blockentities/furniture/wood_chair_b_pale_oak"
+                }
+            },
+            {
+                "threshold": 2112,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/furniture/wood_chair_b_poplar"
                 }
             },
             {
@@ -261,6 +275,13 @@
                 }
             },
             {
+                "threshold": 3012,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/furniture/wood_table_a_poplar"
+                }
+            },
+            {
                 "threshold": 3100,
                 "model": {
                     "type": "model",
@@ -342,6 +363,13 @@
                 "model": {
                     "type": "model",
                     "model": "custom_items/blockentities/furniture/wood_table_b_pale_oak"
+                }
+            },
+            {
+                "threshold": 3112,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/furniture/wood_table_b_poplar"
                 }
             },
             {
@@ -429,6 +457,13 @@
                 }
             },
             {
+                "threshold": 4012,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/furniture/wooden_sofa_b0_poplar"
+                }
+            },
+            {
                 "threshold": 4100,
                 "model": {
                     "type": "model",
@@ -510,6 +545,13 @@
                 "model": {
                     "type": "model",
                     "model": "custom_items/blockentities/furniture/wooden_sofa_b1_pale_oak"
+                }
+            },
+            {
+                "threshold": 4112,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/furniture/wooden_sofa_b1_poplar"
                 }
             },
             {
@@ -597,6 +639,13 @@
                 }
             },
             {
+                "threshold": 4212,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/furniture/wooden_sofa_b2_poplar"
+                }
+            },
+            {
                 "threshold": 4300,
                 "model": {
                     "type": "model",
@@ -678,6 +727,13 @@
                 "model": {
                     "type": "model",
                     "model": "custom_items/blockentities/furniture/wooden_sofa_b3_pale_oak"
+                }
+            },
+            {
+                "threshold": 4312,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/furniture/wooden_sofa_b3_poplar"
                 }
             },
             {
@@ -765,6 +821,13 @@
                 }
             },
             {
+                "threshold": 4412,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/furniture/wooden_sofa_b4_poplar"
+                }
+            },
+            {
                 "threshold": 5000,
                 "model": {
                     "type": "model",
@@ -846,6 +909,13 @@
                 "model": {
                     "type": "model",
                     "model": "custom_items/blockentities/furniture/wooden_sofa_a0_pale_oak"
+                }
+            },
+            {
+                "threshold": 5012,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/furniture/wooden_sofa_a0_poplar"
                 }
             },
             {
@@ -933,6 +1003,13 @@
                 }
             },
             {
+                "threshold": 5112,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/furniture/wooden_sofa_a1_poplar"
+                }
+            },
+            {
                 "threshold": 5200,
                 "model": {
                     "type": "model",
@@ -1014,6 +1091,13 @@
                 "model": {
                     "type": "model",
                     "model": "custom_items/blockentities/furniture/wooden_sofa_a2_pale_oak"
+                }
+            },
+            {
+                "threshold": 5212,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/furniture/wooden_sofa_a2_poplar"
                 }
             },
             {
@@ -1101,6 +1185,13 @@
                 }
             },
             {
+                "threshold": 5312,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/furniture/wooden_sofa_a3_poplar"
+                }
+            },
+            {
                 "threshold": 5400,
                 "model": {
                     "type": "model",
@@ -1182,6 +1273,13 @@
                 "model": {
                     "type": "model",
                     "model": "custom_items/blockentities/furniture/wooden_sofa_a4_pale_oak"
+                }
+            },
+            {
+                "threshold": 5412,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/furniture/wooden_sofa_a4_poplar"
                 }
             },
             {
@@ -1269,6 +1367,13 @@
                 }
             },
             {
+                "threshold": 6012,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/furniture/wood_cabinet_a_poplar"
+                }
+            },
+            {
                 "threshold": 6100,
                 "model": {
                     "type": "model",
@@ -1350,6 +1455,13 @@
                 "model": {
                     "type": "model",
                     "model": "custom_items/blockentities/furniture/wood_cabinet_b_pale_oak"
+                }
+            },
+            {
+                "threshold": 6112,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/furniture/wood_cabinet_b_poplar"
                 }
             },
             {
@@ -1437,6 +1549,13 @@
                 }
             },
             {
+                "threshold": 6212,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/furniture/wood_cabinet_c_poplar"
+                }
+            },
+            {
                 "threshold": 6300,
                 "model": {
                     "type": "model",
@@ -1518,6 +1637,13 @@
                 "model": {
                     "type": "model",
                     "model": "custom_items/blockentities/furniture/wood_cabinet_d_pale_oak"
+                }
+            },
+            {
+                "threshold": 6312,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/furniture/wood_cabinet_d_poplar"
                 }
             },
             {
@@ -1605,6 +1731,13 @@
                 }
             },
             {
+                "threshold": 7012,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/furniture/toilet_a1_poplar"
+                }
+            },
+            {
                 "threshold": 7100,
                 "model": {
                     "type": "model",
@@ -1686,6 +1819,13 @@
                 "model": {
                     "type": "model",
                     "model": "custom_items/blockentities/furniture/toilet_a2_pale_oak"
+                }
+            },
+            {
+                "threshold": 7112,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/furniture/toilet_a2_poplar"
                 }
             },
             {
@@ -1780,6 +1920,13 @@
                 }
             },
             {
+                "threshold": 8012,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/furniture/toilet_b1_poplar"
+                }
+            },
+            {
                 "threshold": 8100,
                 "model": {
                     "type": "model",
@@ -1861,6 +2008,13 @@
                 "model": {
                     "type": "model",
                     "model": "custom_items/blockentities/furniture/toilet_b2_pale_oak"
+                }
+            },
+            {
+                "threshold": 8112,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/furniture/toilet_b2_poplar"
                 }
             },
             {
@@ -1952,6 +2106,13 @@
                 "model": {
                     "type": "model",
                     "model": "custom_items/blockentities/furniture/blinder_a1_pale_oak"
+                }
+            },
+            {
+                "threshold": 9012,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/blockentities/furniture/blinder_a1_poplar"
                 }
             },
             {

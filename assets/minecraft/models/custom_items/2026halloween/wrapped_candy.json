@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "custom_items/2026halloween/wrapped_candy"
+    "layer0": "item/custom/2026halloween/wrapped_candy"
   }
 }

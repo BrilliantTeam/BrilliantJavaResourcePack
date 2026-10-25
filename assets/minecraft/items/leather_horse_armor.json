@@ -325,6 +325,1542 @@
                         }
                     ]
                 }
+            },
+            {
+                "threshold": 20500,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_2",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 3949738
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 3949738
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20501,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_2",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 4673362
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 4673362
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20502,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_2",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 6192150
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 6192150
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20503,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_2",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 8991416
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 8991416
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20504,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_2",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 11546150
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 11546150
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20505,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_2",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 4673362
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 16351261
+                                }
+                            ]
+                        },
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_2_ribbon",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 4673362
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 16351261
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20506,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_2",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 16701501
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 16701501
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20507,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_2_light",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 3949738
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 3949738
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20508,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_2_light",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 6192150
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 6192150
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20509,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_2_light",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 8991416
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 8991416
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20510,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_2_light",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 11546150
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 11546150
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20511,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_2_light",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 16383998
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 16351261
+                                }
+                            ]
+                        },
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_2_ribbon",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 16383998
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 16351261
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20512,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_2_light",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 16383998
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 16383998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20513,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_2_light",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 16701501
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 16701501
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20514,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 13061821
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 13061821
+                                }
+                            ]
+                        },
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_trinkets_allium",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 13061821
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 13061821
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20515,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 10329495
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 10329495
+                                }
+                            ]
+                        },
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_trinkets_azure_bluet",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 10329495
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 10329495
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20516,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 3847130
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 3847130
+                                }
+                            ]
+                        },
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_trinkets_blue_orchid",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 3847130
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 3847130
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20517,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 4673362
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 4673362
+                                }
+                            ]
+                        },
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_trinkets_closed_eyeblossom",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 4673362
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 4673362
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20518,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 3949738
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 3949738
+                                }
+                            ]
+                        },
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_trinkets_cornflower",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 3949738
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 3949738
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20519,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 16701501
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 16701501
+                                }
+                            ]
+                        },
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_trinkets_dandelion",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 16701501
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 16701501
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20520,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 3949738
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 3949738
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20521,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 4673362
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 4673362
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20522,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 6192150
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 6192150
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20523,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 4673362
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 5381742
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 2,
+                                    "default": 16351261
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 3,
+                                    "default": 6192150
+                                }
+                            ]
+                        },
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_pumpkin",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 4673362
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 5381742
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 2,
+                                    "default": 16351261
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 3,
+                                    "default": 6192150
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20524,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 8991416
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 8991416
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20525,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 11546150
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 11546150
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20526,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 16701501
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 16701501
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20527,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 16701501
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 16701501
+                                }
+                            ]
+                        },
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_trinkets_golden_dandelion",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 16701501
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 16701501
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20528,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base_light",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 3949738
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 3949738
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20529,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base_light",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 6192150
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 6192150
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20530,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base_light",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 16383998
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 5381742
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 2,
+                                    "default": 16351261
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 3,
+                                    "default": 6192150
+                                }
+                            ]
+                        },
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_pumpkin",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 16383998
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 5381742
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 2,
+                                    "default": 16351261
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 3,
+                                    "default": 6192150
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20531,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base_light",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 8991416
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 8991416
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20532,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base_light",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 11546150
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 11546150
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20533,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base_light",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 16383998
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 16383998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20534,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base_light",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 16701501
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 16701501
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20535,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 16383998
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 16383998
+                                }
+                            ]
+                        },
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_trinkets_lily_of_the_valley",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 16383998
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 16383998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20536,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 16351261
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 16351261
+                                }
+                            ]
+                        },
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_trinkets_open_eyeblossom",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 16351261
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 16351261
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20537,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 16351261
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 16351261
+                                }
+                            ]
+                        },
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_trinkets_orange_tulip",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 16351261
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 16351261
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20538,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 4673362
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 4673362
+                                }
+                            ]
+                        },
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_outline",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 4673362
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 4673362
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20539,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base_light",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 16383998
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 16383998
+                                }
+                            ]
+                        },
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_outline",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 16383998
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 16383998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20540,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 10329495
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 10329495
+                                }
+                            ]
+                        },
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_trinkets_oxeye_daisy",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 10329495
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 10329495
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20541,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 15961002
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 15961002
+                                }
+                            ]
+                        },
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_trinkets_pink_tulip",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 15961002
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 15961002
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20542,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 11546150
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 11546150
+                                }
+                            ]
+                        },
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_trinkets_poppy",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 11546150
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 11546150
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20543,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 11546150
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 11546150
+                                }
+                            ]
+                        },
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_trinkets_red_tulip",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 11546150
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 11546150
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20550,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 16351261
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 16351261
+                                }
+                            ]
+                        },
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_trinkets_torchflower",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 16351261
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 16351261
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20551,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 10329495
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 10329495
+                                }
+                            ]
+                        },
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_trinkets_white_tulip",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 10329495
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 10329495
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20552,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_base",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 1908001
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 1908001
+                                }
+                            ]
+                        },
+                        {
+                            "type": "model",
+                            "model": "custom_items/2026halloween/witch_hat_trinkets_wither_rose",
+                            "tints": [
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 0,
+                                    "default": 1908001
+                                },
+                                {
+                                    "type": "custom_model_data",
+                                    "index": 1,
+                                    "default": 1908001
+                                }
+                            ]
+                        }
+                    ]
+                }
             }
         ]
     }

@@ -1,0 +1,7 @@
+{
+  "parent": "custom_items/2026halloween/witch_hat_base",
+  "textures": {
+    "1": "minecraft:block/quartz_pillar_side",
+    "particle": "minecraft:block/quartz_pillar_side"
+  }
+}

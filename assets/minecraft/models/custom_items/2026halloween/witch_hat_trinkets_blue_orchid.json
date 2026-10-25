@@ -1,0 +1,6 @@
+{
+  "parent": "custom_items/2026halloween/witch_hat_trinkets",
+  "textures": {
+    "6": "minecraft:block/blue_orchid"
+  }
+}

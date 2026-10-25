@@ -595,6 +595,41 @@
                     "type": "model",
                     "model": "custom_items/brilliant/shopgui/c21"
                 }
+            },
+            {
+                "threshold": 71000,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026halloween/candy_corn"
+                }
+            },
+            {
+                "threshold": 71001,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026halloween/gummy_worm"
+                }
+            },
+            {
+                "threshold": 71002,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026halloween/lollipop"
+                }
+            },
+            {
+                "threshold": 71003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026halloween/spoiled_candy"
+                }
+            },
+            {
+                "threshold": 71004,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2026halloween/wrapped_candy"
+                }
             }
         ]
     }

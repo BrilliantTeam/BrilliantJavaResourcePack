@@ -1,0 +1,127 @@
+{
+	"format_version": "26.3",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"4": "block/white_bed_foot_up",
+		"5": "block/wildflowers",
+		"particle": "block/wildflowers"
+	},
+	"elements": [
+		{
+			"from": [7, 2.75, 4.5],
+			"to": [9, 4.25, 5.25],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 6, 9.5]},
+			"faces": {
+				"north": {"uv": [11, 6, 15, 9], "texture": "#4", "tintindex": 1},
+				"east": {"uv": [10, 6, 11, 9], "texture": "#4", "tintindex": 1},
+				"south": {"uv": [11, 6, 15, 9], "texture": "#4", "tintindex": 1},
+				"west": {"uv": [10, 6, 11, 9], "texture": "#4", "tintindex": 1},
+				"up": {"uv": [11, 5, 15, 6], "texture": "#4", "tintindex": 1},
+				"down": {"uv": [11, 9, 15, 10], "texture": "#4", "tintindex": 1}
+			}
+		},
+		{
+			"from": [5, 5.18193, 4.53755],
+			"to": [7.5, 7.18193, 4.53755],
+			"rotation": {"x": 22.32648, "y": -2.86313, "z": 6.93488, "origin": [6.5, 6.43193, 4.53755]},
+			"faces": {
+				"north": {"uv": [10, 2, 14, 6], "texture": "#5", "tintindex": 1},
+				"east": {"uv": [10, 6, 11, 9], "texture": "#5", "tintindex": 1},
+				"south": {"uv": [10, 2, 14, 6], "texture": "#5", "tintindex": 1},
+				"west": {"uv": [10, 6, 11, 9], "texture": "#5", "tintindex": 1},
+				"up": {"uv": [11, 5, 15, 6], "texture": "#5", "tintindex": 1},
+				"down": {"uv": [11, 9, 15, 10], "texture": "#5", "tintindex": 1}
+			}
+		},
+		{
+			"from": [5, 3.81514, 3.76785],
+			"to": [7.5, 5.81514, 3.76785],
+			"rotation": {"x": 22.32648, "y": 2.86313, "z": -6.93488, "origin": [6.5, 4.81514, 3.76785]},
+			"faces": {
+				"north": {"uv": [10, 2, 14, 6], "texture": "#5", "tintindex": 1},
+				"east": {"uv": [10, 6, 11, 9], "texture": "#5", "tintindex": 1},
+				"south": {"uv": [10, 3, 14, 6], "texture": "#5", "tintindex": 1},
+				"west": {"uv": [10, 6, 11, 9], "texture": "#5", "tintindex": 1},
+				"up": {"uv": [11, 5, 15, 6], "texture": "#5", "tintindex": 1},
+				"down": {"uv": [11, 9, 15, 10], "texture": "#5", "tintindex": 1}
+			}
+		},
+		{
+			"from": [8.5, 3.81514, 3.76785],
+			"to": [11, 5.81514, 3.76785],
+			"rotation": {"x": 22.32648, "y": -2.86313, "z": 6.93488, "origin": [9.5, 4.81514, 3.76785]},
+			"faces": {
+				"north": {"uv": [14, 2, 10, 6], "texture": "#5", "tintindex": 1},
+				"east": {"uv": [11, 6, 10, 9], "texture": "#5", "tintindex": 1},
+				"south": {"uv": [14, 3, 10, 6], "texture": "#5", "tintindex": 1},
+				"west": {"uv": [11, 6, 10, 9], "texture": "#5", "tintindex": 1},
+				"up": {"uv": [15, 5, 11, 6], "texture": "#5", "tintindex": 1},
+				"down": {"uv": [15, 9, 11, 10], "texture": "#5", "tintindex": 1}
+			}
+		},
+		{
+			"from": [8.5, 5.18193, 4.53755],
+			"to": [11, 7.18193, 4.53755],
+			"rotation": {"x": 22.32648, "y": 2.86313, "z": -6.93488, "origin": [9.5, 6.43193, 4.53755]},
+			"faces": {
+				"north": {"uv": [14, 2, 10, 6], "texture": "#5", "tintindex": 1},
+				"east": {"uv": [11, 6, 10, 9], "texture": "#5", "tintindex": 1},
+				"south": {"uv": [14, 2, 10, 6], "texture": "#5", "tintindex": 1},
+				"west": {"uv": [11, 6, 10, 9], "texture": "#5", "tintindex": 1},
+				"up": {"uv": [15, 5, 11, 6], "texture": "#5", "tintindex": 1},
+				"down": {"uv": [15, 9, 11, 10], "texture": "#5", "tintindex": 1}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 4, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 4, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 78.25, 0],
+			"translation": [2.5, 3.75, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 78.25, 0],
+			"translation": [2.5, 3.75, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"ground": {
+			"rotation": [90, -180, 0],
+			"translation": [0, 6, 11],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [-142.27, 28.88, 178.03],
+			"translation": [0, 1.5, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"head": {
+			"translation": [0, 13, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -9.75],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"on_shelf": {
+			"rotation": [-180, 55.25, -180]
+		}
+	},
+	"groups": [
+		{
+			"name": "isbn_ribbon",
+			"origin": [7.25, 6.00805, 4.40486],
+			"scope": 0,
+			"color": 0,
+			"children": [0, 1, 2, 3, 4]
+		}
+	]
+}

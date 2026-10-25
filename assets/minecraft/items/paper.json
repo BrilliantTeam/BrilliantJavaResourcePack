@@ -273,6 +273,62 @@
                     "type": "model",
                     "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_unknown"
                 }
+            },
+            {
+                "threshold": 39,
+                "model": {
+                    "type": "model",
+                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_spring"
+                }
+            },
+            {
+                "threshold": 40,
+                "model": {
+                    "type": "model",
+                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_summer"
+                }
+            },
+            {
+                "threshold": 41,
+                "model": {
+                    "type": "model",
+                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_autumn"
+                }
+            },
+            {
+                "threshold": 42,
+                "model": {
+                    "type": "model",
+                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_winter"
+                }
+            },
+            {
+                "threshold": 43,
+                "model": {
+                    "type": "model",
+                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_plum"
+                }
+            },
+            {
+                "threshold": 44,
+                "model": {
+                    "type": "model",
+                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_orchid"
+                }
+            },
+            {
+                "threshold": 45,
+                "model": {
+                    "type": "model",
+                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_bamboo"
+                }
+            },
+            {
+                "threshold": 46,
+                "model": {
+                    "type": "model",
+                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_chrysanthemum"
+                }
             }
         ]
     }

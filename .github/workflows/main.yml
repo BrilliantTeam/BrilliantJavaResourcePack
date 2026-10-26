@@ -79,6 +79,9 @@ jobs:
             echo "No darkmode/assets/ folder found, skipping."
           fi
 
+      - name: 產生 UnlimitedNameTags 頭飾高度 advanced.yml
+        run: python3 .github/scripts/advanced_yml.py . advanced.yml
+
       - name: 驗證 ZIP 檔案
         run: |
           echo "Final ZIP files:"
@@ -112,6 +115,7 @@ jobs:
             - 亮色模式：`${{ steps.set_var.outputs.ASSET_LIGHT }}`
             - 暗色模式：`${{ steps.set_var.outputs.ASSET_DARK }}`
             - RiceBoss BOSS 戰：`${{ steps.set_var.outputs.ZIP_RICEBOSS }}`（需與上方任一版本一起載入）
+            - UnlimitedNameTags 頭飾高度：`advanced.yml`（放到 `plugins/UnlimitedNameTags/` 後執行 `/unt reload`）
 
             建議下載標有 **Latest** 的版本以獲得最佳體驗。
             ---
@@ -143,3 +147,4 @@ jobs:
             ${{ steps.set_var.outputs.ZIP_DARK }}
             ${{ steps.set_var.outputs.ZIP_ICD }}
             ${{ steps.set_var.outputs.ZIP_RICEBOSS }}
+            advanced.yml

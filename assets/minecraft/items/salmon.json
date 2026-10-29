@@ -35,6 +35,237 @@
                     "type": "minecraft:model",
                     "model": "custom_items/brilliant/fishing/bait_gourmet"
                 }
+            },
+            {
+                "threshold": 5001,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/shoal_lure_rare"
+                }
+            },
+            {
+                "threshold": 5002,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/shoal_lure_epic"
+                }
+            },
+            {
+                "threshold": 5003,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/shoal_lure_legendary"
+                }
+            },
+            {
+                "threshold": 5011,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/pure_bait_common"
+                }
+            },
+            {
+                "threshold": 5012,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/pure_bait_rare"
+                }
+            },
+            {
+                "threshold": 5013,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/pure_bait_epic"
+                }
+            },
+            {
+                "threshold": 5014,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/pure_bait_legendary"
+                }
+            },
+            {
+                "threshold": 5101,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/lure_warm"
+                }
+            },
+            {
+                "threshold": 5102,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/lure_cold"
+                }
+            },
+            {
+                "threshold": 5103,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/lure_abyss"
+                }
+            },
+            {
+                "threshold": 5104,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/lure_river"
+                }
+            },
+            {
+                "threshold": 5105,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/lure_shore"
+                }
+            },
+            {
+                "threshold": 5106,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/lure_swamp"
+                }
+            },
+            {
+                "threshold": 5107,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/lure_jungle"
+                }
+            },
+            {
+                "threshold": 5108,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/lure_taiga"
+                }
+            },
+            {
+                "threshold": 5109,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/lure_forest"
+                }
+            },
+            {
+                "threshold": 5110,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/lure_peaks"
+                }
+            },
+            {
+                "threshold": 5111,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/lure_caves"
+                }
+            },
+            {
+                "threshold": 5112,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/lure_arid"
+                }
+            },
+            {
+                "threshold": 5113,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/lure_plains"
+                }
+            },
+            {
+                "threshold": 5201,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/bait_warm"
+                }
+            },
+            {
+                "threshold": 5202,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/bait_cold"
+                }
+            },
+            {
+                "threshold": 5203,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/bait_abyss"
+                }
+            },
+            {
+                "threshold": 5204,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/bait_river"
+                }
+            },
+            {
+                "threshold": 5205,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/bait_shore"
+                }
+            },
+            {
+                "threshold": 5206,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/bait_swamp"
+                }
+            },
+            {
+                "threshold": 5207,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/bait_jungle"
+                }
+            },
+            {
+                "threshold": 5208,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/bait_taiga"
+                }
+            },
+            {
+                "threshold": 5209,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/bait_forest"
+                }
+            },
+            {
+                "threshold": 5210,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/bait_peaks"
+                }
+            },
+            {
+                "threshold": 5211,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/bait_caves"
+                }
+            },
+            {
+                "threshold": 5212,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/bait_arid"
+                }
+            },
+            {
+                "threshold": 5213,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/specialty/bait_plains"
+                }
             }
         ]
     }

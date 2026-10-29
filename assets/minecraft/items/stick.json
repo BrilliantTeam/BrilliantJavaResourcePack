@@ -9,6 +9,132 @@
         },
         "entries": [
             {
+                "threshold": 4001,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/accessory/steady_hand"
+                }
+            },
+            {
+                "threshold": 4002,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/accessory/frugal_die"
+                }
+            },
+            {
+                "threshold": 4003,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/accessory/scholars_mark"
+                }
+            },
+            {
+                "threshold": 4004,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/accessory/safety_latch"
+                }
+            },
+            {
+                "threshold": 4005,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/accessory/thrift_common"
+                }
+            },
+            {
+                "threshold": 4006,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/accessory/thrift_tasty"
+                }
+            },
+            {
+                "threshold": 4007,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/accessory/thrift_delicacy"
+                }
+            },
+            {
+                "threshold": 4008,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/accessory/thrift_gourmet"
+                }
+            },
+            {
+                "threshold": 4009,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/accessory/net_common"
+                }
+            },
+            {
+                "threshold": 4010,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/accessory/net_rare"
+                }
+            },
+            {
+                "threshold": 4011,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/accessory/net_epic"
+                }
+            },
+            {
+                "threshold": 4012,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/accessory/net_legendary"
+                }
+            },
+            {
+                "threshold": 4013,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/accessory/prism_bead"
+                }
+            },
+            {
+                "threshold": 4014,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/accessory/lure_common"
+                }
+            },
+            {
+                "threshold": 4015,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/accessory/lure_tasty"
+                }
+            },
+            {
+                "threshold": 4016,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/accessory/lure_delicacy"
+                }
+            },
+            {
+                "threshold": 4017,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/accessory/lure_gourmet"
+                }
+            },
+            {
+                "threshold": 4018,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/accessory/tidecall_bead"
+                }
+            },
+            {
                 "threshold": 19002,
                 "model": {
                     "type": "model",

@@ -1,1 +1,1 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"brilliant:item/puzzle/cell_locked"}}
+{"parent":"brilliant:item/puzzle/base","textures":{"1":"brilliant:item/puzzle/cell_locked","particle":"brilliant:item/puzzle/cell_locked"}}

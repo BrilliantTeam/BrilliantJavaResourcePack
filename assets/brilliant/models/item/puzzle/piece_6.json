@@ -1,1 +1,1 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"brilliant:item/puzzle/piece_6"}}
+{"parent":"brilliant:item/puzzle/flat","textures":{"1":"brilliant:item/puzzle/piece_6","particle":"brilliant:item/puzzle/piece_6"}}

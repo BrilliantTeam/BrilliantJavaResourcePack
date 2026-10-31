@@ -1,6 +1,6 @@
 {
 	"format_version": "26.3",
-	"credit": "Made with Blockbench",
+	"credit": "書碼",
 	"textures": {
 		"7": "block/cobweb",
 		"particle": "block/dead_brain_coral_block"

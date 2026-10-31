@@ -9,6 +9,13 @@
         },
         "entries": [
             {
+                "threshold": 3000,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "custom_items/brilliant/fishing/lucky_shell"
+                }
+            },
+            {
                 "threshold": 4001,
                 "model": {
                     "type": "minecraft:model",

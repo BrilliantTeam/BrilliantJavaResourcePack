@@ -1,6 +1,6 @@
 {
 	"format_version": "1.21.11",
-	"credit": "Made with Blockbench",
+	"credit": "書碼",
 	"textures": {
 		"6": "block/bamboo_large_leaves",
 		"particle": "block/dead_brain_coral_block"

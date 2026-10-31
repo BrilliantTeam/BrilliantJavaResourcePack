@@ -1,6 +1,6 @@
 {
 	"format_version": "26.3",
-	"credit": "Made with Blockbench",
+	"credit": "書碼",
 	"parent": "minecraft:block/block",
 	"texture_size": [36, 36],
 	"textures": {

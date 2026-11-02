@@ -74,7 +74,7 @@ jobs:
         run: |
           if [ -d "darkmode/assets" ]; then
             echo "Merging darkmode/assets/ into ${{ steps.set_var.outputs.ZIP_DARK }}..."
-            cd darkmode && zip -r "../${{ steps.set_var.outputs.ZIP_DARK }}" assets/ && cd ..
+            cd darkmode && zip -r "../${{ steps.set_var.outputs.ZIP_DARK }}" assets/ 26.1/ 26.3/ && cd ..
           else
             echo "No darkmode/assets/ folder found, skipping."
           fi

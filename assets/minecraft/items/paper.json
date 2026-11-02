@@ -12,322 +12,322 @@
                 "threshold": 1,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_m1"
+                    "model": "brilliant:item/tabletop/mahjong/tile/m1"
                 }
             },
             {
                 "threshold": 2,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_m2"
+                    "model": "brilliant:item/tabletop/mahjong/tile/m2"
                 }
             },
             {
                 "threshold": 3,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_m3"
+                    "model": "brilliant:item/tabletop/mahjong/tile/m3"
                 }
             },
             {
                 "threshold": 4,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_m4"
+                    "model": "brilliant:item/tabletop/mahjong/tile/m4"
                 }
             },
             {
                 "threshold": 5,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_m5"
+                    "model": "brilliant:item/tabletop/mahjong/tile/m5"
                 }
             },
             {
                 "threshold": 6,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_m6"
+                    "model": "brilliant:item/tabletop/mahjong/tile/m6"
                 }
             },
             {
                 "threshold": 7,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_m7"
+                    "model": "brilliant:item/tabletop/mahjong/tile/m7"
                 }
             },
             {
                 "threshold": 8,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_m8"
+                    "model": "brilliant:item/tabletop/mahjong/tile/m8"
                 }
             },
             {
                 "threshold": 9,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_m9"
+                    "model": "brilliant:item/tabletop/mahjong/tile/m9"
                 }
             },
             {
                 "threshold": 10,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_p1"
+                    "model": "brilliant:item/tabletop/mahjong/tile/p1"
                 }
             },
             {
                 "threshold": 11,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_p2"
+                    "model": "brilliant:item/tabletop/mahjong/tile/p2"
                 }
             },
             {
                 "threshold": 12,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_p3"
+                    "model": "brilliant:item/tabletop/mahjong/tile/p3"
                 }
             },
             {
                 "threshold": 13,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_p4"
+                    "model": "brilliant:item/tabletop/mahjong/tile/p4"
                 }
             },
             {
                 "threshold": 14,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_p5"
+                    "model": "brilliant:item/tabletop/mahjong/tile/p5"
                 }
             },
             {
                 "threshold": 15,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_p6"
+                    "model": "brilliant:item/tabletop/mahjong/tile/p6"
                 }
             },
             {
                 "threshold": 16,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_p7"
+                    "model": "brilliant:item/tabletop/mahjong/tile/p7"
                 }
             },
             {
                 "threshold": 17,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_p8"
+                    "model": "brilliant:item/tabletop/mahjong/tile/p8"
                 }
             },
             {
                 "threshold": 18,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_p9"
+                    "model": "brilliant:item/tabletop/mahjong/tile/p9"
                 }
             },
             {
                 "threshold": 19,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_s1"
+                    "model": "brilliant:item/tabletop/mahjong/tile/s1"
                 }
             },
             {
                 "threshold": 20,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_s2"
+                    "model": "brilliant:item/tabletop/mahjong/tile/s2"
                 }
             },
             {
                 "threshold": 21,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_s3"
+                    "model": "brilliant:item/tabletop/mahjong/tile/s3"
                 }
             },
             {
                 "threshold": 22,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_s4"
+                    "model": "brilliant:item/tabletop/mahjong/tile/s4"
                 }
             },
             {
                 "threshold": 23,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_s5"
+                    "model": "brilliant:item/tabletop/mahjong/tile/s5"
                 }
             },
             {
                 "threshold": 24,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_s6"
+                    "model": "brilliant:item/tabletop/mahjong/tile/s6"
                 }
             },
             {
                 "threshold": 25,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_s7"
+                    "model": "brilliant:item/tabletop/mahjong/tile/s7"
                 }
             },
             {
                 "threshold": 26,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_s8"
+                    "model": "brilliant:item/tabletop/mahjong/tile/s8"
                 }
             },
             {
                 "threshold": 27,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_s9"
+                    "model": "brilliant:item/tabletop/mahjong/tile/s9"
                 }
             },
             {
                 "threshold": 28,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_east"
+                    "model": "brilliant:item/tabletop/mahjong/tile/east"
                 }
             },
             {
                 "threshold": 29,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_south"
+                    "model": "brilliant:item/tabletop/mahjong/tile/south"
                 }
             },
             {
                 "threshold": 30,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_west"
+                    "model": "brilliant:item/tabletop/mahjong/tile/west"
                 }
             },
             {
                 "threshold": 31,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_north"
+                    "model": "brilliant:item/tabletop/mahjong/tile/north"
                 }
             },
             {
                 "threshold": 32,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_white_dragon"
+                    "model": "brilliant:item/tabletop/mahjong/tile/white_dragon"
                 }
             },
             {
                 "threshold": 33,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_green_dragon"
+                    "model": "brilliant:item/tabletop/mahjong/tile/green_dragon"
                 }
             },
             {
                 "threshold": 34,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_red_dragon"
+                    "model": "brilliant:item/tabletop/mahjong/tile/red_dragon"
                 }
             },
             {
                 "threshold": 35,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_m5_red"
+                    "model": "brilliant:item/tabletop/mahjong/tile/m5_red"
                 }
             },
             {
                 "threshold": 36,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_p5_red"
+                    "model": "brilliant:item/tabletop/mahjong/tile/p5_red"
                 }
             },
             {
                 "threshold": 37,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_s5_red"
+                    "model": "brilliant:item/tabletop/mahjong/tile/s5_red"
                 }
             },
             {
                 "threshold": 38,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_unknown"
+                    "model": "brilliant:item/tabletop/mahjong/tile/unknown"
                 }
             },
             {
                 "threshold": 39,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_spring"
+                    "model": "brilliant:item/tabletop/mahjong/tile/spring"
                 }
             },
             {
                 "threshold": 40,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_summer"
+                    "model": "brilliant:item/tabletop/mahjong/tile/summer"
                 }
             },
             {
                 "threshold": 41,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_autumn"
+                    "model": "brilliant:item/tabletop/mahjong/tile/autumn"
                 }
             },
             {
                 "threshold": 42,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_winter"
+                    "model": "brilliant:item/tabletop/mahjong/tile/winter"
                 }
             },
             {
                 "threshold": 43,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_plum"
+                    "model": "brilliant:item/tabletop/mahjong/tile/plum"
                 }
             },
             {
                 "threshold": 44,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_orchid"
+                    "model": "brilliant:item/tabletop/mahjong/tile/orchid"
                 }
             },
             {
                 "threshold": 45,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_bamboo"
+                    "model": "brilliant:item/tabletop/mahjong/tile/bamboo"
                 }
             },
             {
                 "threshold": 46,
                 "model": {
                     "type": "model",
-                    "model": "mahjongcraft:item/mahjong_tile/mahjong_tile_chrysanthemum"
+                    "model": "brilliant:item/tabletop/mahjong/tile/chrysanthemum"
                 }
             }
         ]

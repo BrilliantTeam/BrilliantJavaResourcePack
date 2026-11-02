@@ -134,7 +134,6 @@
 {"type":"bitmap","file":"brilliant:font/tabletop/mouse_right.png","ascent":7,"height":9,"chars":["\uE070"]},
 {"type":"bitmap","file":"brilliant:font/tabletop/slot_empty.png","ascent":7,"height":9,"chars":["\uE071"]},
 {"type":"bitmap","file":"brilliant:font/tabletop/slot_seated.png","ascent":7,"height":9,"chars":["\uE072"]},
-{"type":"bitmap","file":"brilliant:font/tabletop/slot_ready.png","ascent":7,"height":9,"chars":["\uE073"]},
 {"type":"bitmap","file":"brilliant:font/tabletop/bot_head.png","ascent":7,"height":9,"chars":["\uE20A"]},
 {"type":"bitmap","file":"brilliant:item/tabletop/poker/declarer.png","ascent":7,"height":9,"chars":["\uE076"]},
 {"type":"bitmap","file":"brilliant:item/tabletop/poker/dummy.png","ascent":7,"height":9,"chars":["\uE077"]},
@@ -149,5 +148,6 @@
 {"type":"bitmap","file":"minecraft:item/custom/brilliant/shopgui/gui8.png","ascent":7,"height":9,"chars":["\uE088"]},
 {"type":"bitmap","file":"minecraft:item/custom/brilliant/shopgui/gui9.png","ascent":7,"height":9,"chars":["\uE089"]},
 {"type":"bitmap","file":"brilliant:font/tabletop/head_pixels.png","ascent":7,"height":8,"chars":["\uE200\uE201\uE202\uE203\uE204\uE205\uE206\uE207"]},
-{"type":"space","advances":{"\uE208":-1,"\uE209":-8}}
+{"type":"bitmap","file":"minecraft:item/custom/brilliant/shopgui/confirm1.png","ascent":6,"height":6,"chars":["\uE20B"]},
+{"type":"space","advances":{"\uE208":-1,"\uE209":-8,"\uE20C":2}}
 ]}

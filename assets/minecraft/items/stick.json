@@ -3131,48 +3131,6 @@
                 }
             },
             {
-                "threshold": 32016,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2024newyear/fortunecat_a"
-                }
-            },
-            {
-                "threshold": 32017,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2024newyear/fortunecat_b"
-                }
-            },
-            {
-                "threshold": 32018,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2024newyear/shoegold_a"
-                }
-            },
-            {
-                "threshold": 32019,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2024newyear/shoegold_b"
-                }
-            },
-            {
-                "threshold": 32020,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2024newyear/treasure_bowl_a"
-                }
-            },
-            {
-                "threshold": 32021,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2024newyear/treasure_bowl_b"
-                }
-            },
-            {
                 "threshold": 32022,
                 "model": {
                     "type": "model",
@@ -3205,55 +3163,6 @@
                 "model": {
                     "type": "model",
                     "model": "custom_items/2024newyear/red_envelope_b"
-                }
-            },
-            {
-                "threshold": 33000,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2024angel/angel_gabriel"
-                }
-            },
-            {
-                "threshold": 33001,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2024angel/angel_uriel"
-                }
-            },
-            {
-                "threshold": 33002,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2024angel/angel_rafael"
-                }
-            },
-            {
-                "threshold": 33003,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2024angel/angel_michael"
-                }
-            },
-            {
-                "threshold": 33004,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2024angel/angel_jophiel"
-                }
-            },
-            {
-                "threshold": 33005,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2024angel/angel_zadkiel"
-                }
-            },
-            {
-                "threshold": 33006,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2024angel/angel_chamuel"
                 }
             },
             {
@@ -3404,13 +3313,6 @@
                 }
             },
             {
-                "threshold": 35000,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/brilliant/misteln/misteln_rice"
-                }
-            },
-            {
                 "threshold": 35001,
                 "model": {
                     "type": "model",
@@ -3418,38 +3320,10 @@
                 }
             },
             {
-                "threshold": 35002,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/brilliant/misteln/misteln_rice_star"
-                }
-            },
-            {
-                "threshold": 35003,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/brilliant/misteln/misteln_rice_scunfm"
-                }
-            },
-            {
-                "threshold": 35004,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/brilliant/misteln/misteln_rice_xmaself"
-                }
-            },
-            {
                 "threshold": 35005,
                 "model": {
                     "type": "model",
                     "model": "custom_items/brilliant/misteln/misteln_rice_wig"
-                }
-            },
-            {
-                "threshold": 35006,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/brilliant/misteln/misteln_rice_wig_kapippi"
                 }
             },
             {
@@ -3548,69 +3422,6 @@
                 "model": {
                     "type": "model",
                     "model": "custom_items/2024dragonboatfestival/grass_4"
-                }
-            },
-            {
-                "threshold": 37000,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2024mid_autumn/rabbit_mooncake"
-                }
-            },
-            {
-                "threshold": 37001,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2024mid_autumn/rabbit_mooncake_1"
-                }
-            },
-            {
-                "threshold": 37002,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2024mid_autumn/rabbit_mooncake_2"
-                }
-            },
-            {
-                "threshold": 37003,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2024mid_autumn/rabbit_mooncake_3"
-                }
-            },
-            {
-                "threshold": 37004,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2024mid_autumn/rabbit_mooncake_4"
-                }
-            },
-            {
-                "threshold": 37005,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2024mid_autumn/rabbit_mooncake_5"
-                }
-            },
-            {
-                "threshold": 37006,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2024mid_autumn/rabbit_mooncake_6"
-                }
-            },
-            {
-                "threshold": 37007,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2024mid_autumn/rabbit_mooncake_7"
-                }
-            },
-            {
-                "threshold": 37008,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2024mid_autumn/rabbit_mooncake_8"
                 }
             },
             {
@@ -3985,27 +3796,6 @@
                 }
             },
             {
-                "threshold": 49003,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2024halloween/ghost"
-                }
-            },
-            {
-                "threshold": 49004,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2024halloween/pumpkin_monster"
-                }
-            },
-            {
-                "threshold": 49005,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2024halloween/corn_monster"
-                }
-            },
-            {
                 "threshold": 50000,
                 "model": {
                     "type": "composite",
@@ -4083,27 +3873,6 @@
                         "model": "custom_items/brilliant/gacha/orange/gacha_orange_ball"
                         }
                     ]
-                }
-            },
-            {
-                "threshold": 51000,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2024christmas/mistelnchristmas"
-                }
-            },
-            {
-                "threshold": 51001,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2024christmas/deer"
-                }
-            },
-            {
-                "threshold": 51002,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2024christmas/snowman"
                 }
             },
             {
@@ -5084,13 +4853,6 @@
                 }
             },
             {
-                "threshold": 55001,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2025valentinesday/cupid"
-                }
-            },
-            {
                 "threshold": 55002,
                 "model": {
                     "type": "model",
@@ -5560,13 +5322,6 @@
                 }
             },
             {
-                "threshold": 57001,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/20256th/kapippi"
-                }
-            },
-            {
                 "threshold": 57100,
                 "model": {
                     "type": "model",
@@ -5637,13 +5392,6 @@
                 }
             },
             {
-                "threshold": 57206,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2025christmas/xmas_kapippi"
-                }
-            },
-            {
                 "threshold": 57207,
                 "model": {
                     "type": "model",
@@ -5671,13 +5419,6 @@
                         "model": "custom_items/2025christmas/crystalball_ball"
                         }
                     ]
-                }
-            },
-            {
-                "threshold": 57300,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/2026valentinesday/cheshirecat"
                 }
             },
             {

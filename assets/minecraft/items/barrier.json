@@ -2935,34 +2935,6 @@
                 }
             },
             {
-                "threshold": 28119,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/blockentities/2025childrensday/eggblock_blue"
-                }
-            },
-            {
-                "threshold": 28120,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/blockentities/2025childrensday/eggblock_purple"
-                }
-            },
-            {
-                "threshold": 28121,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/blockentities/2025childrensday/eggblock_red"
-                }
-            },
-            {
-                "threshold": 28122,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/blockentities/2025childrensday/eggblock_yellow"
-                }
-            },
-            {
                 "threshold": 28123,
                 "model": {
                     "type": "model",

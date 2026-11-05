@@ -3,8 +3,8 @@
     {
       "type": "bitmap",
       "file": "brilliant:font/guild/grid_block.png",
-      "ascent": 11,
-      "height": 16,
+      "ascent": 13,
+      "height": 22,
       "chars": [
         "\uec00"
       ]
@@ -22,7 +22,9 @@
       "type": "space",
       "advances": {
         "\uec02": -1,
-        "\uec03": 9
+        "\uec03": 9,
+        "\uec04": -11,
+        "\uec05": -14
       }
     }
   ]

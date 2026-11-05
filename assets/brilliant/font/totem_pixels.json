@@ -1,0 +1,21 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/guild/pixels.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\uec10\uec11\uec12\uec13\uec14\uec15\uec16\uec17"
+      ]
+    },
+    {
+      "type": "space",
+      "advances": {
+        "\uec18": -1,
+        "\uec19": -8,
+        "\uec1a": 2
+      }
+    }
+  ]
+}

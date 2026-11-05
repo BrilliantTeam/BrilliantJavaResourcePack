@@ -1,5 +1,6 @@
 {
 	"providers": [
+{"type":"reference","id":"brilliant:totem_pixels"},
 {"type":"reference","id":"minecraft:stickers"},
 {"file":"fallback_font/black.png","chars":["\uf821"],"height":-3,"ascent":-2000,"type":"bitmap"},
 

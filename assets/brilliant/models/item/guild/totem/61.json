@@ -1,0 +1,44 @@
+{
+  "gui_light": "front",
+  "textures": {
+    "particle": "brilliant:item/guild/pixel",
+    "pixel": "brilliant:item/guild/pixel"
+  },
+  "elements": [
+    {
+      "from": [
+        10.0,
+        0.0,
+        7.5
+      ],
+      "to": [
+        12.0,
+        2.0,
+        8.5
+      ],
+      "shade": false,
+      "faces": {
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#pixel",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#pixel",
+          "tintindex": 0
+        }
+      }
+    }
+  ]
+}

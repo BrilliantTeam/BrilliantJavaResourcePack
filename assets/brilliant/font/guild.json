@@ -1,0 +1,29 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/guild/grid_block.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\uec00"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/guild/preview_block.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uec01"
+      ]
+    },
+    {
+      "type": "space",
+      "advances": {
+        "\uec02": -1,
+        "\uec03": 9
+      }
+    }
+  ]
+}

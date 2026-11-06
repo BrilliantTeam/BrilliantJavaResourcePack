@@ -6005,6 +6005,13 @@
                 }
             },
             {
+                "threshold": 59003,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/brilliant/badv/advancement_crown_26_4"
+                }
+            },
+            {
                 "threshold": 60000,
                 "model": {
                     "type": "model",

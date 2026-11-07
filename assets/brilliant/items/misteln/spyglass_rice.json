@@ -2,6 +2,6 @@
     "oversized_in_gui": true,
     "model": {
         "type": "minecraft:model",
-        "model": "minecraft:custom_items/brilliant/misteln/spyglass_rice"
+        "model": "minecraft:custom_items/brilliant/misteln/spyglass_rice_eye"
     }
 }

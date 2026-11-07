@@ -1,0 +1,9 @@
+{
+	"parent": "custom_items/brilliant/misteln/spyglass_rice",
+	"display": {
+		"head": {
+			"translation": [-0.4, 3.8, -19.6],
+			"scale": [0.64, 0.64, 0.64]
+		}
+	}
+}

@@ -3131,6 +3131,48 @@
                 }
             },
             {
+                "threshold": 32016,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2024newyear/fortunecat_a"
+                }
+            },
+            {
+                "threshold": 32017,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2024newyear/fortunecat_b"
+                }
+            },
+            {
+                "threshold": 32018,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2024newyear/shoegold_a"
+                }
+            },
+            {
+                "threshold": 32019,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2024newyear/shoegold_b"
+                }
+            },
+            {
+                "threshold": 32020,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2024newyear/treasure_bowl_a"
+                }
+            },
+            {
+                "threshold": 32021,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/2024newyear/treasure_bowl_b"
+                }
+            },
+            {
                 "threshold": 32022,
                 "model": {
                     "type": "model",

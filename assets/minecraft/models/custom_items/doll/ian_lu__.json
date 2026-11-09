@@ -1,0 +1,9 @@
+{
+	"format_version": "1.9.0",
+	"parent": "custom_items/doll/b",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "item/custom/doll/ian_lu__",
+		"particle": "item/custom/doll/ian_lu__"
+	}
+}

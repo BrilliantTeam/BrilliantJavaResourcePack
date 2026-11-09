@@ -2956,6 +2956,13 @@
                 }
             },
             {
+                "threshold": 31125,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/doll/ian_lu__"
+                }
+            },
+            {
                 "threshold": 31500,
                 "model": {
                     "type": "model",

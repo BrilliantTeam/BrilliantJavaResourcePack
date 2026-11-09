@@ -2781,6 +2781,13 @@
                 }
             },
             {
+                "threshold": 31033,
+                "model": {
+                    "type": "model",
+                    "model": "custom_items/doll/ian_lu__"
+                }
+            },
+            {
                 "threshold": 31100,
                 "model": {
                     "type": "model",
@@ -2953,13 +2960,6 @@
                 "model": {
                     "type": "model",
                     "model": "custom_items/doll/snake960031"
-                }
-            },
-            {
-                "threshold": 31125,
-                "model": {
-                    "type": "model",
-                    "model": "custom_items/doll/ian_lu__"
                 }
             },
             {

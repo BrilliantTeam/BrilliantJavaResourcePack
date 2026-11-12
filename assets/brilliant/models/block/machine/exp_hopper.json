@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/hopper",
+  "textures": {
+    "particle": "brilliant:block/machine/exp_hopper_outside",
+    "top": "brilliant:block/machine/exp_hopper_top",
+    "side": "brilliant:block/machine/exp_hopper_outside",
+    "inside": "brilliant:block/machine/exp_hopper_inside"
+  }
+}

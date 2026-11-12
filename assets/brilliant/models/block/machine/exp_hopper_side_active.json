@@ -392,6 +392,6 @@
     "particle": "brilliant:block/machine/exp_hopper_outside_active",
     "top": "brilliant:block/machine/exp_hopper_top_active",
     "side": "brilliant:block/machine/exp_hopper_outside_active",
-    "inside": "brilliant:block/machine/exp_hopper_inside"
+    "inside": "brilliant:block/machine/exp_hopper_inside_active"
   }
 }

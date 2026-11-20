@@ -1,0 +1,9 @@
+{
+	"format_version": "1.9.0",
+	"parent": "custom_items/doll/a",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "item/custom/doll/flawlesscore",
+		"particle": "item/custom/doll/flawlesscore"
+	}
+}

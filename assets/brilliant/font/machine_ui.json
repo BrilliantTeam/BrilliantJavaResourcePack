@@ -1,0 +1,1108 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        "\ued00": 1,
+        "\ued01": -1,
+        "\ued02": 2,
+        "\ued03": -2,
+        "\ued04": 4,
+        "\ued05": -4,
+        "\ued06": 8,
+        "\ued07": -8,
+        "\ued08": 16,
+        "\ued09": -16,
+        "\ued0a": 32,
+        "\ued0b": -32,
+        "\ued0c": 64,
+        "\ued0d": -64,
+        "\ued0e": 128,
+        "\ued0f": -128,
+        "\ued10": 256,
+        "\ued11": -256
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/cap_l.png",
+      "ascent": 11,
+      "height": 17,
+      "chars": [
+        "\ued12"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/cap_m.png",
+      "ascent": 11,
+      "height": 17,
+      "chars": [
+        "\ued13"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/cap_r.png",
+      "ascent": 11,
+      "height": 17,
+      "chars": [
+        "\ued14"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/row_l.png",
+      "ascent": 3,
+      "height": 9,
+      "chars": [
+        "\ued15"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/row_m.png",
+      "ascent": 3,
+      "height": 9,
+      "chars": [
+        "\ued16"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/row_r.png",
+      "ascent": 3,
+      "height": 9,
+      "chars": [
+        "\ued17"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/tall_l.png",
+      "ascent": 3,
+      "height": 36,
+      "chars": [
+        "\ued18"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/tall_m.png",
+      "ascent": 3,
+      "height": 36,
+      "chars": [
+        "\ued19"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/tall_r.png",
+      "ascent": 3,
+      "height": 36,
+      "chars": [
+        "\ued1a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/foot_l.png",
+      "ascent": 3,
+      "height": 9,
+      "chars": [
+        "\ued1b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/foot_m.png",
+      "ascent": 3,
+      "height": 9,
+      "chars": [
+        "\ued1c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/foot_r.png",
+      "ascent": 3,
+      "height": 9,
+      "chars": [
+        "\ued1d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/chip_l.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued1e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/chip_8.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued1f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/chip_32.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued20"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/chip_r.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued21"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/fill_l.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued22"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/fill_8.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued23"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/fill_32.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued24"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/fill_r.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued25"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/plate.png",
+      "ascent": 11,
+      "height": 40,
+      "chars": [
+        "\ued26"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/slot.png",
+      "ascent": 12,
+      "height": 18,
+      "chars": [
+        "\ued27"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/field.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued28"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/belt_r.png",
+      "ascent": 7,
+      "height": 9,
+      "chars": [
+        "\ued29"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/belt_l.png",
+      "ascent": 7,
+      "height": 9,
+      "chars": [
+        "\ued2a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/chev.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ued2b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/rule_4.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ued2c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/rule_6.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ued2d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/rule_8.png",
+      "ascent": 7,
+      "height": 9,
+      "chars": [
+        "\ued2e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/dots_4.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ued2f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/rule_9.png",
+      "ascent": 7,
+      "height": 10,
+      "chars": [
+        "\ued30"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/seg_8.png",
+      "ascent": 7,
+      "height": 11,
+      "chars": [
+        "\ued31"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/hatch_6.png",
+      "ascent": 7,
+      "height": 13,
+      "chars": [
+        "\ued32"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/breaker.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued33"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/breaker_active.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued34",
+        "\u0000",
+        "\u0000",
+        "\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/breaker_empty.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued35",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/crafter.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued36"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/crafter_active.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued37",
+        "\u0000",
+        "\u0000",
+        "\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/crafter_blocked.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued38",
+        "\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/crafter_empty.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued39",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/damager.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued3a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/damager_active.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued3b",
+        "\u0000",
+        "\u0000",
+        "\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/damager_empty.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued3c",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/duper.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued3d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/duper_active.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued3e",
+        "\u0000",
+        "\u0000",
+        "\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/duper_blocked.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued3f",
+        "\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/duper_empty.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued40",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/exp_hopper.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued41"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/exp_hopper_active.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued42"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/exp_hopper_side.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued43"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/exp_hopper_side_active.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued44"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/feeder.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued45"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/feeder_active.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued46",
+        "\u0000",
+        "\u0000",
+        "\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/feeder_empty.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued47",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/packer.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued48"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/packer_active.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued49",
+        "\u0000",
+        "\u0000",
+        "\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/packer_blocked.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued4a",
+        "\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/packer_empty.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued4b",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/pather.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued4c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/pather_active.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued4d",
+        "\u0000",
+        "\u0000",
+        "\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/pather_empty.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued4e",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/placer.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued4f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/placer_active.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued50",
+        "\u0000",
+        "\u0000",
+        "\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/placer_empty.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued51",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/reflux.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued52"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/reflux_active.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued53",
+        "\u0000",
+        "\u0000",
+        "\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/reflux_blocked.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued54",
+        "\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/reflux_side.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued55"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/reflux_side_active.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued56",
+        "\u0000",
+        "\u0000",
+        "\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/reflux_side_blocked.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued57",
+        "\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/stripper.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued58"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/stripper_active.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued59",
+        "\u0000",
+        "\u0000",
+        "\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/stripper_empty.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued5a",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000",
+        "\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/transporter_in.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued5b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/transporter_in_active.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued5c",
+        "\u0000",
+        "\u0000",
+        "\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/transporter_in_blocked.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued5d",
+        "\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/transporter_out.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued5e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/transporter_out_active.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued5f",
+        "\u0000",
+        "\u0000",
+        "\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/transporter_out_blocked.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued60",
+        "\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/trash.png",
+      "ascent": 7,
+      "height": 32,
+      "chars": [
+        "\ued61"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/duper.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued62"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/packer.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued63"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/exp_hopper.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued64"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/reflux.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued65"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/transporter_in.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued66"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/transporter_out.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued67"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/feeder.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued68"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/damager.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued69"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/breaker.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued6a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/placer.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued6b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/stripper.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued6c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/pather.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued6d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:font/machine_ui/trash.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued6e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/hopper.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued6f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "brilliant:block/machine/crafter.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued70"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/brilliant/shopgui/chest.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued71"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/brilliant/shopgui/shulker_box.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued72"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/brilliant/shopgui/cow_spawn_egg.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued73"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/brilliant/shopgui/zombie_spawn_egg.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued74"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/brilliant/shopgui/cobblestone_iron.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued75"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/brilliant/shopgui/grass_block.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued76"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/brilliant/shopgui/stripped_oak_log.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued77"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/brilliant/shopgui/close2.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued78"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/brilliant/shopgui/crafting_table.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued79"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/glass_bottle.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued7a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/experience_bottle.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\ued7b"
+      ]
+    }
+  ]
+}
